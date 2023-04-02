@@ -52,7 +52,7 @@ def download_file(url, destination_folder):
 # function to download all the files identified by the scraper
 def download_all_files():
     # first, load the data from the files, optimise this later cba now
-    load_all_lists_from_file(url_lists)
+    load_all_lists_from_file()
 
     # pdfs first
     for pdf in pdfs:
