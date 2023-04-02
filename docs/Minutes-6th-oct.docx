@@ -1,0 +1,1556 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en-GB">
+    <head><!-- Powered by www.ukmsl.com - v8.31.2303.2301 --><title>
+	Login
+</title><meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"84b777e1cc","applicationID":"9166025,9145634","transactionName":"Y1YBNkRRWUJZUxdZWFocIjFmH1ZBSG8AX1lAVg0WGVNYXFVfDR9bW1QKDBhRREFA","queueTime":0,"applicationTime":6,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"84b777e1cc",applicationID:"9166025"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script><link href="/skins/print.css" rel="stylesheet" type="text/css" media="print" />
+<link href="/skins/system.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/skins/icons.css" rel="stylesheet" type="text/css" media="all" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- start of headcodes snippet -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4NVF5Y3NCS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4NVF5Y3NCS');
+</script>
+
+<!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Lato:700,400,400italic,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
+<link rel="icon" type="image/png" href="/stylesheet/Redesign2016/favicon-nb.png" />
+
+<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
+
+<meta property="og:image" content="https://www.guildofstudents.com/stylesheet/Redesign2016/web-meta-img.jpg">
+<meta property="og:description" content="Your Students' Union for the University of Birmingham. We exist to make sure students get the best from Birmingham.">
+<meta name="twitter:card" content="summary_large_image">
+
+<script src="//code.jquery.com/jquery-latest.min.js"></script>
+
+
+<script>
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+
+<!-- Google Analytics for tracking outbound links -->
+<script>
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+     function () {
+     document.location = url;
+     }
+   });
+}
+
+</script>
+
+<!-- Google recognising Social Links -->
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Guild of Students",
+  "url" : "https://www.guildofstudents.com",
+  "sameAs" : [ "https://www.facebook.com/guildofstudents/",
+    "https://www.twitter.com/GuildofStudents",
+    "https://www.instagram.com/uobguildofstudents/"] 
+}
+</script>
+
+<script src="https://kit.fontawesome.com/6e49490ef2.js" crossorigin="anonymous"></script>
+
+<!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">-->
+
+<!-- meta for Google Webmaster Tools -->
+<meta name="google-site-verification" content="OjeHLT9uf-pOaWo_QMzJFYk9mSzf4I8VqlsekWPM9YM" />
+<!-- end of headcodes snippet -->
+
+<link href="/skins/Controls/BasketLink.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/stylesheet/Redesign2016/bootstrap-theme.min.css?v=2" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/bootstrap.min.css?v=11" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/gos_master.css?v=263" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/popup.css?v=2" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/backgrounds.css?v=59" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/msl-events.css?v=226" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/shopcatalogue.css?v=31" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/animate.min.css?v=3" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/admin2016.css?v=28" rel="stylesheet" type="text/css" />
+
+<script src="/assets/site_resources/login-script.js "></script>
+<script>
+$(document).ready(function(){
+	$('.login > a#ctl00_ctl08_lnkRegister').replaceWith( '<a id="ctl00_ctl08_lnkRegister" rel="nofollow" href="/account/register/"><button type="button" class="btn btn-danger">Register</button></a>' );
+)};
+</script></head>
+    <body id="msl">
+        <form name="aspnetForm" method="post" action="./?redirect=%2fpageassets%2frepresentation%2fguildcouncil%2fpastmeetingpaperwork%2fMinutes-6th-oct.docx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmkIWrUc5bqJw9CkZ05X7d5MrUkTi_Mmo3kqvdBQugsDQOVPGP0eKYw0v7SaloKIk_PkWf36LJr-3vAeH4lxjzydMrL9YtIEgEaPwUJky7SPWnMSdq9S75SMZc86IBgSrXZG29Y1&t=ffffffffaa493ab8"><\/script>');//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7CD7556D" />
+
+            
+            
+
+            
+            
+            
+            
+            <div id="ctl00_pnlCatchEnter" class="CatchEnter">
+	
+                <input type="submit" name="ctl00$btnCatchEnter" value="" onclick="javascript:return false;" id="ctl00_btnCatchEnter" class="button" style="display:none;" />
+            
+</div>
+            
+            
+
+            <div id="skin_Redesign2016" class="page_login">
+	        
+<!-- start of toolbar_redesign_2016 snippet -->
+<nav id="toolbar2016" class="navbar navbar-default toolbar2016" role="navigation">
+<div class="container">
+<div class="collapse navbar-collapse">
+<ul class="nav  navbar-nav navbar-left" id="options-left">
+<li class="sidepanel">
+
+</li>
+<li>
+ 
+ </li>
+<li><a href="/contact-us/" style="color: #fff;">Contact</a>
+</li>
+<li><a href="/profile/" style="color: #fff;">My Guild</a>
+</li>  
+</ul>
+<ul class="nav navbar-nav navbar-right" id="options-right">     
+<li>
+<div id="search">
+    <div role="search" class="mslwidget">
+	<div id="ctl00_search_pnlSearch">
+	
+		<label for="ctl00_search_txtSearchStr" id="ctl00_search_lblSearch" class="msl-visually-hidden">Search</label>
+	    <input name="ctl00$search$txtSearchStr" type="text" id="ctl00_search_txtSearchStr" class="textbox" />
+	    
+	    <input type="submit" name="ctl00$search$btnSubmit" value="Search" id="ctl00_search_btnSubmit" class="button" />
+	
+</div>
+	</div>
+</div>
+</li>   
+<li>
+  <a  id="facebook" href="https://www.facebook.com/guildofstudents/" target="_blank"><i class="fab fa-facebook-f fa-2x" aria-hidden="true" style="color: #fff;"><span class="screen-reader-text">Follow us on Facebook - www.facebook.com/guildofstudents/</span></i></a>
+</li>
+<li>
+  <a  id="twitter"  href="https://twitter.com/GuildofStudents" target="_blank"><i class="fab fa-twitter fa-2x" aria-hidden="true" style="color: #fff;"><span class="screen-reader-text">Follow us on Twitter - @GuildofStudents</span></i></a>
+</li>	
+<li>
+
+  <a  id="instagram"  href="https://www.instagram.com/uobguildofstudents/" target="_blank"><i class="fab fa-instagram fa-2x" aria-hidden="true" style="color: #fff;"></i><span class="screen-reader-text">Follow us on Instagram - @uobguildofstudents</span></a>
+</li>
+<li class="bskt">
+             
+</li>
+
+
+<li id="login">
+                    <a id="ctl00_ctl11_lnkLogin" class="msl-loginbutton msl-loggedout" href="/login/">Log in</a>
+
+ 
+                </li>
+
+
+
+</ul>
+</div>
+			<!-- /.navbar-collapse -->
+	</div>
+</nav>
+
+<style>
+.sidepanel li a {
+font-size: 11pt;
+}
+
+#ctl00_ctl00_search_btnSubmit .button {
+font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+a span.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+#toolbar2016 .navbar-nav>li>a {
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+#toolbar2016 {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 10000;
+    border-bottom: medium none;
+    background: #949494;
+    top: -2px;
+    padding-top: 13px;
+    /* NEW NAV padding: 15px 0px 8px 0px; */
+}
+
+.navbar-default a {
+    font-weight: 400;
+    text-decoration: none!important
+}
+
+.toolbar2016 {
+    position: relative;
+    z-index: 10000
+}
+
+.toolbar2016 .container>.mslwidget,
+.toolbar2016 .sidepanel {
+    width: 142px;
+    float: left;
+    max-height: 30px
+}
+
+.toolbar2016 h3 {
+    color: #111;
+    font-size: 15px!important;
+    cursor: pointer;
+    line-height: 49.5px;
+    margin: 0;
+    padding: 0 0 0 25px;
+    position: relative;
+    z-index: 10000
+}
+
+.toolbar2016 #msl_admin h3.active,
+.toolbar2016 h3.active {
+    background-color: #4C4A50;
+    color: #fff
+}
+
+.toolbar2016 .mslwidget #msl_admin>div,
+.toolbar2016 .mslwidget #msl_admin>ul,
+.toolbar2016 .sidepanel ul {
+    display: none
+}
+
+#msl_admin ul,
+.toolbar2016 .mslwidget #msl_admin {
+    width: 132px
+}
+
+.toolbar2016 .mslwidget #msl_admin ul,
+.toolbar2016 .mslwidget #msl_admin>div,
+.toolbar2016 .sidepanel ul {
+    background: #b0b0b0;
+    z-index: 1000;
+    position: relative;
+    float: none
+}
+
+.toolbar2016 #controlpanel ul li,
+.toolbar2016 #msl_admin h4,
+.toolbar2016 #msl_admin ul li,
+.toolbar2016 .sidepanel ul li {
+    margin: 0;
+    padding: 0;
+    float: none;
+    border-top: 1px solid #ccc;
+    background: 0 0;
+    border-bottom: none;
+    display: block
+}
+
+.toolbar2016 #msl_admin h4 a,
+.toolbar2016 #msl_admin ul li a,
+.toolbar2016 .sidepanel ul li a {
+    padding: 5px;
+    margin: 0;
+    background: 0 0;
+    line-height: 1.5;
+    display: block;
+    color: #111
+}
+
+.toolbar2016 #msl_admin h4 a:hover,
+.toolbar2016 #msl_admin ul li a:hover,
+.toolbar2016 .sidepanel ul li a:hover {
+    background: #4C4A50;
+    color: #fff;
+    text-decoration: none
+}
+
+.toolbar2016 #options-left {
+    display: inline;
+    width: 43%
+}
+
+.toolbar2016 #options-right {
+    display: inline;
+    width: 57%
+}
+
+#profile {
+    position: relative;
+    color: #333
+}
+
+,
+#profile a:active {
+    background: #4c4a50;
+    color: #fff!important
+}
+/*Basket*/
+.bskt #msl-basket-summary {
+	background-image: none;
+	background: transparent;
+	padding: 11px 20px;
+	border-radius: 6px;
+}
+@media(min-width:992px) {
+	.bskt #msl-basket-summary {
+		background-image: none;
+		background: transparent;
+		padding: 14px 24px;
+		height: 50px;
+		border-radius: 0;
+	}
+	.bskt #msl-basket-summary:focus-within {
+		outline:auto;
+	}
+}
+.bskt #msl-basket-summary .msl-basket-link:before {
+	content: "\f07a";
+	font-family: fontawesome;
+	position: absolute;
+	left: 0px;
+	text-indent: 0;
+	color: #4C4A50;
+	top: 24px;
+	transform: translateY(-50%);
+	font-size: 3rem;
+	font-weight: normal;
+	z-index: 1;
+	otline: auto;
+	transition:0.3s;
+}
+@media(min-width:992px){
+	.bskt #msl-basket-summary .msl-basket-link:before {
+		color:#fff;
+		top: 25px;
+		font-size: 3rem;
+	}
+}
+.bskt #msl-basket-summary .msl-basket-link:hover::before {
+}
+.bskt #msl-basket-summary .msl-basket-link {
+	color: #fff;
+	font-weight: bold;
+	font-size: 0px;
+	text-indent: -5000px;
+}
+.bskt #msl-basket-summary .msl-basket-link:focus-within {
+	outline:auo;
+}
+.bskt .msl-basket-summary-items .msl-basket-itemcount {
+	line-height: 14px;
+	white-space: nowrap;
+	text-align: center;
+	display: inline-block;
+	font-size: 13px;
+	vertical-align: middle;
+	background-color: #da2129;
+	border-radius: 50%;
+	padding: 3px 4px 5px 3px;
+	margin: 0;
+	border: none;
+	color: #fff;
+	height: 20px;
+	width: 20px;
+	font-weight: bold;
+	position: absolute;
+	z-index: 2;
+	top: 5px;
+	margin-left: 2px;
+	right: 6px;
+}
+@media(min-width:992px) {
+	.bskt .msl-basket-summary-items .msl-basket-itemcount {
+		position: absolute;
+		top: 6px;
+		margin-left: -1px;
+		left: initial;
+	}
+}
+a#basket,
+a#facebook,
+a#instagram,
+a#twitter {
+    padding: 10px 10px 0 2px;
+}
+
+a#facebook>img {
+    height: 32px
+}
+
+a#basket>img,
+a#instagram>img,
+a#twitter>img {
+    width: 32px;
+    height: 32px;
+}
+
+#login {
+    right: -8px;
+    float: right
+}
+
+.msl-loginbutton {
+    color: #333!important;
+    background: #cfd1d2;
+    border-left: 1px solid #A8A3A3;
+    border-right: 1px solid #A8A3A3;
+    right: 0;
+    margin-top:3px !important;
+}
+
+#login>.msl-loginbutton:hover {
+    background: #4c4a50!important;
+    color: #fff!important
+}
+
+.msl-loginbutton.msl-loggedin,
+.msl-loginbutton.msl-loggedin:hover {
+    background: #4C4A50!important;
+    color: #fff!important;
+    right: -9%!important
+}
+
+.msl-loginbutton:hover {
+    text-decoration: none
+}
+
+#loginfields #ctl00_ctl08_btnLogin {
+    width: 100%;
+    margin-top: 3%;
+    margin-bottom: 3%
+}
+
+li#login ul {
+    opacity: 0;
+    visibility: hidden;
+    list-style: none;
+    background: #cfd1d2;
+    position: absolute;
+    padding: 0;
+    top: 51px;
+    left: -1%;
+    width: 9em;
+    tranistion: opacity .3s ease-in;
+    -webkit-tranistion: opacity .3s ease-in;
+    -moz-tranistion: opacity .3s ease-in;
+    -o-tranistion: opacity .3s ease-in;
+    -ms-tranistion: opacity .3s ease-in;
+    z-index: 200;
+    box-shadow: 0 2px 4px 0;
+    -webkit-box-shadow: 0 2px 4px 0;
+    -moz-box-shadow: 0 2px 4px 0;
+    -o-box-shadow: 0 2px 4px 0;
+    -ms-box-shadow: 0 2px 4px 0
+}
+
+#login:hover ul {
+    opacity: 1;
+    visibility: visible
+}
+
+li#login ul li {
+    background: #cfd1d2;
+    display: block;
+    padding: 12%
+}
+
+#login ul>#stu {
+    margin-bottom: 10%
+}
+
+li#login ul li:active,
+li#login ul li:hover {
+    background: #4c4a50
+}
+
+#login-dp,
+#login-dp .bottom {
+    background-color: rgba(255, 255, 255, .8)
+}
+
+li#login ul li:active a,
+li#login ul li:hover a {
+    color: #fff
+}
+
+@media all and (max-width:992px) {
+    .toolbar2016 #options-left {
+        width: 47%
+    }
+}
+
+@media all and (max-width:1024px) {
+    #home-holder,
+    #toolbar2016 {
+        display: none
+    }
+    .navbar-header button {
+        width: auto
+    }
+    .collapse,
+    .collapsing {
+        position: relative;
+        z-index: 100
+    }
+}
+
+#search {
+    margin: 10px 20px 0 5px
+}
+
+#search .textbox {
+    width: 250px;
+    height: 30px;
+    margin-right: 5px
+}
+
+#search div[id*=pnl] {
+    padding: 0;
+    margin: 0;
+    border: none
+}
+
+#search .button {
+    height: 30px;
+    width: 75px;
+    font-family: 'century gothic';
+    padding: inherit
+}
+
+#search input.textbox {
+    padding: 0
+}
+
+a#search {
+    color: #000
+}
+
+a#search:hover {
+    color: #7D7D7D
+}
+
+a#search>img {
+    width: 100px;
+    height: auto
+}
+
+/* end of toolbar redesign 2016 */
+
+</style>
+
+
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $('.toolbar2016 h3').click(function () {
+        if (!$(this).hasClass('active')) {
+            $('.toolbar2016 h3.active').parent().children('ul, div').hide();
+            $('.toolbar2016 h3.active').removeClass('active');
+        }
+        $(this).toggleClass('active');
+        $(this).parent().children('ul, div').toggle();
+    });
+});
+</script>
+<!-- end of toolbar_redesign_2016 snippet -->
+
+
+<!-- start of bootstrapnewnav0416 snippet -->
+<div class="row">
+<div class="container-fluid">
+
+<nav class="navbar navbar-default marginBottom-0" role="navigation">
+<div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+<ul class="login-buttons">
+<li id="login2017">
+<a id="ctl00_ctl13_lnkLogin" class="msl-loginbutton msl-loggedout" href="/login/">Log in</a>
+</li>
+<div class="visible-xs-inline-block visible-sm-inline-block bskt">
+    
+</div>
+<!--<a class="btn btn-default visible-xs-inline-block visible-sm-inline-block" href="/shop/reviewbasket/" role="button" style="margin-top: -2px; margin-left: -5px;">Basket</a>-->
+<a class="btn btn-default visible-xs-inline-block visible-sm-inline-block" href="/profile/" role="button" style="margin-top: -2px; margin-left: 0;">My Guild</a>
+</ul>
+            </div>
+<div class="collapse navbar-collapse" id="navbar-collapse-1">
+<ul class="nav navbar-nav">
+ <li><a href="//www.guildofstudents.com/">HOME</a></li>
+ <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT US <b class="caret"></b></a>
+ <ul class="dropdown-menu">
+<li><a href="/about/">About the Guild</a></li>
+<li><a href="/about/impactreport">Impact Report</a></li>
+<li><a href="/about/safeguardingpolicy">Safeguarding Policy</a></li>
+<li><a href="/about/strategicplan/">Our Strategic Plan</a></li>
+<li><a href="/about/memberships/">Our Memberships</a></li>
+<li><a href="/about/ourhistory/">Our History</a></li>
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Trustee Board / Governance</a>
+<ul class="dropdown-menu">
+<li><a href="/about/trusteeboard/">Why do we have a Trustee Board?</a></li>
+<li><a href="/about/trusteeboard/whoarethetrustees/">Meet The Trustees</a></li>      
+<li><a href="/about/trusteeboard/trusteerecruitment/">Trustee Board Recruitment</a></li>          
+<li><a href="/about/trusteeboard/subcommittees/">Sub Committees</a></li>
+<li><a href="/assets//site_resources/Guild-of-Students-Byelaws.pdf">Guild Byelaws</a></li>
+<li><a href="/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf">Articles of Association</a></li>
+</ul>
+</li>
+<li><a href="/about/accessibility/">Accessibility</a></li>
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Sustainability</a>
+<ul class="dropdown-menu">
+<li><a href="/sustainability/get-involved/">Get Involved</a></li>          
+<li><a href="/sustainability/go-green-week/">Go Green Week</a></li>
+<li><a href="/sustainability/green-impact/">Green Impact</a></li>
+</ul>
+</li>
+ <li><a href="/footer/resourcespublications/">Resources / Publications</a></li>
+<li class="dropdown dropdown-submenu"><a href="#" classi="dropdown-toggle" data-toggle="dropdown">Work With Us</a>
+<ul class="dropdown-menu">
+<li><a href="/about/your-union/workwithus/currentvacancies/">Guild Vacancies</a></li>
+<li><a href="/about/your-union/workwithus/howtocompleteanapplication/">How to Apply</a></li>      
+<li><a href="/about/your-union/workwithus/recruitmentpolicy/">Recruitment Policy</a></li>   
+</ul>
+</li>
+<li><a href="/advertising/">Advertise With Us</a></li>
+</ul>
+
+
+ <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">CHANGE THINGS <b class="caret"></b></a>
+<ul class="dropdown-menu">
+  <li><a href="/representation/">How do you Change Things?</a></li>
+  <li><a href="/representation/submissionform/">Submit an idea</a></li>
+  <li><a href="/representation/committeehub/">Committee Hub</a></li>
+  <li><a href="/officerteam/">Officer Team</a></li>
+  <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Campaigns</a>
+    <ul class="dropdown-menu">
+    <li><a href="/representation/campaigns/">What is a campaign?</a></li>
+    <li><a href="/representation/campaigns/campaignsupport/">Campaign Support</a></li>
+    <li><a href="/representation/committeehub/campaigns/">Priority Campaigns </a></li>
+    <li><a href="/blackvoices/">Black Voices</a></li>
+    </ul>
+  </li>
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Student Reps</a>
+<ul class="dropdown-menu">
+<li><a href="/studentreps/">Student Rep Hub Home</a></li>
+<li><a href="/studentreps/becomearep/">Sign up to be a Student Rep</a></li>
+<li><a href="/studentreps/whatrepsdo/">What do Reps do?</a></li>
+<li><a href="/studentreps/school-college-senate-reps/">School, College and Senate Reps</a></li>
+<li><a href="/studentreps/rephub/">I'm a Student Rep</a></li>
+</ul>
+</li>
+<li><a href="/elections">Elections</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">STUDENT GROUPS <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/studentgroups/">Student Groups</a></li>
+<li><a href="/studentgroups/saveasociety/">Save A Society</a></li>
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Running a Group</a>
+<ul class="dropdown-menu">
+<li><a href="/studentgroups/running-a-group/committee-elections/">Committee Elections</a></li>
+
+<li><a href="/studentgroups/committee-hub/">Committee Hub</a></li>
+</ul>
+</li>
+</li>
+</ul>
+ </li>
+ 
+<li><a href="/employability/">EMPLOYABILITY</a></li>
+
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">SUPPORT <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/support/welcome-to-support/">Welcome to Support</a></li> 
+<li><a href="/support/guildadvice/who-we-are-guild-advice/">Guild Advice</a></li>
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Finance</a>
+<ul class="dropdown-menu">
+<li><a href="/support/guildadvice/hardshipfund/">Hardship Fund</a></li>     
+<li><a href="/support/guildadvice/graduationhardshipfund/">Graduation Hardship Fund</a></li>              
+</ul>
+</li>
+<li><a href="/support/studentmentors/">Student Mentors</a></li>
+<li><a href="/support/community-wardens/">Community Wardens</a></li>
+<li><a href="/accommodation">Accommodation</a></li> 
+<li><a href="/support/communitypantry">Community Pantry</a></li> 
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Academic</a>
+<ul class="dropdown-menu">
+<li><a href="/support/academic/academic-support/">Academic Support</a></li>     
+<li><a href="/support/academic/exam-stress/">Exam Stress</a></li>              
+<li><a href="/support/academic/academic-support/plagiarism/">Plagiarism</a></li>       
+</ul>
+</li>
+<li><a href="/noton/">Not On Campaign</a></li>
+<li><a href="/welcome">Welcome Week</a></li>
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Health &amp; Wellbeing</a>
+<ul class="dropdown-menu">
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Mental Health</a>
+<ul class="dropdown-menu">
+<li><a href="/support/health-and-wellbeing/mental-health/">Mental Ill Health</a></li>
+<li><a href="/support/health-and-wellbeing/mental-health/self-harm/">Self-Harm</a></li>
+<li><a href="/support/health-and-wellbeing/mental-health/suicidal-thoughts/">Suicidal Thoughts</a></li>
+</ul>
+</li>   
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Sexual Health</a>
+<ul class="dropdown-menu">
+<li><a href="/support/health-and-wellbeing/sexual-health/contraception/">Contraception &amp; STI’s</a></li>
+<li><a href="/support/health-and-wellbeing/sexual-health/pregnancy/">Pregnancy</a></li>
+</ul>
+<li><a href="/support/health-and-wellbeing/healthy-relationships/">Healthy Relationships</a></li>    
+</li>      
+<li><a href="/support/health-and-wellbeing/assault-and-harassment/">Assault &amp; Harassment</a></li>    
+<li><a href="/support/health-and-wellbeing/bullying-and-discrimination/">Bullying &amp; Discrimination</a></li>     
+<li><a href="/support/health-and-wellbeing/disability/">Disability</a></li>     
+<li><a href="/support/health-and-wellbeing/registering-with-a-gp-dentist/">Registering with a GP / Dentist</a></li>   
+<li><a href="/support/health-and-wellbeing/drug-and-alcohol-support/">Drug &amp; Alcohol Support</a></li>                
+</ul>
+</li>
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Shared Living</a>
+<ul class="dropdown-menu">
+<li><a href="/assets/site_resources/Looking For A New Home 2019-20.pdf" class="ga-event" data-event-category="Rent Right PDF Download" data-event-label="pdf">Rent Right </a></li>  
+<li><a href="/support/shared-living/in-accommodation/">In Accommodation</a></li>     
+<li><a href="/support/shared-living/in-the-community/">In the Community</a></li>    
+<li><a href="/support/shared-living/moving-in/">Moving In</a></li>     
+<li><a href="/support/shared-living/living-together/">Living Together</a></li>     
+<li><a href="/support/shared-living/basic-diy/">Basic DIY</a></li>                  
+</ul>
+</li>
+<li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">International Students</a>
+<ul class="dropdown-menu">
+<li><a href="/support/guildadvice/global-buddies/">Global Buddies</a></li> 
+<li><a href="/support/international-students/information-for-international-students/">Information for International Students</a></li>     
+<li><a href="/support/international-students/pre-sessional-students/">Pre-sessional Students</a></li>      
+<li><a href="/support/international/one-world-festival/">One World Festival</a></li> 
+</ul>
+</li>
+</ul>
+</li>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">EVENTS <b class="caret"></b></a>
+ <ul class="dropdown-menu">
+  <li><a href="/events">What's On?</a></li>
+  <li><a href="/guildawards">Guild Awards</a></li>
+<li><a href="/eventsandtickets/fabnfresh">Fab N Fresh</a></li>
+<li><a href="/hallreps">Hall Reps</a></li>
+<li><a href="/value/joesbar/">Joe's Bar</a></li>
+<li><a href="/nusextra/">TOTUM</a></li>
+</ul>
+</li>
+<li><a href="/studentjourney/">STUDENT JOURNEY</a></li>
+
+
+  </ul>
+  </li>
+ </ul>
+ </li>
+</ul>
+ </li>
+ </ul>
+ </li>
+</ul>
+ </div><!-- /.navbar-collapse -->
+</div>
+        </nav>
+
+</div>
+</div>
+
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("March 24, 2023 16:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("countdownclock").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdownclock").innerHTML = "NOW CLOSED";
+  }
+}, 1000);
+</script>
+
+<script>
+(function($){
+  $(document).ready(function(){
+    $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function(event) {
+      event.preventDefault(); 
+      event.stopPropagation(); 
+      $(this).parent().siblings().removeClass('open');
+      $(this).parent().toggleClass('open');
+    });
+  });
+})(jQuery);
+</script>
+<style>
+
+.container {
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.marginBottom-0 {margin-bottom:0;
+z-index: 2;
+position: relative;}
+
+.dropdown-submenu {
+position:relative;
+}
+.dropdown-submenu>.dropdown-menu {
+top:0;left:100%;
+margin-top:-6px;
+margin-left:-1px;
+-webkit-border-radius:0 6px 6px 6px;
+-moz-border-radius:0 6px 6px 6px;
+border-radius:0 6px 6px 6px;
+}
+
+.dropdown-submenu>a:after {
+display:block;content:" ";
+float:right;
+width:0;
+height:0;
+border-color:transparent;
+border-style:solid;
+border-width:5px 0 5px 5px;
+border-left-color:#cccccc;
+margin-top:5px;
+margin-right:-5px;
+}
+.dropdown-submenu:hover>a:after {
+border-left-color:#00a5e9;
+color: #00b2eb;
+}
+.dropdown-submenu.pull-left {
+float:none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+left:-100%;
+margin-left:10px;
+-webkit-border-radius:6px 0 6px 6px;
+-moz-border-radius:6px 0 6px 6px;
+border-radius:6px 0 6px 6px;
+}
+
+.navbar-header button {
+margin-left: 2%;
+}
+
+@media all and (min-width: 300px) and (max-width: 767px){
+.dropdown-submenu>a:after {
+display:block;content:" ";
+float:right;
+width:0;
+height:0;
+border-color:transparent;
+border-style:solid;
+border-width:5px 0 5px 5px;
+border-left-color:#cccccc;
+margin-top:5px;
+margin-right:0px;
+}
+
+.navbar-collapse li {
+padding-left: 1%;
+}
+}
+
+
+
+a.btn.btn-default {
+margin: -10px 2px 0px 2px;
+}
+
+.collapse {
+	padding: 0;
+	display: none;
+	background: none;
+	}
+
+@media all and (min-width: 1025px)and (max-width: 3000px) {
+#login2017 {
+display:none;
+}
+}
+
+@media all and (min-width: 300px)and (max-width: 1024px) {
+#login2017 {
+display: inline-block;
+font-size: 9pt;
+}
+
+}
+
+#login2017 {
+list-style-type: none;
+padding: 10px 5px 10px 5px;
+}
+
+
+.msl-loginbutton.msl-loggedin, .msl-loginbutton.msl-loggedin:hover {
+border: 1px solid #404040;
+padding: 5px 10px 5px 10px;
+color: #333;
+background-color: #fff;
+border-radius: 4px;
+box-shadow: inset 0 1px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.075);
+}
+
+
+.msl-loginbutton.msl-loggedout, .msl-loginbutton.msl-loggedout:hover {
+ border: 1px solid #404040;
+padding: 5px 10px 5px 10px;
+color: #333;
+background-color: #fff;
+border-radius: 4px;
+box-shadow: inset 0 1px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.075);
+}
+@media all and (min-width: 1025px)and (max-width: 3000px) {
+.msl-loginbutton.msl-loggedin, .msl-loginbutton.msl-loggedin:hover, .msl-loginbutton.msl-loggedout, .msl-loginbutton.msl-loggedout:hover 
+{
+margin-top: 6px;
+ border: 1px solid #404040;
+padding: 8px 10px 8px 10px;
+color: #333;
+background-color: #fff;
+border-radius: 4px;
+box-shadow: inset 0 1px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.075);
+}
+}
+
+@media all and (min-width: 300px)and (max-width: 1024px) {
+.msl-loginbutton.msl-loggedin, .msl-loginbutton.msl-loggedin:hover, .msl-loginbutton.msl-loggedout, .msl-loginbutton.msl-loggedout:hover 
+{
+margin-top: 15px;
+margin-left: 0;
+ border: 1px solid #ccc;
+padding: 7px 10px 8px 10px;
+color: #333;
+background-color: #fff;
+border-radius: 4px;
+box-shadow: inset 0 1px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.075);
+font-size: 9pt;
+}
+
+.navbar-header .login-buttons {
+margin-left: 0px;
+margin-right: 0;
+padding-left: 0;
+}
+}
+
+
+@media all and (min-width: 300px)and (max-width: 400px) {
+a.btn.btn-default {
+margin-top: 5px;
+margin-left: 2px;
+font-size: 9pt;
+}
+
+.navbar-header .login-buttons {
+margin-top: 2px;
+}
+}
+
+/* VOTE FLASH */
+ .container-flash {
+        background-color:#449F96;
+        /*background-image: linear-gradient(to right, rgba(52, 122, 114, 1), rgba(122, 179, 174, 1));*/
+        /*margin-bottom:20px;*/
+    }
+    
+    .container-flash .img-responsive {
+      margin-bottom:0px;
+    }
+    
+    .container-flash a {
+        color:#000;
+        margin-top:30px;
+    }
+    
+    
+    .voting-closes {
+        background-color:#fff;
+        padding:16px;
+        color:#347A72;
+        font-size:15px;
+        float:right;
+        width:70%;
+        border-radius:5px;
+        margin:12px 0px;
+    }
+    
+     .voting-closes p {
+        margin:0px;
+    }
+    
+    @media (min-width:1200px) {
+        .voting-closes {
+            width:55%;
+        }
+    }
+    
+    @media (max-width:1024px) {
+        .elections-open img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .elections-open {
+            text-align:center;
+        }
+        .voting-closes {
+            float:none;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width:100%;
+            margin:0px 0px 12px 0px;
+            padding:6px;
+            font-size:14px;
+        }
+        .countdownelection {
+            display:block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+
+
+
+
+</style>
+<!-- end of bootstrapnewnav0416 snippet -->
+
+
+<div class="white-bg">
+    <div class="container login-page">
+        <div class="row">
+            <div class="account_login_title">
+                <div class="col-md-12">
+                    <h1>Account <span class="head-bold">Login</span></h1>
+                
+                </div>
+            </div>
+        </div>
+        
+        <div class="login_content_2017">
+            
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="well student-login-well">
+                        <div class="row">
+                            <div class="col-md-9">
+                                <h2 style="color: #fff;">Student <span class="head-bold">Login</span></h2>
+                                <p>If you’re a University of Birmingham student (including all freshers) – or have fully completed your university registration you can log in to our website with your University credentials.</p>
+                                <p>Having problems? Email: <a href="mailto:website@guild.bham.ac.uk" style="color: #fff;">website@guild.bham.ac.uk</a></p>
+                            </div>
+                            <div class="col-md-3 well-button-col">
+                                <div class="mslwidget btn btn-blue btn-lg btn-block btn-uni-login">
+	
+<a id="ctl00_ctl17_hlExtLogin" class="msl-sso-login-link" rel="nofollow" href="/sso/login.ashx?idp=BHAM_SHIB&amp;ReturnUrl=/pageassets/representation/guildcouncil/pastmeetingpaperwork/Minutes-6th-oct.docx">Log in using your University credentials</a>
+
+
+</div> 
+                                <!-- <a class="btn btn-primary" href="https://www.my.bham.ac.uk/cp/home/displaylogin" style="padding: 5%; width: 100%;" target="_blank">Login via my.bham</a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+             <div class="row">
+                <div class="col-xs-12">
+                    <div class="well staff-login-well">
+                        <h2 style="color: #fff;">Staff / Employer / Guest <span class="head-bold">Login</span></h2>
+                        <p>If you’re a member of staff or you’ve already created a guest account on our website, then you can log in here: </p>
+                        <div class="mslwidget">
+
+<div class="sidepanel">
+
+	
+	
+	
+
+	<div id="ctl00_ctl19_pnlStandardLogin" class="login">
+	
+
+		<label for="ctl00_ctl19_UserName" id="ctl00_ctl19_lblUserName">Email Address</label>
+		<input name="ctl00$ctl19$UserName" type="text" id="ctl00_ctl19_UserName" class="textbox" />
+		<label for="ctl00_ctl19_Password" id="ctl00_ctl19_lblPassword">Password</label>
+		<input name="ctl00$ctl19$Password" type="password" id="ctl00_ctl19_Password" class="textbox" />
+		
+		<input type="submit" name="ctl00$ctl19$btnLogin" value="Sign In" id="ctl00_ctl19_btnLogin" class="button" />
+
+		
+
+	
+</div>
+	
+	<div class="login">
+	    
+	    <a id="ctl00_ctl19_lnkForgottenPassword" rel="nofollow" href="/account/resetpassword/">Forgot password?</a>
+	    
+    </div>
+    
+</div>
+
+</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-12">
+                    <h2>Don't Have <span class="head-bold">An Account?</span></h2>
+                    <p style="color: #393b40;">If you are not a student and do not already have an account with the Guild, please use the below links to create a new account</p>
+                </div>
+            </div>
+            
+            
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="well guest-login-well">
+                        <div class="row">
+                            <div class="col-md-9">
+                                <h2 style="color: #fff;">Create <span class="head-bold">Guest Account</span></h2>
+                                <p>If you’re not a current University of Birmingham student, you’ll need to create a Guest account to log into our website. Once you’ve done this, you’ll be able to purchase tickets and join groups. It’s quick and easy to get sorted, and you can <a href="mailto:website@guild.bham.ac.uk" style="color: #fff;"> email website@guild.bham.ac.uk</a> if you have any problems.</p>
+                            </div>
+                            <div class="col-md-3" style="margin-top: 7%;">
+                                <a class="btn btn-blue btn-lg btn-block" href="https://www.guildofstudents.com/account/register/guest/">Create Account</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <!--
+            <div class="row" style="background-color: #74a300;  margin-top: 2%; margin-bottom: 2%;padding: 2%;">
+            <div class="col-md-9">
+            <h2 style="color: #fff;">EMPLOYER</h2>
+            
+            <p>If you’re an employer , you’ll need to create a guest account with us to list your vacancies on the Guild Jobs search site.</p>
+            <p>It’s quick and easy to get sorted, and you can <a href="mailto:website@guild.bham.ac.uk" style="color: #fff;">email website@guild.bham.ac.uk </a>if you have any problems.</p>
+            </div>
+            
+            <div class="col-md-3" style="margin-top:7%;"><a class="btn btn-primary" href="https://www.guildofstudents.com/account/register/Employer/" style="padding: 5%; width: 100%;" target="_blank">Create account</a></div>
+            </div>
+            -->
+            
+        
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        
+<!-- start of footer2018 snippet -->
+<footer id="myFooter">
+        <div class="container">
+            <div class="row">
+<div class="col-sm-3">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+<img alt="guild of students logo" src="/pageassets/guild-of-students-logo-footer.png" />
+    </div>
+    <div class="item">
+<img alt="disability confident employer" src="/pageassets/footerimg-dc_badge.png" />
+    </div>
+    <div class="item">
+<img alt="attitude is everything logo" src="/pageassets/attitude-everything-logo.png" />
+    </div>
+    <div class="item">
+<img alt="Best Bar None Logo" src="/pageassets/Best-Bar-None-logo-grey.png" />
+    </div>
+    <div class="item">
+<img alt="Investors in People - Silver until 2020 - logo" src="/pageassets/investors-in-people-silver-award-until-2020.png" />
+
+    </div>
+    <div class="item">
+<img alt="NUS Excellent Quality Students' Union logo" src="/pageassets/nus-excellent-quality-students-union.png" />
+    </div>
+    <div class="item">
+<img alt="NUS Green Impact Students' Union - Excellent Logo" src="/pageassets/nus-green-impact-excellent.png" />
+    </div>
+    <div class="item">
+<img alt="Positive About Disabled People logo" src="/pageassets/positive-about-disabled-people.png" />
+    </div>
+    <div class="item">
+<img alt="University of Birmingham logo " src="/pageassets/university-of-birmingham-logo.png" />
+    </div>
+
+</div>
+</div>
+  </div>
+                <div class="col-sm-2">
+                    <h5>Get started</h5>
+                    <ul>
+<li><a href="https://www.guildofstudents.com">Home</a></li>
+<li><a href="https://webmail.guild.bham.ac.uk/owa">Webmail (Staff &amp; student groups)</a></li>
+    <li><a href="/vacancies/">Work with Us</a></li>
+    <li><a href="/staff/">Staff Hub</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-2">
+                    <h5>Legal</h5>
+                    <ul>
+    <li><a href="/tac/">Ticket Terms &amp; Conditions</a></li>
+    <li><a href="https://www.ukmsl.com">Powered by MSL</a></li>
+    <li><a href="/about/safeguardingpolicy">Safeguarding Policy</a></li>
+    <li><a href="/footer/cookiepolicy/">Cookie Policy</a></li>
+    <li><a href="/privacy-policy/">Privacy Policy</a></li>
+                    </ul>
+                </div>
+               <div class="col-sm-2">
+                    <h5>Contact</h5>
+                    <ul>
+                        <li>Tel no: 0121 415 9990</li>
+                        <li><a href="/contact-us/">General Enquiries</a></li>
+                        <li><a href="/mediasales">Media Sales Enquiries</a></li>
+                    </ul>
+                </div>              
+
+              <div class="col-sm-3">
+                    <div class="social-networks">
+                        <a href="https://twitter.com/GuildofStudents" class="twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.facebook.com/guildofstudents/" class="facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/uobguildofstudents/" class="instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="/shop/reviewbasket/" class="shopbasket"><i class="fas fa-shopping-cart"></i></a>
+                    </div>
+        </div>
+</div>
+</div>
+        <div class="footer-copyright">
+            <p>Registered Office: University of Birmingham Guild of Students, Edgbaston Park Road, Birmingham, B15 2TU. 
+Registered Charity Number: 1137548. Registered in England. Company Number: 6638759</p>
+        </div>
+    </footer>
+
+<style>
+#myFooter {
+    background-color: #211C36;
+    color: white;
+    padding-top: 30px;
+z-index: 1;
+}
+
+#myFooter .footer-copyright {
+    background-color: #131119;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#myFooter .row {
+    margin-bottom: 60px;
+}
+
+#carousel-example-generic {
+    margin-top: 30px;
+}
+
+
+#myFooter .footer-copyright p {
+    margin: 10px;
+    color: #ccc;
+    font-size:12px;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+font-size: 10pt;
+}
+#myFooter li {
+color: #d2d1d1;
+}
+
+
+#myFooter h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter h2 a{
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+#myFooter a {
+    color: #d2d1d1;
+    text-decoration: none;
+font-size: 9pt;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+
+#myFooter .social-networks {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
+
+#myFooter .social-networks a {
+    font-size: 32px;
+    color: #f9f9f9;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+#myFooter .social-networks a:hover {
+    text-decoration: none;
+}
+
+#myFooter .facebook:hover {
+    color: #3b5998;
+}
+
+/*#myFooter .instagram:hover {
+    color: #ef1a1a;
+}*/
+
+#myFooter .fa-instagram:hover {
+    background: -webkit-radial-gradient(33% 100% circle, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    background: radial-gradient(circle at 33% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#myFooter .twitter:hover {
+    color: #00aced;
+}
+
+#myFooter .shopbasket:hover {
+    color: #ffba00;
+}
+
+
+@media screen and (max-width: 1024px) {
+    #myFooter ul,  #myFooter li,  #myFooter a,  #myFooter h5{
+        text-align: center;
+    }
+
+}
+
+</style>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+   
+     ga('create', 'UA-43124841-21', 'auto');
+     ga('require', 'linkid', 'linkid.js');
+     ga('send', 'pageview');
+     
+     </script>     
+     
+<script type="text/javascript">
+    //GA Event Tracker Script. Licensed under MIT. Free for any use by all. Written by Paul Seal from codeshare.co.uk
+
+    // Get the category, action and label from the element and send it to GA. The action is optional, because mostly it will be a click event.
+    var trackClickEvent = function () {
+        var eventCategory = this.getAttribute("data-event-category");
+        var eventAction = this.getAttribute("data-event-action");
+        var eventLabel = this.getAttribute("data-event-label");
+        var eventValue = this.getAttribute("data-event-value");
+        ga('send', 'event', eventCategory, (eventAction != undefined && eventAction != '' ? eventAction : 'click'), eventLabel, eventValue);
+    };
+
+    // Find all of the elements on the page which have the class 'ga-event'
+    var elementsToTrack = document.getElementsByClassName("ga-event");
+
+    // Add an event listener to each of the elements you found
+    var elementsToTrackLength = elementsToTrack.length;
+    for (var i = 0; i < elementsToTrackLength; i++) {
+        elementsToTrack[i].addEventListener('click', trackClickEvent, false);
+    }
+     
+     
+</script>
+
+<div class="mslwidget">
+<!-- Core JavaScript -->
+<!-- Placed at the end of the document so the pages load faster -->
+<!--
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script src="/assets/site_resources/jquery-migrate-1.2.1.min.js"></script>-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+
+
+<!-- Custom JavaScript -->
+
+<script src="/assets/site_resources/jquery.bxslider-4.1.1.js "></script>
+<!--<script src="/assets/site_resources/jquery.bxslider.min.js"></script>-->
+
+<!--<script src="/assets/site_resources/wow.min.js "></script>-->
+
+<script src="/assets/site_resources/scripts20170420.js"></script>
+
+<!-- Track outbound links in Google Analytics -->
+<script>
+(function($) {
+ 
+  "use strict";
+ 
+  // current page host
+  var baseURI = window.location.host;
+ 
+  // click event on body
+  $("body").on("click", function(e) {
+ 
+    // abandon if link already aborted or analytics is not available
+    if (e.isDefaultPrevented() || typeof ga !== "function") return;
+ 
+    // abandon if no active link, link within domain, or link is a js function
+    var link = $(e.target).closest("a");
+    if (link.length != 1 || baseURI == link[0].host || link[0].href.indexOf('javascript:') != -1) return;
+ 
+    // cancel event and record outbound link
+    e.preventDefault();
+    var href = link[0].href;
+    ga('send', {
+      'hitType': 'event',
+      'eventCategory': 'outbound',
+      'eventAction': 'link',
+      'eventLabel': href,
+      'hitCallback': loadPage
+    });
+ 
+    // redirect after one second if recording takes too long
+    setTimeout(loadPage, 1000);
+ 
+    // redirect to outbound page
+    function loadPage() {
+      document.location = href;
+    }
+ 
+  });
+ 
+})(jQuery); // pass another library here if required
+</script>
+</div>
+</script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"https://www.guildofstudents.com/footer/cookiepolicy/","theme":"dark-bottom"};
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+<!-- end of footer2018 snippet -->
+
+    </div>
+</div>
+
+
+	        
+	        
+
+    
+	
+
+	        
+	        
+	        
+            </div>
+
+            <script type="text/javascript" src="/stylesheet/Redesign2016/default-behaviour.js?v=92"></script>
+<script type="text/javascript" src="/stylesheet/Redesign2016/elections.js?v=52"></script>
+
+            
+            
+	<script id="ctl00_commonjs" type="text/javascript" src="/scripts/common.js"></script>
+            
+
+            <script type="text/javascript">  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-43124841-21', 'auto');
+ga('send', 'pageview');
+</script>
+
+        </form>
+        
+    </body>
+</html>
