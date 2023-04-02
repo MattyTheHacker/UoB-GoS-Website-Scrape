@@ -36,7 +36,7 @@ def scrape(site):
                         print("[INFO] Found: " + url)
                         if not should_scrape(url):
                             print("[WARN] Skipping bad url: " + url)
-                        else: 
+                        else:
                             scrape(url)
             else:
                 # if the url is relative, add the domain to it
@@ -46,7 +46,7 @@ def scrape(site):
                     print("[INFO] Found: " + url)
                     if not should_scrape(url):
                         print("[WARN] Skipping bad url: " + url)
-                    else: 
+                    else:
                         scrape(url)
     except:
         print("[ERROR] Something went wrong with url: " + url)
@@ -54,6 +54,7 @@ def scrape(site):
             if r.status_code is not None:
                 print("[ERROR] Url " + url + " returned error code: " + str(r.status_code))
         return False
+
 
 def download_file(url, destination_folder):
     # if we fail 5 times, stop the script
@@ -64,7 +65,7 @@ def download_file(url, destination_folder):
     # get the filename from the url
     filename = url.split('/')[-1]
 
-    # remove the new line 
+    # remove the new line
     filename = filename.replace('\n', '')
     filename = filename.strip()
 
@@ -72,7 +73,7 @@ def download_file(url, destination_folder):
     file_path = destination_folder + '/' + filename
 
     # download the file
-    try: 
+    try:
         r = requests.get(url, allow_redirects=True)
 
         if r is None:
@@ -81,7 +82,8 @@ def download_file(url, destination_folder):
             return
 
         if r.status_code != 200:
-            print("[ERROR] Url " + url + " returned error code: " + str(r.status_code))
+            print("[ERROR] Url " + url +
+                  " returned error code: " + str(r.status_code))
             increment_fail_count()
             return
 
@@ -94,7 +96,8 @@ def download_file(url, destination_folder):
         increment_fail_count()
         if r is not None:
             if r.status_code is not None:
-                print("[ERROR] Url " + url + " returned error code: " + str(r.status_code))
+                print("[ERROR] Url " + url +
+                      " returned error code: " + str(r.status_code))
         return
 
 
@@ -114,7 +117,6 @@ def download_all_files():
     # images
     for image in images:
         download_file(image, "images")
-    
 
 
 # method to get a variable from a string
@@ -128,14 +130,17 @@ def valid_url(url):
         if r.status_code == 200:
             return True
         else:
-            print("[ERROR] Url " + url + " returned error code: " + str(r.status_code))
+            print("[ERROR] Url " + url +
+                  " returned error code: " + str(r.status_code))
             return False
     except:
         print("[ERROR] Something went wrong with url: " + url)
         if r is not None:
             if r.status_code is not None:
-                print("[ERROR] Url " + url + " returned error code: " + str(r.status_code))
+                print("[ERROR] Url " + url +
+                      " returned error code: " + str(r.status_code))
         return False
+
 
 def is_pdf(url):
     if '.pdf' in url:
@@ -143,12 +148,14 @@ def is_pdf(url):
     else:
         return False
 
+
 def is_email(url):
     if 'mailto:' in url:
         return True
     else:
         return False
-    
+
+
 def is_doc(url):
     if '.docx' in url:
         return True
@@ -160,12 +167,14 @@ def is_doc(url):
         return True
     else:
         return False
-    
+
+
 def is_rss(url):
     if 'rss' in url:
         return True
     else:
         return False
+
 
 def is_image(url):
     if '.jpg' in url:
@@ -203,8 +212,10 @@ def increment_fail_count():
     global fail_count
     fail_count += 1
 
+
 def get_fail_count():
     return fail_count
+
 
 def remove_duplicates(list):
     return list(set(list))
@@ -218,11 +229,12 @@ def check_for_duplicate_urls(urls_list, name):
             return True
     print("[INFO] No duplicates found in " + name)
     return False
-    
+
 
 def check_all_lists_for_duplicates():
     for url_list in url_lists:
-        if check_for_duplicate_urls(get_variable_from_name(url_list), str(url_list)) : url_list = remove_duplicates(url_list)
+        if check_for_duplicate_urls(get_variable_from_name(url_list), str(url_list)):
+            url_list = remove_duplicates(url_list)
 
 
 # save the urls to a file
@@ -236,7 +248,7 @@ def save_list_to_file(list, filename):
 def save_all_lists_to_file():
     for url_list in url_lists:
         save_list_to_file(get_variable_from_name(url_list), url_list + '.txt')
-    
+
 
 def load_all_lists_from_file():
     # the list of url lists is stored in a list, iterate over each list in the list and load the urls from the file
@@ -256,21 +268,20 @@ if __name__ == '__main__':
         print("[INFO] Checking for duplicates...")
         check_all_lists_for_duplicates()
         print("[INFO] Done checking for duplicates.")
-        
+
         # save the urls to a file
         print("[INFO] Saving urls to file...")
         save_all_lists_to_file()
         print("[INFO] Done saving urls to file.")
-    
+
     # print count of urls from each file not from the lists
     load_all_lists_from_file()
     for url_list in url_lists:
-        print("[INFO] " + str(len(get_variable_from_name(url_list))) + " urls found in " + str(url_list) + ".txt")
+        print("[INFO] " + str(len(get_variable_from_name(url_list))) +
+              " urls found in " + str(url_list) + ".txt")
 
     # ask if the user would like to download the files
-    answer = input("[INFO] Would you like to download the files? (y/n) ")
+    answer = input("[INFO] Would you like to download all files? (y/n) ")
     if answer == 'y':
         # download all the files
         download_all_files()
-
-
