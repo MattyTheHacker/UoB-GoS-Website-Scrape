@@ -3,8 +3,8 @@ from utils import *
 def remove_duplicates(list):
     return list(set(list))
 
-url_lists = ['urls', 'invalids', 'pdfs', 'docs', 'emails', 'rss', 'images']
-    
+url_lists = ['urls', 'invalids', 'pdfs', 'docs', 'emails', 'rss', 'images', 'not_found']
+
 # check the url list for duplicates
 def check_for_duplicate_urls(urls_list, name):
     for url in urls_list:

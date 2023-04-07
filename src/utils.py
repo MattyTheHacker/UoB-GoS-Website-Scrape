@@ -5,6 +5,7 @@ global docs; docs = []
 global emails; emails = []
 global rss; rss = []
 global images; images = []
+global not_found; not_found = []
 
 # method to get a variable from a string
 def get_variable_from_name(name):

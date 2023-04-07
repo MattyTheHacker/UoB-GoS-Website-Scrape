@@ -30,6 +30,10 @@ def download_file(url, destination_folder):
             return
 
         if r.status_code != 200:
+            if r.status_code == 404:
+                print("[WARNING] Url " + url + " returned 404... skipping.")
+                not_found.append(url)
+                return
             print("[ERROR] Url " + url + " returned error code: " + str(r.status_code))
             increment_fail_count()
             return
@@ -67,6 +71,12 @@ def download_all_files():
     # images
     for image in images:
         download_file(image, "../images")
+
+    # remove duplicates from the not found list
+    check_for_duplicate_urls(not_found, "not_found")
+
+    # make sure the not_found list has been saved
+    save_list_to_file(not_found, '../lists/not_found.txt')
 
 
 
