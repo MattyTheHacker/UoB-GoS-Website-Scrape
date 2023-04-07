@@ -5,6 +5,9 @@ https://www.guildofstudents.com/blogs/rss/ben/
 https://www.guildofstudents.com/blogs/rss/alice/
 https://www.guildofstudents.com/blogs/rss/florie/
 https://www.guildofstudents.com/blogs/rss/reeve/
+https://www.guildofstudents.com/blogs/rss/imogen-says/
+https://www.guildofstudents.com/blogs/rss/matthew-says/
+https://www.guildofstudents.com/blogs/rss/israel-says/
 https://www.guildofstudents.com/blogs/rss/studentstaff/
 https://www.guildofstudents.com/blogs/rss/hannah-pto/
 https://www.guildofstudents.com/blogs/rss/chirag-pto/
@@ -15,5 +18,5 @@ https://www.guildofstudents.com/blogs/rss/robins-blog/
 https://www.guildofstudents.com/blogs/rss/chinaza-pto/
 https://www.guildofstudents.com/blogs/rss/izzy/
 https://www.guildofstudents.com//instagram.com/uob_rss
-https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/ents/rss/0/subtree/
+https://www.guildofstudents.com/news/rss/0/subtree/

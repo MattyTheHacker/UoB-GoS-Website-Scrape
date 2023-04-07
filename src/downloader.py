@@ -2,12 +2,12 @@ from list_operations_utils import *
 import requests
 
 fail_count = 0
-fail_limit = 10
+fail_limit = 15
 
 def download_file(url, destination_folder):
     # if we fail 5 times, stop the script
     if get_fail_count() > fail_limit:
-        print("[ERROR] Failed 5 times, aborting...")
+        print("[ERROR] Failed " + str(fail_limit) + " times, aborting...")
         exit()
 
     # get the filename from the url
@@ -30,8 +30,7 @@ def download_file(url, destination_folder):
             return
 
         if r.status_code != 200:
-            print("[ERROR] Url " + url +
-                  " returned error code: " + str(r.status_code))
+            print("[ERROR] Url " + url + " returned error code: " + str(r.status_code))
             increment_fail_count()
             return
 
@@ -39,13 +38,16 @@ def download_file(url, destination_folder):
         with open(file_path, 'wb') as f:
             f.write(r.content)
             print("[INFO] Downloaded file: " + file_path)
-    except:
+    except Exception as e:
         print("[ERROR] Something went wrong with url: " + url)
         increment_fail_count()
         if r is not None:
             if r.status_code is not None:
-                print("[ERROR] Url " + url +
-                      " returned error code: " + str(r.status_code))
+                print("[ERROR] Url " + url + " returned error code: " + str(r.status_code))
+                print("[DEBUG] Response: " + str(r))
+                print("[DEBUG] Exception: " + str(e))
+                print("[DEBUG] File path: " + file_path)
+                print("=====================================\n")
         return
 
 
@@ -56,15 +58,15 @@ def download_all_files():
 
     # pdfs first
     for pdf in pdfs:
-        download_file(pdf, "pdfs")
+        download_file(pdf, "../pdfs")
 
     # docs
     for doc in docs:
-        download_file(doc, "docs")
+        download_file(doc, "../docs")
 
     # images
     for image in images:
-        download_file(image, "images")
+        download_file(image, "../images")
 
 
 
