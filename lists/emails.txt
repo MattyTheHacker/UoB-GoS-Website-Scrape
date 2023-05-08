@@ -1,3 +1,4 @@
+https://www.guildofstudents.commailto:community@guild.bham.ac.uk
 https://www.guildofstudents.commailto:president@guild.bham.ac.uk
 https://www.guildofstudents.commailto:activities@guild.bham.ac.uk
 https://www.guildofstudents.commailto:education@guild.bham.ac.uk
@@ -5,7 +6,7 @@ https://www.guildofstudents.commailto:postgraduate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:international@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sports@guild.bham.ac.uk
 https://www.guildofstudents.commailto:welfare@guild.bham.ac.uk
-https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
+https://www.guildofstudents.commailto:mentorwelfare@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentvoice@guild.bham.ac.uk
 https://www.guildofstudents.commailto:fto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jobs@guild.bham.ac.uk
@@ -14,10 +15,8 @@ https://www.guildofstudents.commailto:website@guild.bham.ac.uk
 https://www.guildofstudents.commailto:complaints@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk 
 https://www.guildofstudents.commailto:mediasales@guild.bham.ac.uk
+https://www.guildofstudents.commailto:dpo@guild.bham.ac.uk
 https://www.guildofstudents.commailto:i.mann@guild.bham.ac.uk
-https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
-https://www.guildofstudents.commailto:bucv@guild.bham.ac.uk
-https://www.guildofstudents.commailto:studenthousingadvice@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:m.griffin@guild.bham.ac.uk
 https://www.guildofstudents.commailto:E.Shelley@bham.ac.uk
 https://www.guildofstudents.commailto:BUCV@guild.bham.ac.uk
@@ -27,14 +26,10 @@ https://www.guildofstudents.commailto:s.hughes@guild.bham.ac.uk
 https://www.guildofstudents.commailto:a.morley@guild.bham.ac.uk
 https://www.guildofstudents.commailto:e.andress@guild.bham.ac.uk
 https://www.guildofstudents.commailto:a.heighton@guild.bham.ac.uk
-https://www.guildofstudents.commailto:mentorwelfare@guild.bham.ac.uk
-https://www.guildofstudents.commailto:dpo@guild.bham.ac.uk
-https://www.guildofstudents.commailto:noton@guild.bham.ac.uk
-https://www.guildofstudents.commailto:communitypantry@guild.bham.ac.uk
-https://www.guildofstudents.commailto:community@guild.bham.ac.uk
-https://www.guildofstudents.commailto:studentreps@guild.bham.ac.uk
-https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk
 https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
+https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:bucv@guild.bham.ac.uk
+https://www.guildofstudents.commailto:studenthousingadvice@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:larp@guild.bham.ac.uk
 https://www.guildofstudents.commailto:busag@guild.bham.ac.uk
 https://www.guildofstudents.commailto:disability@guild.bham.ac.uk
@@ -50,6 +45,9 @@ https://www.guildofstudents.commailto:CampaignsOfficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:environmentalofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:transofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:FTO@guild.bham.ac.uk
+https://www.guildofstudents.commailto:communitypantry@guild.bham.ac.uk
+https://www.guildofstudents.commailto:noton@guild.bham.ac.uk
+https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk
 https://www.guildofstudents.commailto:fringe@guild.bham.ac.uk
 https://www.guildofstudents.commailto:acappella@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
@@ -123,7 +121,9 @@ https://www.guildofstudents.commailto:devilsadvocate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:doctorwho@guild.bham.ac.uk
 https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:educationsoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:EgyptSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:marketing.birmingham@uk.elsa.org
+https://www.guildofstudents.commailto:enactus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:energy@guild.bham.ac.uk
 https://www.guildofstudents.commailto:esports@guild.bham.ac.uk
 https://www.guildofstudents.commailto:fashion@guild.bham.ac.uk
@@ -242,6 +242,7 @@ https://www.guildofstudents.commailto:sudanese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ttgaming@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tamil@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tea@guild.bham.ac.uk
+https://www.guildofstudents.commailto:TeluguSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:footnotes@guild.bham.ac.uk
 https://www.guildofstudents.commailto:endtimemission@guild.bham.ac.uk
 https://www.guildofstudents.commailto:yoga@guild.bham.ac.uk
@@ -287,8 +288,10 @@ https://www.guildofstudents.commailto:intervol@guild.bham.ac.uk
 https://www.guildofstudents.commailto:birmingham@ukmarrow.org
 https://www.guildofstudents.commailto:microloan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:mnc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:plasticfree@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sach@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sops@guild.bham.ac.uk
+https://www.guildofstudents.commailto:birmingham@sexpression.org.uk
 https://www.guildofstudents.commailto:stmarys@guild.bham.ac.uk
 https://www.guildofstudents.commailto:star1@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tapp@guild.bham.ac.uk
@@ -301,7 +304,6 @@ https://www.guildofstudents.commailto:ADO@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk?subject=Setting%20up%20a%20student%20group
 https://www.guildofstudents.commailto:worklink@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk
-https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk
 https://www.guildofstudents.commailto:r.isaacs-smith@guild.bham.ac.uk
 https://www.guildofstudents.commailto:v.chigariro@guild.bham.ac.uk
 https://www.guildofstudents.commailto:presessional@contacts.bham.ac.uk
@@ -315,14 +317,16 @@ https://www.guildofstudents.commailto:enquiries@horizonsarc.org.uk
 https://www.guildofstudents.commailto:info@rsvporg.co.uk
 https://www.guildofstudents.commailto:enquiries@birminghamcrisis.org.uk
 https://www.guildofstudents.commailto:info@birminghamfreedomproject.org
+https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
 https://www.guildofstudents.commailto:d.j.tope@bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=Extenuating%20Circumstances
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
 https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk?subject=Save A Society
+https://www.guildofstudents.commailto:studentreps@guild.bham.ac.uk
 https://www.guildofstudents.commailto:campaigns@guild.bham.ac.uk
+https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk
 https://www.guildofstudents.commailto:trusteeboard@guild.bham.ac.uk
 https://www.guildofstudents.commailto:safeguarding@guild.bham.ac.uk
-https://www.guildofstudents.commailto:community@guild.bham.ac.uk?subject=Volunteer
 https://www.guildofstudents.commailto:r.snook@bham.ac.uk
 https://www.guildofstudents.commailto:staffing@guild.bham.ac.uk?subject=Chair%20of%20Board%20Application
 https://www.guildofstudents.commailto:staffing@guild.bham.ac.uk?subject=Chair%20of%20the%20Board%20of%20Trustees
