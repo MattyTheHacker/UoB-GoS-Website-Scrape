@@ -40,3 +40,11 @@ def load_all_lists_from_file():
         with open('../lists/' + str(url_list) + '.txt', 'r') as f:
             for line in f:
                 get_variable_from_name(url_list).append(line.strip())
+
+# open the file specified by filename and return the list of urls
+def load_list_from_file(filename):
+    emails_urls = []
+    with open(filename, 'r') as f:
+        for line in f:
+            emails_urls.append(line.strip())
+    return emails_urls

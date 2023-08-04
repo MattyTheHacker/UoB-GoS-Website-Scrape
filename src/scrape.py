@@ -5,6 +5,7 @@ from url_utils import *
 from downloader import *
 from bs4 import BeautifulSoup
 import requests
+import strip_emails
 
 domain = 'https://www.guildofstudents.com'
 
@@ -73,3 +74,9 @@ if __name__ == '__main__':
     if answer == 'y':
         # download all the files
         download_all_files()
+
+    # ask if the user would like to strip emails from the files
+    answer = input("[INFO] Would you like to strip emails from all files? (y/n) ")
+    if answer == 'y':
+        # strip emails from all the files
+        strip_emails.strip_and_save_to_file()

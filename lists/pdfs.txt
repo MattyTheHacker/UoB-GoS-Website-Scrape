@@ -1,14 +1,15 @@
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf
 https://www.guildofstudents.com/assets/site_resources/Looking For A New Home 2019-20.pdf
-https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2023.pdf
 https://www.guildofstudents.com/asset/Job/124/Student-Groups-Coordinator-Job-Description-July-23.pdf
-https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
-https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Job-Description-and-Person-Specfication-Community-Warden-July-23.pdf
 https://www.guildofstudents.com/pageassets/support/studentmentors/who-are-student-mentors/Student-Mentors-Trolling-Advice.pdf
-https://www.guildofstudents.com/pageassets/advertising/Guild-Media-Pack-2223.pdf
 https://www.guildofstudents.com/pageassets/support/academicsupport/academicintegrity/Academic-Integrity-and-Plagiarism-advice-sheet.pdf
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
+https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
+https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
 https://www.guildofstudents.com/pageassets/elections/Officer-By-elections-2023-Full-Results-Tables.pdf
 https://www.guildofstudents.com/pageassets/elections/Candidate-Expenditure.pdf
 https://www.guildofstudents.com/pageassets/elections/Spring-Elections-23-Elections-Regulations-2022-23.pdf
@@ -123,7 +124,6 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Ethnic-M
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Ethical-Environmental-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Disabled-Students-Officer-Report(1).pdf
 https://www.guildofstudents.com/asset/Organisation/7435/Volunteer-description-TAPP-pdf.pdf
-https://www.guildofstudents.com/pageassets/studentstaff/Job-Description-and-Person-Specfication-Community-Warden-July-23.pdf
 https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Menu-Sept-2022.pdf
 https://www.guildofstudents.com/pageassets/support/shared-living/basic-diy/BGOS926-DIY-information-sheet_PRESS.pdf
 https://www.guildofstudents.com/pageassets/support/shared-living/living-together/BHMGOS0413_recipe_book_proof2_v8.pdf
@@ -152,6 +152,8 @@ https://www.guildofstudents.com/pageassets/studentreps/rephub/Student-Representa
 https://www.guildofstudents.com/pageassets/studentreps/becomearep/Terms-and-Conditions-Data-Sharing-21-22-converted.pdf
 https://www.guildofstudents.com/pageassets/blackvoices/Black-Voices-Manifesto-1022.pdf
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/8.7-Guild-History-Project_Web.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-17.07.23-1.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-24.07.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-18.07.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-25.07.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-01.08.22.pdf
@@ -396,6 +398,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/offi
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/scrutiny_panel/Scrutiny-Panel-Minutes-10.06.2019.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/scrutiny_panel/Scrutiny-Panel-Minutes-20.05.2019.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/scrutiny_panel/Scrutiny-Panel-Minutes-25-03-2019.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminutes/Agenda-Item-2-Minutes-of-Previous-Meeting-15.05.2023.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminutes/Agenda-Item-2-TB-Minutes-06.03.23.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminutes/Agenda-Item-1-TBoard-Minutes-09.01.23.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminutes/Agenda-Item-2-TB-Minutes-31.10.22.pdf
