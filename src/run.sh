@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# cd to correct directory
+cd /home/pi/Documents/UoB-GoS-Website-Scrape/src/
+
 # Run the python script
 python scrape_without_prompt.py
 
@@ -7,4 +10,4 @@ python scrape_without_prompt.py
 git add --all
 
 # Commit the files
-git commit -m $(date)
+git commit -m '$(date)'
