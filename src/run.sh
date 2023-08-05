@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run the python script
-python scrape.py
+python scrape_without_prompt.py
 
 # Add all files to git
 git add --all
