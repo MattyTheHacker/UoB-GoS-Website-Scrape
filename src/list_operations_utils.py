@@ -21,10 +21,17 @@ def check_all_lists_for_duplicates():
             url_list = remove_duplicates(url_list)
 
 
+def sort_list(list):
+    # sort the list in alphabetical order
+    return sorted(list, key=str.lower)
+
+
 # save the urls to a file
 def save_list_to_file(list, filename):
+    # sort the list in alphabetical order before saving
+    sorted_list = sort_list(list)
     with open(filename, 'w') as f:
-        for item in list:
+        for item in sorted_list:
             f.write("%s" % str(item))
             f.write("\n")
 
