@@ -572,8 +572,8 @@ https://www.guildofstudents.com/events/6691/7391/
 https://www.guildofstudents.com/events/6691/7392/
 https://www.guildofstudents.com/events/6691/7393/
 https://www.guildofstudents.com/events/6739/7712/
-https://www.guildofstudents.com/events/6739/7713/
 https://www.guildofstudents.com/events/6739/7714/
+https://www.guildofstudents.com/events/6739/7715/
 https://www.guildofstudents.com/events/7091/7635/
 https://www.guildofstudents.com/events/7427/7624/
 https://www.guildofstudents.com/events/7443/7614/
@@ -1627,8 +1627,8 @@ https://www.guildofstudents.commailto:disabledofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:doctorwho@guild.bham.ac.uk
 https://www.guildofstudents.commailto:dogsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:dpo@guild.bham.ac.uk
-https://www.guildofstudents.commailto:DSO@guild.bham.ac.uk
 https://www.guildofstudents.commailto:dso@guild.bham.ac.uk
+https://www.guildofstudents.commailto:DSO@guild.bham.ac.uk
 https://www.guildofstudents.commailto:E.Badger@guild.bham.ac.uk
 https://www.guildofstudents.commailto:eastafrican@guild.bham.ac.uk
 https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
@@ -1714,8 +1714,8 @@ https://www.guildofstudents.commailto:jfs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kabaddi@guild.bham.ac.uk
 https://www.guildofstudents.commailto:karaoke@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kase@guild.bham.ac.uk
-https://www.guildofstudents.commailto:KCover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
+https://www.guildofstudents.commailto:KCover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kickboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:koreansoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:labour@guild.bham.ac.uk
