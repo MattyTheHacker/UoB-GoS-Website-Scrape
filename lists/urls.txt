@@ -400,6 +400,7 @@ https://www.guildofstudents.com/about/enhancedtranscript/
 https://www.guildofstudents.com/about/impactreport
 https://www.guildofstudents.com/about/impactreport/
 https://www.guildofstudents.com/about/memberships/
+https://www.guildofstudents.com/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/about/ourhistory/
 https://www.guildofstudents.com/about/safeguardingpolicy
 https://www.guildofstudents.com/about/safeguardingpolicy/
@@ -561,6 +562,8 @@ https://www.guildofstudents.com/events/33868/7627/
 https://www.guildofstudents.com/events/40803/7639/
 https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6531/7711/
+https://www.guildofstudents.com/events/6531/7717/
+https://www.guildofstudents.com/events/6531/7718/
 https://www.guildofstudents.com/events/6539/7634/
 https://www.guildofstudents.com/events/6611/7626/
 https://www.guildofstudents.com/events/6691/7386/
@@ -574,6 +577,7 @@ https://www.guildofstudents.com/events/6691/7393/
 https://www.guildofstudents.com/events/6739/7712/
 https://www.guildofstudents.com/events/6739/7714/
 https://www.guildofstudents.com/events/6739/7715/
+https://www.guildofstudents.com/events/6739/7716/
 https://www.guildofstudents.com/events/7091/7635/
 https://www.guildofstudents.com/events/7427/7624/
 https://www.guildofstudents.com/events/7443/7614/
@@ -1007,6 +1011,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-30.08.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-30.09.19.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-31.01.22.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-31.07.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-31.08.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-31.10.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-development-committee-meetings/GPDG-January-2020-Minutes-PROVISIONAL.pdf
@@ -1264,6 +1269,7 @@ https://www.guildofstudents.com/representation/scrutinypanel/
 https://www.guildofstudents.com/shop/product/10096230/
 https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/

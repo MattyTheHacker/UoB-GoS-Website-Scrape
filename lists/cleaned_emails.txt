@@ -96,8 +96,8 @@ disabledofficer@guild.bham.ac.uk
 doctorwho@guild.bham.ac.uk
 dogsoc@guild.bham.ac.uk
 dpo@guild.bham.ac.uk
-DSO@guild.bham.ac.uk
 dso@guild.bham.ac.uk
+DSO@guild.bham.ac.uk
 E.Badger@guild.bham.ac.uk
 eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
@@ -183,8 +183,8 @@ jfs@guild.bham.ac.uk
 kabaddi@guild.bham.ac.uk
 karaoke@guild.bham.ac.uk
 kase@guild.bham.ac.uk
-KCover@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
+KCover@guild.bham.ac.uk
 kickboxing@guild.bham.ac.uk
 koreansoc@guild.bham.ac.uk
 labour@guild.bham.ac.uk
