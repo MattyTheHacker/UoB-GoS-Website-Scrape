@@ -337,5 +337,6 @@ womeninmedicine@guild.bham.ac.uk
 womeninpolitics@guild.bham.ac.uk
 womens@guild.bham.ac.uk
 womensofficer@guild.bham.ac.uk
+worklink@contacts.bham.ac.uk
 writersbloc@guild.bham.ac.uk
 yoga@guild.bham.ac.uk
