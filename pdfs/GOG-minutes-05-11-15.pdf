@@ -88,7 +88,7 @@ var trackOutboundLink = function(url) {
 <link href="/stylesheet/Redesign2016/msl-events.css?v=228" rel="stylesheet" type="text/css" />
 <link href="/stylesheet/Redesign2016/shopcatalogue.css?v=31" rel="stylesheet" type="text/css" />
 <link href="/stylesheet/Redesign2016/animate.min.css?v=3" rel="stylesheet" type="text/css" />
-<link href="/stylesheet/Redesign2016/admin2016.css?v=28" rel="stylesheet" type="text/css" />
+<link href="/stylesheet/Redesign2016/admin2016.css?v=29" rel="stylesheet" type="text/css" />
 
 <script src="/assets/site_resources/login-script.js "></script>
 <script>
@@ -98,13 +98,13 @@ $(document).ready(function(){
 </script></head>
     <body id="msl">
         <form name="aspnetForm" method="post" action="./?redirect=%2fpageassets%2frepresentation%2fguildcouncil%2fpastmeetingpaperwork%2fGOG-minutes-05-11-15.pdf" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
 
 
 <script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
-(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmkIWrUc5bqJw9CkZ05X7d5MrUkTi_Mmo3kqvdBQugsDQOVPGP0eKYw0v7SaloKIk_PkWf36LJr-3vAeH4lxjzydMrL9YtIEgEaPwUJky7SPWnMSdq9S75SMZc86IBgSrXZG29Y1&t=ffffffffaa493ab8"><\/script>');//]]>
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmkIWrUc5bqJw9CkZ05X7d5MrUkTi_Mmo3kqvdBQugsDQOVPGP0eKYw0v7SaloKIk_PkWf36LJr-3vAeH4lxjzydMrL9YtIEgEaPwUJky7SPWnMSdq9S75SMZc86IBgSrXZG29Y1&t=fffffffff4ed9dba"><\/script>');//]]>
 </script>
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7CD7556D" />
@@ -1085,42 +1085,40 @@ margin-top: 2px;
             <div class="account_login_title">
                 <div class="col-md-12">
                     <h1>Account <span class="head-bold">Login</span></h1>
-                
+
                 </div>
             </div>
         </div>
-        
+
         <div class="login_content_2017">
-            
+
             <div class="row">
                 <div class="col-xs-12">
                     <div class="well student-login-well">
                         <div class="row">
-                            <div class="col-md-9">
+                            <div class="col-xs-12">
                                 <h2 style="color: #fff;">Student <span class="head-bold">Login</span></h2>
-                                <p>If you’re a University of Birmingham student (including all freshers) – or have fully completed your university registration you can log in to our website with your University credentials.</p>
-                                <p>Having problems? Email: <a href="mailto:website@guild.bham.ac.uk" style="color: #fff;">website@guild.bham.ac.uk</a></p>
-                            </div>
-                            <div class="col-md-3 well-button-col">
+                                <p>If you’re a University of Birmingham student (including all freshers) you can log in to our website with your University credentials.</p>
                                 <div class="mslwidget btn btn-blue btn-lg btn-block btn-uni-login">
 	
-<a id="ctl00_ctl17_hlExtLogin" class="msl-sso-login-link" rel="nofollow" href="/sso/login.ashx?idp=BHAM_SHIB&amp;ReturnUrl=/pageassets/representation/guildcouncil/pastmeetingpaperwork/GOG-minutes-05-11-15.pdf">Log in using your University credentials</a>
+<a id="ctl00_ctl17_hlExtLogin" class="msl-sso-login-link" rel="nofollow" href="/sso/login.ashx?idp=BHAM_SHIB&amp;ReturnUrl=/pageassets/representation/guildcouncil/pastmeetingpaperwork/GOG-minutes-05-11-15.pdf">Login Using Your University Credentials</a>
 
 
-</div> 
-                                <!-- <a class="btn btn-primary" href="https://www.my.bham.ac.uk/cp/home/displaylogin" style="padding: 5%; width: 100%;" target="_blank">Login via my.bham</a> -->
+</div>
+                                <p>Having problems? First make sure that you have <a href="https://www.birmingham.ac.uk/welcome/before/online-registration.aspx" style="text-decoration:underline">registered or re-registered with the University</a> (required every academic year) and then wait a few days for the University to send us your information. </p>
+                                <p>Still having problems? Contact <a href="mailto:website@guild.bham.ac.uk" style="text-decoration:underline">website@guild.bham.ac.uk</a>.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            
+
              <div class="row">
                 <div class="col-xs-12">
                     <div class="well staff-login-well">
                         <h2 style="color: #fff;">Staff / Employer / Guest <span class="head-bold">Login</span></h2>
                         <p>If you’re a member of staff or you’ve already created a guest account on our website, then you can log in here: </p>
-                        <div class="mslwidget">
+                        <div class="mslwidget btn-block btn-lg">
 
 <div class="sidepanel">
 
@@ -1155,46 +1153,45 @@ margin-top: 2px;
                     </div>
                 </div>
             </div>
-            
+
             <div class="row">
                 <div class="col-xs-12">
                     <h2>Don't Have <span class="head-bold">An Account?</span></h2>
                     <p style="color: #393b40;">If you are not a student and do not already have an account with the Guild, please use the below links to create a new account</p>
                 </div>
             </div>
-            
-            
+
+
             <div class="row">
                 <div class="col-xs-12">
                     <div class="well guest-login-well">
                         <div class="row">
-                            <div class="col-md-9">
+                            <div class="col-xs-12">
                                 <h2 style="color: #fff;">Create <span class="head-bold">Guest Account</span></h2>
-                                <p>If you’re not a current University of Birmingham student, you’ll need to create a Guest account to log into our website. Once you’ve done this, you’ll be able to purchase tickets and join groups. It’s quick and easy to get sorted, and you can <a href="mailto:website@guild.bham.ac.uk" style="color: #fff;"> email website@guild.bham.ac.uk</a> if you have any problems.</p>
-                            </div>
-                            <div class="col-md-3" style="margin-top: 7%;">
-                                <a class="btn btn-blue btn-lg btn-block" href="https://www.guildofstudents.com/account/register/guest/">Create Account</a>
+                                <p>If you&rsquo;re not a current University of Birmingham student, you can create a Guest account to log into our website. It&rsquo;s quick and easy to get sorted.</p>
+                                <a class="btn btn-blue btn-lg btn-block mt-4" href="https://www.guildofstudents.com/account/register/guest/">Create Account</a>
+                                <p>Having problems? Email us at <a href="mailto:website@guild.bham.ac.uk" style="text-decoration:underline">website@guild.bham.ac.uk</a>.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            
-            
+
+
             <!--
             <div class="row" style="background-color: #74a300;  margin-top: 2%; margin-bottom: 2%;padding: 2%;">
             <div class="col-md-9">
             <h2 style="color: #fff;">EMPLOYER</h2>
-            
+
             <p>If you’re an employer , you’ll need to create a guest account with us to list your vacancies on the Guild Jobs search site.</p>
             <p>It’s quick and easy to get sorted, and you can <a href="mailto:website@guild.bham.ac.uk" style="color: #fff;">email website@guild.bham.ac.uk </a>if you have any problems.</p>
             </div>
-            
+
             <div class="col-md-3" style="margin-top:7%;"><a class="btn btn-primary" href="https://www.guildofstudents.com/account/register/Employer/" style="padding: 5%; width: 100%;" target="_blank">Create account</a></div>
             </div>
             -->
-            
-        
+
+
         </div>
     </div>
 </div>
@@ -1520,6 +1517,7 @@ font-size: 9pt;
 </div>
 
 
+
 	        
 	        
 
@@ -1531,7 +1529,7 @@ font-size: 9pt;
 	        
             </div>
 
-            <script type="text/javascript" src="/stylesheet/Redesign2016/default-behaviour.js?v=100"></script>
+            <script type="text/javascript" src="/stylesheet/Redesign2016/default-behaviour.js?v=103"></script>
 <script type="text/javascript" src="/stylesheet/Redesign2016/elections.js?v=52"></script>
 
             
