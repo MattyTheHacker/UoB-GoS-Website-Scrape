@@ -415,7 +415,8 @@ https://www.guildofstudents.com/about/trusteeboard/
 https://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
 https://www.guildofstudents.com/about/trusteeboard/subcommittees/
 https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/
-https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/chairofboard/
+https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/externaltrustee/
+https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/studentrustee/
 https://www.guildofstudents.com/about/trusteeboard/whoarethetrustees/
 https://www.guildofstudents.com/about/your-union/workwithus/currentvacancies/
 https://www.guildofstudents.com/about/your-union/workwithus/howtocompleteanapplication/
@@ -800,9 +801,13 @@ https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminute
 https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminutes/TB-Minutes-25.10.21.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/10.-The-Essential-Trustee-Guide.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/8.-Education-Act.pdf
-https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/chairofboard/Chair-of-Trustees-Role-Description-Person-Specification.pdf
-https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/chairofboard/EDI-Monitoring-Form-2023.docx
-https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/chairofboard/Guild-Chair-of-trustee-document-pack.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/1.-External-Trustee-Advert-Aug-23.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/2.-External-Trustee-Candidate-Information-Pack-Aug-23.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/3.-Application-Form-External-Trustee-Paper-Version-Aug-23.docx
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/studentrustee/1.-Student-Trustee-Information-Pack-August-2023.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/studentrustee/2.-Student-Trustee-Advert-August-2023.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/studentrustee/3.-Student-Trustee-Role-Description-Person-Specification.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/studentrustee/4.-Application-Form-For-Off-Line-Use.docx
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/Trustee-Role-Description-and-Person-Spec.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf
 https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2023.pdf
@@ -1318,6 +1323,7 @@ https://www.guildofstudents.com/studentgroups/societies/39181/
 https://www.guildofstudents.com/studentgroups/societies/39195/
 https://www.guildofstudents.com/studentgroups/societies/39298/
 https://www.guildofstudents.com/studentgroups/societies/39307/
+https://www.guildofstudents.com/studentgroups/societies/39316/
 https://www.guildofstudents.com/studentgroups/societies/39380/
 https://www.guildofstudents.com/studentgroups/societies/40426/
 https://www.guildofstudents.com/studentgroups/societies/40456/
@@ -1766,6 +1772,8 @@ https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:KCover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kickboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:koreansoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=External%20Trustee
+https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=Student%20Trustee
 https://www.guildofstudents.commailto:labour@guild.bham.ac.uk
 https://www.guildofstudents.commailto:larp@guild.bham.ac.uk
 https://www.guildofstudents.commailto:lassoc@guild.bham.ac.uk
