@@ -611,6 +611,7 @@ https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/Guild-Statement-Confirmation-of-the-reintroduction-of-External-Memberships/
 https://www.guildofstudents.com/news/article/website/How-to-Make-the-Most-of-Your-Summer-at-Home/
 https://www.guildofstudents.com/news/article/website/Marks-Out-Of-Tenancy-Renting-Done-Right/
+https://www.guildofstudents.com/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Summer-Opening-Times/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
@@ -892,6 +893,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-06.12.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-07.02.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-07.03.23.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-07.08.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-07.09.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-07.10.19.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-07.11.22.pdf
@@ -1323,7 +1325,6 @@ https://www.guildofstudents.com/studentgroups/societies/39181/
 https://www.guildofstudents.com/studentgroups/societies/39195/
 https://www.guildofstudents.com/studentgroups/societies/39298/
 https://www.guildofstudents.com/studentgroups/societies/39307/
-https://www.guildofstudents.com/studentgroups/societies/39316/
 https://www.guildofstudents.com/studentgroups/societies/39380/
 https://www.guildofstudents.com/studentgroups/societies/40426/
 https://www.guildofstudents.com/studentgroups/societies/40456/
@@ -1772,6 +1773,7 @@ https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:KCover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kickboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:koreansoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
 https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=External%20Trustee
 https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=Student%20Trustee
 https://www.guildofstudents.commailto:labour@guild.bham.ac.uk
@@ -1871,7 +1873,6 @@ https://www.guildofstudents.commailto:sops@guild.bham.ac.uk
 https://www.guildofstudents.commailto:spanish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sports@guild.bham.ac.uk
 https://www.guildofstudents.commailto:srilankan@guild.bham.ac.uk
-https://www.guildofstudents.commailto:staffing@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
 https://www.guildofstudents.commailto:star1@guild.bham.ac.uk
 https://www.guildofstudents.commailto:stmarys@guild.bham.ac.uk
 https://www.guildofstudents.commailto:Strategicconsulting@guild.bham.ac.uk
