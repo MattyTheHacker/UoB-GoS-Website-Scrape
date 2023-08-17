@@ -27,6 +27,7 @@ https://www.guildofstudents.com#accord2-1
 https://www.guildofstudents.com#accord3-1
 https://www.guildofstudents.com#accord4-1
 https://www.guildofstudents.com#accord5-1
+https://www.guildofstudents.com#accord6-1
 https://www.guildofstudents.com#accordright-1
 https://www.guildofstudents.com#accordright2-1
 https://www.guildofstudents.com#accordright5-1
@@ -1286,6 +1287,7 @@ https://www.guildofstudents.com/representation/committee-minutes/guild-officer-g
 https://www.guildofstudents.com/representation/committee-minutes/scrutiny_panel/
 https://www.guildofstudents.com/representation/committee-minutes/sgx-minutes/
 https://www.guildofstudents.com/representation/committee-minutes/student-equality-and-diversity-minutes/
+https://www.guildofstudents.com/representation/democraticsystem/
 https://www.guildofstudents.com/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/representation/scrutinypanel/
 https://www.guildofstudents.com/shop/product/10096230/

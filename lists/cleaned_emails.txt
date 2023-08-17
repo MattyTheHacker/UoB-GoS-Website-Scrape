@@ -189,6 +189,7 @@ kickboxing@guild.bham.ac.uk
 koreansoc@guild.bham.ac.uk
 l.clark@guild.bham.ac.uk
 l.clark@guild.bham.ac.uk
+l.clark@guild.bham.ac.uk
 labour@guild.bham.ac.uk
 larp@guild.bham.ac.uk
 lassoc@guild.bham.ac.uk
@@ -286,7 +287,6 @@ sops@guild.bham.ac.uk
 spanish@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
-staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 stmarys@guild.bham.ac.uk
 Strategicconsulting@guild.bham.ac.uk
