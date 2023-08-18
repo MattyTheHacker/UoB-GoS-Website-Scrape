@@ -17,6 +17,7 @@ def strip_emails_from_urls():
         cleaned_emails.append(url)
 
 def remove_duplicates():
+    global cleaned_emails
     cleaned_emails = list(dict.fromkeys(cleaned_emails))
 
 def strip_and_save_to_file():

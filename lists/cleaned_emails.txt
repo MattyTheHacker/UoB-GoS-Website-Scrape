@@ -142,8 +142,6 @@ got@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
-guildadvice@guild.bham.ac.uk
-guildadvice@guild.bham.ac.uk
 hallreps@guild.bham.ac.uk
 headucate@guild.bham.ac.uk
 hellenic@guild.bham.ac.uk
@@ -187,8 +185,6 @@ kcover@guild.bham.ac.uk
 KCover@guild.bham.ac.uk
 kickboxing@guild.bham.ac.uk
 koreansoc@guild.bham.ac.uk
-l.clark@guild.bham.ac.uk
-l.clark@guild.bham.ac.uk
 l.clark@guild.bham.ac.uk
 labour@guild.bham.ac.uk
 larp@guild.bham.ac.uk
@@ -291,8 +287,6 @@ star1@guild.bham.ac.uk
 stmarys@guild.bham.ac.uk
 Strategicconsulting@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
-studentgroups@guild.bham.ac.uk
-studentgroups@guild.bham.ac.uk
 studentgroups@guild.bham.ac.uk
 studenthousingadvice@contacts.bham.ac.uk
 studentparent@guild.bham.ac.uk
