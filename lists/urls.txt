@@ -523,6 +523,7 @@ https://www.guildofstudents.com/ents/event/7722/
 https://www.guildofstudents.com/ents/event/7723/
 https://www.guildofstudents.com/ents/event/7728/
 https://www.guildofstudents.com/ents/event/7730/
+https://www.guildofstudents.com/ents/event/7737/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -569,7 +570,6 @@ https://www.guildofstudents.com/events/20372/7641/
 https://www.guildofstudents.com/events/20913/7620/
 https://www.guildofstudents.com/events/22549/2581/
 https://www.guildofstudents.com/events/25675/7629/
-https://www.guildofstudents.com/events/33868/7627/
 https://www.guildofstudents.com/events/40757/7733/
 https://www.guildofstudents.com/events/40803/7639/
 https://www.guildofstudents.com/events/6043/7625/
@@ -588,6 +588,11 @@ https://www.guildofstudents.com/events/6691/7390/
 https://www.guildofstudents.com/events/6691/7391/
 https://www.guildofstudents.com/events/6691/7392/
 https://www.guildofstudents.com/events/6691/7393/
+https://www.guildofstudents.com/events/6715/7724/
+https://www.guildofstudents.com/events/6715/7725/
+https://www.guildofstudents.com/events/6715/7726/
+https://www.guildofstudents.com/events/6715/7727/
+https://www.guildofstudents.com/events/6715/7729/
 https://www.guildofstudents.com/events/6739/7712/
 https://www.guildofstudents.com/events/6739/7714/
 https://www.guildofstudents.com/events/6739/7715/
@@ -598,6 +603,7 @@ https://www.guildofstudents.com/events/7427/7624/
 https://www.guildofstudents.com/events/7443/7614/
 https://www.guildofstudents.com/events/7491/7642/
 https://www.guildofstudents.com/events/7515/7630/
+https://www.guildofstudents.com/events/7523/7738/
 https://www.guildofstudents.com/events/7727/7623/
 https://www.guildofstudents.com/eventsandtickets/fabnfresh
 https://www.guildofstudents.com/footer/cookiepolicy/
@@ -614,6 +620,7 @@ https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/Guild-Statement-Confirmation-of-the-reintroduction-of-External-Memberships/
 https://www.guildofstudents.com/news/article/website/How-to-Make-the-Most-of-Your-Summer-at-Home/
 https://www.guildofstudents.com/news/article/website/Marks-Out-Of-Tenancy-Renting-Done-Right/
+https://www.guildofstudents.com/news/article/website/Official-Welcome-Events/
 https://www.guildofstudents.com/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Summer-Opening-Times/
@@ -1558,7 +1565,12 @@ https://www.guildofstudents.com/welcome/events/event/7710/
 https://www.guildofstudents.com/welcome/events/event/7721/
 https://www.guildofstudents.com/welcome/events/event/7722/
 https://www.guildofstudents.com/welcome/events/event/7723/
+https://www.guildofstudents.com/welcome/events/event/7724/
+https://www.guildofstudents.com/welcome/events/event/7725/
+https://www.guildofstudents.com/welcome/events/event/7726/
+https://www.guildofstudents.com/welcome/events/event/7727/
 https://www.guildofstudents.com/welcome/events/event/7728/
+https://www.guildofstudents.com/welcome/events/event/7729/
 https://www.guildofstudents.com/welcome/events/event/7730/
 https://www.guildofstudents.com/welcome/events/event/7733/
 https://www.guildofstudents.com/welcome/events/event/7734/
@@ -1566,6 +1578,7 @@ https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
 https://www.guildofstudents.com/welcome/news
+https://www.guildofstudents.com/welcome/news/article/website/Official-Welcome-Events/
 https://www.guildofstudents.com/welcome/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/welcome/postgraduate
 https://www.guildofstudents.com/welcome/settlingin
