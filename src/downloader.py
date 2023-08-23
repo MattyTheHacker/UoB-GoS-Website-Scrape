@@ -1,8 +1,16 @@
+from requests.adapters import HTTPAdapter, Retry
 from list_operations_utils import *
 import requests
 
 fail_count = 0
 fail_limit = 15
+
+session = requests.Session()
+
+retries = Retry(total=10, backoff_factor=30, status_forcelist=[500, 502, 503, 504])
+
+session.mount('http://', HTTPAdapter(max_retries=retries))
+
 
 def download_file(url, destination_folder):
     # if we fail 5 times, stop the script
@@ -22,7 +30,7 @@ def download_file(url, destination_folder):
 
     # download the file
     try:
-        r = requests.get(url, allow_redirects=True)
+        r = session.get(url, allow_redirects=True)
 
         if r is None:
             print("[ERROR] Something went wrong with url: " + url)

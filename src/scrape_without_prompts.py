@@ -1,5 +1,6 @@
 # python script to scrape an entire website recursively
 from file_type_utils import *
+from requests.adapters import HTTPAdapter, Retry
 from list_operations_utils import *
 from url_utils import *
 from downloader import *
@@ -9,10 +10,16 @@ import strip_emails
 
 domain = 'https://www.guildofstudents.com'
 
+session = requests.Session()
+
+retries = Retry(total=10, backoff_factor=30, status_forcelist=[500, 502, 503, 504])
+
+session.mount('http://', HTTPAdapter(max_retries=retries))
+
 # method to scrape the site recursively
 def scrape(site):
     try:
-        r = requests.get(site)
+        r = session.get(site)
         soup = BeautifulSoup(r.content, 'html.parser')
         for link in soup.find_all('a'):
             url = link.get('href')
