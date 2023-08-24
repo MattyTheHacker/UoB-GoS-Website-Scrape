@@ -5,6 +5,7 @@ from list_operations_utils import *
 from url_utils import *
 from downloader import *
 from bs4 import BeautifulSoup
+from notif_utils import *
 import requests
 import strip_emails
 
@@ -79,3 +80,10 @@ if __name__ == '__main__':
 
     # strip emails from all the files
     strip_emails.strip_and_save_to_file()
+
+    # check for changes, if so, send a notification
+    if check_for_changes():
+        print("[INFO] Changes detected, sending notification...")
+        new_website_changes_detected()
+    else:
+        print("[INFO] No changes detected.")

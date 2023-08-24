@@ -665,7 +665,6 @@ https://www.guildofstudents.com/organisation/38832/
 https://www.guildofstudents.com/organisation/38880/
 https://www.guildofstudents.com/organisation/38920/
 https://www.guildofstudents.com/organisation/39078/
-https://www.guildofstudents.com/organisation/39091/
 https://www.guildofstudents.com/organisation/39107/
 https://www.guildofstudents.com/organisation/39116/
 https://www.guildofstudents.com/organisation/39365/
@@ -704,6 +703,7 @@ https://www.guildofstudents.com/organisation/beerpongsociety/
 https://www.guildofstudents.com/organisation/benchball/
 https://www.guildofstudents.com/organisation/bhangra/
 https://www.guildofstudents.com/organisation/biosoc/
+https://www.guildofstudents.com/organisation/blood/
 https://www.guildofstudents.com/organisation/bookclub/
 https://www.guildofstudents.com/organisation/brumski/
 https://www.guildofstudents.com/organisation/brumsurf/
