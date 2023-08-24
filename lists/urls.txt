@@ -518,6 +518,11 @@ https://www.guildofstudents.com/ents/event/7737/
 https://www.guildofstudents.com/ents/event/7747/
 https://www.guildofstudents.com/ents/event/7748/
 https://www.guildofstudents.com/ents/event/7749/
+https://www.guildofstudents.com/ents/event/7750/
+https://www.guildofstudents.com/ents/event/7751/
+https://www.guildofstudents.com/ents/event/7752/
+https://www.guildofstudents.com/ents/event/7753/
+https://www.guildofstudents.com/ents/event/7754/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -774,6 +779,7 @@ https://www.guildofstudents.com/organisation/philosophy/
 https://www.guildofstudents.com/organisation/physiosoc/
 https://www.guildofstudents.com/organisation/planning/
 https://www.guildofstudents.com/organisation/poker/
+https://www.guildofstudents.com/organisation/pokesoc/
 https://www.guildofstudents.com/organisation/polefitness/
 https://www.guildofstudents.com/organisation/politics/
 https://www.guildofstudents.com/organisation/pottersoc/
@@ -1557,6 +1563,11 @@ https://www.guildofstudents.com/welcome/events/event/7733/
 https://www.guildofstudents.com/welcome/events/event/7734/
 https://www.guildofstudents.com/welcome/events/event/7747/
 https://www.guildofstudents.com/welcome/events/event/7748/
+https://www.guildofstudents.com/welcome/events/event/7750/
+https://www.guildofstudents.com/welcome/events/event/7751/
+https://www.guildofstudents.com/welcome/events/event/7752/
+https://www.guildofstudents.com/welcome/events/event/7753/
+https://www.guildofstudents.com/welcome/events/event/7754/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
@@ -1832,6 +1843,7 @@ https://www.guildofstudents.commailto:physiosoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:planning@guild.bham.ac.uk
 https://www.guildofstudents.commailto:plasticfree@guild.bham.ac.uk
 https://www.guildofstudents.commailto:poker@guild.bham.ac.uk
+https://www.guildofstudents.commailto:pokesoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:polefitness@guild.bham.ac.uk
 https://www.guildofstudents.commailto:polish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:politics@guild.bham.ac.uk
