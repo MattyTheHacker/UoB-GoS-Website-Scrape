@@ -19,7 +19,6 @@ http://www.guildofstudents.com/sustainability/gogreenweek
 http://www.guildofstudents.com/welcome
 https://www.guildofstudents.com
 https://www.guildofstudents.com#
-https://www.guildofstudents.com#aboutguild-1
 https://www.guildofstudents.com#accord-1
 https://www.guildofstudents.com#accord-2223
 https://www.guildofstudents.com#accord-2324
@@ -72,7 +71,6 @@ https://www.guildofstudents.com#getintouch
 https://www.guildofstudents.com#hmo
 https://www.guildofstudents.com#howrep-1
 https://www.guildofstudents.com#instagrammore
-https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#jarratthallinfo
 https://www.guildofstudents.com#junkbusters
 https://www.guildofstudents.com#mapleinfo
@@ -84,7 +82,6 @@ https://www.guildofstudents.com#navcal
 https://www.guildofstudents.com#navfilter
 https://www.guildofstudents.com#neighbour
 https://www.guildofstudents.com#newsblogs
-https://www.guildofstudents.com#next-1
 https://www.guildofstudents.com#noise
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
@@ -99,7 +96,6 @@ https://www.guildofstudents.com#shackletoninfo
 https://www.guildofstudents.com#sleepCarousel
 https://www.guildofstudents.com#spinneyinfo
 https://www.guildofstudents.com#standardassured
-https://www.guildofstudents.com#student-blog-1
 https://www.guildofstudents.com#studiosinfo
 https://www.guildofstudents.com#submission
 https://www.guildofstudents.com#tenancy
@@ -439,12 +435,7 @@ https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws
 https://www.guildofstudents.com/assets/site_resources/Looking For A New Home 2019-20.pdf
 https://www.guildofstudents.com/blackvoices/
 https://www.guildofstudents.com/blogs/blog/officers-23-24/
-https://www.guildofstudents.com/blogs/blog/studentstaff/
-https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Amy-Student-Mentor/
-https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Community-Wardens/
-https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Fatima-Hall-Rep/
 https://www.guildofstudents.com/blogs/rss/officers-23-24/
-https://www.guildofstudents.com/blogs/rss/studentstaff/
 https://www.guildofstudents.com/community-wardens/cleaner-and-greener/junkbusters/
 https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
@@ -567,6 +558,7 @@ https://www.guildofstudents.com/events/20372/7641/
 https://www.guildofstudents.com/events/20913/7620/
 https://www.guildofstudents.com/events/22549/2581/
 https://www.guildofstudents.com/events/25675/7629/
+https://www.guildofstudents.com/events/33868/7745/
 https://www.guildofstudents.com/events/40757/7733/
 https://www.guildofstudents.com/events/40803/7639/
 https://www.guildofstudents.com/events/6203/7640/
@@ -1268,18 +1260,6 @@ https://www.guildofstudents.com/pageassets/studentreps/rephub/Training-College-o
 https://www.guildofstudents.com/pageassets/studentreps/rephub/Training-College-of-Life-and-Environmental-Sciences.pptx
 https://www.guildofstudents.com/pageassets/studentreps/rephub/Training-College-of-Medical-and-Dental-Sciences.pptx
 https://www.guildofstudents.com/pageassets/studentreps/rephub/Training-Senior-Student-Representatives.pptx
-https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
-https://www.guildofstudents.com/pageassets/studentstaff/Bar-Assistant-JD-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Catering-Assistant-JD-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Guild-Advice-Reception-Assistant-Job-Description-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/JD-Student-Photographer-and-Videographer-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Scrutiny-Panel-Job-Description-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Security-Assistant-Job-Description-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Student-Voice-Assistant-Job-Description-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Technical-Services-Assistant-JD-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Waki-Maki-Catering-Assistant-JD-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Waki-Maki-Senior-Catering-Assistant-JD-August-23.docx
-https://www.guildofstudents.com/pageassets/studentstaff/Welcome-Week-Crew-CM-Job-Description-August-23.docx
 https://www.guildofstudents.com/pageassets/support/academic/academic-support/plagiarism/GA-Plagiarism-Flyer-2019.pdf
 https://www.guildofstudents.com/pageassets/support/academicsupport/academicintegrity/Academic-Integrity-and-Plagiarism-advice-sheet.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
