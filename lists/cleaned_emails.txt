@@ -237,6 +237,7 @@ physiosoc@guild.bham.ac.uk
 planning@guild.bham.ac.uk
 plasticfree@guild.bham.ac.uk
 poker@guild.bham.ac.uk
+pokesoc@guild.bham.ac.uk
 polefitness@guild.bham.ac.uk
 polish@guild.bham.ac.uk
 politics@guild.bham.ac.uk
