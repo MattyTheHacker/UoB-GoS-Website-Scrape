@@ -115,6 +115,7 @@ https://www.guildofstudents.com//instagram.com/afrodance_uob
 https://www.guildofstudents.com//instagram.com/amnesty_uob
 https://www.guildofstudents.com//instagram.com/bakingsocietyuob
 https://www.guildofstudents.com//instagram.com/beatuob
+https://www.guildofstudents.com//instagram.com/bedsoc
 https://www.guildofstudents.com//instagram.com/bhameasoc
 https://www.guildofstudents.com//instagram.com/bhameconsoc
 https://www.guildofstudents.com//instagram.com/bhamemiratisoc
@@ -310,6 +311,7 @@ https://www.guildofstudents.com//twitter.com/afrodance_uob
 https://www.guildofstudents.com//twitter.com/AMSA_Bham
 https://www.guildofstudents.com//twitter.com/BakingUob
 https://www.guildofstudents.com//twitter.com/BeatUoB
+https://www.guildofstudents.com//twitter.com/BED_soc
 https://www.guildofstudents.com//twitter.com/BEMA_Online
 https://www.guildofstudents.com//twitter.com/BFootnotes
 https://www.guildofstudents.com//twitter.com/Bham4Choice
@@ -527,8 +529,10 @@ https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
+https://www.guildofstudents.com/ents/eventlist/?month=8&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=9&year=2023
 https://www.guildofstudents.com/ents/eventlist/club/
+https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
 https://www.guildofstudents.com/ents/eventlist/fab/
@@ -538,6 +542,7 @@ https://www.guildofstudents.com/ents/eventlist/giveitago/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
+https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
@@ -699,6 +704,7 @@ https://www.guildofstudents.com/organisation/baking/
 https://www.guildofstudents.com/organisation/balads/
 https://www.guildofstudents.com/organisation/batsoc/
 https://www.guildofstudents.com/organisation/beat/
+https://www.guildofstudents.com/organisation/bedsoc/
 https://www.guildofstudents.com/organisation/beerpongsociety/
 https://www.guildofstudents.com/organisation/benchball/
 https://www.guildofstudents.com/organisation/bhangra/
@@ -1630,6 +1636,7 @@ https://www.guildofstudents.commailto:baking@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ballroom@guild.bham.ac.uk
 https://www.guildofstudents.commailto:batsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:beat@guild.bham.ac.uk
+https://www.guildofstudents.commailto:bedsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:BeerPong@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bema@guild.bham.ac.uk
 https://www.guildofstudents.commailto:benchball@guild.bham.ac.uk
