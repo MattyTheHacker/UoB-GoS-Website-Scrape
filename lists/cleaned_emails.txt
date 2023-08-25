@@ -26,6 +26,7 @@ baking@guild.bham.ac.uk
 ballroom@guild.bham.ac.uk
 batsoc@guild.bham.ac.uk
 beat@guild.bham.ac.uk
+bedsoc@guild.bham.ac.uk
 BeerPong@guild.bham.ac.uk
 bema@guild.bham.ac.uk
 benchball@guild.bham.ac.uk
