@@ -10,6 +10,7 @@ import requests
 import strip_emails
 
 domain = 'https://www.guildofstudents.com'
+base_url = "https://www.guildofstudents.com/sitemap/"
 
 session = requests.Session()
 
@@ -57,7 +58,7 @@ def scrape(site):
 
 if __name__ == '__main__':
     # Re-run the scrape
-    scrape(domain)
+    scrape(base_url)
 
     # check for duplicates
     print("[INFO] Checking for duplicates...")

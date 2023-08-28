@@ -62,6 +62,7 @@ https://www.guildofstudents.com#collapseTen
 https://www.guildofstudents.com#collapseThree
 https://www.guildofstudents.com#collapseTwo
 https://www.guildofstudents.com#counciltax
+https://www.guildofstudents.com#ctl00_Main_tvPages_SkipLink
 https://www.guildofstudents.com#demo
 https://www.guildofstudents.com#deposits
 https://www.guildofstudents.com#electionextras-1
@@ -684,7 +685,7 @@ https://www.guildofstudents.com/organisation/40369/
 https://www.guildofstudents.com/organisation/40488/
 https://www.guildofstudents.com/organisation/40820/
 https://www.guildofstudents.com/organisation/40835/
-https://www.guildofstudents.com/organisation/40835/Â 
+https://www.guildofstudents.com/organisation/40835/ 
 https://www.guildofstudents.com/organisation/40846/
 https://www.guildofstudents.com/organisation/40986/
 https://www.guildofstudents.com/organisation/41191/
@@ -1605,6 +1606,7 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl31$filterList',
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8613')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8674')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
+https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$skillstrainingcourselist$rptCourseType$ctl01$lbType','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$skillstrainingcourselist$rptCourseType$ctl02$lbType','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$skillstrainingcourselist$rptCourseType$ctl03$lbType','')
