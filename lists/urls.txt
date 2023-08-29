@@ -699,7 +699,6 @@ https://www.guildofstudents.com/organisation/40369/
 https://www.guildofstudents.com/organisation/40488/
 https://www.guildofstudents.com/organisation/40820/
 https://www.guildofstudents.com/organisation/40835/
-https://www.guildofstudents.com/organisation/40835/ 
 https://www.guildofstudents.com/organisation/40846/
 https://www.guildofstudents.com/organisation/40986/
 https://www.guildofstudents.com/organisation/41191/
@@ -1015,6 +1014,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.03.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.05.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.06.20.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.08.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.11.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-16.01.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-16.05.22.pdf
@@ -1046,6 +1046,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-20.06.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-20.07.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-21.03.22.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-21.08.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-21.10.19.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-21.11.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-22.02.21.pdf
@@ -1891,8 +1892,8 @@ https://www.guildofstudents.commailto:Psychedelics@guild.bham.ac.uk
 https://www.guildofstudents.commailto:psychologysoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:publicspeakingsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:punjabi@guild.bham.ac.uk
-https://www.guildofstudents.commailto:queerartsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:QueerArtSociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:queerartsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:quiz@guild.bham.ac.uk
 https://www.guildofstudents.commailto:r.snook@bham.ac.uk
 https://www.guildofstudents.commailto:railway@guild.bham.ac.uk
