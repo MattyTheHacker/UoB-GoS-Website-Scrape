@@ -402,6 +402,7 @@ https://www.guildofstudents.com//twitter.com/UoBWelsh
 https://www.guildofstudents.com//twitter.com/UoBWiF
 https://www.guildofstudents.com//twitter.com/wanba_uob
 https://www.guildofstudents.com//twitter.com/WatchThisBham
+https://www.guildofstudents.com//twitter.com/womeninlaw_uob
 https://www.guildofstudents.com//twitter.com/WritersBlocUoB
 https://www.guildofstudents.com//www.guildofstudents.com/
 https://www.guildofstudents.com/about/
@@ -597,7 +598,7 @@ https://www.guildofstudents.com/events/25675/7629/
 https://www.guildofstudents.com/events/33868/7745/
 https://www.guildofstudents.com/events/40757/7733/
 https://www.guildofstudents.com/events/40835/7746/
-https://www.guildofstudents.com/events/41025/7762/
+https://www.guildofstudents.com/events/41025/7777/
 https://www.guildofstudents.com/events/41292/7639/
 https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6371/7735/
@@ -651,7 +652,6 @@ https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/Guild-Statement-Confirmation-of-the-reintroduction-of-External-Memberships/
-https://www.guildofstudents.com/news/article/website/Marks-Out-Of-Tenancy-Renting-Done-Right/
 https://www.guildofstudents.com/news/article/website/Official-Welcome-Events/
 https://www.guildofstudents.com/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
@@ -1606,7 +1606,6 @@ https://www.guildofstudents.com/welcome/events/event/7751/
 https://www.guildofstudents.com/welcome/events/event/7752/
 https://www.guildofstudents.com/welcome/events/event/7753/
 https://www.guildofstudents.com/welcome/events/event/7754/
-https://www.guildofstudents.com/welcome/events/event/7762/
 https://www.guildofstudents.com/welcome/events/event/7763/
 https://www.guildofstudents.com/welcome/events/event/7764/
 https://www.guildofstudents.com/welcome/events/event/7765/
@@ -1616,6 +1615,7 @@ https://www.guildofstudents.com/welcome/events/event/7772/
 https://www.guildofstudents.com/welcome/events/event/7773/
 https://www.guildofstudents.com/welcome/events/event/7774/
 https://www.guildofstudents.com/welcome/events/event/7775/
+https://www.guildofstudents.com/welcome/events/event/7777/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
@@ -1904,7 +1904,6 @@ https://www.guildofstudents.commailto:powerlifting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:powersoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ppe@guild.bham.ac.uk
 https://www.guildofstudents.commailto:presessional@contacts.bham.ac.uk
-https://www.guildofstudents.commailto:president.womeninlawuob@gmail.com
 https://www.guildofstudents.commailto:president@guild.bham.ac.uk
 https://www.guildofstudents.commailto:Psychedelics@guild.bham.ac.uk
 https://www.guildofstudents.commailto:psychologysoc@guild.bham.ac.uk
@@ -1990,6 +1989,7 @@ https://www.guildofstudents.commailto:weightlifting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:welfare@guild.bham.ac.uk
 https://www.guildofstudents.commailto:welsh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninfinance@guild.bham.ac.uk
+https://www.guildofstudents.commailto:womeninlaw@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninmedicine@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninpolitics@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womens@guild.bham.ac.uk
