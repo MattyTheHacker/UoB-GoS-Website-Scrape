@@ -249,7 +249,6 @@ powerlifting@guild.bham.ac.uk
 powersoc@guild.bham.ac.uk
 ppe@guild.bham.ac.uk
 presessional@contacts.bham.ac.uk
-president.womeninlawuob@gmail.com
 president@guild.bham.ac.uk
 Psychedelics@guild.bham.ac.uk
 psychologysoc@guild.bham.ac.uk
@@ -333,6 +332,7 @@ weightlifting@guild.bham.ac.uk
 welfare@guild.bham.ac.uk
 welsh@guild.bham.ac.uk
 womeninfinance@guild.bham.ac.uk
+womeninlaw@guild.bham.ac.uk
 womeninmedicine@guild.bham.ac.uk
 womeninpolitics@guild.bham.ac.uk
 womens@guild.bham.ac.uk
