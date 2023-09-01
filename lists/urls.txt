@@ -550,7 +550,6 @@ https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
-https://www.guildofstudents.com/ents/eventlist/?month=8&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=9&year=2023
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/discussion/
@@ -564,6 +563,7 @@ https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
+https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
@@ -636,6 +636,7 @@ https://www.guildofstudents.com/events/7195/7740/
 https://www.guildofstudents.com/events/7195/7741/
 https://www.guildofstudents.com/events/7427/7624/
 https://www.guildofstudents.com/events/7491/7642/
+https://www.guildofstudents.com/events/7515/7781/
 https://www.guildofstudents.com/events/7523/7738/
 https://www.guildofstudents.com/events/7523/7743/
 https://www.guildofstudents.com/events/7727/7623/
@@ -1616,6 +1617,7 @@ https://www.guildofstudents.com/welcome/events/event/7773/
 https://www.guildofstudents.com/welcome/events/event/7774/
 https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7777/
+https://www.guildofstudents.com/welcome/events/event/7781/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
