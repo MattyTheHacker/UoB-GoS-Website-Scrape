@@ -721,7 +721,6 @@ https://www.guildofstudents.com/organisation/39365/
 https://www.guildofstudents.com/organisation/39493/
 https://www.guildofstudents.com/organisation/39506/
 https://www.guildofstudents.com/organisation/39596/
-https://www.guildofstudents.com/organisation/39633/
 https://www.guildofstudents.com/organisation/3bugsfringe/
 https://www.guildofstudents.com/organisation/40369/
 https://www.guildofstudents.com/organisation/40488/
@@ -797,6 +796,7 @@ https://www.guildofstudents.com/organisation/gospelchoir/
 https://www.guildofstudents.com/organisation/got/
 https://www.guildofstudents.com/organisation/history/
 https://www.guildofstudents.com/organisation/historyofart/
+https://www.guildofstudents.com/organisation/hookersandstitchers/
 https://www.guildofstudents.com/organisation/hse/
 https://www.guildofstudents.com/organisation/infinity/
 https://www.guildofstudents.com/organisation/investment/
@@ -1120,6 +1120,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-29.03.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-29.06.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-29.07.19.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-29.08.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-29.11.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-30.01.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-30.03.20.pdf
