@@ -6,7 +6,6 @@ http://www.guildofstudents.com/ents/eventlist/
 http://www.guildofstudents.com/footer/apppolicy/
 http://www.guildofstudents.com/guildadvice
 http://www.guildofstudents.com/mediasales/
-http://www.guildofstudents.com/officerteam/
 http://www.guildofstudents.com/pageassets/studentreps/rephub/Masterclass-01-Quality-Assurance-Presentation.ppt
 http://www.guildofstudents.com/pageassets/support/guildadvice/advice_direct/academic/ACADEMIC-Extenuating-Circumstances-27.8.15.pdf
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
@@ -299,8 +298,10 @@ https://www.guildofstudents.com//instagram.com/uobspexsociety
 https://www.guildofstudents.com//instagram.com/uobtabletopgaming
 https://www.guildofstudents.com//instagram.com/uobtamilsoc
 https://www.guildofstudents.com//instagram.com/uobteasociety
+https://www.guildofstudents.com//instagram.com/uobtuitionscheme
 https://www.guildofstudents.com//instagram.com/UOBUBT
 https://www.guildofstudents.com//instagram.com/uobunicef
+https://www.guildofstudents.com//instagram.com/uobvideogames
 https://www.guildofstudents.com//instagram.com/uobweightlifting
 https://www.guildofstudents.com//instagram.com/UoBWelshSoc
 https://www.guildofstudents.com//instagram.com/uobwritersbloc
@@ -366,7 +367,6 @@ https://www.guildofstudents.com//twitter.com/UBMCstoats
 https://www.guildofstudents.com//twitter.com/UoB_Amnesty
 https://www.guildofstudents.com//twitter.com/UoB_Cocktail
 https://www.guildofstudents.com//twitter.com/uob_craft
-https://www.guildofstudents.com//twitter.com/UoB_cvgsoc
 https://www.guildofstudents.com//twitter.com/UoB_German
 https://www.guildofstudents.com//twitter.com/UOB_GospelChoir
 https://www.guildofstudents.com//twitter.com/uob_islamicarts
@@ -435,7 +435,6 @@ https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
-https://www.guildofstudents.com/asset/News/6016/Democracy-Review-Update-Slides-V4.0.pptx
 https://www.guildofstudents.com/asset/Organisation/7059/Monday-Night-Club-volunteer-description.docx
 https://www.guildofstudents.com/asset/Organisation/7315/SOPS.docx
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
@@ -600,6 +599,7 @@ https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
 https://www.guildofstudents.com/events/20372/7641/
 https://www.guildofstudents.com/events/20913/7620/
+https://www.guildofstudents.com/events/22526/7799/
 https://www.guildofstudents.com/events/22549/2581/
 https://www.guildofstudents.com/events/22877/7776/
 https://www.guildofstudents.com/events/25675/7629/
@@ -614,6 +614,7 @@ https://www.guildofstudents.com/events/41292/7639/
 https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6371/7735/
+https://www.guildofstudents.com/events/6491/7797/
 https://www.guildofstudents.com/events/6523/7758/
 https://www.guildofstudents.com/events/6523/7759/
 https://www.guildofstudents.com/events/6531/7711/
@@ -640,6 +641,7 @@ https://www.guildofstudents.com/events/6739/7714/
 https://www.guildofstudents.com/events/6739/7715/
 https://www.guildofstudents.com/events/6739/7716/
 https://www.guildofstudents.com/events/6851/7632/
+https://www.guildofstudents.com/events/6851/7798/
 https://www.guildofstudents.com/events/6867/7621/
 https://www.guildofstudents.com/events/7091/7635/
 https://www.guildofstudents.com/events/7187/7734/
@@ -650,6 +652,7 @@ https://www.guildofstudents.com/events/7387/7783/
 https://www.guildofstudents.com/events/7427/7624/
 https://www.guildofstudents.com/events/7491/7642/
 https://www.guildofstudents.com/events/7515/7781/
+https://www.guildofstudents.com/events/7515/7794/
 https://www.guildofstudents.com/events/7523/7738/
 https://www.guildofstudents.com/events/7523/7743/
 https://www.guildofstudents.com/events/7727/7623/
@@ -671,7 +674,6 @@ https://www.guildofstudents.com/news/article/website/Packing-Tips-for-Internatio
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Summer-Opening-Times/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
-https://www.guildofstudents.com/news/article/website/Temporary-Close-Down-of-Guild-Democratic-System/
 https://www.guildofstudents.com/news/article/website/What-is-second-year-really-like/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/noton/
@@ -1636,6 +1638,9 @@ https://www.guildofstudents.com/welcome/events/event/7786/
 https://www.guildofstudents.com/welcome/events/event/7787/
 https://www.guildofstudents.com/welcome/events/event/7788/
 https://www.guildofstudents.com/welcome/events/event/7789/
+https://www.guildofstudents.com/welcome/events/event/7794/
+https://www.guildofstudents.com/welcome/events/event/7798/
+https://www.guildofstudents.com/welcome/events/event/7799/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
