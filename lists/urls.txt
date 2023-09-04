@@ -204,6 +204,7 @@ https://www.guildofstudents.com//instagram.com/uob_german
 https://www.guildofstudents.com//instagram.com/UOB_GospelChoir
 https://www.guildofstudents.com//instagram.com/uob_gotsoc
 https://www.guildofstudents.com//instagram.com/uob_greenstudents
+https://www.guildofstudents.com//instagram.com/uob_hookersandstitchers
 https://www.guildofstudents.com//instagram.com/uob_koreasociety
 https://www.guildofstudents.com//instagram.com/uob_labour
 https://www.guildofstudents.com//instagram.com/uob_mma
@@ -552,6 +553,7 @@ https://www.guildofstudents.com/ents/event/7786/
 https://www.guildofstudents.com/ents/event/7787/
 https://www.guildofstudents.com/ents/event/7788/
 https://www.guildofstudents.com/ents/event/7789/
+https://www.guildofstudents.com/ents/event/7803/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -597,6 +599,7 @@ https://www.guildofstudents.com/ents/eventlist/wrr-dontuse/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
+https://www.guildofstudents.com/events/13206/7804/
 https://www.guildofstudents.com/events/20372/7641/
 https://www.guildofstudents.com/events/20913/7620/
 https://www.guildofstudents.com/events/22526/7799/
@@ -607,6 +610,8 @@ https://www.guildofstudents.com/events/33868/7745/
 https://www.guildofstudents.com/events/35177/7790/
 https://www.guildofstudents.com/events/35177/7791/
 https://www.guildofstudents.com/events/35177/7792/
+https://www.guildofstudents.com/events/39633/7801/
+https://www.guildofstudents.com/events/39633/7802/
 https://www.guildofstudents.com/events/40757/7733/
 https://www.guildofstudents.com/events/40835/7746/
 https://www.guildofstudents.com/events/41025/7777/
@@ -1643,6 +1648,10 @@ https://www.guildofstudents.com/welcome/events/event/7789/
 https://www.guildofstudents.com/welcome/events/event/7794/
 https://www.guildofstudents.com/welcome/events/event/7798/
 https://www.guildofstudents.com/welcome/events/event/7799/
+https://www.guildofstudents.com/welcome/events/event/7801/
+https://www.guildofstudents.com/welcome/events/event/7802/
+https://www.guildofstudents.com/welcome/events/event/7803/
+https://www.guildofstudents.com/welcome/events/event/7804/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
@@ -1835,6 +1844,7 @@ https://www.guildofstudents.commailto:historyofart@guild.bham.ac.uk
 https://www.guildofstudents.commailto:homeless@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkong@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hse@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ics@guild.bham.ac.uk
