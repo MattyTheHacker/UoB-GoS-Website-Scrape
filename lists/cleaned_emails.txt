@@ -159,6 +159,7 @@ hookersandstitchers@guild.bham.ac.uk
 hrsociety@guild.bham.ac.uk
 hse@guild.bham.ac.uk
 ics@guild.bham.ac.uk
+ifa@guild.bham.ac.uk
 indiancultural@guild.bham.ac.uk
 indonesian@guild.bham.ac.uk
 infinity@guild.bham.ac.uk
@@ -336,7 +337,6 @@ womeninfinance@guild.bham.ac.uk
 womeninlaw@guild.bham.ac.uk
 womeninmedicine@guild.bham.ac.uk
 womeninpolitics@guild.bham.ac.uk
-womens@guild.bham.ac.uk
 womensofficer@guild.bham.ac.uk
 worklink@contacts.bham.ac.uk
 writersbloc@guild.bham.ac.uk
