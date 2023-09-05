@@ -552,6 +552,7 @@ https://www.guildofstudents.com/ents/event/7787/
 https://www.guildofstudents.com/ents/event/7788/
 https://www.guildofstudents.com/ents/event/7789/
 https://www.guildofstudents.com/ents/event/7803/
+https://www.guildofstudents.com/ents/event/7805/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -559,6 +560,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=9&year=2023
 https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
+https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
@@ -1650,6 +1652,7 @@ https://www.guildofstudents.com/welcome/events/event/7801/
 https://www.guildofstudents.com/welcome/events/event/7802/
 https://www.guildofstudents.com/welcome/events/event/7803/
 https://www.guildofstudents.com/welcome/events/event/7804/
+https://www.guildofstudents.com/welcome/events/event/7805/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
@@ -1755,6 +1758,7 @@ https://www.guildofstudents.commailto:chess-club@guild.bham.ac.uk
 https://www.guildofstudents.commailto:chinese-soc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:chinesechristians@guild.bham.ac.uk
 https://www.guildofstudents.commailto:churchcentral@guild.bham.ac.uk
+https://www.guildofstudents.commailto:circus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:cis@guild.bham.ac.uk
 https://www.guildofstudents.commailto:civsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:cocktail@guild.bham.ac.uk
