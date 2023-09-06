@@ -70,6 +70,7 @@ chess-club@guild.bham.ac.uk
 chinese-soc@guild.bham.ac.uk
 chinesechristians@guild.bham.ac.uk
 churchcentral@guild.bham.ac.uk
+circus@guild.bham.ac.uk
 cis@guild.bham.ac.uk
 civsoc@guild.bham.ac.uk
 cocktail@guild.bham.ac.uk
