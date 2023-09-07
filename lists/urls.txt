@@ -131,6 +131,7 @@ https://www.guildofstudents.com//instagram.com/brumskiandboard
 https://www.guildofstudents.com//instagram.com/brumsurfuob
 https://www.guildofstudents.com//instagram.com/burn_fm
 https://www.guildofstudents.com//instagram.com/cathsocbrum
+https://www.guildofstudents.com//instagram.com/christianunion_birmingham
 https://www.guildofstudents.com//instagram.com/civsocuob
 https://www.guildofstudents.com//instagram.com/cssbham
 https://www.guildofstudents.com//instagram.com/danceclublatino
@@ -179,7 +180,6 @@ https://www.guildofstudents.com//instagram.com/ubgns
 https://www.guildofstudents.com//instagram.com/ubisoc
 https://www.guildofstudents.com//instagram.com/ublibdems
 https://www.guildofstudents.com//instagram.com/UBMCStoats
-https://www.guildofstudents.com//instagram.com/uniofbirmingham_cu
 https://www.guildofstudents.com//instagram.com/uob.lgbtq
 https://www.guildofstudents.com//instagram.com/uob.ukraine
 https://www.guildofstudents.com//instagram.com/uob_absoc
@@ -495,7 +495,6 @@ https://www.guildofstudents.com/ents/event/7722/
 https://www.guildofstudents.com/ents/event/7723/
 https://www.guildofstudents.com/ents/event/7728/
 https://www.guildofstudents.com/ents/event/7730/
-https://www.guildofstudents.com/ents/event/7737/
 https://www.guildofstudents.com/ents/event/7747/
 https://www.guildofstudents.com/ents/event/7748/
 https://www.guildofstudents.com/ents/event/7749/
@@ -647,6 +646,7 @@ https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/Guild-Statement-Confirmation-of-the-reintroduction-of-External-Memberships/
+https://www.guildofstudents.com/news/article/website/How-to-Make-Friends-before-Uni-begins/
 https://www.guildofstudents.com/news/article/website/Official-Welcome-Events/
 https://www.guildofstudents.com/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
@@ -1332,12 +1332,10 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/support/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/support/guildadvice/global-buddies/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot
-https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/studentgroups/committee-hub/
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/studentgroups/running-a-group/committee-elections/
 https://www.guildofstudents.com/staff/
 https://www.guildofstudents.com/studentgroups
 https://www.guildofstudents.com/studentgroups/
-https://www.guildofstudents.com/studentgroups/committee-hub/
 https://www.guildofstudents.com/studentgroups/giveitago/
 https://www.guildofstudents.com/studentgroups/running-a-group/committee-elections/
 https://www.guildofstudents.com/studentgroups/saveasociety/
@@ -1586,6 +1584,7 @@ https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
 https://www.guildofstudents.com/welcome/news
+https://www.guildofstudents.com/welcome/news/article/website/How-to-Make-Friends-before-Uni-begins/
 https://www.guildofstudents.com/welcome/news/article/website/Official-Welcome-Events/
 https://www.guildofstudents.com/welcome/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/welcome/postgraduate

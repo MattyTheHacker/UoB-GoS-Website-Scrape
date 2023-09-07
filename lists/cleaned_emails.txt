@@ -1,6 +1,7 @@
 A.Sheridan@guild.bham.ac.uk
 abacus@guild.bham.ac.uk
 acappella@guild.bham.ac.uk
+accounting@guild.bham.ac.uk
 activities@guild.bham.ac.uk
 ADO@guild.bham.ac.uk
 adventist@guild.bham.ac.uk
@@ -20,6 +21,7 @@ astrosoc@guild.bham.ac.uk
 atheist@guild.bham.ac.uk
 bacas@guild.bham.ac.uk
 badfilm@guild.bham.ac.uk
+bahaisociety@guild.bham.ac.uk
 baking@guild.bham.ac.uk
 ballroom@guild.bham.ac.uk
 batsoc@guild.bham.ac.uk
@@ -112,6 +114,7 @@ ewb@guild.bham.ac.uk
 fashion@guild.bham.ac.uk
 filipino@guild.bham.ac.uk
 filmsoc@guild.bham.ac.uk
+fintechsociety@guild.bham.ac.uk
 firstlove@guild.bham.ac.uk
 folk@guild.bham.ac.uk
 footnotes@guild.bham.ac.uk
@@ -209,6 +212,7 @@ nerdsoc@guild.bham.ac.uk
 neuroscience@guild.bham.ac.uk
 NIUOB@guild.bham.ac.uk
 noton@guild.bham.ac.uk
+nuclearandmaterialssociety@guild.bham.ac.uk
 nursing@guild.bham.ac.uk
 ostem@guild.bham.ac.uk
 panto@guild.bham.ac.uk
@@ -246,6 +250,7 @@ railway@guild.bham.ac.uk
 realale@guild.bham.ac.uk
 rollerskate@guild.bham.ac.uk
 roombookings@guild.bham.ac.uk
+roundnetsociety@guild.bham.ac.uk
 russianspeaking@guild.bham.ac.uk
 sach@guild.bham.ac.uk
 safeguarding@guild.bham.ac.uk
@@ -302,6 +307,7 @@ uobnavigators@gmail.com
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 videogamesociety@guild.bham.ac.uk
+virtualrealitysociety@guild.bham.ac.uk
 volunteering@guild.bham.ac.uk
 watchthis@guild.bham.ac.uk
 wayfarers@guild.bham.ac.uk
