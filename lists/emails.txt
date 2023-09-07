@@ -1,6 +1,7 @@
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:acappella@guild.bham.ac.uk
+https://www.guildofstudents.commailto:accounting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:activities@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ADO@guild.bham.ac.uk
 https://www.guildofstudents.commailto:adventist@guild.bham.ac.uk
@@ -20,6 +21,7 @@ https://www.guildofstudents.commailto:astrosoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:atheist@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bacas@guild.bham.ac.uk
 https://www.guildofstudents.commailto:badfilm@guild.bham.ac.uk
+https://www.guildofstudents.commailto:bahaisociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:baking@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ballroom@guild.bham.ac.uk
 https://www.guildofstudents.commailto:batsoc@guild.bham.ac.uk
@@ -112,6 +114,7 @@ https://www.guildofstudents.commailto:ewb@guild.bham.ac.uk
 https://www.guildofstudents.commailto:fashion@guild.bham.ac.uk
 https://www.guildofstudents.commailto:filipino@guild.bham.ac.uk
 https://www.guildofstudents.commailto:filmsoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:fintechsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:firstlove@guild.bham.ac.uk
 https://www.guildofstudents.commailto:folk@guild.bham.ac.uk
 https://www.guildofstudents.commailto:footnotes@guild.bham.ac.uk
@@ -213,6 +216,7 @@ https://www.guildofstudents.commailto:nerdsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:neuroscience@guild.bham.ac.uk
 https://www.guildofstudents.commailto:NIUOB@guild.bham.ac.uk
 https://www.guildofstudents.commailto:noton@guild.bham.ac.uk
+https://www.guildofstudents.commailto:nuclearandmaterialssociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nursing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ostem@guild.bham.ac.uk
 https://www.guildofstudents.commailto:panto@guild.bham.ac.uk
@@ -250,6 +254,7 @@ https://www.guildofstudents.commailto:railway@guild.bham.ac.uk
 https://www.guildofstudents.commailto:realale@guild.bham.ac.uk
 https://www.guildofstudents.commailto:rollerskate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:roombookings@guild.bham.ac.uk?subject=Room%20Booking%20Enquiries
+https://www.guildofstudents.commailto:roundnetsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:russianspeaking@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sach@guild.bham.ac.uk
 https://www.guildofstudents.commailto:safeguarding@guild.bham.ac.uk
@@ -308,6 +313,7 @@ https://www.guildofstudents.commailto:uobnavigators@gmail.com
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:videogamesociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:virtualrealitysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:volunteering@guild.bham.ac.uk
 https://www.guildofstudents.commailto:watchthis@guild.bham.ac.uk
 https://www.guildofstudents.commailto:wayfarers@guild.bham.ac.uk

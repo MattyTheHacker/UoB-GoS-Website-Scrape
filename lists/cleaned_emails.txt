@@ -5,7 +5,6 @@ activities@guild.bham.ac.uk
 ADO@guild.bham.ac.uk
 adventist@guild.bham.ac.uk
 afghan@guild.bham.ac.uk
-africandance@guild.bham.ac.uk
 afro-carib@guild.bham.ac.uk
 ahlulbayt@guild.bham.ac.uk
 ahmadiyya@guild.bham.ac.uk
@@ -15,7 +14,6 @@ anime@guild.bham.ac.uk
 arabsoc@guild.bham.ac.uk
 ARAFO@guild.bham.ac.uk
 archaeology@guild.bham.ac.uk
-article19@guild.bham.ac.uk
 artsoc@guild.bham.ac.uk
 assassinsguild@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
@@ -27,13 +25,11 @@ ballroom@guild.bham.ac.uk
 batsoc@guild.bham.ac.uk
 beat@guild.bham.ac.uk
 bedsoc@guild.bham.ac.uk
-BeerPong@guild.bham.ac.uk
 bema@guild.bham.ac.uk
 benchball@guild.bham.ac.uk
 bhangra@guild.bham.ac.uk
 biosoc@guild.bham.ac.uk
 birmingham@intervol.org.uk
-birmingham@sexpression.org.uk
 birmingham@ukmarrow.org
 blooddonation@guild.bham.ac.uk
 blss@guild.bham.ac.uk
@@ -84,7 +80,6 @@ craft@guild.bham.ac.uk
 criminology@guild.bham.ac.uk
 croquet@guild.bham.ac.uk
 css@guild.bham.ac.uk
-czesvk@guild.bham.ac.uk
 d.j.tope@bham.ac.uk
 darts@guild.bham.ac.uk
 debating@guild.bham.ac.uk
@@ -104,13 +99,9 @@ eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
 editor@redbrick.me
 education@guild.bham.ac.uk
-educationsoc@guild.bham.ac.uk
 EgyptSociety@guild.bham.ac.uk
 elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
-enactus@guild.bham.ac.uk
-endtimemission@guild.bham.ac.uk
-energy@guild.bham.ac.uk
 enquiries@birminghamcrisis.org.uk
 enquiries@guild.bham.ac.uk
 enquiries@guildbham.ac.uk
@@ -131,13 +122,10 @@ fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
-gift@guild.bham.ac.uk
 gin@guild.bham.ac.uk
 girlup@guild.bham.ac.uk
-glutenfree@guild.bham.ac.uk
 gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
-gos-c-selfdef@bham.ac.uk
 gospelchoir@guild.bham.ac.uk
 got@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
@@ -156,7 +144,6 @@ homeless@guild.bham.ac.uk
 hongkong@guild.bham.ac.uk
 hongkongcultural@guild.bham.ac.uk
 hookersandstitchers@guild.bham.ac.uk
-hrsociety@guild.bham.ac.uk
 hse@guild.bham.ac.uk
 ics@guild.bham.ac.uk
 ifa@guild.bham.ac.uk
@@ -174,7 +161,6 @@ irise@guild.bham.ac.uk
 isa@guild.bham.ac.uk
 islamicartsandheritage@gmail.com
 israel@guild.bham.ac.uk
-italian@guild.bham.ac.uk
 J.Lindsay@guild.bham.ac.uk
 J.Thomas@guild.bham.ac.uk
 JainSociety@guild.bham.ac.uk
@@ -182,7 +168,6 @@ japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
 kabaddi@guild.bham.ac.uk
-karaoke@guild.bham.ac.uk
 kase@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
 KCover@guild.bham.ac.uk
@@ -201,7 +186,6 @@ LGBTSO@guild.bham.ac.uk
 libdem@guild.bham.ac.uk
 lifeambassadors@guild.bham.ac.uk
 linguist@guild.bham.ac.uk
-lithuanian@guild.bham.ac.uk
 liveart@guild.bham.ac.uk
 livemusic@guild.bham.ac.uk
 malaysia@guild.bham.ac.uk
@@ -227,7 +211,6 @@ NIUOB@guild.bham.ac.uk
 noton@guild.bham.ac.uk
 nursing@guild.bham.ac.uk
 ostem@guild.bham.ac.uk
-pakistan-soc@guild.bham.ac.uk
 panto@guild.bham.ac.uk
 parkour@guild.bham.ac.uk
 pasta@guild.bham.ac.uk
@@ -245,7 +228,6 @@ polefitness@guild.bham.ac.uk
 polish@guild.bham.ac.uk
 politics@guild.bham.ac.uk
 postgraduate@guild.bham.ac.uk
-pottea@guild.bham.ac.uk
 pottersoc@guild.bham.ac.uk
 powerlifting@guild.bham.ac.uk
 powersoc@guild.bham.ac.uk
@@ -262,8 +244,6 @@ quiz@guild.bham.ac.uk
 r.snook@bham.ac.uk
 railway@guild.bham.ac.uk
 realale@guild.bham.ac.uk
-reclaimcampusbham@gmail.com
-rocksoc@guild.bham.ac.uk
 rollerskate@guild.bham.ac.uk
 roombookings@guild.bham.ac.uk
 russianspeaking@guild.bham.ac.uk
@@ -285,24 +265,20 @@ socialistworkersstudentsociety@guild.bham.ac.uk
 socialworksoc@guild.bham.ac.uk
 somali@guild.bham.ac.uk
 sops@guild.bham.ac.uk
-spanish@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 stmarys@guild.bham.ac.uk
-Strategicconsulting@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
 studentgroups@guild.bham.ac.uk
 studenthousingadvice@contacts.bham.ac.uk
 studentparent@guild.bham.ac.uk
 studentreps@guild.bham.ac.uk
-studentsforchoice@guild.bham.ac.uk
 studentsforlife@guild.bham.ac.uk
 studentvoice@guild.bham.ac.uk
 sudanese@guild.bham.ac.uk
 systemsteam@guild.bham.ac.uk
 tamil@guild.bham.ac.uk
-tapp@guild.bham.ac.uk
 tcu@guild.bham.ac.uk
 tea@guild.bham.ac.uk
 teamup@guild.bham.ac.uk
