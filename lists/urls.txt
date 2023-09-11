@@ -524,6 +524,7 @@ https://www.guildofstudents.com/ents/event/7805/
 https://www.guildofstudents.com/ents/event/7811/
 https://www.guildofstudents.com/ents/event/7812/
 https://www.guildofstudents.com/ents/event/7813/
+https://www.guildofstudents.com/ents/event/7825/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -591,6 +592,7 @@ https://www.guildofstudents.com/events/40835/7746/
 https://www.guildofstudents.com/events/41025/7777/
 https://www.guildofstudents.com/events/41292/7639/
 https://www.guildofstudents.com/events/6179/7793/
+https://www.guildofstudents.com/events/6187/7817/
 https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6371/7735/
 https://www.guildofstudents.com/events/6491/7797/
@@ -1579,6 +1581,7 @@ https://www.guildofstudents.com/welcome/events/event/7811/
 https://www.guildofstudents.com/welcome/events/event/7812/
 https://www.guildofstudents.com/welcome/events/event/7813/
 https://www.guildofstudents.com/welcome/events/event/7820/
+https://www.guildofstudents.com/welcome/events/event/7825/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
