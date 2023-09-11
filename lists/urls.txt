@@ -210,6 +210,7 @@ https://www.guildofstudents.com//instagram.com/uob_pl
 https://www.guildofstudents.com//instagram.com/uob_rollerskate
 https://www.guildofstudents.com//instagram.com/uob_rss
 https://www.guildofstudents.com//instagram.com/uob_tcu
+https://www.guildofstudents.com//instagram.com/uob_virtualreality
 https://www.guildofstudents.com//instagram.com/uobabacus
 https://www.guildofstudents.com//instagram.com/uobafghsoc
 https://www.guildofstudents.com//instagram.com/uobanime
@@ -578,6 +579,7 @@ https://www.guildofstudents.com/events/20937/7819/
 https://www.guildofstudents.com/events/22526/7799/
 https://www.guildofstudents.com/events/22877/7776/
 https://www.guildofstudents.com/events/25675/7629/
+https://www.guildofstudents.com/events/25675/7824/
 https://www.guildofstudents.com/events/33868/7745/
 https://www.guildofstudents.com/events/35177/7790/
 https://www.guildofstudents.com/events/35177/7791/
@@ -710,7 +712,6 @@ https://www.guildofstudents.com/organisation/41292/
 https://www.guildofstudents.com/organisation/41452/
 https://www.guildofstudents.com/organisation/41472/
 https://www.guildofstudents.com/organisation/41482/
-https://www.guildofstudents.com/organisation/41502/
 https://www.guildofstudents.com/organisation/41512/
 https://www.guildofstudents.com/organisation/41522/
 https://www.guildofstudents.com/organisation/8408/
@@ -825,6 +826,7 @@ https://www.guildofstudents.com/organisation/sportsclubs/
 https://www.guildofstudents.com/organisation/stmaryshospice/
 https://www.guildofstudents.com/organisation/tea/
 https://www.guildofstudents.com/organisation/ttgaming/
+https://www.guildofstudents.com/organisation/ubvr/
 https://www.guildofstudents.com/organisation/uniboobteam/
 https://www.guildofstudents.com/organisation/unicef/
 https://www.guildofstudents.com/organisation/uobhideandseek/
@@ -1937,8 +1939,8 @@ https://www.guildofstudents.commailto:uobnavigators@gmail.com
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:videogamesociety@guild.bham.ac.uk
-https://www.guildofstudents.commailto:virtualrealitysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:volunteering@guild.bham.ac.uk
+https://www.guildofstudents.commailto:vrsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:watchthis@guild.bham.ac.uk
 https://www.guildofstudents.commailto:wayfarers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:website@guild.bham.ac.uk
