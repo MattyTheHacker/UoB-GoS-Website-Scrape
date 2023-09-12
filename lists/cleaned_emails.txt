@@ -135,6 +135,7 @@ gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
 hallreps@guild.bham.ac.uk
 headucate@guild.bham.ac.uk
+healthandsafety@guild.bham.ac.uk
 hellenic@guild.bham.ac.uk
 hestia@guild.bham.ac.uk
 heteam@guild.bham.ac.uk
@@ -245,7 +246,6 @@ punjabi@guild.bham.ac.uk
 QueerArtSociety@guild.bham.ac.uk
 queerartsociety@guild.bham.ac.uk
 quiz@guild.bham.ac.uk
-r.snook@bham.ac.uk
 railway@guild.bham.ac.uk
 realale@guild.bham.ac.uk
 rollerskate@guild.bham.ac.uk
