@@ -137,6 +137,7 @@ https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=Exten
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
 https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
+https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hellenic@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hestia@guild.bham.ac.uk
 https://www.guildofstudents.commailto:heteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query
@@ -249,7 +250,6 @@ https://www.guildofstudents.commailto:punjabi@guild.bham.ac.uk
 https://www.guildofstudents.commailto:QueerArtSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:queerartsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:quiz@guild.bham.ac.uk
-https://www.guildofstudents.commailto:r.snook@bham.ac.uk
 https://www.guildofstudents.commailto:railway@guild.bham.ac.uk
 https://www.guildofstudents.commailto:realale@guild.bham.ac.uk
 https://www.guildofstudents.commailto:rollerskate@guild.bham.ac.uk
