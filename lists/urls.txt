@@ -1352,7 +1352,6 @@ https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
 https://www.guildofstudents.com/employability/
-https://www.guildofstudents.com/ents/event/7643/
 https://www.guildofstudents.com/ents/event/7644/
 https://www.guildofstudents.com/ents/event/7645/
 https://www.guildofstudents.com/ents/event/7646/
@@ -1501,6 +1500,8 @@ https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
 https://www.guildofstudents.com/events/13206/7804/
 https://www.guildofstudents.com/events/20372/7641/
+https://www.guildofstudents.com/events/20913/7620/
+https://www.guildofstudents.com/events/20913/7744/
 https://www.guildofstudents.com/events/20937/7819/
 https://www.guildofstudents.com/events/22526/7799/
 https://www.guildofstudents.com/events/22700/7835/
