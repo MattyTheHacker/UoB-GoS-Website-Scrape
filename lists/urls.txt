@@ -363,7 +363,6 @@ https://www.guildofstudents.com//twitter.com/uobconservation
 https://www.guildofstudents.com//twitter.com/UoBDocSoc
 https://www.guildofstudents.com//twitter.com/uobexchange
 https://www.guildofstudents.com//twitter.com/UoBFirstAid
-https://www.guildofstudents.com//twitter.com/UOBHistorySoc
 https://www.guildofstudents.com//twitter.com/uobindiansoc
 https://www.guildofstudents.com//twitter.com/uobkabaddi
 https://www.guildofstudents.com//twitter.com/UoBLGBTQ
@@ -1513,6 +1512,7 @@ https://www.guildofstudents.com/events/35177/7790/
 https://www.guildofstudents.com/events/35177/7791/
 https://www.guildofstudents.com/events/35177/7792/
 https://www.guildofstudents.com/events/38754/7827/
+https://www.guildofstudents.com/events/38832/7845/
 https://www.guildofstudents.com/events/39125/7821/
 https://www.guildofstudents.com/events/39125/7822/
 https://www.guildofstudents.com/events/39633/7801/
@@ -1557,6 +1557,7 @@ https://www.guildofstudents.com/events/6803/7820/
 https://www.guildofstudents.com/events/6851/7632/
 https://www.guildofstudents.com/events/6851/7798/
 https://www.guildofstudents.com/events/6867/7621/
+https://www.guildofstudents.com/events/7011/7782/
 https://www.guildofstudents.com/events/7091/7635/
 https://www.guildofstudents.com/events/7091/7816/
 https://www.guildofstudents.com/events/7187/7734/
