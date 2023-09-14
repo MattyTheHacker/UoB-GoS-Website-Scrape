@@ -3,7 +3,6 @@ abacus@guild.bham.ac.uk
 acappella@guild.bham.ac.uk
 accounting@guild.bham.ac.uk
 activities@guild.bham.ac.uk
-ADO@guild.bham.ac.uk
 adventist@guild.bham.ac.uk
 afghan@guild.bham.ac.uk
 afro-carib@guild.bham.ac.uk
@@ -308,7 +307,6 @@ uobnavigators@gmail.com
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 videogamesociety@guild.bham.ac.uk
-volunteering@guild.bham.ac.uk
 vrsoc@guild.bham.ac.uk
 watchthis@guild.bham.ac.uk
 wayfarers@guild.bham.ac.uk
