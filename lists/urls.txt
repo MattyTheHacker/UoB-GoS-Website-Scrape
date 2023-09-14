@@ -1376,6 +1376,7 @@ https://www.guildofstudents.com/ents/event/7811/
 https://www.guildofstudents.com/ents/event/7812/
 https://www.guildofstudents.com/ents/event/7813/
 https://www.guildofstudents.com/ents/event/7825/
+https://www.guildofstudents.com/ents/event/7867/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1422,6 +1423,7 @@ https://www.guildofstudents.com/ents/eventlist/wrr-dontuse/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
+https://www.guildofstudents.com/events/12492/7866/
 https://www.guildofstudents.com/events/13206/7804/
 https://www.guildofstudents.com/events/20372/7641/
 https://www.guildofstudents.com/events/20913/7620/
@@ -3382,6 +3384,8 @@ https://www.guildofstudents.com/welcome/events/event/7813/
 https://www.guildofstudents.com/welcome/events/event/7820/
 https://www.guildofstudents.com/welcome/events/event/7825/
 https://www.guildofstudents.com/welcome/events/event/7835/
+https://www.guildofstudents.com/welcome/events/event/7866/
+https://www.guildofstudents.com/welcome/events/event/7867/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
