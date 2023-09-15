@@ -273,6 +273,7 @@ https://www.guildofstudents.com//instagram.com/uobmetalsoc
 https://www.guildofstudents.com//instagram.com/uobmflsoc
 https://www.guildofstudents.com//instagram.com/uobmiddlearth
 https://www.guildofstudents.com//instagram.com/uobnavigators
+https://www.guildofstudents.com//instagram.com/Uobpaksoc
 https://www.guildofstudents.com//instagram.com/uobpantosoc
 https://www.guildofstudents.com//instagram.com/uobparkour
 https://www.guildofstudents.com//instagram.com/uobpasta
@@ -1403,7 +1404,6 @@ https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
-https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
 https://www.guildofstudents.com/ents/eventlist/welcomeintpage/
@@ -1449,7 +1449,6 @@ https://www.guildofstudents.com/events/39633/7802/
 https://www.guildofstudents.com/events/40757/7733/
 https://www.guildofstudents.com/events/40835/7746/
 https://www.guildofstudents.com/events/41025/7777/
-https://www.guildofstudents.com/events/41292/7639/
 https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6187/7817/
 https://www.guildofstudents.com/events/6203/7640/
@@ -3214,6 +3213,7 @@ https://www.guildofstudents.com/studentgroups/societies/malaysian/
 https://www.guildofstudents.com/studentgroups/societies/mondaynightclub/
 https://www.guildofstudents.com/studentgroups/societies/navigators/
 https://www.guildofstudents.com/studentgroups/societies/nepalese/
+https://www.guildofstudents.com/studentgroups/societies/pakistan/
 https://www.guildofstudents.com/studentgroups/societies/pentecostal/
 https://www.guildofstudents.com/studentgroups/societies/photosoc/
 https://www.guildofstudents.com/studentgroups/societies/polish/
@@ -3640,6 +3640,7 @@ https://www.guildofstudents.commailto:noton@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nuclearandmaterialssociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nursing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ostem@guild.bham.ac.uk
+https://www.guildofstudents.commailto:pakistan-soc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:panto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:parkour@guild.bham.ac.uk
 https://www.guildofstudents.commailto:pasta@guild.bham.ac.uk
