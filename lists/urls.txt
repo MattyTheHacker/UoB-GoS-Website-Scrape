@@ -44,11 +44,14 @@ https://www.guildofstudents.com#carouseleventsxs
 https://www.guildofstudents.com#chamberlaininfo
 https://www.guildofstudents.com#collapse-activity-award
 https://www.guildofstudents.com#collapse-diversity-award
+https://www.guildofstudents.com#collapse-election-dates
+https://www.guildofstudents.com#collapse-events-dates
 https://www.guildofstudents.com#collapse-ianking-award
 https://www.guildofstudents.com#collapse-impact-award
 https://www.guildofstudents.com#collapse-kickstart-award
 https://www.guildofstudents.com#collapse-members-award
 https://www.guildofstudents.com#collapse-reps-nav
+https://www.guildofstudents.com#collapse-scrutiny-dates
 https://www.guildofstudents.com#collapse-smallgroup-award
 https://www.guildofstudents.com#collapse-volunteer-award
 https://www.guildofstudents.com#collapseEight
@@ -1378,6 +1381,7 @@ https://www.guildofstudents.com/ents/event/7812/
 https://www.guildofstudents.com/ents/event/7813/
 https://www.guildofstudents.com/ents/event/7825/
 https://www.guildofstudents.com/ents/event/7867/
+https://www.guildofstudents.com/ents/event/7869/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -2959,6 +2963,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/sgx-
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/sgx-minutes/SGX-Minutes-14-08-2019.doc
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/sgx-minutes/SGX-Minutes-17-01-2020.doc
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/sgx-minutes/SGX-Minutes-25-10-2019.doc
+https://www.guildofstudents.com/pageassets/representation/democraticsystem/Democracy-Explainer.pdf
 https://www.guildofstudents.com/pageassets/representation/guildcouncil/pastmeetingpaperwork/GOG-minutes-05-11-15.pdf
 https://www.guildofstudents.com/pageassets/representation/guildcouncil/pastmeetingpaperwork/GOG-minutes-08-10-152.pdf
 https://www.guildofstudents.com/pageassets/representation/guildcouncil/pastmeetingpaperwork/Minutes-6th-oct.docx
@@ -3114,6 +3119,8 @@ https://www.guildofstudents.com/representation/committee-minutes/student-equalit
 https://www.guildofstudents.com/representation/democraticsystem/
 https://www.guildofstudents.com/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/representation/scrutinypanel/
+https://www.guildofstudents.com/representation/youridea
+https://www.guildofstudents.com/representation/youridea/
 https://www.guildofstudents.com/shop/product/10096230/
 https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
@@ -3122,6 +3129,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/youridea/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
