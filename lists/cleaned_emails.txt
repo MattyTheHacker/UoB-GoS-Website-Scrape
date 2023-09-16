@@ -4,10 +4,8 @@ acappella@guild.bham.ac.uk
 accounting@guild.bham.ac.uk
 activities@guild.bham.ac.uk
 adventist@guild.bham.ac.uk
-afghan@guild.bham.ac.uk
 afro-carib@guild.bham.ac.uk
 ahlulbayt@guild.bham.ac.uk
-ahmadiyya@guild.bham.ac.uk
 AlternativeHipHopSociety@guild.bham.ac.uk
 amnesty@guild.bham.ac.uk
 anime@guild.bham.ac.uk
@@ -15,9 +13,7 @@ arabsoc@guild.bham.ac.uk
 ARAFO@guild.bham.ac.uk
 archaeology@guild.bham.ac.uk
 artsoc@guild.bham.ac.uk
-assassinsguild@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
-atheist@guild.bham.ac.uk
 bacas@guild.bham.ac.uk
 badfilm@guild.bham.ac.uk
 bahaisociety@guild.bham.ac.uk
@@ -39,7 +35,6 @@ breastcancer@guild.bham.ac.uk
 brummarxists@gmail.com
 brumski@guild.bham.ac.uk
 brumsurf@guild.bham.ac.uk
-brumwilderness@gmail.com
 bucv@guild.bham.ac.uk
 buddhist@guild.bham.ac.uk
 burnarts@guild.bham.ac.uk
@@ -67,8 +62,6 @@ chess-club@guild.bham.ac.uk
 chinese-soc@guild.bham.ac.uk
 chinesechristians@guild.bham.ac.uk
 churchcentral@guild.bham.ac.uk
-circus@guild.bham.ac.uk
-cis@guild.bham.ac.uk
 civsoc@guild.bham.ac.uk
 cocktail@guild.bham.ac.uk
 communications@guild.bham.ac.uk
@@ -79,7 +72,6 @@ conservatives@guild.bham.ac.uk
 consulting@guild.bham.ac.uk
 craft@guild.bham.ac.uk
 criminology@guild.bham.ac.uk
-croquet@guild.bham.ac.uk
 css@guild.bham.ac.uk
 d.j.tope@bham.ac.uk
 darts@guild.bham.ac.uk
@@ -118,14 +110,12 @@ firstlove@guild.bham.ac.uk
 folk@guild.bham.ac.uk
 footnotes@guild.bham.ac.uk
 friendsinternational@guild.bham.ac.uk
-friendsofnightline@guild.bham.ac.uk
 fringe@guild.bham.ac.uk
 fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
 gin@guild.bham.ac.uk
-girlup@guild.bham.ac.uk
 gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
 gospelchoir@guild.bham.ac.uk
@@ -137,7 +127,6 @@ guildadvice@guild.bham.ac.uk
 hallreps@guild.bham.ac.uk
 headucate@guild.bham.ac.uk
 healthandsafety@guild.bham.ac.uk
-hestia@guild.bham.ac.uk
 heteam@guild.bham.ac.uk
 hideandseek@guild.bham.ac.uk
 hindu@guild.bham.ac.uk
@@ -160,7 +149,6 @@ insulinappreciation@guild.bham.ac.uk
 international@guild.bham.ac.uk
 intervol@guild.bham.ac.uk
 investment@guild.bham.ac.uk
-irise@guild.bham.ac.uk
 isa@guild.bham.ac.uk
 islamicartsandheritage@gmail.com
 israel@guild.bham.ac.uk
@@ -171,7 +159,6 @@ japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
 jxc1397@student.bham.ac.uk
-kabaddi@guild.bham.ac.uk
 kase@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
 KCover@guild.bham.ac.uk
@@ -188,7 +175,6 @@ lgbtq@guild.bham.ac.uk
 lgbtqofficer@guild.bham.ac.uk
 LGBTSO@guild.bham.ac.uk
 libdem@guild.bham.ac.uk
-lifeambassadors@guild.bham.ac.uk
 linguist@guild.bham.ac.uk
 liveart@guild.bham.ac.uk
 livemusic@guild.bham.ac.uk
@@ -200,10 +186,8 @@ mathsoc@guild.bham.ac.uk
 mediasales@guild.bham.ac.uk
 mentorwelfare@guild.bham.ac.uk
 metal@guild.bham.ac.uk
-microloan@guild.bham.ac.uk
 middleearth@guild.bham.ac.uk
 mma@guild.bham.ac.uk
-mnc@guild.bham.ac.uk
 modernlanguages@guild.bham.ac.uk
 mooting@guild.bham.ac.uk
 muaythaiboxing@guild.bham.ac.uk
@@ -218,7 +202,6 @@ nursing@guild.bham.ac.uk
 ostem@guild.bham.ac.uk
 pakistan-soc@guild.bham.ac.uk
 panto@guild.bham.ac.uk
-parkour@guild.bham.ac.uk
 pasta@guild.bham.ac.uk
 pcos@guild.bham.ac.uk
 pentecostal@guild.bham.ac.uk
@@ -231,7 +214,6 @@ plasticfree@guild.bham.ac.uk
 poker@guild.bham.ac.uk
 pokesoc@guild.bham.ac.uk
 polefitness@guild.bham.ac.uk
-polish@guild.bham.ac.uk
 politics@guild.bham.ac.uk
 postgraduate@guild.bham.ac.uk
 pottersoc@guild.bham.ac.uk
@@ -240,7 +222,6 @@ powersoc@guild.bham.ac.uk
 ppe@guild.bham.ac.uk
 presessional@contacts.bham.ac.uk
 president@guild.bham.ac.uk
-Psychedelics@guild.bham.ac.uk
 psychologysoc@guild.bham.ac.uk
 publicspeakingsociety@guild.bham.ac.uk
 punjabi@guild.bham.ac.uk
@@ -253,7 +234,6 @@ rollerskate@guild.bham.ac.uk
 roombookings@guild.bham.ac.uk
 roundnetsociety@guild.bham.ac.uk
 russianspeaking@guild.bham.ac.uk
-sach@guild.bham.ac.uk
 safeguarding@guild.bham.ac.uk
 satnav@guild.bham.ac.uk
 saudi@guild.bham.ac.uk
@@ -261,7 +241,6 @@ scriptmurdersociety@guild.bham.ac.uk
 shakespeare@guild.bham.ac.uk
 signlanguage@guild.bham.ac.uk
 sikh@guild.bham.ac.uk
-silentfilm@guild.bham.ac.uk
 sing@guild.bham.ac.uk
 singapore-soc@guild.bham.ac.uk
 sitcom@guild.bham.ac.uk
@@ -270,11 +249,9 @@ sobersocials@guild.bham.ac.uk
 socialistworkersstudentsociety@guild.bham.ac.uk
 socialworksoc@guild.bham.ac.uk
 somali@guild.bham.ac.uk
-sops@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
 star1@guild.bham.ac.uk
-stmarys@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
 studentgroups@guild.bham.ac.uk
 studenthousingadvice@contacts.bham.ac.uk
@@ -283,13 +260,11 @@ studentreps@guild.bham.ac.uk
 studentsforlife@guild.bham.ac.uk
 studentvoice@guild.bham.ac.uk
 sudanese@guild.bham.ac.uk
-systemsteam@guild.bham.ac.uk
 tamil@guild.bham.ac.uk
 tcu@guild.bham.ac.uk
 tea@guild.bham.ac.uk
 teamup@guild.bham.ac.uk
 TeluguSociety@guild.bham.ac.uk
-theologyandreligion@guild.bham.ac.uk
 transofficer@guild.bham.ac.uk
 TSO@guild.bham.ac.uk
 tss@guild.bham.ac.uk
