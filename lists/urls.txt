@@ -180,6 +180,7 @@ https://www.guildofstudents.com//instagram.com/KCoverSoc
 https://www.guildofstudents.com//instagram.com/latamuob
 https://www.guildofstudents.com//instagram.com/liveartsocietyuob
 https://www.guildofstudents.com//instagram.com/livemusicsoc
+https://www.guildofstudents.com//instagram.com/makeasmilebirmingham
 https://www.guildofstudents.com//instagram.com/mantality_uob
 https://www.guildofstudents.com//instagram.com/masocbham
 https://www.guildofstudents.com//instagram.com/mathsoc
@@ -1505,6 +1506,7 @@ https://www.guildofstudents.com/events/7195/7741/
 https://www.guildofstudents.com/events/7387/7783/
 https://www.guildofstudents.com/events/7419/7809/
 https://www.guildofstudents.com/events/7419/7810/
+https://www.guildofstudents.com/events/7419/7880/
 https://www.guildofstudents.com/events/7427/7624/
 https://www.guildofstudents.com/events/7491/7642/
 https://www.guildofstudents.com/events/7515/7781/
@@ -1533,7 +1535,6 @@ https://www.guildofstudents.com/news/article/website/How-to-Make-Friends-before-
 https://www.guildofstudents.com/news/article/website/Official-Welcome-Events/
 https://www.guildofstudents.com/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
-https://www.guildofstudents.com/news/article/website/Summer-Opening-Times/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/What-is-second-year-really-like/
 https://www.guildofstudents.com/news/rss/0/subtree/
@@ -2491,7 +2492,6 @@ https://www.guildofstudents.com/organisation/40835/
 https://www.guildofstudents.com/organisation/40846/
 https://www.guildofstudents.com/organisation/40986/
 https://www.guildofstudents.com/organisation/41191/
-https://www.guildofstudents.com/organisation/41292/
 https://www.guildofstudents.com/organisation/41452/
 https://www.guildofstudents.com/organisation/41472/
 https://www.guildofstudents.com/organisation/41482/
@@ -2567,6 +2567,7 @@ https://www.guildofstudents.com/organisation/lassoc/
 https://www.guildofstudents.com/organisation/law4nonlaw/
 https://www.guildofstudents.com/organisation/liveart/
 https://www.guildofstudents.com/organisation/lumsoc/
+https://www.guildofstudents.com/organisation/make-a-smile/
 https://www.guildofstudents.com/organisation/mantality/
 https://www.guildofstudents.com/organisation/marrow/
 https://www.guildofstudents.com/organisation/mathsoc/
@@ -3381,7 +3382,6 @@ https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
 https://www.guildofstudents.com/welcome/events/event/7632/
-https://www.guildofstudents.com/welcome/events/event/7645/
 https://www.guildofstudents.com/welcome/events/event/7647/
 https://www.guildofstudents.com/welcome/events/event/7648/
 https://www.guildofstudents.com/welcome/events/event/7649/
@@ -3406,7 +3406,6 @@ https://www.guildofstudents.com/welcome/events/event/7729/
 https://www.guildofstudents.com/welcome/events/event/7730/
 https://www.guildofstudents.com/welcome/events/event/7733/
 https://www.guildofstudents.com/welcome/events/event/7734/
-https://www.guildofstudents.com/welcome/events/event/7747/
 https://www.guildofstudents.com/welcome/events/event/7748/
 https://www.guildofstudents.com/welcome/events/event/7749/
 https://www.guildofstudents.com/welcome/events/event/7750/
@@ -3509,6 +3508,7 @@ https://www.guildofstudents.commailto:benchball@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bhangra@guild.bham.ac.uk
 https://www.guildofstudents.commailto:biosoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:birmingham@intervol.org.uk
+https://www.guildofstudents.commailto:birmingham@makeasmile.org.uk
 https://www.guildofstudents.commailto:birmingham@ukmarrow.org
 https://www.guildofstudents.commailto:blooddonation@guild.bham.ac.uk
 https://www.guildofstudents.commailto:blss@guild.bham.ac.uk
@@ -3579,7 +3579,6 @@ https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enquiries@birminghamcrisis.org.uk
 https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk
-https://www.guildofstudents.commailto:enquiries@guildbham.ac.uk
 https://www.guildofstudents.commailto:enquiries@horizonsarc.org.uk
 https://www.guildofstudents.commailto:environmentalofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:esports@guild.bham.ac.uk
@@ -3593,7 +3592,6 @@ https://www.guildofstudents.commailto:folk@guild.bham.ac.uk
 https://www.guildofstudents.commailto:footnotes@guild.bham.ac.uk
 https://www.guildofstudents.commailto:friendsinternational@guild.bham.ac.uk
 https://www.guildofstudents.commailto:fringe@guild.bham.ac.uk
-https://www.guildofstudents.commailto:fto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
@@ -3608,7 +3606,6 @@ https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=Extenuating%20Circumstances
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
-https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:heteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query

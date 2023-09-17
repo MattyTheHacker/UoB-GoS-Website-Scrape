@@ -27,6 +27,7 @@ https://www.guildofstudents.commailto:benchball@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bhangra@guild.bham.ac.uk
 https://www.guildofstudents.commailto:biosoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:birmingham@intervol.org.uk
+https://www.guildofstudents.commailto:birmingham@makeasmile.org.uk
 https://www.guildofstudents.commailto:birmingham@ukmarrow.org
 https://www.guildofstudents.commailto:blooddonation@guild.bham.ac.uk
 https://www.guildofstudents.commailto:blss@guild.bham.ac.uk
@@ -97,7 +98,6 @@ https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enquiries@birminghamcrisis.org.uk
 https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk
-https://www.guildofstudents.commailto:enquiries@guildbham.ac.uk
 https://www.guildofstudents.commailto:enquiries@horizonsarc.org.uk
 https://www.guildofstudents.commailto:environmentalofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:esports@guild.bham.ac.uk
@@ -111,7 +111,6 @@ https://www.guildofstudents.commailto:folk@guild.bham.ac.uk
 https://www.guildofstudents.commailto:footnotes@guild.bham.ac.uk
 https://www.guildofstudents.commailto:friendsinternational@guild.bham.ac.uk
 https://www.guildofstudents.commailto:fringe@guild.bham.ac.uk
-https://www.guildofstudents.commailto:fto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
@@ -126,7 +125,6 @@ https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=Extenuating%20Circumstances
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
-https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:heteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query
