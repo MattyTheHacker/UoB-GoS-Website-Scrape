@@ -27,6 +27,7 @@ benchball@guild.bham.ac.uk
 bhangra@guild.bham.ac.uk
 biosoc@guild.bham.ac.uk
 birmingham@intervol.org.uk
+birmingham@makeasmile.org.uk
 birmingham@ukmarrow.org
 blooddonation@guild.bham.ac.uk
 blss@guild.bham.ac.uk
@@ -97,7 +98,6 @@ elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
 enquiries@birminghamcrisis.org.uk
 enquiries@guild.bham.ac.uk
-enquiries@guildbham.ac.uk
 enquiries@horizonsarc.org.uk
 environmentalofficer@guild.bham.ac.uk
 esports@guild.bham.ac.uk
@@ -111,7 +111,6 @@ folk@guild.bham.ac.uk
 footnotes@guild.bham.ac.uk
 friendsinternational@guild.bham.ac.uk
 fringe@guild.bham.ac.uk
-fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
@@ -124,7 +123,6 @@ GreekandCypriotSociety@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
-hallreps@guild.bham.ac.uk
 headucate@guild.bham.ac.uk
 healthandsafety@guild.bham.ac.uk
 heteam@guild.bham.ac.uk
