@@ -1472,7 +1472,6 @@ https://www.guildofstudents.com/events/6371/7628/
 https://www.guildofstudents.com/events/6371/7735/
 https://www.guildofstudents.com/events/6491/7797/
 https://www.guildofstudents.com/events/6523/7758/
-https://www.guildofstudents.com/events/6523/7759/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/7711/
 https://www.guildofstudents.com/events/6531/7717/
@@ -1514,6 +1513,7 @@ https://www.guildofstudents.com/events/7187/7734/
 https://www.guildofstudents.com/events/7195/7739/
 https://www.guildofstudents.com/events/7195/7740/
 https://www.guildofstudents.com/events/7195/7741/
+https://www.guildofstudents.com/events/7219/7736/
 https://www.guildofstudents.com/events/7387/7783/
 https://www.guildofstudents.com/events/7419/7809/
 https://www.guildofstudents.com/events/7419/7810/
@@ -3227,7 +3227,6 @@ https://www.guildofstudents.com/studentgroups/societies/36356/
 https://www.guildofstudents.com/studentgroups/societies/38891/
 https://www.guildofstudents.com/studentgroups/societies/39024/
 https://www.guildofstudents.com/studentgroups/societies/39195/
-https://www.guildofstudents.com/studentgroups/societies/40456/
 https://www.guildofstudents.com/studentgroups/societies/40550/
 https://www.guildofstudents.com/studentgroups/societies/40630/
 https://www.guildofstudents.com/studentgroups/societies/40744/
@@ -3312,6 +3311,7 @@ https://www.guildofstudents.com/studentgroups/societies/turkish/
 https://www.guildofstudents.com/studentgroups/societies/ubcu/
 https://www.guildofstudents.com/studentgroups/societies/ukrainiansociety/
 https://www.guildofstudents.com/studentgroups/societies/uobabacus/
+https://www.guildofstudents.com/studentgroups/societies/uobtaiwanese/
 https://www.guildofstudents.com/studentgroups/societies/vegesoc/
 https://www.guildofstudents.com/studentgroups/societies/welsh/
 https://www.guildofstudents.com/studentgroups/societies/womeninpolitics/
@@ -3417,7 +3417,7 @@ https://www.guildofstudents.com/welcome/events/event/7729/
 https://www.guildofstudents.com/welcome/events/event/7730/
 https://www.guildofstudents.com/welcome/events/event/7733/
 https://www.guildofstudents.com/welcome/events/event/7734/
-https://www.guildofstudents.com/welcome/events/event/7749/
+https://www.guildofstudents.com/welcome/events/event/7736/
 https://www.guildofstudents.com/welcome/events/event/7750/
 https://www.guildofstudents.com/welcome/events/event/7751/
 https://www.guildofstudents.com/welcome/events/event/7752/
@@ -3671,6 +3671,7 @@ https://www.guildofstudents.commailto:lgbtqofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:LGBTSO@guild.bham.ac.uk
 https://www.guildofstudents.commailto:libdem@guild.bham.ac.uk
 https://www.guildofstudents.commailto:linguist@guild.bham.ac.uk
+https://www.guildofstudents.commailto:links@guild.bham.ac.uk
 https://www.guildofstudents.commailto:liveart@guild.bham.ac.uk
 https://www.guildofstudents.commailto:livemusic@guild.bham.ac.uk
 https://www.guildofstudents.commailto:malaysia@guild.bham.ac.uk
@@ -3773,7 +3774,6 @@ https://www.guildofstudents.commailto:ukrainiansociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:unicef@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobbengsoc@gmail.com
 https://www.guildofstudents.commailto:uobbesociety@guild.bham.ac.uk
-https://www.guildofstudents.commailto:UoBFirstAid@sja.org.uk
 https://www.guildofstudents.commailto:uobgirlgamers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobnavigators@gmail.com
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
