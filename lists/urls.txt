@@ -103,7 +103,6 @@ https://www.guildofstudents.com#navsix
 https://www.guildofstudents.com#navten
 https://www.guildofstudents.com#navthree
 https://www.guildofstudents.com#navtwo
-https://www.guildofstudents.com#navvote
 https://www.guildofstudents.com#neighbour
 https://www.guildofstudents.com#newsblogs
 https://www.guildofstudents.com#noise
@@ -1280,6 +1279,7 @@ https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
+https://www.guildofstudents.com/elections/posts/169/
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/7644/
 https://www.guildofstudents.com/ents/event/7645/
@@ -1381,6 +1381,8 @@ https://www.guildofstudents.com/ents/event/7811/
 https://www.guildofstudents.com/ents/event/7812/
 https://www.guildofstudents.com/ents/event/7813/
 https://www.guildofstudents.com/ents/event/7825/
+https://www.guildofstudents.com/ents/event/7829/
+https://www.guildofstudents.com/ents/event/7830/
 https://www.guildofstudents.com/ents/event/7867/
 https://www.guildofstudents.com/ents/event/7869/
 https://www.guildofstudents.com/ents/eventlist/
@@ -1393,6 +1395,7 @@ https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
+https://www.guildofstudents.com/ents/eventlist/elections/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
@@ -1407,6 +1410,7 @@ https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
+https://www.guildofstudents.com/ents/eventlist/studentreps/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/travel/
@@ -1464,6 +1468,7 @@ https://www.guildofstudents.com/events/41025/7777/
 https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6187/7817/
 https://www.guildofstudents.com/events/6203/7640/
+https://www.guildofstudents.com/events/6371/7628/
 https://www.guildofstudents.com/events/6371/7735/
 https://www.guildofstudents.com/events/6491/7797/
 https://www.guildofstudents.com/events/6523/7758/
@@ -3247,6 +3252,7 @@ https://www.guildofstudents.com/studentgroups/societies/conservativefuture/
 https://www.guildofstudents.com/studentgroups/societies/damsa/
 https://www.guildofstudents.com/studentgroups/societies/debating/
 https://www.guildofstudents.com/studentgroups/societies/deeperlife/
+https://www.guildofstudents.com/studentgroups/societies/dgvd/
 https://www.guildofstudents.com/studentgroups/societies/eastafrican/
 https://www.guildofstudents.com/studentgroups/societies/egyptian/
 https://www.guildofstudents.com/studentgroups/societies/filipino/
