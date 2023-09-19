@@ -1525,6 +1525,7 @@ https://www.guildofstudents.com/events/7219/7897/
 https://www.guildofstudents.com/events/7219/7898/
 https://www.guildofstudents.com/events/7219/7899/
 https://www.guildofstudents.com/events/7387/7783/
+https://www.guildofstudents.com/events/7387/7903/
 https://www.guildofstudents.com/events/7419/7809/
 https://www.guildofstudents.com/events/7419/7810/
 https://www.guildofstudents.com/events/7419/7880/
@@ -3438,7 +3439,6 @@ https://www.guildofstudents.com/welcome/events/event/7773/
 https://www.guildofstudents.com/welcome/events/event/7774/
 https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7777/
-https://www.guildofstudents.com/welcome/events/event/7781/
 https://www.guildofstudents.com/welcome/events/event/7786/
 https://www.guildofstudents.com/welcome/events/event/7787/
 https://www.guildofstudents.com/welcome/events/event/7788/
