@@ -1376,7 +1376,6 @@ https://www.guildofstudents.com/ents/event/7787/
 https://www.guildofstudents.com/ents/event/7788/
 https://www.guildofstudents.com/ents/event/7789/
 https://www.guildofstudents.com/ents/event/7803/
-https://www.guildofstudents.com/ents/event/7812/
 https://www.guildofstudents.com/ents/event/7813/
 https://www.guildofstudents.com/ents/event/7825/
 https://www.guildofstudents.com/ents/event/7829/
@@ -1466,10 +1465,12 @@ https://www.guildofstudents.com/events/39633/7882/
 https://www.guildofstudents.com/events/40757/7733/
 https://www.guildofstudents.com/events/40835/7746/
 https://www.guildofstudents.com/events/41025/7777/
+https://www.guildofstudents.com/events/41452/7911/
 https://www.guildofstudents.com/events/6013/7906/
 https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6187/7817/
 https://www.guildofstudents.com/events/6203/7640/
+https://www.guildofstudents.com/events/6227/7909/
 https://www.guildofstudents.com/events/6371/7628/
 https://www.guildofstudents.com/events/6371/7735/
 https://www.guildofstudents.com/events/6491/7797/
@@ -3412,7 +3413,6 @@ https://www.guildofstudents.com/welcome/events/event/7686/
 https://www.guildofstudents.com/welcome/events/event/7697/
 https://www.guildofstudents.com/welcome/events/event/7709/
 https://www.guildofstudents.com/welcome/events/event/7710/
-https://www.guildofstudents.com/welcome/events/event/7721/
 https://www.guildofstudents.com/welcome/events/event/7722/
 https://www.guildofstudents.com/welcome/events/event/7724/
 https://www.guildofstudents.com/welcome/events/event/7725/
@@ -3433,16 +3433,13 @@ https://www.guildofstudents.com/welcome/events/event/7773/
 https://www.guildofstudents.com/welcome/events/event/7774/
 https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7777/
-https://www.guildofstudents.com/welcome/events/event/7787/
 https://www.guildofstudents.com/welcome/events/event/7788/
 https://www.guildofstudents.com/welcome/events/event/7789/
 https://www.guildofstudents.com/welcome/events/event/7794/
 https://www.guildofstudents.com/welcome/events/event/7798/
 https://www.guildofstudents.com/welcome/events/event/7799/
-https://www.guildofstudents.com/welcome/events/event/7802/
 https://www.guildofstudents.com/welcome/events/event/7803/
 https://www.guildofstudents.com/welcome/events/event/7804/
-https://www.guildofstudents.com/welcome/events/event/7812/
 https://www.guildofstudents.com/welcome/events/event/7813/
 https://www.guildofstudents.com/welcome/events/event/7820/
 https://www.guildofstudents.com/welcome/events/event/7825/
@@ -3459,6 +3456,7 @@ https://www.guildofstudents.com/welcome/events/event/7888/
 https://www.guildofstudents.com/welcome/events/event/7905/
 https://www.guildofstudents.com/welcome/events/event/7906/
 https://www.guildofstudents.com/welcome/events/event/7907/
+https://www.guildofstudents.com/welcome/events/event/7909/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
