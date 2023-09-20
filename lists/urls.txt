@@ -1439,6 +1439,7 @@ https://www.guildofstudents.com/events/12167/7873/
 https://www.guildofstudents.com/events/12167/7874/
 https://www.guildofstudents.com/events/12492/7866/
 https://www.guildofstudents.com/events/13206/7804/
+https://www.guildofstudents.com/events/13206/7912/
 https://www.guildofstudents.com/events/20372/7641/
 https://www.guildofstudents.com/events/20913/7620/
 https://www.guildofstudents.com/events/20913/7744/
@@ -3408,6 +3409,7 @@ https://www.guildofstudents.com/welcome/events#wristband
 https://www.guildofstudents.com/welcome/events/event/7649/
 https://www.guildofstudents.com/welcome/events/event/7650/
 https://www.guildofstudents.com/welcome/events/event/7651/
+https://www.guildofstudents.com/welcome/events/event/7652/
 https://www.guildofstudents.com/welcome/events/event/7655/
 https://www.guildofstudents.com/welcome/events/event/7686/
 https://www.guildofstudents.com/welcome/events/event/7697/
