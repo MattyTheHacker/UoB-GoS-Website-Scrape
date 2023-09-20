@@ -1394,6 +1394,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=9&year=2023
 https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
+https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/elections/
@@ -1537,6 +1538,7 @@ https://www.guildofstudents.com/events/7523/7738/
 https://www.guildofstudents.com/events/7523/7743/
 https://www.guildofstudents.com/events/7523/7837/
 https://www.guildofstudents.com/events/7727/7623/
+https://www.guildofstudents.com/events/7727/7908/
 https://www.guildofstudents.com/events/8649/7800/
 https://www.guildofstudents.com/eventsandtickets/fabnfresh
 https://www.guildofstudents.com/footer/cookiepolicy/
@@ -3405,7 +3407,6 @@ https://www.guildofstudents.com/welcome/events#wristband
 https://www.guildofstudents.com/welcome/events/event/7649/
 https://www.guildofstudents.com/welcome/events/event/7650/
 https://www.guildofstudents.com/welcome/events/event/7651/
-https://www.guildofstudents.com/welcome/events/event/7654/
 https://www.guildofstudents.com/welcome/events/event/7655/
 https://www.guildofstudents.com/welcome/events/event/7656/
 https://www.guildofstudents.com/welcome/events/event/7686/
