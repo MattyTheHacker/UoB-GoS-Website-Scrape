@@ -1383,6 +1383,7 @@ https://www.guildofstudents.com/ents/event/7867/
 https://www.guildofstudents.com/ents/event/7869/
 https://www.guildofstudents.com/ents/event/7905/
 https://www.guildofstudents.com/ents/event/7907/
+https://www.guildofstudents.com/ents/event/7914/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1414,6 +1415,7 @@ https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/travel/
+https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
 https://www.guildofstudents.com/ents/eventlist/welcomeintpage/
 https://www.guildofstudents.com/ents/eventlist/welcomepage/
@@ -1426,6 +1428,8 @@ https://www.guildofstudents.com/ents/eventlist/welcomepageunder/
 https://www.guildofstudents.com/ents/eventlist/welcomepostpage/
 https://www.guildofstudents.com/ents/eventlist/welcomesettlingin/
 https://www.guildofstudents.com/ents/eventlist/welcomewristbandf/
+https://www.guildofstudents.com/ents/eventlist/wfr-dontuse/
+https://www.guildofstudents.com/ents/eventlist/wrr-dontuse/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
@@ -1530,6 +1534,7 @@ https://www.guildofstudents.com/events/7419/7809/
 https://www.guildofstudents.com/events/7419/7810/
 https://www.guildofstudents.com/events/7419/7880/
 https://www.guildofstudents.com/events/7427/7624/
+https://www.guildofstudents.com/events/7475/7902/
 https://www.guildofstudents.com/events/7491/7642/
 https://www.guildofstudents.com/events/7515/7781/
 https://www.guildofstudents.com/events/7515/7794/
@@ -3448,6 +3453,7 @@ https://www.guildofstudents.com/welcome/events/event/7873/
 https://www.guildofstudents.com/welcome/events/event/7874/
 https://www.guildofstudents.com/welcome/events/event/7887/
 https://www.guildofstudents.com/welcome/events/event/7888/
+https://www.guildofstudents.com/welcome/events/event/7902/
 https://www.guildofstudents.com/welcome/events/event/7905/
 https://www.guildofstudents.com/welcome/events/event/7906/
 https://www.guildofstudents.com/welcome/events/event/7907/
