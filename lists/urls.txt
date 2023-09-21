@@ -1534,7 +1534,6 @@ https://www.guildofstudents.com/events/7419/7809/
 https://www.guildofstudents.com/events/7419/7810/
 https://www.guildofstudents.com/events/7419/7880/
 https://www.guildofstudents.com/events/7427/7624/
-https://www.guildofstudents.com/events/7475/7902/
 https://www.guildofstudents.com/events/7491/7642/
 https://www.guildofstudents.com/events/7515/7781/
 https://www.guildofstudents.com/events/7515/7794/
@@ -3416,7 +3415,6 @@ https://www.guildofstudents.com/welcome/events/event/7652/
 https://www.guildofstudents.com/welcome/events/event/7655/
 https://www.guildofstudents.com/welcome/events/event/7686/
 https://www.guildofstudents.com/welcome/events/event/7697/
-https://www.guildofstudents.com/welcome/events/event/7722/
 https://www.guildofstudents.com/welcome/events/event/7724/
 https://www.guildofstudents.com/welcome/events/event/7725/
 https://www.guildofstudents.com/welcome/events/event/7726/
@@ -3431,7 +3429,6 @@ https://www.guildofstudents.com/welcome/events/event/7773/
 https://www.guildofstudents.com/welcome/events/event/7774/
 https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7777/
-https://www.guildofstudents.com/welcome/events/event/7788/
 https://www.guildofstudents.com/welcome/events/event/7789/
 https://www.guildofstudents.com/welcome/events/event/7798/
 https://www.guildofstudents.com/welcome/events/event/7799/
@@ -3444,13 +3441,10 @@ https://www.guildofstudents.com/welcome/events/event/7828/
 https://www.guildofstudents.com/welcome/events/event/7835/
 https://www.guildofstudents.com/welcome/events/event/7866/
 https://www.guildofstudents.com/welcome/events/event/7867/
-https://www.guildofstudents.com/welcome/events/event/7870/
 https://www.guildofstudents.com/welcome/events/event/7871/
 https://www.guildofstudents.com/welcome/events/event/7873/
 https://www.guildofstudents.com/welcome/events/event/7874/
-https://www.guildofstudents.com/welcome/events/event/7887/
 https://www.guildofstudents.com/welcome/events/event/7888/
-https://www.guildofstudents.com/welcome/events/event/7902/
 https://www.guildofstudents.com/welcome/events/event/7905/
 https://www.guildofstudents.com/welcome/events/event/7906/
 https://www.guildofstudents.com/welcome/events/event/7907/
