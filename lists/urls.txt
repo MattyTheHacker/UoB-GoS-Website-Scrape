@@ -296,6 +296,7 @@ https://www.guildofstudents.com//instagram.com/uobsandam
 https://www.guildofstudents.com//instagram.com/uobsignlanguage
 https://www.guildofstudents.com//instagram.com/uobsikhsociety
 https://www.guildofstudents.com//instagram.com/uobsing
+https://www.guildofstudents.com//instagram.com/uobsingsoc
 https://www.guildofstudents.com//instagram.com/uobsitcomsoc
 https://www.guildofstudents.com//instagram.com/uobskate
 https://www.guildofstudents.com//instagram.com/uobtabletopgaming
@@ -1481,6 +1482,7 @@ https://www.guildofstudents.com/events/6531/7711/
 https://www.guildofstudents.com/events/6531/7717/
 https://www.guildofstudents.com/events/6531/7718/
 https://www.guildofstudents.com/events/6531/7818/
+https://www.guildofstudents.com/events/6531/7913/
 https://www.guildofstudents.com/events/6539/7634/
 https://www.guildofstudents.com/events/6611/7626/
 https://www.guildofstudents.com/events/6675/7720/
@@ -1509,6 +1511,7 @@ https://www.guildofstudents.com/events/6867/7621/
 https://www.guildofstudents.com/events/6963/7887/
 https://www.guildofstudents.com/events/6963/7888/
 https://www.guildofstudents.com/events/7011/7782/
+https://www.guildofstudents.com/events/7011/7875/
 https://www.guildofstudents.com/events/7091/7635/
 https://www.guildofstudents.com/events/7091/7816/
 https://www.guildofstudents.com/events/7091/7879/
@@ -3407,7 +3410,6 @@ https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
 https://www.guildofstudents.com/welcome/events/event/7649/
-https://www.guildofstudents.com/welcome/events/event/7650/
 https://www.guildofstudents.com/welcome/events/event/7651/
 https://www.guildofstudents.com/welcome/events/event/7652/
 https://www.guildofstudents.com/welcome/events/event/7655/
@@ -3424,8 +3426,6 @@ https://www.guildofstudents.com/welcome/events/event/7729/
 https://www.guildofstudents.com/welcome/events/event/7733/
 https://www.guildofstudents.com/welcome/events/event/7734/
 https://www.guildofstudents.com/welcome/events/event/7736/
-https://www.guildofstudents.com/welcome/events/event/7753/
-https://www.guildofstudents.com/welcome/events/event/7754/
 https://www.guildofstudents.com/welcome/events/event/7763/
 https://www.guildofstudents.com/welcome/events/event/7764/
 https://www.guildofstudents.com/welcome/events/event/7765/
@@ -3437,7 +3437,6 @@ https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7777/
 https://www.guildofstudents.com/welcome/events/event/7788/
 https://www.guildofstudents.com/welcome/events/event/7789/
-https://www.guildofstudents.com/welcome/events/event/7794/
 https://www.guildofstudents.com/welcome/events/event/7798/
 https://www.guildofstudents.com/welcome/events/event/7799/
 https://www.guildofstudents.com/welcome/events/event/7803/
