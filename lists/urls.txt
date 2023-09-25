@@ -1266,6 +1266,7 @@ https://www.guildofstudents.com/accommodation/thevale/
 https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertclick/109/
+https://www.guildofstudents.com/advertclick/110/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
@@ -1439,6 +1440,7 @@ https://www.guildofstudents.com/events/13206/7804/
 https://www.guildofstudents.com/events/13206/7912/
 https://www.guildofstudents.com/events/13206/7944/
 https://www.guildofstudents.com/events/13206/7945/
+https://www.guildofstudents.com/events/13206/7974/
 https://www.guildofstudents.com/events/20372/7641/
 https://www.guildofstudents.com/events/20937/7819/
 https://www.guildofstudents.com/events/22526/7799/
@@ -1454,6 +1456,7 @@ https://www.guildofstudents.com/events/35177/7790/
 https://www.guildofstudents.com/events/35177/7791/
 https://www.guildofstudents.com/events/35177/7792/
 https://www.guildofstudents.com/events/35779/7484/
+https://www.guildofstudents.com/events/35779/7971/
 https://www.guildofstudents.com/events/36117/7950/
 https://www.guildofstudents.com/events/36356/7943/
 https://www.guildofstudents.com/events/38754/7827/
@@ -1523,6 +1526,7 @@ https://www.guildofstudents.com/events/6963/7888/
 https://www.guildofstudents.com/events/7011/7782/
 https://www.guildofstudents.com/events/7011/7875/
 https://www.guildofstudents.com/events/7067/7927/
+https://www.guildofstudents.com/events/7067/7973/
 https://www.guildofstudents.com/events/7091/7635/
 https://www.guildofstudents.com/events/7091/7816/
 https://www.guildofstudents.com/events/7091/7879/
@@ -3782,6 +3786,7 @@ https://www.guildofstudents.commailto:womensofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:worklink@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:writersbloc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:yoga@guild.bham.ac.uk
+https://www.guildofstudents.comstudent-sims-voxi.php
 https://www.guildofstudents.comtel:0121 41 58950
 https://www.guildofstudents.comtel:0121 415 856
 https://www.guildofstudents.comtel:0121 415 9990
