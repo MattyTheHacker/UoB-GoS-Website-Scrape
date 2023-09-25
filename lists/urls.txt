@@ -1440,7 +1440,6 @@ https://www.guildofstudents.com/events/13206/7912/
 https://www.guildofstudents.com/events/13206/7944/
 https://www.guildofstudents.com/events/13206/7945/
 https://www.guildofstudents.com/events/20372/7641/
-https://www.guildofstudents.com/events/20913/7926/
 https://www.guildofstudents.com/events/20937/7819/
 https://www.guildofstudents.com/events/22526/7799/
 https://www.guildofstudents.com/events/22700/7835/
@@ -1471,6 +1470,7 @@ https://www.guildofstudents.com/events/41025/7777/
 https://www.guildofstudents.com/events/41188/7906/
 https://www.guildofstudents.com/events/41452/7911/
 https://www.guildofstudents.com/events/6043/7946/
+https://www.guildofstudents.com/events/6059/7949/
 https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6187/7817/
 https://www.guildofstudents.com/events/6203/7640/
@@ -1569,7 +1569,6 @@ https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/Guild-Statement-Confirmation-of-the-reintroduction-of-External-Memberships/
 https://www.guildofstudents.com/news/article/website/How-to-Make-Friends-before-Uni-begins/
 https://www.guildofstudents.com/news/article/website/Official-Welcome-Events/
-https://www.guildofstudents.com/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/What-is-second-year-really-like/
@@ -3431,7 +3430,6 @@ https://www.guildofstudents.com/welcome/events/event/7773/
 https://www.guildofstudents.com/welcome/events/event/7774/
 https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7798/
-https://www.guildofstudents.com/welcome/events/event/7803/
 https://www.guildofstudents.com/welcome/events/event/7804/
 https://www.guildofstudents.com/welcome/events/event/7820/
 https://www.guildofstudents.com/welcome/events/event/7828/
@@ -3454,7 +3452,6 @@ https://www.guildofstudents.com/welcome/newhome/
 https://www.guildofstudents.com/welcome/news
 https://www.guildofstudents.com/welcome/news/article/website/How-to-Make-Friends-before-Uni-begins/
 https://www.guildofstudents.com/welcome/news/article/website/Official-Welcome-Events/
-https://www.guildofstudents.com/welcome/news/article/website/Packing-Tips-for-International-and-Home-Students/
 https://www.guildofstudents.com/welcome/postgraduate
 https://www.guildofstudents.com/welcome/settlingin
 https://www.guildofstudents.com/welcome/settlingin#accommsupport
