@@ -5,10 +5,8 @@ http://www.guildofstudents.com/complaints/
 http://www.guildofstudents.com/footer/apppolicy/
 http://www.guildofstudents.com/guildadvice
 http://www.guildofstudents.com/mediasales/
-http://www.guildofstudents.com/pageassets/support/guildadvice/advice_direct/academic/ACADEMIC-Extenuating-Circumstances-27.8.15.pdf
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
 http://www.guildofstudents.com/studentgroups
-http://www.guildofstudents.com/studentmentors
 http://www.guildofstudents.com/support/guild-lettings/
 http://www.guildofstudents.com/support/livinginbirmingham/community/communitywardens/contacts/
 http://www.guildofstudents.com/support/studentmentors/
@@ -2817,6 +2815,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-11.01.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-11.04.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-11.05.20.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-11.09.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-11.10.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-11.11.19.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-12.01.21.pdf
@@ -3165,7 +3164,6 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Charlotte-Minter.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
-https://www.guildofstudents.com/pageassets/support/academic/academic-support/plagiarism/GA-Plagiarism-Flyer-2019.pdf
 https://www.guildofstudents.com/pageassets/support/academicsupport/academicintegrity/Academic-Integrity-and-Plagiarism-advice-sheet.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
@@ -3366,8 +3364,6 @@ https://www.guildofstudents.com/studentstaff
 https://www.guildofstudents.com/studentstaff/
 https://www.guildofstudents.com/support
 https://www.guildofstudents.com/support/academic/academic-support/
-https://www.guildofstudents.com/support/academic/academic-support/plagiarism/
-https://www.guildofstudents.com/support/academic/exam-stress/
 https://www.guildofstudents.com/support/academicsupport/
 https://www.guildofstudents.com/support/academicsupport/academicintegrity/
 https://www.guildofstudents.com/support/academicsupport/appeals/
@@ -3413,7 +3409,6 @@ https://www.guildofstudents.com/support/studentmentors/contact/
 https://www.guildofstudents.com/support/studentmentors/who-are-student-mentors/
 https://www.guildofstudents.com/support/welcome-to-support/
 https://www.guildofstudents.com/support/welcome-week-and-beyond/student-parents-and-carers/
-https://www.guildofstudents.com/support/welfare/extenuating-circumstances/
 https://www.guildofstudents.com/sustainability/gogreenweek/
 https://www.guildofstudents.com/sustainability/green-impact/
 https://www.guildofstudents.com/tac/
@@ -3608,7 +3603,6 @@ https://www.guildofstudents.commailto:GreekandCypriotSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:greenpartysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
-https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=Extenuating%20Circumstances
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
