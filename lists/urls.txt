@@ -275,6 +275,7 @@ https://www.guildofstudents.com//instagram.com/uoblans_society
 https://www.guildofstudents.com//instagram.com/uoblawfornonlaw
 https://www.guildofstudents.com//instagram.com/uoblinguist_mag
 https://www.guildofstudents.com//instagram.com/uobmarksoc
+https://www.guildofstudents.com//instagram.com/uobmaterials
 https://www.guildofstudents.com//instagram.com/uobmeditation
 https://www.guildofstudents.com//instagram.com/uobmetalsoc
 https://www.guildofstudents.com//instagram.com/uobmflsoc
@@ -334,7 +335,6 @@ https://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
 https://www.guildofstudents.com/about/trusteeboard/subcommittees/
 https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/
 https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/externaltrustee/
-https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/studentrustee/
 https://www.guildofstudents.com/about/trusteeboard/whoarethetrustees/
 https://www.guildofstudents.com/about/your-union/workwithus/currentvacancies/
 https://www.guildofstudents.com/about/your-union/workwithus/howtocompleteanapplication/
@@ -1466,7 +1466,6 @@ https://www.guildofstudents.com/events/38832/7931/
 https://www.guildofstudents.com/events/39125/7821/
 https://www.guildofstudents.com/events/39125/7822/
 https://www.guildofstudents.com/events/39181/7947/
-https://www.guildofstudents.com/events/39633/7802/
 https://www.guildofstudents.com/events/39633/7881/
 https://www.guildofstudents.com/events/39633/7882/
 https://www.guildofstudents.com/events/40757/7733/
@@ -2547,8 +2546,8 @@ https://www.guildofstudents.com/organisation/41191/
 https://www.guildofstudents.com/organisation/41452/
 https://www.guildofstudents.com/organisation/41472/
 https://www.guildofstudents.com/organisation/41482/
-https://www.guildofstudents.com/organisation/41512/
 https://www.guildofstudents.com/organisation/41522/
+https://www.guildofstudents.com/organisation/41701/
 https://www.guildofstudents.com/organisation/8408/
 https://www.guildofstudents.com/organisation/8649/
 https://www.guildofstudents.com/organisation/9220/
@@ -2575,6 +2574,7 @@ https://www.guildofstudents.com/organisation/brumsurf/
 https://www.guildofstudents.com/organisation/bsfl/
 https://www.guildofstudents.com/organisation/buds/
 https://www.guildofstudents.com/organisation/buisness/
+https://www.guildofstudents.com/organisation/bunsandbums/
 https://www.guildofstudents.com/organisation/busag/
 https://www.guildofstudents.com/organisation/calligraphy/
 https://www.guildofstudents.com/organisation/chasingzero/
@@ -2708,10 +2708,6 @@ https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/1.-External-Trustee-Advert-Aug-23.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/2.-External-Trustee-Candidate-Information-Pack-Aug-23.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/3.-Application-Form-External-Trustee-Paper-Version-Aug-23.docx
-https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/studentrustee/1.-Student-Trustee-Information-Pack-August-2023.pdf
-https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/studentrustee/2.-Student-Trustee-Advert-August-2023.pdf
-https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/studentrustee/3.-Student-Trustee-Role-Description-Person-Specification.pdf
-https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/studentrustee/4.-Application-Form-For-Off-Line-Use.docx
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/Trustee-Role-Description-and-Person-Spec.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf
 https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2023.pdf
@@ -3285,6 +3281,7 @@ https://www.guildofstudents.com/studentgroups/societies/41025/
 https://www.guildofstudents.com/studentgroups/societies/41079/
 https://www.guildofstudents.com/studentgroups/societies/41492/
 https://www.guildofstudents.com/studentgroups/societies/41640/
+https://www.guildofstudents.com/studentgroups/societies/41711/
 https://www.guildofstudents.com/studentgroups/societies/7751/
 https://www.guildofstudents.com/studentgroups/societies/africanandcaribbean/
 https://www.guildofstudents.com/studentgroups/societies/ahlulbayt/
@@ -3445,7 +3442,6 @@ https://www.guildofstudents.com/welcome/events#wristband
 https://www.guildofstudents.com/welcome/events/event/7652/
 https://www.guildofstudents.com/welcome/events/event/7686/
 https://www.guildofstudents.com/welcome/events/event/7697/
-https://www.guildofstudents.com/welcome/events/event/7726/
 https://www.guildofstudents.com/welcome/events/event/7727/
 https://www.guildofstudents.com/welcome/events/event/7729/
 https://www.guildofstudents.com/welcome/events/event/7775/
@@ -3458,7 +3454,6 @@ https://www.guildofstudents.com/welcome/events/event/7873/
 https://www.guildofstudents.com/welcome/events/event/7874/
 https://www.guildofstudents.com/welcome/events/event/7906/
 https://www.guildofstudents.com/welcome/events/event/7907/
-https://www.guildofstudents.com/welcome/events/event/7924/
 https://www.guildofstudents.com/welcome/events/event/7925/
 https://www.guildofstudents.com/welcome/events/event/7978/
 https://www.guildofstudents.com/welcome/events/event/7980/
@@ -3658,9 +3653,7 @@ https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:KCover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kickboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:koreansoc@guild.bham.ac.uk
-https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
 https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=External%20Trustee
-https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=Student%20Trustee
 https://www.guildofstudents.commailto:labour@guild.bham.ac.uk
 https://www.guildofstudents.commailto:larp@guild.bham.ac.uk
 https://www.guildofstudents.commailto:lassoc@guild.bham.ac.uk
@@ -3748,6 +3741,7 @@ https://www.guildofstudents.commailto:socialworksoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:somali@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sports@guild.bham.ac.uk
 https://www.guildofstudents.commailto:srilankan@guild.bham.ac.uk
+https://www.guildofstudents.commailto:staffing@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
 https://www.guildofstudents.commailto:star1@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentexchange@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk
