@@ -251,6 +251,7 @@ socialworksoc@guild.bham.ac.uk
 somali@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
+staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
 studentgroups@guild.bham.ac.uk
