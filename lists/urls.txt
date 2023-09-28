@@ -1379,7 +1379,6 @@ https://www.guildofstudents.com/ents/event/7787/
 https://www.guildofstudents.com/ents/event/7788/
 https://www.guildofstudents.com/ents/event/7789/
 https://www.guildofstudents.com/ents/event/7803/
-https://www.guildofstudents.com/ents/event/7830/
 https://www.guildofstudents.com/ents/event/7867/
 https://www.guildofstudents.com/ents/event/7905/
 https://www.guildofstudents.com/ents/event/7907/
@@ -1388,6 +1387,7 @@ https://www.guildofstudents.com/ents/event/7975/
 https://www.guildofstudents.com/ents/event/7976/
 https://www.guildofstudents.com/ents/event/7977/
 https://www.guildofstudents.com/ents/event/7983/
+https://www.guildofstudents.com/ents/event/7988/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1399,7 +1399,6 @@ https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
-https://www.guildofstudents.com/ents/eventlist/elections/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
@@ -1413,7 +1412,6 @@ https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
-https://www.guildofstudents.com/ents/eventlist/studentreps/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
@@ -3485,6 +3483,7 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
 https://www.guildofstudents.comjavascript:history.back();
+https://www.guildofstudents.comjavascript:void(0)
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
