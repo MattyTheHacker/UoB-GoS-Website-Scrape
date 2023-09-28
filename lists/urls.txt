@@ -3452,7 +3452,6 @@ https://www.guildofstudents.com/welcome/events/event/7866/
 https://www.guildofstudents.com/welcome/events/event/7873/
 https://www.guildofstudents.com/welcome/events/event/7874/
 https://www.guildofstudents.com/welcome/events/event/7907/
-https://www.guildofstudents.com/welcome/events/event/7925/
 https://www.guildofstudents.com/welcome/events/event/7980/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
@@ -3483,7 +3482,6 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
 https://www.guildofstudents.comjavascript:history.back();
-https://www.guildofstudents.comjavascript:void(0)
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
