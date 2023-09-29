@@ -230,6 +230,7 @@ https://www.guildofstudents.com//instagram.com/uob_pharmsoc
 https://www.guildofstudents.com//instagram.com/uob_pl
 https://www.guildofstudents.com//instagram.com/uob_pokesoc
 https://www.guildofstudents.com//instagram.com/uob_rollerskate
+https://www.guildofstudents.com//instagram.com/uob_roundnet
 https://www.guildofstudents.com//instagram.com/uob_rss
 https://www.guildofstudents.com//instagram.com/uob_tcu
 https://www.guildofstudents.com//instagram.com/uob_virtualreality
@@ -1463,7 +1464,6 @@ https://www.guildofstudents.com/events/35177/7790/
 https://www.guildofstudents.com/events/35177/7791/
 https://www.guildofstudents.com/events/35177/7792/
 https://www.guildofstudents.com/events/35779/7484/
-https://www.guildofstudents.com/events/35779/7971/
 https://www.guildofstudents.com/events/36356/7943/
 https://www.guildofstudents.com/events/38754/7827/
 https://www.guildofstudents.com/events/38832/7931/
@@ -1484,7 +1484,6 @@ https://www.guildofstudents.com/events/6043/7946/
 https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6227/7909/
-https://www.guildofstudents.com/events/6371/7628/
 https://www.guildofstudents.com/events/6371/7889/
 https://www.guildofstudents.com/events/6475/7928/
 https://www.guildofstudents.com/events/6475/7929/
@@ -3242,7 +3241,6 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/events/35779/7971/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/aeo/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/eo/new/
