@@ -267,6 +267,7 @@ https://www.guildofstudents.com//instagram.com/uobhindusoc
 https://www.guildofstudents.com//instagram.com/uobhistory
 https://www.guildofstudents.com//instagram.com/uobifs
 https://www.guildofstudents.com//instagram.com/uobindiansoc
+https://www.guildofstudents.com//instagram.com/uobinsulinappreciation
 https://www.guildofstudents.com//instagram.com/uobjainsoc
 https://www.guildofstudents.com//instagram.com/uobjapansociety
 https://www.guildofstudents.com//instagram.com/uobjfs
@@ -1388,6 +1389,8 @@ https://www.guildofstudents.com/ents/event/7976/
 https://www.guildofstudents.com/ents/event/7977/
 https://www.guildofstudents.com/ents/event/7983/
 https://www.guildofstudents.com/ents/event/7988/
+https://www.guildofstudents.com/ents/event/7990/
+https://www.guildofstudents.com/ents/event/7991/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1403,6 +1406,7 @@ https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
+https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
@@ -1451,6 +1455,7 @@ https://www.guildofstudents.com/events/22877/7776/
 https://www.guildofstudents.com/events/25675/7629/
 https://www.guildofstudents.com/events/25675/7824/
 https://www.guildofstudents.com/events/26488/7948/
+https://www.guildofstudents.com/events/33838/7992/
 https://www.guildofstudents.com/events/33868/7627/
 https://www.guildofstudents.com/events/33868/7745/
 https://www.guildofstudents.com/events/34325/7972/
@@ -1465,6 +1470,7 @@ https://www.guildofstudents.com/events/38832/7931/
 https://www.guildofstudents.com/events/39125/7821/
 https://www.guildofstudents.com/events/39125/7822/
 https://www.guildofstudents.com/events/39181/7947/
+https://www.guildofstudents.com/events/39181/7989/
 https://www.guildofstudents.com/events/39633/7881/
 https://www.guildofstudents.com/events/39633/7882/
 https://www.guildofstudents.com/events/40757/7733/
@@ -3236,6 +3242,7 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/events/35779/7971/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/aeo/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/eo/new/
