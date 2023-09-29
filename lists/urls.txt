@@ -1403,7 +1403,6 @@ https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
-https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
@@ -1459,6 +1458,7 @@ https://www.guildofstudents.com/events/35177/7790/
 https://www.guildofstudents.com/events/35177/7791/
 https://www.guildofstudents.com/events/35177/7792/
 https://www.guildofstudents.com/events/35779/7484/
+https://www.guildofstudents.com/events/35779/7971/
 https://www.guildofstudents.com/events/36356/7943/
 https://www.guildofstudents.com/events/38754/7827/
 https://www.guildofstudents.com/events/38832/7931/
@@ -1475,7 +1475,6 @@ https://www.guildofstudents.com/events/41188/7906/
 https://www.guildofstudents.com/events/41452/7911/
 https://www.guildofstudents.com/events/41452/7978/
 https://www.guildofstudents.com/events/6043/7946/
-https://www.guildofstudents.com/events/6059/7949/
 https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6227/7909/
@@ -1522,7 +1521,6 @@ https://www.guildofstudents.com/events/6803/7820/
 https://www.guildofstudents.com/events/6851/7632/
 https://www.guildofstudents.com/events/6851/7798/
 https://www.guildofstudents.com/events/6867/7621/
-https://www.guildofstudents.com/events/7011/7782/
 https://www.guildofstudents.com/events/7011/7875/
 https://www.guildofstudents.com/events/7067/7927/
 https://www.guildofstudents.com/events/7067/7973/
@@ -1560,7 +1558,6 @@ https://www.guildofstudents.com/events/7523/7807/
 https://www.guildofstudents.com/events/7523/7837/
 https://www.guildofstudents.com/events/7727/7623/
 https://www.guildofstudents.com/events/7727/7908/
-https://www.guildofstudents.com/events/8649/7800/
 https://www.guildofstudents.com/eventsandtickets/fabnfresh
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
@@ -3440,10 +3437,7 @@ https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
 https://www.guildofstudents.com/welcome/events/event/7652/
-https://www.guildofstudents.com/welcome/events/event/7686/
 https://www.guildofstudents.com/welcome/events/event/7697/
-https://www.guildofstudents.com/welcome/events/event/7729/
-https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7798/
 https://www.guildofstudents.com/welcome/events/event/7820/
 https://www.guildofstudents.com/welcome/events/event/7828/
