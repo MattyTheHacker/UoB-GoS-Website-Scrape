@@ -10,7 +10,6 @@ AlternativeHipHopSociety@guild.bham.ac.uk
 amnesty@guild.bham.ac.uk
 anime@guild.bham.ac.uk
 arabsoc@guild.bham.ac.uk
-ARAFO@guild.bham.ac.uk
 archaeology@guild.bham.ac.uk
 artsoc@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
@@ -74,20 +73,16 @@ consulting@guild.bham.ac.uk
 craft@guild.bham.ac.uk
 criminology@guild.bham.ac.uk
 css@guild.bham.ac.uk
-d.j.tope@bham.ac.uk
 darts@guild.bham.ac.uk
 debating@guild.bham.ac.uk
 deeperlife@guild.bham.ac.uk
 dental@guild.bham.ac.uk
 devilsadvocate@guild.bham.ac.uk
-disability@contacts.bham.ac.uk
 disability@guild.bham.ac.uk
 disabledofficer@guild.bham.ac.uk
 doctorwho@guild.bham.ac.uk
 dogsoc@guild.bham.ac.uk
 dpo@guild.bham.ac.uk
-dso@guild.bham.ac.uk
-DSO@guild.bham.ac.uk
 E.Badger@guild.bham.ac.uk
 eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
@@ -96,9 +91,7 @@ education@guild.bham.ac.uk
 EgyptSociety@guild.bham.ac.uk
 elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
-enquiries@birminghamcrisis.org.uk
 enquiries@guild.bham.ac.uk
-enquiries@horizonsarc.org.uk
 environmentalofficer@guild.bham.ac.uk
 esports@guild.bham.ac.uk
 ewb@guild.bham.ac.uk
@@ -140,8 +133,6 @@ ifa@guild.bham.ac.uk
 indiancultural@guild.bham.ac.uk
 indonesian@guild.bham.ac.uk
 infinity@guild.bham.ac.uk
-info@birminghamfreedomproject.org
-info@rsvporg.co.uk
 info@ubisoc.co.uk
 insulinappreciation@guild.bham.ac.uk
 international@guild.bham.ac.uk
@@ -172,7 +163,6 @@ latinodance@guild.bham.ac.uk
 law4nonlaw@guild.bham.ac.uk
 lgbtq@guild.bham.ac.uk
 lgbtqofficer@guild.bham.ac.uk
-LGBTSO@guild.bham.ac.uk
 libdem@guild.bham.ac.uk
 linguist@guild.bham.ac.uk
 links@guild.bham.ac.uk
@@ -220,7 +210,6 @@ pottersoc@guild.bham.ac.uk
 powerlifting@guild.bham.ac.uk
 powersoc@guild.bham.ac.uk
 ppe@guild.bham.ac.uk
-presessional@contacts.bham.ac.uk
 president@guild.bham.ac.uk
 psychologysoc@guild.bham.ac.uk
 publicspeakingsociety@guild.bham.ac.uk
@@ -267,7 +256,6 @@ tea@guild.bham.ac.uk
 teamup@guild.bham.ac.uk
 TeluguSociety@guild.bham.ac.uk
 transofficer@guild.bham.ac.uk
-TSO@guild.bham.ac.uk
 tss@guild.bham.ac.uk
 ttgaming@guild.bham.ac.uk
 tuitionscheme@guild.bham.ac.uk
