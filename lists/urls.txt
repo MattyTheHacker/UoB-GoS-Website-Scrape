@@ -1267,6 +1267,7 @@ https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertclick/109/
 https://www.guildofstudents.com/advertclick/110/
+https://www.guildofstudents.com/advertclick/111/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/asset/Job/124/Job-Description-and-Person-Specfication-Student-Voice-Administration-Coordinator-Sept-2023.pdf
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
@@ -1400,6 +1401,7 @@ https://www.guildofstudents.com/events/13206/7974/
 https://www.guildofstudents.com/events/20913/7986/
 https://www.guildofstudents.com/events/20913/7987/
 https://www.guildofstudents.com/events/20913/8021/
+https://www.guildofstudents.com/events/20913/8022/
 https://www.guildofstudents.com/events/20937/7819/
 https://www.guildofstudents.com/events/20937/7984/
 https://www.guildofstudents.com/events/25675/7629/
@@ -3387,13 +3389,14 @@ https://www.guildofstudents.com/welcome/support/
 https://www.guildofstudents.com/welcome/undergraduate
 https://www.guildofstudents.comassessmentsandwellbeing/
 https://www.guildofstudents.comintranet.birmingham.ac.uk/as/registry/policy/conduct/examirregs/index.aspx#intro
-https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl16$filterList','')
+https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl15$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl21$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl31$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8644')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8705')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
+https://www.guildofstudents.comjavascript:void(0)
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
