@@ -164,7 +164,7 @@ https://www.guildofstudents.com//instagram.com/firstaidsocietyuob
 https://www.guildofstudents.com//instagram.com/firstloveuob
 https://www.guildofstudents.com//instagram.com/friendsinternational_uob
 https://www.guildofstudents.com//instagram.com/gds_uob
-https://www.guildofstudents.com//instagram.com/GMTGBrum
+https://www.guildofstudents.com//instagram.com/gmtgbrum
 https://www.guildofstudents.com//instagram.com/guildtelevision
 https://www.guildofstudents.com//instagram.com/Headucateuob
 https://www.guildofstudents.com//instagram.com/hideandseekuob
@@ -1417,6 +1417,13 @@ https://www.guildofstudents.com/events/39633/7881/
 https://www.guildofstudents.com/events/39633/7882/
 https://www.guildofstudents.com/events/40757/7980/
 https://www.guildofstudents.com/events/41452/7978/
+https://www.guildofstudents.com/events/41452/8025/
+https://www.guildofstudents.com/events/41452/8026/
+https://www.guildofstudents.com/events/41452/8027/
+https://www.guildofstudents.com/events/41452/8028/
+https://www.guildofstudents.com/events/41452/8029/
+https://www.guildofstudents.com/events/41452/8030/
+https://www.guildofstudents.com/events/41452/8031/
 https://www.guildofstudents.com/events/6043/7946/
 https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6203/7640/
@@ -1434,14 +1441,6 @@ https://www.guildofstudents.com/events/6611/7933/
 https://www.guildofstudents.com/events/6611/7934/
 https://www.guildofstudents.com/events/6611/7935/
 https://www.guildofstudents.com/events/6675/7720/
-https://www.guildofstudents.com/events/6691/7386/
-https://www.guildofstudents.com/events/6691/7387/
-https://www.guildofstudents.com/events/6691/7388/
-https://www.guildofstudents.com/events/6691/7389/
-https://www.guildofstudents.com/events/6691/7390/
-https://www.guildofstudents.com/events/6691/7391/
-https://www.guildofstudents.com/events/6691/7392/
-https://www.guildofstudents.com/events/6691/7393/
 https://www.guildofstudents.com/events/6715/7725/
 https://www.guildofstudents.com/events/6715/7726/
 https://www.guildofstudents.com/events/6715/7727/
@@ -3363,7 +3362,6 @@ https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
-https://www.guildofstudents.com/welcome/events/event/7820/
 https://www.guildofstudents.com/welcome/events/event/7828/
 https://www.guildofstudents.com/welcome/events/event/7866/
 https://www.guildofstudents.com/welcome/events/event/7873/
@@ -3396,7 +3394,6 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8705')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
-https://www.guildofstudents.comjavascript:history.back();
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
