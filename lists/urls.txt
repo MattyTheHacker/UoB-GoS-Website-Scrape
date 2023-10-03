@@ -179,6 +179,7 @@ https://www.guildofstudents.com//instagram.com/shakespearesocietyuob
 https://www.guildofstudents.com//instagram.com/sobersocials
 https://www.guildofstudents.com//instagram.com/socialworksoc_uob
 https://www.guildofstudents.com//instagram.com/starbirmingham
+https://www.guildofstudents.com//instagram.com/taylorswiftsocuob
 https://www.guildofstudents.com//instagram.com/ubgns
 https://www.guildofstudents.com//instagram.com/ubisoc
 https://www.guildofstudents.com//instagram.com/ublibdems
@@ -1341,6 +1342,7 @@ https://www.guildofstudents.com/ents/event/7990/
 https://www.guildofstudents.com/ents/event/7991/
 https://www.guildofstudents.com/ents/event/8023/
 https://www.guildofstudents.com/ents/event/8033/
+https://www.guildofstudents.com/ents/event/8045/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1348,6 +1350,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
 https://www.guildofstudents.com/ents/eventlist/blackvoices/
 https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
+https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
@@ -1362,6 +1365,7 @@ https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
+https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/eventlist/voice/
@@ -3136,6 +3140,8 @@ https://www.guildofstudents.com/representation/youridea/?tag=Postgraduate
 https://www.guildofstudents.com/representation/youridea/?tag=Societies
 https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
+https://www.guildofstudents.com/sellyexpress
+https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
