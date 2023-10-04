@@ -1253,7 +1253,6 @@ https://www.guildofstudents.com/advertclick/109/
 https://www.guildofstudents.com/advertclick/110/
 https://www.guildofstudents.com/advertclick/111/
 https://www.guildofstudents.com/advertising/
-https://www.guildofstudents.com/asset/Event/6523/wax-watercolour-eg-2.jpg
 https://www.guildofstudents.com/asset/Job/124/Job-Description-and-Person-Specfication-Student-Voice-Administration-Coordinator-Sept-2023.pdf
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
@@ -1437,7 +1436,6 @@ https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6347/8024/
 https://www.guildofstudents.com/events/6475/7928/
 https://www.guildofstudents.com/events/6475/7929/
-https://www.guildofstudents.com/events/6523/7915/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/7818/
 https://www.guildofstudents.com/events/6531/7924/
@@ -3100,8 +3098,8 @@ https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Ethical-an
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Key-negative-environmental-impacts-2022.23.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/NUS-Survey-Results-2023.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Smart-Action-Plan-2022-23.pdf
-https://www.guildofstudents.com/pageassets/value/joesbar/allergen-information-menu-sept-23.pdf
-https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Food-Menu-Sept-2023.pdf
+https://www.guildofstudents.com/pageassets/value/joesbar/allergen-information-menu-sept2324.pdf
+https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Food-Menu-Sept-2324.pdf
 https://www.guildofstudents.com/privacy-policy/
 https://www.guildofstudents.com/privacy-policy/cctv-policy/
 https://www.guildofstudents.com/privacy-policy/data-protection-policy-employees-workers-consultants/
