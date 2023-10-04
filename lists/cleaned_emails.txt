@@ -244,7 +244,6 @@ staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
 studentgroups@guild.bham.ac.uk
-studenthousingadvice@contacts.bham.ac.uk
 studentparent@guild.bham.ac.uk
 studentreps@guild.bham.ac.uk
 studentsforlife@guild.bham.ac.uk
@@ -276,7 +275,6 @@ vrsoc@guild.bham.ac.uk
 watchthis@guild.bham.ac.uk
 wayfarers@guild.bham.ac.uk
 website@guild.bham.ac.uk
-weightlifting@guild.bham.ac.uk
 welfare@guild.bham.ac.uk
 welsh@guild.bham.ac.uk
 womeninfinance@guild.bham.ac.uk
