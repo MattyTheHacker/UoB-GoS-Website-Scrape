@@ -245,7 +245,6 @@ https://www.guildofstudents.commailto:star1@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentexchange@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk?subject=Save A Society
-https://www.guildofstudents.commailto:studenthousingadvice@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:studentparent@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentreps@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentsforlife@guild.bham.ac.uk
@@ -277,7 +276,6 @@ https://www.guildofstudents.commailto:vrsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:watchthis@guild.bham.ac.uk
 https://www.guildofstudents.commailto:wayfarers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:website@guild.bham.ac.uk
-https://www.guildofstudents.commailto:weightlifting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:welfare@guild.bham.ac.uk
 https://www.guildofstudents.commailto:welsh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninfinance@guild.bham.ac.uk
