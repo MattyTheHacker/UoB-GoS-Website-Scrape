@@ -1353,6 +1353,11 @@ https://www.guildofstudents.com/ents/event/8058/
 https://www.guildofstudents.com/ents/event/8059/
 https://www.guildofstudents.com/ents/event/8060/
 https://www.guildofstudents.com/ents/event/8061/
+https://www.guildofstudents.com/ents/event/8063/
+https://www.guildofstudents.com/ents/event/8064/
+https://www.guildofstudents.com/ents/event/8138/
+https://www.guildofstudents.com/ents/event/8140/
+https://www.guildofstudents.com/ents/event/8141/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1537,6 +1542,7 @@ https://www.guildofstudents.com/events/7523/7837/
 https://www.guildofstudents.com/events/7523/7846/
 https://www.guildofstudents.com/events/7727/7623/
 https://www.guildofstudents.com/events/7727/7908/
+https://www.guildofstudents.com/events/9220/8142/
 https://www.guildofstudents.com/eventsandtickets/fabnfresh
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
