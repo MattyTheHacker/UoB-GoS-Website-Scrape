@@ -1360,6 +1360,7 @@ https://www.guildofstudents.com/ents/event/8139/
 https://www.guildofstudents.com/ents/event/8140/
 https://www.guildofstudents.com/ents/event/8141/
 https://www.guildofstudents.com/ents/event/8147/
+https://www.guildofstudents.com/ents/event/8165/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
@@ -1376,6 +1377,7 @@ https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
+https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
@@ -1438,7 +1440,7 @@ https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6179/8038/
 https://www.guildofstudents.com/events/6179/8039/
 https://www.guildofstudents.com/events/6203/7640/
-https://www.guildofstudents.com/events/6251/8164/
+https://www.guildofstudents.com/events/6251/8166/
 https://www.guildofstudents.com/events/6347/8024/
 https://www.guildofstudents.com/events/6475/7928/
 https://www.guildofstudents.com/events/6475/7929/
