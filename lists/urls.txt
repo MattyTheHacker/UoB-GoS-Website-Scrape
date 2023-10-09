@@ -24,9 +24,6 @@ https://www.guildofstudents.com#accord6-1
 https://www.guildofstudents.com#accord7-1
 https://www.guildofstudents.com#accord8-1
 https://www.guildofstudents.com#accord9-1
-https://www.guildofstudents.com#accordright-1
-https://www.guildofstudents.com#accordright2-1
-https://www.guildofstudents.com#accordright5-1
 https://www.guildofstudents.com#aitkeninfo
 https://www.guildofstudents.com#apply
 https://www.guildofstudents.com#ashcroftinfo
@@ -1273,7 +1270,6 @@ https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
-https://www.guildofstudents.com/elections/posts/169/
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/7644/
 https://www.guildofstudents.com/ents/event/7646/
@@ -3273,7 +3269,6 @@ https://www.guildofstudents.com/studentgroups/societies/conservativefuture/
 https://www.guildofstudents.com/studentgroups/societies/damsa/
 https://www.guildofstudents.com/studentgroups/societies/debating/
 https://www.guildofstudents.com/studentgroups/societies/deeperlife/
-https://www.guildofstudents.com/studentgroups/societies/dgvd/
 https://www.guildofstudents.com/studentgroups/societies/eastafrican/
 https://www.guildofstudents.com/studentgroups/societies/egyptian/
 https://www.guildofstudents.com/studentgroups/societies/filipino/
