@@ -1274,6 +1274,7 @@ https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
+https://www.guildofstudents.com/elections/vote/169/
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/7644/
 https://www.guildofstudents.com/ents/event/7646/
@@ -1367,7 +1368,6 @@ https://www.guildofstudents.com/ents/event/8183/
 https://www.guildofstudents.com/ents/event/8184/
 https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
-https://www.guildofstudents.com/ents/event/8188/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
@@ -3212,6 +3212,7 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/vote/169/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
