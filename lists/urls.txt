@@ -284,6 +284,7 @@ https://www.guildofstudents.com//instagram.com/uobpunjabisoc
 https://www.guildofstudents.com//instagram.com/uobqueerarts
 https://www.guildofstudents.com//instagram.com/uobrealale_cider
 https://www.guildofstudents.com//instagram.com/uobsandam
+https://www.guildofstudents.com//instagram.com/Uobsaudi
 https://www.guildofstudents.com//instagram.com/uobsignlanguage
 https://www.guildofstudents.com//instagram.com/uobsikhsociety
 https://www.guildofstudents.com//instagram.com/uobsing
@@ -1361,17 +1362,13 @@ https://www.guildofstudents.com/ents/event/8141/
 https://www.guildofstudents.com/ents/event/8147/
 https://www.guildofstudents.com/ents/event/8168/
 https://www.guildofstudents.com/ents/event/8169/
-https://www.guildofstudents.com/ents/event/8177/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
-https://www.guildofstudents.com/ents/eventlist/blackvoices/
-https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
-https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
@@ -1381,7 +1378,6 @@ https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
-https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
@@ -1390,9 +1386,6 @@ https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomepage/
-https://www.guildofstudents.com/ents/eventlist/welcomepagebrum/
-https://www.guildofstudents.com/ents/eventlist/welcomepageunder/
-https://www.guildofstudents.com/ents/eventlist/welcomesettlingin/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
@@ -1410,7 +1403,6 @@ https://www.guildofstudents.com/events/20913/7987/
 https://www.guildofstudents.com/events/20913/8021/
 https://www.guildofstudents.com/events/20913/8022/
 https://www.guildofstudents.com/events/20937/7819/
-https://www.guildofstudents.com/events/20937/8134/
 https://www.guildofstudents.com/events/20937/8135/
 https://www.guildofstudents.com/events/25675/7629/
 https://www.guildofstudents.com/events/25675/7824/
@@ -1429,6 +1421,7 @@ https://www.guildofstudents.com/events/39125/7821/
 https://www.guildofstudents.com/events/39125/7822/
 https://www.guildofstudents.com/events/39181/7989/
 https://www.guildofstudents.com/events/40757/7980/
+https://www.guildofstudents.com/events/41191/8180/
 https://www.guildofstudents.com/events/41452/7978/
 https://www.guildofstudents.com/events/41452/8025/
 https://www.guildofstudents.com/events/41452/8026/
@@ -3384,7 +3377,6 @@ https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
-https://www.guildofstudents.com/welcome/events/event/7874/
 https://www.guildofstudents.com/welcome/events/event/7980/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
