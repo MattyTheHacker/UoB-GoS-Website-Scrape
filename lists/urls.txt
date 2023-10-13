@@ -1404,14 +1404,18 @@ https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
+https://www.guildofstudents.com/ents/eventlist/studentreps/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/eventlist/voice/
+https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
 https://www.guildofstudents.com/ents/eventlist/welcomepage/
 https://www.guildofstudents.com/ents/eventlist/welcomepageaccom/
 https://www.guildofstudents.com/ents/eventlist/welcomepagebrum/
+https://www.guildofstudents.com/ents/eventlist/welcomepageint/
+https://www.guildofstudents.com/ents/eventlist/welcomepageunder/
 https://www.guildofstudents.com/ents/eventlist/welcomesettlingin/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
@@ -1448,6 +1452,7 @@ https://www.guildofstudents.com/events/38868/8146/
 https://www.guildofstudents.com/events/39125/7821/
 https://www.guildofstudents.com/events/39125/7822/
 https://www.guildofstudents.com/events/39181/7989/
+https://www.guildofstudents.com/events/39181/8215/
 https://www.guildofstudents.com/events/40757/7980/
 https://www.guildofstudents.com/events/41191/8180/
 https://www.guildofstudents.com/events/41452/7978/
@@ -2762,6 +2767,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-02.05.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-02.08.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-02.09.19.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-02.10.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-02.11.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-02.12.19.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-03.01.23.pdf
@@ -3415,6 +3421,7 @@ https://www.guildofstudents.com/welcome/events/event/7774/
 https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7980/
 https://www.guildofstudents.com/welcome/events/event/8202/
+https://www.guildofstudents.com/welcome/events/event/8215/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
