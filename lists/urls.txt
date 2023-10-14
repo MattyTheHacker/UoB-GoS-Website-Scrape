@@ -1254,7 +1254,6 @@ https://www.guildofstudents.com/accommodation/sellyoak/
 https://www.guildofstudents.com/accommodation/thevale/
 https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
-https://www.guildofstudents.com/advertclick/109/
 https://www.guildofstudents.com/advertclick/110/
 https://www.guildofstudents.com/advertclick/111/
 https://www.guildofstudents.com/advertising/
