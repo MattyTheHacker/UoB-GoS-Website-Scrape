@@ -1390,6 +1390,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
 https://www.guildofstudents.com/ents/eventlist/blackvoices/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
+https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
@@ -1514,6 +1515,7 @@ https://www.guildofstudents.com/events/7067/7973/
 https://www.guildofstudents.com/events/7067/8187/
 https://www.guildofstudents.com/events/7091/7635/
 https://www.guildofstudents.com/events/7091/7879/
+https://www.guildofstudents.com/events/7179/8236/
 https://www.guildofstudents.com/events/7195/7739/
 https://www.guildofstudents.com/events/7195/7740/
 https://www.guildofstudents.com/events/7195/7741/
@@ -1585,6 +1587,10 @@ https://www.guildofstudents.com/events/7523/8201/
 https://www.guildofstudents.com/events/7523/8222/
 https://www.guildofstudents.com/events/7727/7623/
 https://www.guildofstudents.com/events/7727/7908/
+https://www.guildofstudents.com/events/7727/8237/
+https://www.guildofstudents.com/events/7727/8238/
+https://www.guildofstudents.com/events/7727/8239/
+https://www.guildofstudents.com/events/7727/8240/
 https://www.guildofstudents.com/events/9220/8142/
 https://www.guildofstudents.com/eventsandtickets/fabnfresh
 https://www.guildofstudents.com/footer/cookiepolicy/
@@ -2636,6 +2642,7 @@ https://www.guildofstudents.com/organisation/mathsoc/
 https://www.guildofstudents.com/organisation/metal/
 https://www.guildofstudents.com/organisation/middleearth/
 https://www.guildofstudents.com/organisation/mma/
+https://www.guildofstudents.com/organisation/motd/
 https://www.guildofstudents.com/organisation/mountaineering/
 https://www.guildofstudents.com/organisation/msf/
 https://www.guildofstudents.com/organisation/muaythaiboxing/
@@ -3635,6 +3642,7 @@ https://www.guildofstudents.commailto:middleearth@guild.bham.ac.uk
 https://www.guildofstudents.commailto:mma@guild.bham.ac.uk
 https://www.guildofstudents.commailto:modernlanguages@guild.bham.ac.uk
 https://www.guildofstudents.commailto:mooting@guild.bham.ac.uk
+https://www.guildofstudents.commailto:motd@guild.bham.ac.uk
 https://www.guildofstudents.commailto:muaythaiboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:N.Bailey@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nepalese@guild.bham.ac.uk
