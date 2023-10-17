@@ -1382,11 +1382,13 @@ https://www.guildofstudents.com/ents/event/8209/
 https://www.guildofstudents.com/ents/event/8210/
 https://www.guildofstudents.com/ents/event/8221/
 https://www.guildofstudents.com/ents/event/8224/
+https://www.guildofstudents.com/ents/event/8234/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
+https://www.guildofstudents.com/ents/eventlist/blackvoices/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
@@ -1434,6 +1436,7 @@ https://www.guildofstudents.com/events/20913/8021/
 https://www.guildofstudents.com/events/20913/8022/
 https://www.guildofstudents.com/events/20937/7819/
 https://www.guildofstudents.com/events/20937/8135/
+https://www.guildofstudents.com/events/20937/8181/
 https://www.guildofstudents.com/events/20937/8212/
 https://www.guildofstudents.com/events/20937/8214/
 https://www.guildofstudents.com/events/22470/8217/
@@ -3422,9 +3425,6 @@ https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
-https://www.guildofstudents.com/welcome/events/event/7749/
-https://www.guildofstudents.com/welcome/events/event/7774/
-https://www.guildofstudents.com/welcome/events/event/7775/
 https://www.guildofstudents.com/welcome/events/event/7980/
 https://www.guildofstudents.com/welcome/events/event/8202/
 https://www.guildofstudents.com/welcome/events/event/8215/
