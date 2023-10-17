@@ -180,6 +180,7 @@ middleearth@guild.bham.ac.uk
 mma@guild.bham.ac.uk
 modernlanguages@guild.bham.ac.uk
 mooting@guild.bham.ac.uk
+motd@guild.bham.ac.uk
 muaythaiboxing@guild.bham.ac.uk
 N.Bailey@guild.bham.ac.uk
 nepalese@guild.bham.ac.uk

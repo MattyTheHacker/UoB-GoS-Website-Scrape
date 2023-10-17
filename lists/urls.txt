@@ -1350,7 +1350,6 @@ https://www.guildofstudents.com/ents/event/8059/
 https://www.guildofstudents.com/ents/event/8060/
 https://www.guildofstudents.com/ents/event/8061/
 https://www.guildofstudents.com/ents/event/8063/
-https://www.guildofstudents.com/ents/event/8064/
 https://www.guildofstudents.com/ents/event/8137/
 https://www.guildofstudents.com/ents/event/8138/
 https://www.guildofstudents.com/ents/event/8139/
@@ -1382,6 +1381,7 @@ https://www.guildofstudents.com/ents/event/8210/
 https://www.guildofstudents.com/ents/event/8221/
 https://www.guildofstudents.com/ents/event/8224/
 https://www.guildofstudents.com/ents/event/8234/
+https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
@@ -1490,6 +1490,7 @@ https://www.guildofstudents.com/events/6611/7934/
 https://www.guildofstudents.com/events/6611/7935/
 https://www.guildofstudents.com/events/6611/8048/
 https://www.guildofstudents.com/events/6611/8049/
+https://www.guildofstudents.com/events/6627/8235/
 https://www.guildofstudents.com/events/6675/7720/
 https://www.guildofstudents.com/events/6691/8172/
 https://www.guildofstudents.com/events/6691/8173/
@@ -2597,7 +2598,6 @@ https://www.guildofstudents.com/organisation/chasingzero/
 https://www.guildofstudents.com/organisation/chess/
 https://www.guildofstudents.com/organisation/civsoc/
 https://www.guildofstudents.com/organisation/cocktail/
-https://www.guildofstudents.com/organisation/consulting/
 https://www.guildofstudents.com/organisation/craft/
 https://www.guildofstudents.com/organisation/criminology/
 https://www.guildofstudents.com/organisation/css/
@@ -3531,7 +3531,6 @@ https://www.guildofstudents.commailto:community@guild.bham.ac.uk
 https://www.guildofstudents.commailto:communitypantry@guild.bham.ac.uk
 https://www.guildofstudents.commailto:complaints@guild.bham.ac.uk
 https://www.guildofstudents.commailto:conservatives@guild.bham.ac.uk
-https://www.guildofstudents.commailto:consulting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:craft@guild.bham.ac.uk
 https://www.guildofstudents.commailto:criminology@guild.bham.ac.uk
 https://www.guildofstudents.commailto:css@guild.bham.ac.uk
