@@ -39,3 +39,19 @@ def is_image(url):
         return True
     else:
         return False
+
+
+def is_event(url):
+    if '/ents/event/' in url:
+        end_of_url = url.split('/')[-2]
+        if end_of_url.isdigit():
+            return True
+        else:
+            return False
+    if '/events/' in url:
+        # check if followed by some int at the end
+        end_of_url = url.split('/')[-2]
+        if end_of_url.isdigit():
+            return True
+        else:
+            return False
