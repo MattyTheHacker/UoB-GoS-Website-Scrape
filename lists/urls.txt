@@ -25,7 +25,6 @@ https://www.guildofstudents.com#accord7-1
 https://www.guildofstudents.com#accord8-1
 https://www.guildofstudents.com#accord9-1
 https://www.guildofstudents.com#aitkeninfo
-https://www.guildofstudents.com#apply
 https://www.guildofstudents.com#ashcroftinfo
 https://www.guildofstudents.com#battery-coursel
 https://www.guildofstudents.com#batteryparkinfo
@@ -1255,7 +1254,6 @@ https://www.guildofstudents.com/accommodation/thevale/
 https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertclick/110/
-https://www.guildofstudents.com/advertclick/111/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
@@ -1274,7 +1272,6 @@ https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
-https://www.guildofstudents.com/elections/vote/169/
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/7644/
 https://www.guildofstudents.com/ents/event/7646/
@@ -1360,7 +1357,6 @@ https://www.guildofstudents.com/ents/event/8138/
 https://www.guildofstudents.com/ents/event/8139/
 https://www.guildofstudents.com/ents/event/8140/
 https://www.guildofstudents.com/ents/event/8141/
-https://www.guildofstudents.com/ents/event/8147/
 https://www.guildofstudents.com/ents/event/8169/
 https://www.guildofstudents.com/ents/event/8182/
 https://www.guildofstudents.com/ents/event/8183/
@@ -1384,6 +1380,8 @@ https://www.guildofstudents.com/ents/event/8207/
 https://www.guildofstudents.com/ents/event/8208/
 https://www.guildofstudents.com/ents/event/8209/
 https://www.guildofstudents.com/ents/event/8210/
+https://www.guildofstudents.com/ents/event/8221/
+https://www.guildofstudents.com/ents/event/8224/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
@@ -1438,6 +1436,7 @@ https://www.guildofstudents.com/events/20937/7819/
 https://www.guildofstudents.com/events/20937/8135/
 https://www.guildofstudents.com/events/20937/8212/
 https://www.guildofstudents.com/events/20937/8214/
+https://www.guildofstudents.com/events/22470/8217/
 https://www.guildofstudents.com/events/25675/7629/
 https://www.guildofstudents.com/events/25675/7824/
 https://www.guildofstudents.com/events/26488/7948/
@@ -1450,9 +1449,10 @@ https://www.guildofstudents.com/events/35779/7484/
 https://www.guildofstudents.com/events/35779/8034/
 https://www.guildofstudents.com/events/36356/7943/
 https://www.guildofstudents.com/events/38832/7931/
-https://www.guildofstudents.com/events/38868/8146/
 https://www.guildofstudents.com/events/39125/7821/
 https://www.guildofstudents.com/events/39125/7822/
+https://www.guildofstudents.com/events/39125/8231/
+https://www.guildofstudents.com/events/39125/8232/
 https://www.guildofstudents.com/events/39181/7989/
 https://www.guildofstudents.com/events/39181/8215/
 https://www.guildofstudents.com/events/40757/7980/
@@ -1471,7 +1471,9 @@ https://www.guildofstudents.com/events/6179/7793/
 https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6251/8166/
 https://www.guildofstudents.com/events/6347/8024/
+https://www.guildofstudents.com/events/6347/8227/
 https://www.guildofstudents.com/events/6419/8211/
+https://www.guildofstudents.com/events/6523/7917/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/7818/
 https://www.guildofstudents.com/events/6531/7924/
@@ -1579,6 +1581,7 @@ https://www.guildofstudents.com/events/7523/7837/
 https://www.guildofstudents.com/events/7523/7846/
 https://www.guildofstudents.com/events/7523/8144/
 https://www.guildofstudents.com/events/7523/8201/
+https://www.guildofstudents.com/events/7523/8222/
 https://www.guildofstudents.com/events/7727/7623/
 https://www.guildofstudents.com/events/7727/7908/
 https://www.guildofstudents.com/events/9220/8142/
@@ -3246,7 +3249,6 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/vote/169/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
@@ -3452,7 +3454,6 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8705')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
-https://www.guildofstudents.comjavascript:void(0)
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
