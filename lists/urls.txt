@@ -30,6 +30,7 @@ https://www.guildofstudents.com#battery-coursel
 https://www.guildofstudents.com#batteryparkinfo
 https://www.guildofstudents.com#bookaslot
 https://www.guildofstudents.com#bournbrookinfo
+https://www.guildofstudents.com#byelectionroles
 https://www.guildofstudents.com#carouselevents
 https://www.guildofstudents.com#carouseleventsxs
 https://www.guildofstudents.com#chamberlaininfo
@@ -58,6 +59,7 @@ https://www.guildofstudents.com#collapseThree
 https://www.guildofstudents.com#collapseTwo
 https://www.guildofstudents.com#ctl00_Main_tvPages_SkipLink
 https://www.guildofstudents.com#demo
+https://www.guildofstudents.com#electionroles
 https://www.guildofstudents.com#elgarinfo
 https://www.guildofstudents.com#Email
 https://www.guildofstudents.com#Facebook
@@ -97,6 +99,7 @@ https://www.guildofstudents.com#newsblogs
 https://www.guildofstudents.com#next-1
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
+https://www.guildofstudents.com#roles
 https://www.guildofstudents.com#sellyoakcourtinfo
 https://www.guildofstudents.com#shackle-carousel
 https://www.guildofstudents.com#shackletoninfo
@@ -1273,6 +1276,8 @@ https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
+https://www.guildofstudents.com/elections/autumn
+https://www.guildofstudents.com/elections/byelection
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/7644/
 https://www.guildofstudents.com/ents/event/7646/
@@ -2734,6 +2739,21 @@ https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment
 https://www.guildofstudents.com/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf
 https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2023.pdf
 https://www.guildofstudents.com/pageassets/blackvoices/Black-Voices-Manifesto-1022.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-Candidate-Budget-Information.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-Candidate-Wellbeing-Guide.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-Disabled-Students-Policy-Poster-Version.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-Disabled-Students-Policy_Plain-Text-Version.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-FAQs.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-Further-Guidance-on-Online-Campaigning-Autumn-2023.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-How-To-Upload-Your-Written-Statement-and-a-Candidate-Photo.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-How-To-Upload-Your-Written-Statement-and-a-Digital-Campaign-Poster.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-Introduction-to-Campaigning-and-Written-Statements-Autumn-2023.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-2023-Useful-Information-About-the-Guild-For-Your-Written-Statement-Campaign-Autumn-2023.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-2023-Complaints-Form.docx
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-Complaints-Procedure-2023.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-Regulations-2023-24.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Guild-Bye-Laws.pdf
+https://www.guildofstudents.com/pageassets/elections/autumn-elections-Zero-Tolerance-Policy-2023.pdf
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/8.7-Guild-History-Project_Web.pdf
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/Ethical-and-Environmental-Policy.pdf
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/FINAL-Zero-Tolerance-Policy-Approved-GPDG-May-2018.pdf
@@ -3248,7 +3268,6 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
@@ -3305,6 +3324,7 @@ https://www.guildofstudents.com/studentgroups/societies/conservativefuture/
 https://www.guildofstudents.com/studentgroups/societies/damsa/
 https://www.guildofstudents.com/studentgroups/societies/debating/
 https://www.guildofstudents.com/studentgroups/societies/deeperlife/
+https://www.guildofstudents.com/studentgroups/societies/dgvd/
 https://www.guildofstudents.com/studentgroups/societies/eastafrican/
 https://www.guildofstudents.com/studentgroups/societies/egyptian/
 https://www.guildofstudents.com/studentgroups/societies/filipino/
