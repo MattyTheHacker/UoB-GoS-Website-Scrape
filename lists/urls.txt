@@ -1256,6 +1256,7 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertclick/110/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
+https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Results-Tables-no-NUS.pdf
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
 https://www.guildofstudents.com/blackvoices/
 https://www.guildofstudents.com/blogs/blog/officers-23-24/
@@ -1287,7 +1288,6 @@ https://www.guildofstudents.com/ents/event/7663/
 https://www.guildofstudents.com/ents/event/7664/
 https://www.guildofstudents.com/ents/event/7665/
 https://www.guildofstudents.com/ents/event/7666/
-https://www.guildofstudents.com/ents/event/7667/
 https://www.guildofstudents.com/ents/event/7668/
 https://www.guildofstudents.com/ents/event/7669/
 https://www.guildofstudents.com/ents/event/7670/
@@ -1438,6 +1438,7 @@ https://www.guildofstudents.com/events/20937/8135/
 https://www.guildofstudents.com/events/20937/8181/
 https://www.guildofstudents.com/events/20937/8212/
 https://www.guildofstudents.com/events/20937/8214/
+https://www.guildofstudents.com/events/22470/8216/
 https://www.guildofstudents.com/events/22470/8217/
 https://www.guildofstudents.com/events/25675/7629/
 https://www.guildofstudents.com/events/25675/7824/
@@ -1607,6 +1608,7 @@ https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
+https://www.guildofstudents.com/news/article/website/Autumn-Elections-Results-Statement/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Standing-Against-Antisemitism-and-All-Forms-of-Racism/
 https://www.guildofstudents.com/news/rss/0/subtree/
@@ -3259,6 +3261,7 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
