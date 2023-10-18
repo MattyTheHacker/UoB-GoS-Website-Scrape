@@ -69,7 +69,6 @@ community@guild.bham.ac.uk
 communitypantry@guild.bham.ac.uk
 complaints@guild.bham.ac.uk
 conservatives@guild.bham.ac.uk
-consulting@guild.bham.ac.uk
 craft@guild.bham.ac.uk
 criminology@guild.bham.ac.uk
 css@guild.bham.ac.uk
