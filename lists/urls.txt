@@ -1373,7 +1373,6 @@ https://www.guildofstudents.com/ents/event/8192/
 https://www.guildofstudents.com/ents/event/8193/
 https://www.guildofstudents.com/ents/event/8195/
 https://www.guildofstudents.com/ents/event/8196/
-https://www.guildofstudents.com/ents/event/8197/
 https://www.guildofstudents.com/ents/event/8198/
 https://www.guildofstudents.com/ents/event/8200/
 https://www.guildofstudents.com/ents/event/8203/
@@ -1485,7 +1484,6 @@ https://www.guildofstudents.com/events/6347/8227/
 https://www.guildofstudents.com/events/6419/8211/
 https://www.guildofstudents.com/events/6475/8036/
 https://www.guildofstudents.com/events/6475/8037/
-https://www.guildofstudents.com/events/6523/7917/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/7818/
 https://www.guildofstudents.com/events/6531/7924/
@@ -1618,6 +1616,7 @@ https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/Autumn-Elections-Results-Statement/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Standing-Against-Antisemitism-and-All-Forms-of-Racism/
+https://www.guildofstudents.com/news/article/website/Statement-on-Calling-a-Referendum-on-UCU-Strike-Action/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/news/rss/27259/
 https://www.guildofstudents.com/news/rss/27262/
