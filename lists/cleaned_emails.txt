@@ -24,6 +24,7 @@ bedsoc@guild.bham.ac.uk
 bema@guild.bham.ac.uk
 benchball@guild.bham.ac.uk
 bhangra@guild.bham.ac.uk
+BIFS@guild.bham.ac.uk
 biosoc@guild.bham.ac.uk
 birmingham@intervol.org.uk
 birmingham@makeasmile.org.uk
@@ -136,7 +137,6 @@ info@ubisoc.co.uk
 insulinappreciation@guild.bham.ac.uk
 international@guild.bham.ac.uk
 intervol@guild.bham.ac.uk
-investment@guild.bham.ac.uk
 isa@guild.bham.ac.uk
 islamicartsandheritage@gmail.com
 israel@guild.bham.ac.uk
