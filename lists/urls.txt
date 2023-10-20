@@ -1260,6 +1260,7 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertclick/110/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
+https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Candidate-Budget-Information.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Results-Tables-Full.pdf
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
 https://www.guildofstudents.com/blackvoices/
@@ -1392,6 +1393,7 @@ https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8243/
 https://www.guildofstudents.com/ents/event/8249/
 https://www.guildofstudents.com/ents/event/8260/
+https://www.guildofstudents.com/ents/event/8264/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
@@ -1402,6 +1404,7 @@ https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/christmasbirmingham/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
+https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
@@ -1532,6 +1535,7 @@ https://www.guildofstudents.com/events/6803/7820/
 https://www.guildofstudents.com/events/6851/7798/
 https://www.guildofstudents.com/events/6907/8213/
 https://www.guildofstudents.com/events/6907/8244/
+https://www.guildofstudents.com/events/6995/8262/
 https://www.guildofstudents.com/events/7067/7973/
 https://www.guildofstudents.com/events/7067/8187/
 https://www.guildofstudents.com/events/7067/8194/
