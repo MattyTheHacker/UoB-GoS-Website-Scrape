@@ -1360,7 +1360,6 @@ https://www.guildofstudents.com/ents/event/8061/
 https://www.guildofstudents.com/ents/event/8063/
 https://www.guildofstudents.com/ents/event/8137/
 https://www.guildofstudents.com/ents/event/8138/
-https://www.guildofstudents.com/ents/event/8139/
 https://www.guildofstudents.com/ents/event/8140/
 https://www.guildofstudents.com/ents/event/8141/
 https://www.guildofstudents.com/ents/event/8169/
@@ -1478,7 +1477,6 @@ https://www.guildofstudents.com/events/39181/7989/
 https://www.guildofstudents.com/events/39181/8215/
 https://www.guildofstudents.com/events/40757/7980/
 https://www.guildofstudents.com/events/40986/8136/
-https://www.guildofstudents.com/events/40986/8154/
 https://www.guildofstudents.com/events/41191/8180/
 https://www.guildofstudents.com/events/41452/7978/
 https://www.guildofstudents.com/events/41452/8025/
@@ -1534,7 +1532,6 @@ https://www.guildofstudents.com/events/6803/7820/
 https://www.guildofstudents.com/events/6851/7798/
 https://www.guildofstudents.com/events/6907/8213/
 https://www.guildofstudents.com/events/6907/8244/
-https://www.guildofstudents.com/events/7011/7814/
 https://www.guildofstudents.com/events/7067/7973/
 https://www.guildofstudents.com/events/7067/8187/
 https://www.guildofstudents.com/events/7067/8194/
@@ -3233,8 +3230,8 @@ https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Ethical-an
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Key-negative-environmental-impacts-2022.23.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/NUS-Survey-Results-2023.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Smart-Action-Plan-2022-23.pdf
-https://www.guildofstudents.com/pageassets/value/joesbar/allergen-information-menu-sept2324.pdf
-https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Food-Menu-Sept-2324.pdf
+https://www.guildofstudents.com/pageassets/value/joesbar/allergen-information-1023.pdf
+https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Food-Menu-23-v2.pdf
 https://www.guildofstudents.com/privacy-policy/
 https://www.guildofstudents.com/privacy-policy/cctv-policy/
 https://www.guildofstudents.com/privacy-policy/data-protection-policy-employees-workers-consultants/
