@@ -1419,7 +1419,6 @@ https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/studentreps/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
-https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
@@ -3448,7 +3447,6 @@ https://www.guildofstudents.com/support/studentmentors/
 https://www.guildofstudents.com/support/studentmentors/contact/
 https://www.guildofstudents.com/support/studentmentors/who-are-student-mentors/
 https://www.guildofstudents.com/support/welcome-to-support/
-https://www.guildofstudents.com/surveys/ref23campaignteam/
 https://www.guildofstudents.com/sustainability/gogreenweek/
 https://www.guildofstudents.com/sustainability/green-impact/
 https://www.guildofstudents.com/tac/
@@ -3488,6 +3486,7 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8705')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
+https://www.guildofstudents.comjavascript:history.back();
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
