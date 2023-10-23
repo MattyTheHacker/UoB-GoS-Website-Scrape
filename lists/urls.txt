@@ -1391,6 +1391,7 @@ https://www.guildofstudents.com/ents/event/8264/
 https://www.guildofstudents.com/ents/event/8273/
 https://www.guildofstudents.com/ents/event/8274/
 https://www.guildofstudents.com/ents/event/8282/
+https://www.guildofstudents.com/ents/event/8287/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
@@ -1507,6 +1508,7 @@ https://www.guildofstudents.com/events/6531/7924/
 https://www.guildofstudents.com/events/6531/7925/
 https://www.guildofstudents.com/events/6531/7942/
 https://www.guildofstudents.com/events/6531/8171/
+https://www.guildofstudents.com/events/6531/8283/
 https://www.guildofstudents.com/events/6611/7930/
 https://www.guildofstudents.com/events/6611/7932/
 https://www.guildofstudents.com/events/6611/7933/
@@ -3242,7 +3244,7 @@ https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Ethical-an
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Key-negative-environmental-impacts-2022.23.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/NUS-Survey-Results-2023.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Smart-Action-Plan-2022-23.pdf
-https://www.guildofstudents.com/pageassets/value/joesbar/allergen-information-1023.pdf
+https://www.guildofstudents.com/pageassets/value/joesbar/allergen-joesbar-1023.pdf
 https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Food-Menu-23-v2.pdf
 https://www.guildofstudents.com/privacy-policy/
 https://www.guildofstudents.com/privacy-policy/cctv-policy/
@@ -3500,6 +3502,7 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8705')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
+https://www.guildofstudents.comjavascript:history.back();
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
