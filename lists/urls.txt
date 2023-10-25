@@ -25,6 +25,7 @@ https://www.guildofstudents.com#accord7-1
 https://www.guildofstudents.com#accord8-1
 https://www.guildofstudents.com#accord9-1
 https://www.guildofstudents.com#aitkeninfo
+https://www.guildofstudents.com#allstudentvotecomment
 https://www.guildofstudents.com#ashcroftinfo
 https://www.guildofstudents.com#battery-coursel
 https://www.guildofstudents.com#batteryparkinfo
@@ -1255,6 +1256,8 @@ https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertclick/110/
 https://www.guildofstudents.com/advertising/
+https://www.guildofstudents.com/allstudentvote
+https://www.guildofstudents.com/allstudentvote/
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Candidate-Budget-Information.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Results-Tables-Full.pdf
@@ -1358,7 +1361,6 @@ https://www.guildofstudents.com/ents/event/8137/
 https://www.guildofstudents.com/ents/event/8138/
 https://www.guildofstudents.com/ents/event/8140/
 https://www.guildofstudents.com/ents/event/8141/
-https://www.guildofstudents.com/ents/event/8169/
 https://www.guildofstudents.com/ents/event/8182/
 https://www.guildofstudents.com/ents/event/8183/
 https://www.guildofstudents.com/ents/event/8184/
@@ -1496,7 +1498,6 @@ https://www.guildofstudents.com/events/6347/8024/
 https://www.guildofstudents.com/events/6347/8227/
 https://www.guildofstudents.com/events/6419/8211/
 https://www.guildofstudents.com/events/6475/8036/
-https://www.guildofstudents.com/events/6523/7918/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/7818/
 https://www.guildofstudents.com/events/6531/7924/
@@ -2797,6 +2798,12 @@ https://www.guildofstudents.com/pageassets/footer/resourcespublications/UoB-Guil
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/UoB-Guild-of-Students-Financial-Statements-21-22-Final-Signed.pdf
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/Volunteering-Policy-V3-December-21.pdf
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/Zero-Tolerance-Policy(1).pdf
+https://www.guildofstudents.com/pageassets/referendum/Referendum-2023-Complaints-Form.docx
+https://www.guildofstudents.com/pageassets/referendum/Referendum-Regulations-23-24.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/All-Student-Vote-Campaigning-Guidance-2324.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/Guild-Bye-Laws-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/Policy-Amended-TEF-Idea-Submission.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/TEF-Action-Group-Meeting-24.10.23.pdf
 https://www.guildofstudents.com/pageassets/representation/campaigns/useful-documents/1.Campaigns-Pot-Request-Form.docx
 https://www.guildofstudents.com/pageassets/representation/campaigns/useful-documents/Beliefs-and-Commitments-May-2019.pdf
 https://www.guildofstudents.com/pageassets/representation/campaigns/useful-documents/Campaigns-Pot-Request-form-Accessible-Coloured.docx
@@ -3259,6 +3266,8 @@ https://www.guildofstudents.com/profile/171268/
 https://www.guildofstudents.com/profile/197769/
 https://www.guildofstudents.com/profile/207410/
 https://www.guildofstudents.com/profile/234454/
+https://www.guildofstudents.com/referendum
+https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/representation
 https://www.guildofstudents.com/representation/
 https://www.guildofstudents.com/representation/allstudentmeeting/
@@ -3308,7 +3317,6 @@ https://www.guildofstudents.com/representation/youridea/?tag=Postgraduate
 https://www.guildofstudents.com/representation/youridea/?tag=Societies
 https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
-https://www.guildofstudents.com/sellyexpress
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
@@ -3331,6 +3339,8 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/allstudentvote
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/studentgroups/running-a-group/committee-elections/
 https://www.guildofstudents.com/staff/
