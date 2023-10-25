@@ -1276,8 +1276,8 @@ https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
 https://www.guildofstudents.com/elections/autumn
 https://www.guildofstudents.com/elections/byelection
-https://www.guildofstudents.com/elections/nominations/178/
-https://www.guildofstudents.com/elections/nominations/179/
+https://www.guildofstudents.com/elections/vote/178/
+https://www.guildofstudents.com/elections/vote/179/
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/7644/
 https://www.guildofstudents.com/ents/event/7646/
@@ -1369,7 +1369,6 @@ https://www.guildofstudents.com/ents/event/8192/
 https://www.guildofstudents.com/ents/event/8193/
 https://www.guildofstudents.com/ents/event/8195/
 https://www.guildofstudents.com/ents/event/8198/
-https://www.guildofstudents.com/ents/event/8200/
 https://www.guildofstudents.com/ents/event/8203/
 https://www.guildofstudents.com/ents/event/8204/
 https://www.guildofstudents.com/ents/event/8205/
@@ -3115,6 +3114,7 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrut
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny-Panel-Meeting-4-Session-2-Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny_Panel_Meeting_1_FTO_Session_Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny_Panel_Meeting_1_PTO_Session_Minutes.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/TEF-Action-Group-Meeting-24.10.23.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Welfare-and-Liberation-Committee-Meeting-Mintues-17.11.2022-FINAL.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Welfare-and-Liberation-Meeting-2-Minutes-31.01-Amended.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/WL-Committee-Meeting-1-Minutes-FINAL.pdf
@@ -3315,8 +3315,8 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/nominations/178/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/nominations/179/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/vote/178/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/vote/179/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/footer/apppolicy/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
