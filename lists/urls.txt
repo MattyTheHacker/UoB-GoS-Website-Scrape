@@ -1386,7 +1386,6 @@ https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8260/
 https://www.guildofstudents.com/ents/event/8273/
 https://www.guildofstudents.com/ents/event/8274/
-https://www.guildofstudents.com/ents/event/8282/
 https://www.guildofstudents.com/ents/event/8287/
 https://www.guildofstudents.com/ents/event/8291/
 https://www.guildofstudents.com/ents/event/8292/
@@ -1408,7 +1407,6 @@ https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
-https://www.guildofstudents.com/ents/eventlist/giveitago/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
@@ -1534,7 +1532,6 @@ https://www.guildofstudents.com/events/6739/8219/
 https://www.guildofstudents.com/events/6803/7820/
 https://www.guildofstudents.com/events/6851/7798/
 https://www.guildofstudents.com/events/6907/8213/
-https://www.guildofstudents.com/events/6907/8244/
 https://www.guildofstudents.com/events/6995/8262/
 https://www.guildofstudents.com/events/7011/7904/
 https://www.guildofstudents.com/events/7067/7973/
