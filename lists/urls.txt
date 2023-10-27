@@ -1404,6 +1404,7 @@ https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
+https://www.guildofstudents.com/ents/eventlist/giveitago/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
@@ -1475,6 +1476,7 @@ https://www.guildofstudents.com/events/39181/8215/
 https://www.guildofstudents.com/events/40757/7980/
 https://www.guildofstudents.com/events/40986/8155/
 https://www.guildofstudents.com/events/41191/8180/
+https://www.guildofstudents.com/events/41191/8265/
 https://www.guildofstudents.com/events/41452/7978/
 https://www.guildofstudents.com/events/41452/8025/
 https://www.guildofstudents.com/events/41452/8026/
@@ -1491,6 +1493,12 @@ https://www.guildofstudents.com/events/6203/7640/
 https://www.guildofstudents.com/events/6251/8166/
 https://www.guildofstudents.com/events/6347/8024/
 https://www.guildofstudents.com/events/6347/8227/
+https://www.guildofstudents.com/events/6371/8255/
+https://www.guildofstudents.com/events/6371/8256/
+https://www.guildofstudents.com/events/6371/8257/
+https://www.guildofstudents.com/events/6371/8258/
+https://www.guildofstudents.com/events/6371/8259/
+https://www.guildofstudents.com/events/6371/8263/
 https://www.guildofstudents.com/events/6419/8211/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/7818/
@@ -1615,8 +1623,11 @@ https://www.guildofstudents.com/events/7727/7623/
 https://www.guildofstudents.com/events/7727/7908/
 https://www.guildofstudents.com/events/7727/8237/
 https://www.guildofstudents.com/events/7727/8238/
-https://www.guildofstudents.com/events/7727/8239/
 https://www.guildofstudents.com/events/7727/8240/
+https://www.guildofstudents.com/events/7727/8305/
+https://www.guildofstudents.com/events/7727/8306/
+https://www.guildofstudents.com/events/7727/8307/
+https://www.guildofstudents.com/events/7727/8308/
 https://www.guildofstudents.com/events/9220/8142/
 https://www.guildofstudents.com/fab
 https://www.guildofstudents.com/fab/
@@ -3350,6 +3361,7 @@ https://www.guildofstudents.com/studentgroups/societies/36356/
 https://www.guildofstudents.com/studentgroups/societies/38891/
 https://www.guildofstudents.com/studentgroups/societies/39024/
 https://www.guildofstudents.com/studentgroups/societies/39195/
+https://www.guildofstudents.com/studentgroups/societies/40471/
 https://www.guildofstudents.com/studentgroups/societies/40550/
 https://www.guildofstudents.com/studentgroups/societies/40630/
 https://www.guildofstudents.com/studentgroups/societies/40744/
@@ -3640,7 +3652,6 @@ https://www.guildofstudents.commailto:gmtg@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gospelchoir@guild.bham.ac.uk
 https://www.guildofstudents.commailto:got@guild.bham.ac.uk
-https://www.guildofstudents.commailto:GreekandCypriotSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:greenpartysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
