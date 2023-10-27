@@ -28,6 +28,7 @@ BIFS@guild.bham.ac.uk
 biosoc@guild.bham.ac.uk
 birmingham@intervol.org.uk
 birmingham@makeasmile.org.uk
+birmingham@sexpression.org.uk
 birmingham@ukmarrow.org
 blooddonation@guild.bham.ac.uk
 blss@guild.bham.ac.uk
@@ -146,6 +147,7 @@ JainSociety@guild.bham.ac.uk
 japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
+jobs@guild.bham.ac.uk
 jxc1397@student.bham.ac.uk
 kase@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
