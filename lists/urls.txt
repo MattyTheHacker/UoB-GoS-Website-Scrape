@@ -1346,6 +1346,7 @@ https://www.guildofstudents.com/ents/event/7977/
 https://www.guildofstudents.com/ents/event/7988/
 https://www.guildofstudents.com/ents/event/7990/
 https://www.guildofstudents.com/ents/event/7991/
+https://www.guildofstudents.com/ents/event/8044/
 https://www.guildofstudents.com/ents/event/8050/
 https://www.guildofstudents.com/ents/event/8051/
 https://www.guildofstudents.com/ents/event/8052/
@@ -1474,7 +1475,6 @@ https://www.guildofstudents.com/events/39125/8232/
 https://www.guildofstudents.com/events/39181/7989/
 https://www.guildofstudents.com/events/39181/8215/
 https://www.guildofstudents.com/events/40757/7980/
-https://www.guildofstudents.com/events/40986/8155/
 https://www.guildofstudents.com/events/41191/8180/
 https://www.guildofstudents.com/events/41191/8265/
 https://www.guildofstudents.com/events/41452/7978/
@@ -3400,7 +3400,6 @@ https://www.guildofstudents.com/studentgroups/societies/firstlove/
 https://www.guildofstudents.com/studentgroups/societies/ghanaian/
 https://www.guildofstudents.com/studentgroups/societies/guildtv/
 https://www.guildofstudents.com/studentgroups/societies/headucate/
-https://www.guildofstudents.com/studentgroups/societies/hellenic/
 https://www.guildofstudents.com/studentgroups/societies/helpthehomeless/
 https://www.guildofstudents.com/studentgroups/societies/hindu/
 https://www.guildofstudents.com/studentgroups/societies/hongkongcultural/
