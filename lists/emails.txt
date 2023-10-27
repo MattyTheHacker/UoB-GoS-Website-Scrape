@@ -28,6 +28,7 @@ https://www.guildofstudents.commailto:BIFS@guild.bham.ac.uk
 https://www.guildofstudents.commailto:biosoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:birmingham@intervol.org.uk
 https://www.guildofstudents.commailto:birmingham@makeasmile.org.uk
+https://www.guildofstudents.commailto:birmingham@sexpression.org.uk
 https://www.guildofstudents.commailto:birmingham@ukmarrow.org
 https://www.guildofstudents.commailto:blooddonation@guild.bham.ac.uk
 https://www.guildofstudents.commailto:blss@guild.bham.ac.uk
@@ -146,6 +147,7 @@ https://www.guildofstudents.commailto:JainSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:japan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jewish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jfs@guild.bham.ac.uk
+https://www.guildofstudents.commailto:jobs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jxc1397@student.bham.ac.uk
 https://www.guildofstudents.commailto:kase@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
