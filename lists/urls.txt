@@ -1256,7 +1256,6 @@ https://www.guildofstudents.com/accommodation/sellyoak/
 https://www.guildofstudents.com/accommodation/thevale/
 https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
-https://www.guildofstudents.com/advertclick/110/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
@@ -3856,7 +3855,6 @@ https://www.guildofstudents.commailto:womensofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:worklink@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:writersbloc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:yoga@guild.bham.ac.uk
-https://www.guildofstudents.comstudent-sims-voxi.php
 https://www.guildofstudents.comtel:0121 41 58950
 https://www.guildofstudents.comtel:0121 415 856
 https://www.guildofstudents.comtel:0121 415 8912
