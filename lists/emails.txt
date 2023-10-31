@@ -183,6 +183,7 @@ https://www.guildofstudents.commailto:mooting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:motd@guild.bham.ac.uk
 https://www.guildofstudents.commailto:muaythaiboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:N.Bailey@guild.bham.ac.uk
+https://www.guildofstudents.commailto:navigators@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nepalese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nerdsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:neuroscience@guild.bham.ac.uk
@@ -268,7 +269,6 @@ https://www.guildofstudents.commailto:unicef@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobbengsoc@gmail.com
 https://www.guildofstudents.commailto:uobbesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobgirlgamers@guild.bham.ac.uk
-https://www.guildofstudents.commailto:uobnavigators@gmail.com
 https://www.guildofstudents.commailto:uobtaiwanese@gmail.com
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk

@@ -1394,6 +1394,7 @@ https://www.guildofstudents.com/ents/event/8318/
 https://www.guildofstudents.com/ents/event/8330/
 https://www.guildofstudents.com/ents/event/8331/
 https://www.guildofstudents.com/ents/event/8332/
+https://www.guildofstudents.com/ents/event/8333/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2023
@@ -1425,6 +1426,7 @@ https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
+https://www.guildofstudents.com/ents/eventlist/studentreps/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/travel/
@@ -1441,6 +1443,7 @@ https://www.guildofstudents.com/events/13206/7912/
 https://www.guildofstudents.com/events/13206/7944/
 https://www.guildofstudents.com/events/13206/7945/
 https://www.guildofstudents.com/events/13206/7974/
+https://www.guildofstudents.com/events/20372/8167/
 https://www.guildofstudents.com/events/20913/7986/
 https://www.guildofstudents.com/events/20913/7987/
 https://www.guildofstudents.com/events/20913/8021/
@@ -3351,6 +3354,7 @@ https://www.guildofstudents.com/representation/youridea/?tag=Societies
 https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
 https://www.guildofstudents.com/sellyexpress/
+https://www.guildofstudents.com/shop/product/10169500/
 https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
@@ -3761,6 +3765,7 @@ https://www.guildofstudents.commailto:mooting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:motd@guild.bham.ac.uk
 https://www.guildofstudents.commailto:muaythaiboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:N.Bailey@guild.bham.ac.uk
+https://www.guildofstudents.commailto:navigators@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nepalese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nerdsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:neuroscience@guild.bham.ac.uk
@@ -3846,7 +3851,6 @@ https://www.guildofstudents.commailto:unicef@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobbengsoc@gmail.com
 https://www.guildofstudents.commailto:uobbesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobgirlgamers@guild.bham.ac.uk
-https://www.guildofstudents.commailto:uobnavigators@gmail.com
 https://www.guildofstudents.commailto:uobtaiwanese@gmail.com
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
