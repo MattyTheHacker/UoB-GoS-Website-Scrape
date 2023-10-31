@@ -1550,7 +1550,6 @@ https://www.guildofstudents.com/events/6851/7798/
 https://www.guildofstudents.com/events/6907/8213/
 https://www.guildofstudents.com/events/6995/8262/
 https://www.guildofstudents.com/events/7067/7973/
-https://www.guildofstudents.com/events/7067/8187/
 https://www.guildofstudents.com/events/7091/7635/
 https://www.guildofstudents.com/events/7091/7879/
 https://www.guildofstudents.com/events/7179/8236/
@@ -3124,6 +3123,7 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-1
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-2-March-2023-Full-Results.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-3-May-2022-Full-Results.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-3-May-2023-Full-Results.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Autumn-Elections-2023-Results-Tables-Full.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Meeting-3-Minutes-FINAL.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Meeting-4-Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Mins-11.11.21.pdf
