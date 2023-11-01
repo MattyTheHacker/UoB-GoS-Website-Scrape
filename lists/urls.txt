@@ -1285,7 +1285,6 @@ https://www.guildofstudents.com/elections/
 https://www.guildofstudents.com/elections/autumn
 https://www.guildofstudents.com/elections/byelection
 https://www.guildofstudents.com/employability/
-https://www.guildofstudents.com/ents/event/7646/
 https://www.guildofstudents.com/ents/event/7660/
 https://www.guildofstudents.com/ents/event/7661/
 https://www.guildofstudents.com/ents/event/7662/
@@ -1334,7 +1333,6 @@ https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8273/
 https://www.guildofstudents.com/ents/event/8274/
 https://www.guildofstudents.com/ents/event/8288/
-https://www.guildofstudents.com/ents/event/8293/
 https://www.guildofstudents.com/ents/event/8300/
 https://www.guildofstudents.com/ents/event/8301/
 https://www.guildofstudents.com/ents/event/8311/
@@ -1389,9 +1387,11 @@ https://www.guildofstudents.com/ents/eventlist/welcomepagebrum/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
+https://www.guildofstudents.com/events/11890/8338/
 https://www.guildofstudents.com/events/13206/7945/
 https://www.guildofstudents.com/events/20372/8167/
 https://www.guildofstudents.com/events/20913/8337/
+https://www.guildofstudents.com/events/20913/8341/
 https://www.guildofstudents.com/events/20937/8214/
 https://www.guildofstudents.com/events/20937/8261/
 https://www.guildofstudents.com/events/26488/8327/

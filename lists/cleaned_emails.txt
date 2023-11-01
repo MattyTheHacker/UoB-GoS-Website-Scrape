@@ -246,6 +246,7 @@ star1@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
 studentgroups@guild.bham.ac.uk
 studentparent@guild.bham.ac.uk
+studentreps@bham.ac.uk
 studentreps@guild.bham.ac.uk
 studentsforlife@guild.bham.ac.uk
 studentvoice@guild.bham.ac.uk
