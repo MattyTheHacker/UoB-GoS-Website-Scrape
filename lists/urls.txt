@@ -1391,6 +1391,7 @@ https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
 https://www.guildofstudents.com/events/13206/7945/
 https://www.guildofstudents.com/events/20372/8167/
+https://www.guildofstudents.com/events/20913/8337/
 https://www.guildofstudents.com/events/20937/8214/
 https://www.guildofstudents.com/events/20937/8261/
 https://www.guildofstudents.com/events/26488/8327/
@@ -1420,7 +1421,6 @@ https://www.guildofstudents.com/events/6371/8257/
 https://www.guildofstudents.com/events/6371/8258/
 https://www.guildofstudents.com/events/6371/8259/
 https://www.guildofstudents.com/events/6371/8263/
-https://www.guildofstudents.com/events/6523/7919/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/8303/
 https://www.guildofstudents.com/events/6531/8310/
@@ -3676,6 +3676,7 @@ https://www.guildofstudents.commailto:studentexchange@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentgroups@guild.bham.ac.uk?subject=Save A Society
 https://www.guildofstudents.commailto:studentparent@guild.bham.ac.uk
+https://www.guildofstudents.commailto:studentreps@bham.ac.uk
 https://www.guildofstudents.commailto:studentreps@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentsforlife@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentvoice@guild.bham.ac.uk
@@ -3715,6 +3716,7 @@ https://www.guildofstudents.commailto:womensofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:worklink@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:writersbloc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:yoga@guild.bham.ac.uk
+https://www.guildofstudents.commailtostudentreps@guild.bham.ac.uk
 https://www.guildofstudents.comtel:0121 41 58950
 https://www.guildofstudents.comtel:0121 415 856
 https://www.guildofstudents.comtel:0121 415 8912
