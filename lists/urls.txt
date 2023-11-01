@@ -1339,7 +1339,6 @@ https://www.guildofstudents.com/ents/event/8300/
 https://www.guildofstudents.com/ents/event/8301/
 https://www.guildofstudents.com/ents/event/8311/
 https://www.guildofstudents.com/ents/event/8312/
-https://www.guildofstudents.com/ents/event/8313/
 https://www.guildofstudents.com/ents/event/8314/
 https://www.guildofstudents.com/ents/event/8315/
 https://www.guildofstudents.com/ents/event/8316/
@@ -1505,6 +1504,8 @@ https://www.guildofstudents.com/news/article/website/Guild-welcomes-new-chair-as
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Standing-Against-Antisemitism-and-All-Forms-of-Racism/
 https://www.guildofstudents.com/news/article/website/Statement-on-Calling-a-Referendum-on-UCU-Strike-Action/
+https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
+https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/University-Challenge-Try-Outs/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/news/rss/27259/
