@@ -1263,6 +1263,8 @@ https://www.guildofstudents.com/asset/Job/124/Data-and-Systems-Analyst-Job-Descr
 https://www.guildofstudents.com/asset/Job/124/Job-Description-Education-Welfare-Advisor.docx
 https://www.guildofstudents.com/asset/Job/124/Representation-Coordinator-Job-Description.docx
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
+https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-Information-2023.pdf
+https://www.guildofstudents.com/asset/News/6016/Autumn-By-Elections-2023-Results-Tables.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Candidate-Budget-Information.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Results-Tables-Full.pdf
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
@@ -1506,6 +1508,7 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/Autumn-Elections-Results-Statement/
 https://www.guildofstudents.com/news/article/website/Guild-welcomes-new-chair-as-Robert-Smeath-completes-term-of-office/
+https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Standing-Against-Antisemitism-and-All-Forms-of-Racism/
 https://www.guildofstudents.com/news/article/website/Statement-on-Calling-a-Referendum-on-UCU-Strike-Action/
@@ -3205,6 +3208,7 @@ https://www.guildofstudents.com/representation/youridea/?tag=Postgraduate
 https://www.guildofstudents.com/representation/youridea/?tag=Societies
 https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
+https://www.guildofstudents.com/sellyexpress
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/shop/product/10169500/
 https://www.guildofstudents.com/shop/reviewbasket/
