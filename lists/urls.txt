@@ -1323,7 +1323,6 @@ https://www.guildofstudents.com/ents/event/8183/
 https://www.guildofstudents.com/ents/event/8184/
 https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
-https://www.guildofstudents.com/ents/event/8204/
 https://www.guildofstudents.com/ents/event/8205/
 https://www.guildofstudents.com/ents/event/8206/
 https://www.guildofstudents.com/ents/event/8208/
@@ -1332,7 +1331,6 @@ https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8273/
 https://www.guildofstudents.com/ents/event/8274/
 https://www.guildofstudents.com/ents/event/8288/
-https://www.guildofstudents.com/ents/event/8300/
 https://www.guildofstudents.com/ents/event/8301/
 https://www.guildofstudents.com/ents/event/8314/
 https://www.guildofstudents.com/ents/event/8315/
@@ -3137,7 +3135,7 @@ https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Ethical-an
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Key-negative-environmental-impacts-2022.23.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/NUS-Survey-Results-2023.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Smart-Action-Plan-2022-23.pdf
-https://www.guildofstudents.com/pageassets/value/joesbar/allergen-joesbar-1023.pdf
+https://www.guildofstudents.com/pageassets/value/joesbar/allergen-menu-0211.pdf
 https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Food-Menu-23-v2.pdf
 https://www.guildofstudents.com/privacy-policy/
 https://www.guildofstudents.com/privacy-policy/cctv-policy/
