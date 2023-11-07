@@ -1343,8 +1343,10 @@ https://www.guildofstudents.com/ents/event/8346/
 https://www.guildofstudents.com/ents/event/8350/
 https://www.guildofstudents.com/ents/event/8351/
 https://www.guildofstudents.com/ents/event/8364/
+https://www.guildofstudents.com/ents/event/8365/
 https://www.guildofstudents.com/ents/event/8367/
 https://www.guildofstudents.com/ents/event/8369/
+https://www.guildofstudents.com/ents/event/8370/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1397,6 +1399,7 @@ https://www.guildofstudents.com/events/20913/8341/
 https://www.guildofstudents.com/events/20929/8368/
 https://www.guildofstudents.com/events/20937/8214/
 https://www.guildofstudents.com/events/20937/8261/
+https://www.guildofstudents.com/events/22470/8352/
 https://www.guildofstudents.com/events/26488/8327/
 https://www.guildofstudents.com/events/26488/8361/
 https://www.guildofstudents.com/events/26553/8250/
@@ -1439,7 +1442,7 @@ https://www.guildofstudents.com/events/6731/8143/
 https://www.guildofstudents.com/events/6739/8219/
 https://www.guildofstudents.com/events/6803/8302/
 https://www.guildofstudents.com/events/6907/8355/
-https://www.guildofstudents.com/events/6907/8357/
+https://www.guildofstudents.com/events/6907/8371/
 https://www.guildofstudents.com/events/6963/8353/
 https://www.guildofstudents.com/events/7011/8340/
 https://www.guildofstudents.com/events/7179/8236/
@@ -3454,6 +3457,7 @@ https://www.guildofstudents.commailto:accounting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:activities@guild.bham.ac.uk
 https://www.guildofstudents.commailto:adventist@guild.bham.ac.uk
 https://www.guildofstudents.commailto:afro-carib@guild.bham.ac.uk
+https://www.guildofstudents.commailto:afro-dance@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ahlulbayt@guild.bham.ac.uk
 https://www.guildofstudents.commailto:AlternativeHipHopSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:amnesty@guild.bham.ac.uk
