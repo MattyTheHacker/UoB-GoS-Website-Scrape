@@ -1343,6 +1343,8 @@ https://www.guildofstudents.com/ents/event/8346/
 https://www.guildofstudents.com/ents/event/8350/
 https://www.guildofstudents.com/ents/event/8351/
 https://www.guildofstudents.com/ents/event/8364/
+https://www.guildofstudents.com/ents/event/8367/
+https://www.guildofstudents.com/ents/event/8369/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1392,6 +1394,7 @@ https://www.guildofstudents.com/events/13206/8360/
 https://www.guildofstudents.com/events/20372/8167/
 https://www.guildofstudents.com/events/20913/8337/
 https://www.guildofstudents.com/events/20913/8341/
+https://www.guildofstudents.com/events/20929/8368/
 https://www.guildofstudents.com/events/20937/8214/
 https://www.guildofstudents.com/events/20937/8261/
 https://www.guildofstudents.com/events/26488/8327/
