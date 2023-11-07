@@ -1342,6 +1342,7 @@ https://www.guildofstudents.com/ents/event/8345/
 https://www.guildofstudents.com/ents/event/8346/
 https://www.guildofstudents.com/ents/event/8350/
 https://www.guildofstudents.com/ents/event/8351/
+https://www.guildofstudents.com/ents/event/8364/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1367,6 +1368,7 @@ https://www.guildofstudents.com/ents/eventlist/guildadvice/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
+https://www.guildofstudents.com/ents/eventlist/learningsupport/
 https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/OneWorld/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
@@ -3398,6 +3400,8 @@ https://www.guildofstudents.com/support/studentmentors/
 https://www.guildofstudents.com/support/studentmentors/contact/
 https://www.guildofstudents.com/support/studentmentors/who-are-student-mentors/
 https://www.guildofstudents.com/support/welcome-to-support/
+https://www.guildofstudents.com/surveys/speakweek23/
+https://www.guildofstudents.com/surveys/work2023/
 https://www.guildofstudents.com/sustainability/gogreenweek/
 https://www.guildofstudents.com/sustainability/green-impact/
 https://www.guildofstudents.com/tac/
