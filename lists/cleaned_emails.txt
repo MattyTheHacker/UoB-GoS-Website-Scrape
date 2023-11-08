@@ -5,6 +5,7 @@ accounting@guild.bham.ac.uk
 activities@guild.bham.ac.uk
 adventist@guild.bham.ac.uk
 afro-carib@guild.bham.ac.uk
+afro-dance@guild.bham.ac.uk
 ahlulbayt@guild.bham.ac.uk
 AlternativeHipHopSociety@guild.bham.ac.uk
 amnesty@guild.bham.ac.uk
