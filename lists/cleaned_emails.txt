@@ -252,6 +252,7 @@ studentreps@guild.bham.ac.uk
 studentsforlife@guild.bham.ac.uk
 studentvoice@guild.bham.ac.uk
 sudanese@guild.bham.ac.uk
+systemsteam@guild.bham.ac.uk
 tamil@guild.bham.ac.uk
 tcu@guild.bham.ac.uk
 tea@guild.bham.ac.uk
