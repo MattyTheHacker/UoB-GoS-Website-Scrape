@@ -1327,13 +1327,11 @@ https://www.guildofstudents.com/ents/event/8206/
 https://www.guildofstudents.com/ents/event/8209/
 https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8274/
-https://www.guildofstudents.com/ents/event/8288/
 https://www.guildofstudents.com/ents/event/8315/
 https://www.guildofstudents.com/ents/event/8316/
 https://www.guildofstudents.com/ents/event/8317/
 https://www.guildofstudents.com/ents/event/8318/
 https://www.guildofstudents.com/ents/event/8330/
-https://www.guildofstudents.com/ents/event/8332/
 https://www.guildofstudents.com/ents/event/8350/
 https://www.guildofstudents.com/ents/event/8351/
 https://www.guildofstudents.com/ents/event/8359/
@@ -1390,7 +1388,6 @@ https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
 https://www.guildofstudents.com/events/11890/8338/
-https://www.guildofstudents.com/events/12508/8373/
 https://www.guildofstudents.com/events/13206/7945/
 https://www.guildofstudents.com/events/13206/8360/
 https://www.guildofstudents.com/events/20913/8337/
@@ -1487,7 +1484,6 @@ https://www.guildofstudents.com/events/7403/8132/
 https://www.guildofstudents.com/events/7403/8133/
 https://www.guildofstudents.com/events/7523/8222/
 https://www.guildofstudents.com/events/7523/8275/
-https://www.guildofstudents.com/events/7523/8279/
 https://www.guildofstudents.com/events/7523/8280/
 https://www.guildofstudents.com/events/7523/8281/
 https://www.guildofstudents.com/events/7523/8354/
@@ -1524,7 +1520,6 @@ https://www.guildofstudents.com/news/article/website/Statement-on-Calling-a-Refe
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/UCU-Referendum-Result-Nov-2023/
-https://www.guildofstudents.com/news/article/website/University-Challenge-Try-Outs/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/news/rss/27259/
 https://www.guildofstudents.com/news/rss/27262/
