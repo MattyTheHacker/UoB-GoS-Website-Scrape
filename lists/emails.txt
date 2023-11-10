@@ -20,6 +20,7 @@ https://www.guildofstudents.commailto:bahaisociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:baking@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ballroom@guild.bham.ac.uk
 https://www.guildofstudents.commailto:batsoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:bbaemss@guild.bham.ac.uk
 https://www.guildofstudents.commailto:beat@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bedsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bema@guild.bham.ac.uk
@@ -119,6 +120,7 @@ https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hennasociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:heteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query
 https://www.guildofstudents.commailto:hideandseek@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hindu@guild.bham.ac.uk
@@ -128,7 +130,9 @@ https://www.guildofstudents.commailto:homeless@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkong@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hornofafrica@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hse@guild.bham.ac.uk
+https://www.guildofstudents.commailto:iceskating@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ics@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ifa@guild.bham.ac.uk
 https://www.guildofstudents.commailto:indiancultural@guild.bham.ac.uk
@@ -137,6 +141,7 @@ https://www.guildofstudents.commailto:infinity@guild.bham.ac.uk
 https://www.guildofstudents.commailto:info@ubisoc.co.uk
 https://www.guildofstudents.commailto:insulinappreciation@guild.bham.ac.uk
 https://www.guildofstudents.commailto:international@guild.bham.ac.uk
+https://www.guildofstudents.commailto:internationaldevelopment@guild.bham.ac.uk
 https://www.guildofstudents.commailto:intervol@guild.bham.ac.uk
 https://www.guildofstudents.commailto:isa@guild.bham.ac.uk
 https://www.guildofstudents.commailto:islamicartsandheritage@gmail.com

@@ -1361,7 +1361,6 @@ https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
-https://www.guildofstudents.com/ents/eventlist/Employabilty/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
@@ -1428,7 +1427,6 @@ https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/8295/
 https://www.guildofstudents.com/events/6531/8303/
 https://www.guildofstudents.com/events/6531/8310/
-https://www.guildofstudents.com/events/6531/8336/
 https://www.guildofstudents.com/events/6531/8347/
 https://www.guildofstudents.com/events/6691/8172/
 https://www.guildofstudents.com/events/6691/8173/
@@ -2493,6 +2491,9 @@ https://www.guildofstudents.com/organisation/41472/
 https://www.guildofstudents.com/organisation/41482/
 https://www.guildofstudents.com/organisation/41522/
 https://www.guildofstudents.com/organisation/41701/
+https://www.guildofstudents.com/organisation/42040/
+https://www.guildofstudents.com/organisation/42050/
+https://www.guildofstudents.com/organisation/42070/
 https://www.guildofstudents.com/organisation/8649/
 https://www.guildofstudents.com/organisation/9220/
 https://www.guildofstudents.com/organisation/acappella/
@@ -2530,6 +2531,7 @@ https://www.guildofstudents.com/organisation/criminology/
 https://www.guildofstudents.com/organisation/css/
 https://www.guildofstudents.com/organisation/cvgsoc/
 https://www.guildofstudents.com/organisation/dcl/
+https://www.guildofstudents.com/organisation/development/
 https://www.guildofstudents.com/organisation/doctorwho/
 https://www.guildofstudents.com/organisation/econsoc/
 https://www.guildofstudents.com/organisation/elalsoc/
@@ -3285,6 +3287,7 @@ https://www.guildofstudents.com/studentgroups/societies/41492/
 https://www.guildofstudents.com/studentgroups/societies/41640/
 https://www.guildofstudents.com/studentgroups/societies/41711/
 https://www.guildofstudents.com/studentgroups/societies/42029/
+https://www.guildofstudents.com/studentgroups/societies/42060/
 https://www.guildofstudents.com/studentgroups/societies/7751/
 https://www.guildofstudents.com/studentgroups/societies/9334/
 https://www.guildofstudents.com/studentgroups/societies/africanandcaribbean/
@@ -3476,6 +3479,7 @@ https://www.guildofstudents.commailto:bahaisociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:baking@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ballroom@guild.bham.ac.uk
 https://www.guildofstudents.commailto:batsoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:bbaemss@guild.bham.ac.uk
 https://www.guildofstudents.commailto:beat@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bedsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bema@guild.bham.ac.uk
@@ -3575,6 +3579,7 @@ https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hennasociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:heteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query
 https://www.guildofstudents.commailto:hideandseek@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hindu@guild.bham.ac.uk
@@ -3584,7 +3589,9 @@ https://www.guildofstudents.commailto:homeless@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkong@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hornofafrica@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hse@guild.bham.ac.uk
+https://www.guildofstudents.commailto:iceskating@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ics@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ifa@guild.bham.ac.uk
 https://www.guildofstudents.commailto:indiancultural@guild.bham.ac.uk
@@ -3593,6 +3600,7 @@ https://www.guildofstudents.commailto:infinity@guild.bham.ac.uk
 https://www.guildofstudents.commailto:info@ubisoc.co.uk
 https://www.guildofstudents.commailto:insulinappreciation@guild.bham.ac.uk
 https://www.guildofstudents.commailto:international@guild.bham.ac.uk
+https://www.guildofstudents.commailto:internationaldevelopment@guild.bham.ac.uk
 https://www.guildofstudents.commailto:intervol@guild.bham.ac.uk
 https://www.guildofstudents.commailto:isa@guild.bham.ac.uk
 https://www.guildofstudents.commailto:islamicartsandheritage@gmail.com
