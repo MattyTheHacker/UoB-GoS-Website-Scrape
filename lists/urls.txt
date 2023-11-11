@@ -1355,6 +1355,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/blackvoices/
 https://www.guildofstudents.com/ents/eventlist/campaign/
+https://www.guildofstudents.com/ents/eventlist/christmasbirmingham/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
@@ -1396,6 +1397,7 @@ https://www.guildofstudents.com/events/20913/8337/
 https://www.guildofstudents.com/events/20913/8341/
 https://www.guildofstudents.com/events/20929/8368/
 https://www.guildofstudents.com/events/20937/8261/
+https://www.guildofstudents.com/events/20937/8393/
 https://www.guildofstudents.com/events/22470/8352/
 https://www.guildofstudents.com/events/22526/8339/
 https://www.guildofstudents.com/events/22526/8343/
