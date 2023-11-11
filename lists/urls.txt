@@ -3154,6 +3154,7 @@ https://www.guildofstudents.com/privacy-policy/data-security-policy/
 https://www.guildofstudents.com/privacy-policy/studentprivacypolicynotice/
 https://www.guildofstudents.com/privacy-policy/videosurveillancesystemspolicy/
 https://www.guildofstudents.com/profile/
+https://www.guildofstudents.com/profile/141656/
 https://www.guildofstudents.com/profile/154514/
 https://www.guildofstudents.com/profile/163752/
 https://www.guildofstudents.com/profile/164136/
@@ -3244,6 +3245,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officert
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/so/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/wco/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/163752/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/164136/
