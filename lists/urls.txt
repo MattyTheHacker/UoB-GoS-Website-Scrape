@@ -1374,7 +1374,6 @@ https://www.guildofstudents.com/ents/eventlist/guildadvice/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
-https://www.guildofstudents.com/ents/eventlist/learningsupport/
 https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
@@ -3422,7 +3421,6 @@ https://www.guildofstudents.com/support/studentmentors/
 https://www.guildofstudents.com/support/studentmentors/contact/
 https://www.guildofstudents.com/support/studentmentors/who-are-student-mentors/
 https://www.guildofstudents.com/support/welcome-to-support/
-https://www.guildofstudents.com/surveys/speakweek23/
 https://www.guildofstudents.com/surveys/work2023/
 https://www.guildofstudents.com/sustainability/gogreenweek/
 https://www.guildofstudents.com/sustainability/green-impact/
