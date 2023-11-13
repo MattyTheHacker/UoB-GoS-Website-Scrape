@@ -1497,6 +1497,8 @@ https://www.guildofstudents.com/events/7523/8275/
 https://www.guildofstudents.com/events/7523/8280/
 https://www.guildofstudents.com/events/7523/8281/
 https://www.guildofstudents.com/events/7523/8354/
+https://www.guildofstudents.com/events/7523/8402/
+https://www.guildofstudents.com/events/7523/8403/
 https://www.guildofstudents.com/events/7727/8240/
 https://www.guildofstudents.com/events/7727/8305/
 https://www.guildofstudents.com/events/7727/8306/
@@ -3267,7 +3269,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/shop/rev
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/support/guildadvice/graduationhardshipfund/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
