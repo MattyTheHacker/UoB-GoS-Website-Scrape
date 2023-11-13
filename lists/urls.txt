@@ -4,6 +4,7 @@ http://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
 http://www.guildofstudents.com/complaints/
 http://www.guildofstudents.com/gogreen
 http://www.guildofstudents.com/guildadvice
+http://www.guildofstudents.com/marksoutoftenancy
 http://www.guildofstudents.com/mediasales/
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
 http://www.guildofstudents.com/studentgroups
@@ -24,6 +25,16 @@ https://www.guildofstudents.com#accord6-1
 https://www.guildofstudents.com#accord7-1
 https://www.guildofstudents.com#accord8-1
 https://www.guildofstudents.com#accord9-1
+https://www.guildofstudents.com#accorddeposit10-1
+https://www.guildofstudents.com#accorddeposit11-1
+https://www.guildofstudents.com#accorddeposit2-1
+https://www.guildofstudents.com#accorddeposit3-1
+https://www.guildofstudents.com#accorddeposit4-1
+https://www.guildofstudents.com#accorddeposit5-1
+https://www.guildofstudents.com#accorddeposit6-1
+https://www.guildofstudents.com#accorddeposit7-1
+https://www.guildofstudents.com#accorddeposit8-1
+https://www.guildofstudents.com#accorddeposit9-1
 https://www.guildofstudents.com#aitkeninfo
 https://www.guildofstudents.com#allstudentvotecomment
 https://www.guildofstudents.com#ashcroftinfo
@@ -1248,6 +1259,11 @@ https://www.guildofstudents.com/academic-hub/36126/
 https://www.guildofstudents.com/academic-hub/36129/
 https://www.guildofstudents.com/academic-hub/36913/
 https://www.guildofstudents.com/accommodation
+https://www.guildofstudents.com/accommodation/housing/
+https://www.guildofstudents.com/accommodation/housing/preparingtorent
+https://www.guildofstudents.com/accommodation/housing/preparingtorent/
+https://www.guildofstudents.com/accommodation/housing/startingyoursearch
+https://www.guildofstudents.com/accommodation/housing/startingyoursearch/
 https://www.guildofstudents.com/accommodation/pritchattspark/
 https://www.guildofstudents.com/accommodation/sellyoak/
 https://www.guildofstudents.com/accommodation/thevale/
@@ -1327,6 +1343,8 @@ https://www.guildofstudents.com/ents/event/8206/
 https://www.guildofstudents.com/ents/event/8209/
 https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8274/
+https://www.guildofstudents.com/ents/event/8298/
+https://www.guildofstudents.com/ents/event/8299/
 https://www.guildofstudents.com/ents/event/8315/
 https://www.guildofstudents.com/ents/event/8316/
 https://www.guildofstudents.com/ents/event/8317/
@@ -1335,7 +1353,6 @@ https://www.guildofstudents.com/ents/event/8330/
 https://www.guildofstudents.com/ents/event/8351/
 https://www.guildofstudents.com/ents/event/8359/
 https://www.guildofstudents.com/ents/event/8363/
-https://www.guildofstudents.com/ents/event/8364/
 https://www.guildofstudents.com/ents/event/8365/
 https://www.guildofstudents.com/ents/event/8367/
 https://www.guildofstudents.com/ents/event/8369/
@@ -1345,7 +1362,6 @@ https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8385/
 https://www.guildofstudents.com/ents/event/8386/
 https://www.guildofstudents.com/ents/event/8388/
-https://www.guildofstudents.com/ents/event/8390/
 https://www.guildofstudents.com/ents/event/8391/
 https://www.guildofstudents.com/ents/event/8392/
 https://www.guildofstudents.com/ents/event/8394/
@@ -1379,6 +1395,7 @@ https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
+https://www.guildofstudents.com/ents/eventlist/scrutinypanel/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/studentreps/
