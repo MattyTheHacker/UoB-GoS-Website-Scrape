@@ -2,6 +2,7 @@ http://www.guildofstudents.com
 http://www.guildofstudents.com/
 http://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
 http://www.guildofstudents.com/complaints/
+http://www.guildofstudents.com/gogreen
 http://www.guildofstudents.com/guildadvice
 http://www.guildofstudents.com/mediasales/
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
@@ -1454,6 +1455,7 @@ https://www.guildofstudents.com/events/7011/8340/
 https://www.guildofstudents.com/events/7179/8236/
 https://www.guildofstudents.com/events/7211/8362/
 https://www.guildofstudents.com/events/7211/8387/
+https://www.guildofstudents.com/events/7219/8062/
 https://www.guildofstudents.com/events/7387/8348/
 https://www.guildofstudents.com/events/7403/8071/
 https://www.guildofstudents.com/events/7403/8072/
@@ -1505,6 +1507,7 @@ https://www.guildofstudents.com/fab/
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
 https://www.guildofstudents.com/gear
+https://www.guildofstudents.com/gogreenweek
 https://www.guildofstudents.com/guildadvice
 https://www.guildofstudents.com/guildadvice/
 https://www.guildofstudents.com/guildawards
@@ -1520,6 +1523,7 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
 https://www.guildofstudents.com/news/article/website/Autumn-Elections-Results-Statement/
+https://www.guildofstudents.com/news/article/website/Five-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/Guild-welcomes-new-chair-as-Robert-Smeath-completes-term-of-office/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
@@ -3263,6 +3267,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/shop/rev
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/support/guildadvice/graduationhardshipfund/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
