@@ -3,7 +3,7 @@ from utils import *
 def remove_duplicates(list):
     return list(set(list))
 
-url_lists = ['urls', 'invalids', 'pdfs', 'docs', 'emails', 'rss', 'images', 'not_found']
+url_lists = ['urls', 'invalids', 'pdfs', 'docs', 'emails', 'rss', 'images', 'not_found', 'events']
 
 # check the url list for duplicates
 def check_for_duplicate_urls(urls_list, name):
@@ -47,6 +47,7 @@ def load_all_lists_from_file():
         with open('../lists/' + str(url_list) + '.txt', 'r') as f:
             for line in f:
                 get_variable_from_name(url_list).append(line.strip())
+
 
 # open the file specified by filename and return the list of urls
 def load_list_from_file(filename):

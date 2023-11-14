@@ -41,5 +41,8 @@ def should_scrape(url):
     if not valid_url(url):
         invalids.append(url)
         return False
+    if is_event(url):
+        events.append(url)
+        return False
     else:
-        return True
+        return False
