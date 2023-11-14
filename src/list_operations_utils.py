@@ -56,3 +56,11 @@ def load_list_from_file(filename):
         for line in f:
             emails_urls.append(line.strip())
     return emails_urls
+
+
+def load_events_from_file():
+    events_urls = []
+    with open('../lists/events.txt', 'r') as f:
+        for line in f:
+            events_urls.append(line.strip())
+    return events_urls
