@@ -2,7 +2,6 @@ http://www.guildofstudents.com
 http://www.guildofstudents.com/
 http://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
 http://www.guildofstudents.com/complaints/
-http://www.guildofstudents.com/gogreen
 http://www.guildofstudents.com/guildadvice
 http://www.guildofstudents.com/marksoutoftenancy
 http://www.guildofstudents.com/mediasales/
@@ -1272,9 +1271,6 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
-https://www.guildofstudents.com/asset/Job/124/Data-and-Systems-Analyst-Job-Description-October-2023.docx
-https://www.guildofstudents.com/asset/Job/124/Job-Description-Education-Welfare-Advisor.docx
-https://www.guildofstudents.com/asset/Job/124/Representation-Coordinator-Job-Description.docx
 https://www.guildofstudents.com/asset/Job/124/Student-Groups-Coordinator-1123-Job-Description.docx.pdf
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
 https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-Information-2023.pdf
@@ -1345,7 +1341,6 @@ https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8274/
 https://www.guildofstudents.com/ents/event/8298/
 https://www.guildofstudents.com/ents/event/8299/
-https://www.guildofstudents.com/ents/event/8315/
 https://www.guildofstudents.com/ents/event/8316/
 https://www.guildofstudents.com/ents/event/8317/
 https://www.guildofstudents.com/ents/event/8318/
@@ -1466,6 +1461,7 @@ https://www.guildofstudents.com/events/6907/8379/
 https://www.guildofstudents.com/events/6907/8380/
 https://www.guildofstudents.com/events/6907/8381/
 https://www.guildofstudents.com/events/6907/8383/
+https://www.guildofstudents.com/events/6923/8372/
 https://www.guildofstudents.com/events/6963/8353/
 https://www.guildofstudents.com/events/7011/8340/
 https://www.guildofstudents.com/events/7179/8236/
@@ -1533,19 +1529,18 @@ https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/jobs/browse/
-https://www.guildofstudents.com/jobs/vacancy/2823/
-https://www.guildofstudents.com/jobs/vacancy/2824/
-https://www.guildofstudents.com/jobs/vacancy/2825/
 https://www.guildofstudents.com/jobs/vacancy/2826/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
+https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
 https://www.guildofstudents.com/news/article/website/Autumn-Elections-Results-Statement/
-https://www.guildofstudents.com/news/article/website/Five-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/Guild-welcomes-new-chair-as-Robert-Smeath-completes-term-of-office/
+https://www.guildofstudents.com/news/article/website/Incident-at-FAB-on-11-November/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
+https://www.guildofstudents.com/news/article/website/Repurposing-Old-Clothes-for-a-Stylish-Tomorrow/
 https://www.guildofstudents.com/news/article/website/Standing-Against-Antisemitism-and-All-Forms-of-Racism/
 https://www.guildofstudents.com/news/article/website/Statement-on-Calling-a-Referendum-on-UCU-Strike-Action/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
@@ -3483,6 +3478,7 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8735')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
+https://www.guildofstudents.comjavascript:__doPostBack('ctl00$newslist$rptPages$ctl00$lnkPageNumber','')
 https://www.guildofstudents.comjavascript:history.back();
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
@@ -3618,6 +3614,7 @@ https://www.guildofstudents.commailto:hongkong@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hornofafrica@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hse@guild.bham.ac.uk
 https://www.guildofstudents.commailto:iceskating@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ics@guild.bham.ac.uk
