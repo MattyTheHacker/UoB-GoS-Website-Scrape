@@ -71,6 +71,7 @@ https://www.guildofstudents.com#ctl00_Main_tvPages_SkipLink
 https://www.guildofstudents.com#demo
 https://www.guildofstudents.com#elgarinfo
 https://www.guildofstudents.com#filter
+https://www.guildofstudents.com#Get in touch:
 https://www.guildofstudents.com#getintouch
 https://www.guildofstudents.com#instagrammore
 https://www.guildofstudents.com#instructions-1
@@ -1344,7 +1345,6 @@ https://www.guildofstudents.com/ents/event/8299/
 https://www.guildofstudents.com/ents/event/8316/
 https://www.guildofstudents.com/ents/event/8317/
 https://www.guildofstudents.com/ents/event/8318/
-https://www.guildofstudents.com/ents/event/8356/
 https://www.guildofstudents.com/ents/event/8359/
 https://www.guildofstudents.com/ents/event/8363/
 https://www.guildofstudents.com/ents/event/8367/
@@ -1401,12 +1401,12 @@ https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
 https://www.guildofstudents.com/events/11890/8338/
+https://www.guildofstudents.com/events/12508/8408/
 https://www.guildofstudents.com/events/13206/7945/
 https://www.guildofstudents.com/events/13206/8360/
 https://www.guildofstudents.com/events/20913/8337/
 https://www.guildofstudents.com/events/20913/8341/
 https://www.guildofstudents.com/events/20913/8398/
-https://www.guildofstudents.com/events/20929/8368/
 https://www.guildofstudents.com/events/20937/8261/
 https://www.guildofstudents.com/events/20937/8289/
 https://www.guildofstudents.com/events/20937/8393/
@@ -1427,6 +1427,8 @@ https://www.guildofstudents.com/events/33868/8378/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/34325/8246/
 https://www.guildofstudents.com/events/35779/7484/
+https://www.guildofstudents.com/events/39125/8409/
+https://www.guildofstudents.com/events/39125/8410/
 https://www.guildofstudents.com/events/40757/8322/
 https://www.guildofstudents.com/events/40820/8404/
 https://www.guildofstudents.com/events/41191/8328/
