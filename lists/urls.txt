@@ -1350,7 +1350,6 @@ https://www.guildofstudents.com/ents/event/8369/
 https://www.guildofstudents.com/ents/event/8376/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8386/
-https://www.guildofstudents.com/ents/event/8388/
 https://www.guildofstudents.com/ents/event/8392/
 https://www.guildofstudents.com/ents/event/8394/
 https://www.guildofstudents.com/ents/event/8406/
@@ -1398,6 +1397,7 @@ https://www.guildofstudents.com/ents/eventlist/welcomepagebrum/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
+https://www.guildofstudents.com/events/12167/8420/
 https://www.guildofstudents.com/events/12508/8373/
 https://www.guildofstudents.com/events/12508/8408/
 https://www.guildofstudents.com/events/13206/7945/
