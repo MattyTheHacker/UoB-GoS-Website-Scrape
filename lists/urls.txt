@@ -1349,7 +1349,6 @@ https://www.guildofstudents.com/ents/event/8369/
 https://www.guildofstudents.com/ents/event/8376/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8386/
-https://www.guildofstudents.com/ents/event/8392/
 https://www.guildofstudents.com/ents/event/8394/
 https://www.guildofstudents.com/ents/event/8406/
 https://www.guildofstudents.com/ents/event/8412/
@@ -1364,6 +1363,7 @@ https://www.guildofstudents.com/ents/event/8428/
 https://www.guildofstudents.com/ents/event/8430/
 https://www.guildofstudents.com/ents/event/8431/
 https://www.guildofstudents.com/ents/event/8432/
+https://www.guildofstudents.com/ents/event/8433/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1385,7 +1385,6 @@ https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
-https://www.guildofstudents.com/ents/eventlist/GoGreen/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/guildadvice/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
@@ -1420,6 +1419,7 @@ https://www.guildofstudents.com/events/20913/8398/
 https://www.guildofstudents.com/events/20937/8261/
 https://www.guildofstudents.com/events/20937/8289/
 https://www.guildofstudents.com/events/20937/8393/
+https://www.guildofstudents.com/events/21718/8400/
 https://www.guildofstudents.com/events/22526/8339/
 https://www.guildofstudents.com/events/22526/8343/
 https://www.guildofstudents.com/events/22526/8344/
@@ -1440,7 +1440,6 @@ https://www.guildofstudents.com/events/39633/8416/
 https://www.guildofstudents.com/events/40757/8322/
 https://www.guildofstudents.com/events/40820/8404/
 https://www.guildofstudents.com/events/41191/8328/
-https://www.guildofstudents.com/events/41292/8395/
 https://www.guildofstudents.com/events/41452/8029/
 https://www.guildofstudents.com/events/41452/8030/
 https://www.guildofstudents.com/events/41452/8031/
@@ -1537,7 +1536,6 @@ https://www.guildofstudents.com/fab/
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
 https://www.guildofstudents.com/gear
-https://www.guildofstudents.com/gogreenweek
 https://www.guildofstudents.com/guildadvice
 https://www.guildofstudents.com/guildadvice/
 https://www.guildofstudents.com/guildawards
