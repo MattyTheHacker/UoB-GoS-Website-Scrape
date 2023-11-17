@@ -1353,6 +1353,8 @@ https://www.guildofstudents.com/ents/event/8392/
 https://www.guildofstudents.com/ents/event/8394/
 https://www.guildofstudents.com/ents/event/8406/
 https://www.guildofstudents.com/ents/event/8412/
+https://www.guildofstudents.com/ents/event/8421/
+https://www.guildofstudents.com/ents/event/8422/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1401,6 +1403,7 @@ https://www.guildofstudents.com/events/12508/8373/
 https://www.guildofstudents.com/events/12508/8408/
 https://www.guildofstudents.com/events/13206/7945/
 https://www.guildofstudents.com/events/13206/8360/
+https://www.guildofstudents.com/events/20372/8417/
 https://www.guildofstudents.com/events/20913/8337/
 https://www.guildofstudents.com/events/20913/8341/
 https://www.guildofstudents.com/events/20913/8398/
@@ -3007,7 +3010,7 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-2
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-3-May-2022-Full-Results.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-3-May-2023-Full-Results.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Autumn-By-Elections-2023-Results-Tables.pdf
-https://www.guildofstudents.com/pageassets/representation/democracyminutes/Autumn-Elections-2023-Results-Tables-Full.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Autumn-Elections-2023-Results-Tables-Full(1).pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Meeting-3-Minutes-FINAL.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Meeting-4-Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Mins-11.11.21.pdf
