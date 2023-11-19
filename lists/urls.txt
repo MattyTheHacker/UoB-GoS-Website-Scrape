@@ -1414,7 +1414,6 @@ https://www.guildofstudents.com/events/20372/8417/
 https://www.guildofstudents.com/events/20913/8337/
 https://www.guildofstudents.com/events/20913/8341/
 https://www.guildofstudents.com/events/20913/8398/
-https://www.guildofstudents.com/events/20937/8261/
 https://www.guildofstudents.com/events/20937/8289/
 https://www.guildofstudents.com/events/20937/8393/
 https://www.guildofstudents.com/events/21718/8400/
@@ -1430,6 +1429,7 @@ https://www.guildofstudents.com/events/33847/8268/
 https://www.guildofstudents.com/events/33847/8269/
 https://www.guildofstudents.com/events/33847/8270/
 https://www.guildofstudents.com/events/33847/8271/
+https://www.guildofstudents.com/events/33868/8378/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35779/7484/
 https://www.guildofstudents.com/events/39125/8409/
@@ -3795,5 +3795,4 @@ https://www.guildofstudents.comtel:0121 415 856
 https://www.guildofstudents.comtel:0121 415 8912
 https://www.guildofstudents.comtel:0121 415 9990
 https://www.guildofstudents.comtel:01216754806
-https://www.guildofstudents.comtel:01217036165
 https://www.guildofstudents.comtel:03031231113
