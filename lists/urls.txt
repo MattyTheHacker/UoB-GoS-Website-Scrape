@@ -1365,6 +1365,9 @@ https://www.guildofstudents.com/ents/event/8433/
 https://www.guildofstudents.com/ents/event/8438/
 https://www.guildofstudents.com/ents/event/8439/
 https://www.guildofstudents.com/ents/event/8443/
+https://www.guildofstudents.com/ents/event/8445/
+https://www.guildofstudents.com/ents/event/8446/
+https://www.guildofstudents.com/ents/event/8447/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
