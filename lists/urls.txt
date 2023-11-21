@@ -1269,6 +1269,7 @@ https://www.guildofstudents.com/accommodation/sellyoak/
 https://www.guildofstudents.com/accommodation/thevale/
 https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
+https://www.guildofstudents.com/advertclick/112/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
@@ -1421,6 +1422,7 @@ https://www.guildofstudents.com/events/20913/8341/
 https://www.guildofstudents.com/events/20913/8398/
 https://www.guildofstudents.com/events/20937/8289/
 https://www.guildofstudents.com/events/20937/8393/
+https://www.guildofstudents.com/events/20937/8411/
 https://www.guildofstudents.com/events/21718/8400/
 https://www.guildofstudents.com/events/22526/8339/
 https://www.guildofstudents.com/events/22526/8343/
