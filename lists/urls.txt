@@ -1337,13 +1337,11 @@ https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
 https://www.guildofstudents.com/ents/event/8206/
 https://www.guildofstudents.com/ents/event/8241/
-https://www.guildofstudents.com/ents/event/8274/
 https://www.guildofstudents.com/ents/event/8298/
 https://www.guildofstudents.com/ents/event/8299/
 https://www.guildofstudents.com/ents/event/8316/
 https://www.guildofstudents.com/ents/event/8317/
 https://www.guildofstudents.com/ents/event/8318/
-https://www.guildofstudents.com/ents/event/8359/
 https://www.guildofstudents.com/ents/event/8363/
 https://www.guildofstudents.com/ents/event/8367/
 https://www.guildofstudents.com/ents/event/8369/
@@ -1369,7 +1367,6 @@ https://www.guildofstudents.com/ents/event/8445/
 https://www.guildofstudents.com/ents/event/8446/
 https://www.guildofstudents.com/ents/event/8447/
 https://www.guildofstudents.com/ents/event/8450/
-https://www.guildofstudents.com/ents/event/8451/
 https://www.guildofstudents.com/ents/event/8452/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
@@ -1377,13 +1374,10 @@ https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
-https://www.guildofstudents.com/ents/eventlist/blackvoices/
-https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/christmasbirmingham/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
-https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
@@ -1403,7 +1397,6 @@ https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/scrutinypanel/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
-https://www.guildofstudents.com/ents/eventlist/studentreps/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
