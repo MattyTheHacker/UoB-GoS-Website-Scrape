@@ -1303,7 +1303,6 @@ https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/7660/
 https://www.guildofstudents.com/ents/event/7661/
 https://www.guildofstudents.com/ents/event/7662/
-https://www.guildofstudents.com/ents/event/7663/
 https://www.guildofstudents.com/ents/event/7664/
 https://www.guildofstudents.com/ents/event/7669/
 https://www.guildofstudents.com/ents/event/7670/
@@ -1402,15 +1401,14 @@ https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
 https://www.guildofstudents.com/events/12167/8420/
+https://www.guildofstudents.com/events/12492/8456/
 https://www.guildofstudents.com/events/12508/8373/
 https://www.guildofstudents.com/events/12508/8408/
 https://www.guildofstudents.com/events/13206/7945/
 https://www.guildofstudents.com/events/13206/8360/
-https://www.guildofstudents.com/events/20372/8417/
 https://www.guildofstudents.com/events/20913/8337/
 https://www.guildofstudents.com/events/20913/8341/
 https://www.guildofstudents.com/events/20913/8398/
-https://www.guildofstudents.com/events/20937/8289/
 https://www.guildofstudents.com/events/20937/8393/
 https://www.guildofstudents.com/events/20937/8411/
 https://www.guildofstudents.com/events/21718/8400/
@@ -1440,8 +1438,6 @@ https://www.guildofstudents.com/events/41452/8030/
 https://www.guildofstudents.com/events/41452/8031/
 https://www.guildofstudents.com/events/41492/8323/
 https://www.guildofstudents.com/events/41522/8266/
-https://www.guildofstudents.com/events/6179/8396/
-https://www.guildofstudents.com/events/6179/8397/
 https://www.guildofstudents.com/events/6187/8297/
 https://www.guildofstudents.com/events/6251/8414/
 https://www.guildofstudents.com/events/6339/8326/
@@ -1454,7 +1450,6 @@ https://www.guildofstudents.com/events/6531/8310/
 https://www.guildofstudents.com/events/6531/8347/
 https://www.guildofstudents.com/events/6531/8429/
 https://www.guildofstudents.com/events/6531/8453/
-https://www.guildofstudents.com/events/6691/8172/
 https://www.guildofstudents.com/events/6691/8173/
 https://www.guildofstudents.com/events/6691/8174/
 https://www.guildofstudents.com/events/6691/8175/
