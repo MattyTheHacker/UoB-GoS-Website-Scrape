@@ -1275,7 +1275,6 @@ https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
 https://www.guildofstudents.com/asset/Job/124/Job-Description-Education-Welfare-Advisor.docx
 https://www.guildofstudents.com/asset/Job/124/Student-Groups-Coordinator-1123-Job-Description.docx.pdf
-https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
 https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-Information-2023.pdf
 https://www.guildofstudents.com/asset/News/6016/ASV-1-November-2023-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-By-Elections-2023-Results-Tables.pdf
@@ -1368,6 +1367,9 @@ https://www.guildofstudents.com/ents/event/8461/
 https://www.guildofstudents.com/ents/event/8462/
 https://www.guildofstudents.com/ents/event/8463/
 https://www.guildofstudents.com/ents/event/8464/
+https://www.guildofstudents.com/ents/event/8465/
+https://www.guildofstudents.com/ents/event/8466/
+https://www.guildofstudents.com/ents/event/8467/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -3188,7 +3190,6 @@ https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for
 https://www.guildofstudents.com/pageassets/studentstaff/Black-Voices-Community-Organiser-Oct-23-Job-Desciption-and-Person-Specfication.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Cleaning-Assistant-Oct-23-Job-Description.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/IT-Assistant-Oct-23-Job-Description-2022.pdf
-https://www.guildofstudents.com/pageassets/support/academicsupport/academicintegrity/Academic-Integrity-and-Plagiarism-advice-sheet.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
@@ -3505,7 +3506,6 @@ https://www.guildofstudents.com/welcome/support#unisupport
 https://www.guildofstudents.com/welcome/support/
 https://www.guildofstudents.com/welcome/undergraduate
 https://www.guildofstudents.comassessmentsandwellbeing/
-https://www.guildofstudents.comintranet.birmingham.ac.uk/as/registry/policy/conduct/examirregs/index.aspx#intro
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl15$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl21$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl31$filterList','')
