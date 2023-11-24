@@ -1273,6 +1273,7 @@ https://www.guildofstudents.com/advertclick/112/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
+https://www.guildofstudents.com/asset/Job/124/Job-Description-Education-Welfare-Advisor.docx
 https://www.guildofstudents.com/asset/Job/124/Student-Groups-Coordinator-1123-Job-Description.docx.pdf
 https://www.guildofstudents.com/asset/News/6016/Academic-Integrity-and-Plagiarism.pdf
 https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-Information-2023.pdf
@@ -1365,6 +1366,8 @@ https://www.guildofstudents.com/ents/event/8458/
 https://www.guildofstudents.com/ents/event/8459/
 https://www.guildofstudents.com/ents/event/8461/
 https://www.guildofstudents.com/ents/event/8462/
+https://www.guildofstudents.com/ents/event/8463/
+https://www.guildofstudents.com/ents/event/8464/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1546,6 +1549,7 @@ https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2826/
+https://www.guildofstudents.com/jobs/vacancy/2827/
 https://www.guildofstudents.com/junkbusters
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/mediasales
@@ -3688,6 +3692,7 @@ https://www.guildofstudents.commailto:linguist@guild.bham.ac.uk
 https://www.guildofstudents.commailto:links@guild.bham.ac.uk
 https://www.guildofstudents.commailto:liveart@guild.bham.ac.uk
 https://www.guildofstudents.commailto:livemusic@guild.bham.ac.uk
+https://www.guildofstudents.commailto:m.nunn@guild.bham.ac.uk
 https://www.guildofstudents.commailto:malaysia@guild.bham.ac.uk
 https://www.guildofstudents.commailto:marketing.birmingham@uk.elsa.org
 https://www.guildofstudents.commailto:marketingsociety@guild.bham.ac.uk
