@@ -1441,7 +1441,6 @@ https://www.guildofstudents.com/events/39633/8416/
 https://www.guildofstudents.com/events/40757/8322/
 https://www.guildofstudents.com/events/40820/8404/
 https://www.guildofstudents.com/events/41191/8328/
-https://www.guildofstudents.com/events/41292/8395/
 https://www.guildofstudents.com/events/41452/8029/
 https://www.guildofstudents.com/events/41452/8030/
 https://www.guildofstudents.com/events/41452/8031/
@@ -2787,6 +2786,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-06.07.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-06.09.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-06.10.20.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-06.11.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-06.12.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-07.02.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-07.03.23.pdf
@@ -2835,6 +2835,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-13.07.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-13.07.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-13.09.21.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-13.11.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-13.12.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-14.01.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-14.02.22.pdf
@@ -3452,7 +3453,6 @@ https://www.guildofstudents.com/support/academic/academic-support/
 https://www.guildofstudents.com/support/academicsupport/
 https://www.guildofstudents.com/support/academicsupport/academicintegrity/
 https://www.guildofstudents.com/support/academicsupport/appeals/
-https://www.guildofstudents.com/support/academicsupport/assessmentandfeedback/
 https://www.guildofstudents.com/support/academicsupport/assessmentsandwellbeing/
 https://www.guildofstudents.com/support/academicsupport/ExamIrregularities/
 https://www.guildofstudents.com/support/academicsupport/extenuatingcircumstances/
@@ -3505,7 +3505,7 @@ https://www.guildofstudents.com/welcome/support#officers
 https://www.guildofstudents.com/welcome/support#unisupport
 https://www.guildofstudents.com/welcome/support/
 https://www.guildofstudents.com/welcome/undergraduate
-https://www.guildofstudents.comassessmentsandwellbeing/
+https://www.guildofstudents.comintranet.birmingham.ac.uk/as/registry/policy/conduct/examirregs/index.aspx#intro
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl15$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl21$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl31$filterList','')
