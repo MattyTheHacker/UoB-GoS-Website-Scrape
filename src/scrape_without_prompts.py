@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 from notif_utils import *
 import requests
 import strip_emails
+import event_utils
 
 domain = 'https://www.guildofstudents.com'
 base_url = "https://www.guildofstudents.com/sitemap/"
@@ -81,6 +82,9 @@ if __name__ == '__main__':
 
     # strip emails from all the files
     strip_emails.strip_and_save_to_file()
+
+    # get all event details
+    event_utils.scrape_all_events()
 
     # check for changes, if so, send a notification
     if check_for_changes():
