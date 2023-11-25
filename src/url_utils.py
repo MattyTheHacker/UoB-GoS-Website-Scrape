@@ -45,4 +45,4 @@ def should_scrape(url):
         events.append(url)
         return False
     else:
-        return False
+        return True
