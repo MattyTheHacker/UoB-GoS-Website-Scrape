@@ -42,7 +42,7 @@
 {'id': '8412', 'organisation': 'GUILD', 'title': 'Hall Reps Big Christmas Quiz'}
 {'id': '8421', 'organisation': 'GUILD', 'title': 'How to run a Ball or Large Scale Event!'}
 {'id': '8423', 'organisation': 'GUILD', 'title': 'Wellbeing Cafe'}
-{'id': '8427', 'organisation': 'GUILD', 'title': 'Festive Wellbeing Café'}
+{'id': '8427', 'organisation': 'GUILD', 'title': 'Festive Wellbeing CafÃ©'}
 {'id': '8428', 'organisation': 'GUILD', 'title': 'Christmas Foraging Walk'}
 {'id': '8430', 'organisation': 'GUILD', 'title': 'Give It A Go: Ice Skating'}
 {'id': '8431', 'organisation': 'GUILD', 'title': 'Match Up Catch Up'}
@@ -91,7 +91,7 @@
 {'id': '35779', 'organisation': 'Dental Society (BUDSS)', 'title': 'BUDSS Merch'}
 {'id': '39125', 'organisation': 'Hide and Seek Society', 'title': 'Hide and Seek Event'}
 {'id': '39125', 'organisation': 'Hide and Seek Society', 'title': 'Night-time Hide and Seek Event'}
-{'id': '39633', 'organisation': 'Hookers and Stitchers', 'title': 'Visit to Christine’s Wool Shop in Bournville'}
+{'id': '39633', 'organisation': 'Hookers and Stitchers', 'title': 'Visit to Christineâ€™s Wool Shop in Bournville'}
 {'id': '40757', 'organisation': 'Jain Society', 'title': 'Diwali in Leicester!'}
 {'id': '40820', 'organisation': 'Alternative Hip Hop', 'title': 'WINTER SHOOBZ'}
 {'id': '41191', 'organisation': 'Taylor Swift', 'title': 'Karaoke Night'}
@@ -99,7 +99,7 @@
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Session 5 - Ghana Society Collab'}
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Session 6'}
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Games Night'}
-{'id': '41492', 'organisation': 'Bahá’í', 'title': 'Joint event for Interfaith Week'}
+{'id': '41492', 'organisation': 'BahÃ¡â€™Ã­', 'title': 'Joint event for Interfaith Week'}
 {'id': '41512', 'organisation': 'Nuclear and Materials', 'title': 'Hoodies and Fleeces'}
 {'id': '41522', 'organisation': 'Roundnet', 'title': 'UBRS Roundnet Tournament'}
 {'id': '6187', 'organisation': 'BALADS', 'title': 'Strictly Brum Dancing 2023'}
@@ -128,7 +128,7 @@
 {'id': '6907', 'organisation': 'Korea', 'title': 'Korean Lessons'}
 {'id': '6907', 'organisation': 'Korea', 'title': 'Karaoke Night'}
 {'id': '6923', 'organisation': 'Labour', 'title': 'In Conversation with Jess Phillips MP'}
-{'id': '7011', 'organisation': 'Mathsoc', 'title': 'Mathsoc Winter Soirée'}
+{'id': '7011', 'organisation': 'Mathsoc', 'title': 'Mathsoc Winter SoirÃ©e'}
 {'id': '7011', 'organisation': 'Mathsoc', 'title': 'Mathsoc Christmas Vodbull'}
 {'id': '7179', 'organisation': 'Philosophy', 'title': 'Inhumane Bar Crawl - Philosophy'}
 {'id': '7211', 'organisation': 'Politics', 'title': 'Politics Fleeces'}
