@@ -100,7 +100,7 @@
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Session 6'}
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Games Night'}
 {'id': '41492', 'organisation': 'Bahá’í', 'title': 'Joint event for Interfaith Week'}
-{'id': '41512', 'organisation': 'Nuclear and Materials', 'title': 'Hoodies and Fleeces'}
+{'id': '41512', 'organisation': 'Nuclear and Materials', 'title': 'Sorry, there was a problem'}
 {'id': '41522', 'organisation': 'Roundnet', 'title': 'UBRS Roundnet Tournament'}
 {'id': '6187', 'organisation': 'BALADS', 'title': 'Strictly Brum Dancing 2023'}
 {'id': '6251', 'organisation': 'BioSoc', 'title': 'Lab Rats Bar Crawl'}
