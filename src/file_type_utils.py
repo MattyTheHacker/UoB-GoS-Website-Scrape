@@ -47,6 +47,7 @@ def is_event(url):
         if end_of_url.isdigit():
             return True
         else:
+            print("[ERROR] Invalid event url: " + url)
             return False
     if '/events/' in url:
         # check if followed by some int at the end
@@ -54,4 +55,5 @@ def is_event(url):
         if end_of_url.isdigit():
             return True
         else:
+            print("[ERROR] Invalid event url: " + url)
             return False

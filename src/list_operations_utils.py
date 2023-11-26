@@ -23,7 +23,11 @@ def check_all_lists_for_duplicates():
 
 def sort_list(list):
     # sort the list in alphabetical order
-    return sorted(list, key=str.lower)
+    try:
+        sorted_list = sorted(list, key=str.lower)
+        return sorted_list
+    except:
+        return list
 
 
 # save the urls to a file

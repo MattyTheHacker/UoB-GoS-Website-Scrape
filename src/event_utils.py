@@ -16,7 +16,14 @@ session.mount('http://', HTTPAdapter(max_retries=retries))
 event_list = []
 
 def get_organisation_from_event(url):
-    r = session.get(url)
+    # URL format: https://www.guildofstudents.com/org_ID/event_id
+    # extract the org ID
+    org_id = url.split("/")[4]
+
+    # create the URL to get the org name
+    org_url = "https://www.guildofstudents.com/organisation/" + org_id
+
+    r = session.get(org_url)
     soup = BeautifulSoup(r.content, 'html.parser')
 
     # get the first h1
@@ -85,7 +92,7 @@ def scrape_all_events():
         get_event_details(url)
 
     # save the event_list to a file
-    save_list_to_file(event_list, '../lists/events.txt')
+    save_list_to_file(event_list, '../lists/events_list.txt')
 
 if __name__ == '__main__': 
     scrape_all_events()
