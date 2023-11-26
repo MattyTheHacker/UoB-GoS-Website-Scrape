@@ -1,0 +1,193 @@
+{'id': '7660', 'organisation': 'GUILD', 'title': "FAB 'N' XPLOSION"}
+{'id': '7661', 'organisation': 'GUILD', 'title': 'FAB - Dick & Dom'}
+{'id': '7662', 'organisation': 'GUILD', 'title': 'FAB'}
+{'id': '7664', 'organisation': 'GUILD', 'title': 'CHRISTMAS FAB'}
+{'id': '7669', 'organisation': 'GUILD', 'title': 'Sports Night'}
+{'id': '7670', 'organisation': 'GUILD', 'title': 'Sports Night'}
+{'id': '7671', 'organisation': 'GUILD', 'title': 'Sports Night'}
+{'id': '7672', 'organisation': 'GUILD', 'title': 'Sports Night'}
+{'id': '7673', 'organisation': 'GUILD', 'title': 'Sports Night'}
+{'id': '7674', 'organisation': 'GUILD', 'title': 'Sports Night'}
+{'id': '7680', 'organisation': 'GUILD', 'title': "Joe's Bingo Night"}
+{'id': '7681', 'organisation': 'GUILD', 'title': "Joe's Bingo Night"}
+{'id': '7682', 'organisation': 'GUILD', 'title': "Joe's Bingo Night"}
+{'id': '7683', 'organisation': 'GUILD', 'title': "Joe's Bingo Night"}
+{'id': '7684', 'organisation': 'GUILD', 'title': "Joe's Bingo Night"}
+{'id': '7685', 'organisation': 'GUILD', 'title': "Joe's Bingo Night"}
+{'id': '7691', 'organisation': 'GUILD', 'title': "Joe's Big Quiz"}
+{'id': '7692', 'organisation': 'GUILD', 'title': "Joe's Big Quiz"}
+{'id': '7693', 'organisation': 'GUILD', 'title': "Joe's Big Quiz"}
+{'id': '7694', 'organisation': 'GUILD', 'title': "Joe's Big Quiz"}
+{'id': '7695', 'organisation': 'GUILD', 'title': "Joe's Big Quiz"}
+{'id': '7696', 'organisation': 'GUILD', 'title': "Joe's Big Quiz"}
+{'id': '8056', 'organisation': 'GUILD', 'title': 'Hall Reps Games Night'}
+{'id': '8057', 'organisation': 'GUILD', 'title': 'Hall Reps Games Night: Checkmates and Cheesecakes'}
+{'id': '8058', 'organisation': 'GUILD', 'title': 'Hall Reps Games Night'}
+{'id': '8059', 'organisation': 'GUILD', 'title': 'Hall Reps Games Night'}
+{'id': '8060', 'organisation': 'GUILD', 'title': 'Hall Reps Games Night'}
+{'id': '8061', 'organisation': 'GUILD', 'title': 'Hall Reps Games Night'}
+{'id': '8141', 'organisation': 'GUILD', 'title': 'Halls Halloween Spooktacular'}
+{'id': '8184', 'organisation': 'GUILD', 'title': 'Housemate Finder'}
+{'id': '8185', 'organisation': 'GUILD', 'title': 'Housemate Finder'}
+{'id': '8186', 'organisation': 'GUILD', 'title': 'Housemate Finder'}
+{'id': '8206', 'organisation': 'GUILD', 'title': 'Sorry, there was a problem'}
+{'id': '8241', 'organisation': 'GUILD', 'title': 'ELSA National Council Meeting'}
+{'id': '8298', 'organisation': 'GUILD', 'title': 'Scrutiny Panel - Session 1'}
+{'id': '8299', 'organisation': 'GUILD', 'title': 'Scrutiny Panel - Session 2'}
+{'id': '8317', 'organisation': 'GUILD', 'title': 'Community Pantry Breakfast'}
+{'id': '8318', 'organisation': 'GUILD', 'title': 'Diwali Crafts and Celebration!'}
+{'id': '8376', 'organisation': 'GUILD', 'title': 'Battery Park Hole in One'}
+{'id': '8377', 'organisation': 'GUILD', 'title': 'Nursing society ball'}
+{'id': '8386', 'organisation': 'GUILD', 'title': 'Christmas Card Crafting'}
+{'id': '8412', 'organisation': 'GUILD', 'title': 'Hall Reps Big Christmas Quiz'}
+{'id': '8421', 'organisation': 'GUILD', 'title': 'How to run a Ball or Large Scale Event!'}
+{'id': '8423', 'organisation': 'GUILD', 'title': 'Wellbeing Cafe'}
+{'id': '8427', 'organisation': 'GUILD', 'title': 'Festive Wellbeing Café'}
+{'id': '8428', 'organisation': 'GUILD', 'title': 'Christmas Foraging Walk'}
+{'id': '8430', 'organisation': 'GUILD', 'title': 'Give It A Go: Ice Skating'}
+{'id': '8431', 'organisation': 'GUILD', 'title': 'Match Up Catch Up'}
+{'id': '8432', 'organisation': 'GUILD', 'title': 'Match Up Catch Up In Person'}
+{'id': '8433', 'organisation': 'GUILD', 'title': 'Wreath Making & Biscuit Decorating'}
+{'id': '8438', 'organisation': 'GUILD', 'title': 'Hot Chocolate and Christmas Crafts'}
+{'id': '8439', 'organisation': 'GUILD', 'title': 'Hot Chocolate and Christmas Crafts'}
+{'id': '8443', 'organisation': 'GUILD', 'title': 'Pass It Forward - Donate your unwanted items'}
+{'id': '8445', 'organisation': 'GUILD', 'title': 'Language Cafe'}
+{'id': '8446', 'organisation': 'GUILD', 'title': 'Committee Member Focus Group'}
+{'id': '8447', 'organisation': 'GUILD', 'title': 'Committee Member Focus Group'}
+{'id': '8450', 'organisation': 'GUILD', 'title': 'International & Post Graduate Christmas Party'}
+{'id': '8452', 'organisation': 'GUILD', 'title': "Chair's Network"}
+{'id': '8458', 'organisation': 'GUILD', 'title': 'Scrutiny Panel - Session 3'}
+{'id': '8459', 'organisation': 'GUILD', 'title': 'Junkbusters'}
+{'id': '8461', 'organisation': 'GUILD', 'title': 'Christmas Networking Dinner'}
+{'id': '8462', 'organisation': 'GUILD', 'title': 'Deck the (Jarratt) Halls - Advent Calendar Making'}
+{'id': '8463', 'organisation': 'GUILD', 'title': 'Netball Christmas Meal Social'}
+{'id': '8464', 'organisation': 'GUILD', 'title': 'Maple Bank Festive Crafts & Cupcakes'}
+{'id': '8465', 'organisation': 'GUILD', 'title': 'Oak Brook Park Winter Wonderland'}
+{'id': '8466', 'organisation': 'GUILD', 'title': 'Chamberlain Dutch Pancakes and Decorations'}
+{'id': '8467', 'organisation': 'GUILD', 'title': 'Shackleton Cocoa and Crafts'}
+{'id': '12167', 'organisation': 'oSTEM', 'title': 'LGBTQ+ in STEM Panel'}
+{'id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'title': 'Winter Retreat'}
+{'id': '12508', 'organisation': 'Adventist', 'title': 'Interfaith Quiz'}
+{'id': '12508', 'organisation': 'Adventist', 'title': 'ASC Goes Bowling'}
+{'id': '13206', 'organisation': 'Women In Politics', 'title': 'Civil Service Information Evening'}
+{'id': '13206', 'organisation': 'Women In Politics', 'title': 'Pub Quiz'}
+{'id': '20372', 'organisation': 'History', 'title': 'History Christmas Social'}
+{'id': '20913', 'organisation': 'Sober Socials', 'title': 'Sober Socials & Make a Smile Games Night!'}
+{'id': '20913', 'organisation': 'Sober Socials', 'title': 'Sober Socials Games Night'}
+{'id': '20913', 'organisation': 'Sober Socials', 'title': 'Sober Socials Games Night'}
+{'id': '20937', 'organisation': 'Student Exchange', 'title': 'Ice Skating + Christmas Markets with UOBEX!'}
+{'id': '20937', 'organisation': 'Student Exchange', 'title': 'UOBEX Christmas Party!'}
+{'id': '21718', 'organisation': 'Nerdsoc', 'title': 'MCM Birmingham ComicCon Trip!'}
+{'id': '22526', 'organisation': 'Panto', 'title': 'The Wizard of Oz: The Panto!'}
+{'id': '22526', 'organisation': 'Panto', 'title': 'The Wizard of Oz: The Panto!'}
+{'id': '22526', 'organisation': 'Panto', 'title': 'The Wizard of Oz: The Panto!'}
+{'id': '26488', 'organisation': 'Marketing', 'title': 'Dive into Digital Marketing: a Talk with Accentuate Agency'}
+{'id': '33847', 'organisation': 'ABACUS', 'title': 'Ice Skating'}
+{'id': '33847', 'organisation': 'ABACUS', 'title': 'Vietnamese Summer Rolls Making'}
+{'id': '33847', 'organisation': 'ABACUS', 'title': 'Christmas Movie Night'}
+{'id': '33847', 'organisation': 'ABACUS', 'title': 'Halloween KREAMS clubbing'}
+{'id': '33868', 'organisation': 'Birmingham Students for Life', 'title': 'Rachel Mackenzie - Healing after Abortion'}
+{'id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'title': 'ELAL netball'}
+{'id': '35779', 'organisation': 'Dental Society (BUDSS)', 'title': 'BUDSS Merch'}
+{'id': '39125', 'organisation': 'Hide and Seek Society', 'title': 'Hide and Seek Event'}
+{'id': '39125', 'organisation': 'Hide and Seek Society', 'title': 'Night-time Hide and Seek Event'}
+{'id': '39633', 'organisation': 'Hookers and Stitchers', 'title': 'Visit to Christine’s Wool Shop in Bournville'}
+{'id': '40757', 'organisation': 'Jain Society', 'title': 'Diwali in Leicester!'}
+{'id': '40820', 'organisation': 'Alternative Hip Hop', 'title': 'WINTER SHOOBZ'}
+{'id': '41191', 'organisation': 'Taylor Swift', 'title': 'Karaoke Night'}
+{'id': '41292', 'organisation': 'Make a Smile', 'title': 'Make a Smile Conference'}
+{'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Session 5 - Ghana Society Collab'}
+{'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Session 6'}
+{'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Games Night'}
+{'id': '41492', 'organisation': 'Bahá’í', 'title': 'Joint event for Interfaith Week'}
+{'id': '41512', 'organisation': 'Nuclear and Materials', 'title': 'Hoodies and Fleeces'}
+{'id': '41522', 'organisation': 'Roundnet', 'title': 'UBRS Roundnet Tournament'}
+{'id': '6187', 'organisation': 'BALADS', 'title': 'Strictly Brum Dancing 2023'}
+{'id': '6251', 'organisation': 'BioSoc', 'title': 'Lab Rats Bar Crawl'}
+{'id': '6339', 'organisation': 'Brumski & Board', 'title': 'BUCS Snowsports: BUDS 2023'}
+{'id': '6347', 'organisation': 'Brumsurf', 'title': 'Trip 1st-3rd December'}
+{'id': '6371', 'organisation': 'BUDS', 'title': 'BUDS Winter Ball'}
+{'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'CSS Christmas Meal'}
+{'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'CSS Pub Crawl'}
+{'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'CSS Film Night'}
+{'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'Women in Tech Panel'}
+{'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'CSS Roller Skating'}
+{'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'Design and Development with Kainos'}
+{'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'The Technology of BNY Mellon'}
+{'id': '6691', 'organisation': 'GMTG', 'title': 'Louder than Words Showcase - Wednesday 6th December - 7:30PM'}
+{'id': '6691', 'organisation': 'GMTG', 'title': 'Louder than Words Showcase - Thursday 7th December - 7:30PM'}
+{'id': '6691', 'organisation': 'GMTG', 'title': 'Louder than Words Showcase - Friday 8th December - 7:30PM'}
+{'id': '6731', 'organisation': 'Harry Potter', 'title': 'Harry Potter Studios Trip'}
+{'id': '6739', 'organisation': 'Hindu', 'title': 'Siya 2023 (Diwali Ball)'}
+{'id': '6739', 'organisation': 'Hindu', 'title': 'NHSF Zonal Sports'}
+{'id': '6803', 'organisation': 'Infinity Stage Company', 'title': 'Guild Drama Winter Ball 2023'}
+{'id': '6907', 'organisation': 'Korea', 'title': 'Korea society Kimchi day'}
+{'id': '6907', 'organisation': 'Korea', 'title': 'Pepero Making Session'}
+{'id': '6907', 'organisation': 'Korea', 'title': 'Korean Lessons'}
+{'id': '6907', 'organisation': 'Korea', 'title': 'Korean Game Night'}
+{'id': '6907', 'organisation': 'Korea', 'title': 'Korean Lessons'}
+{'id': '6907', 'organisation': 'Korea', 'title': 'Karaoke Night'}
+{'id': '6923', 'organisation': 'Labour', 'title': 'In Conversation with Jess Phillips MP'}
+{'id': '7011', 'organisation': 'Mathsoc', 'title': 'Mathsoc Winter Soirée'}
+{'id': '7011', 'organisation': 'Mathsoc', 'title': 'Mathsoc Christmas Vodbull'}
+{'id': '7179', 'organisation': 'Philosophy', 'title': 'Inhumane Bar Crawl - Philosophy'}
+{'id': '7211', 'organisation': 'Politics', 'title': 'Politics Fleeces'}
+{'id': '7211', 'organisation': 'Politics', 'title': 'Christmas Drinks'}
+{'id': '7219', 'organisation': 'Psychology', 'title': 'Psychology Movie Night'}
+{'id': '7219', 'organisation': 'Psychology', 'title': 'Psychology bar crawl'}
+{'id': '7235', 'organisation': 'Redbrick', 'title': 'Media Ball'}
+{'id': '7299', 'organisation': 'Scouts & Guides', 'title': 'Christmas Sleepover'}
+{'id': '7387', 'organisation': 'STAR', 'title': 'STAR Quiz Night'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Board Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Board Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Board Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Board Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Board Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Board Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Board Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Puzzle Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Puzzle Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Puzzle Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Puzzle Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Puzzle Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Puzzle Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Puzzle Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Card Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Card Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Card Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Card Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Card Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Card Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Card Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Roleplay Sunday'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Roleplay Sunday'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Roleplay Sunday'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Roleplay Sunday'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Roleplay Sunday'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Roleplay Sunday'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'Roleplay Sunday'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'War Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'War Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'War Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'War Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'War Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'War Games'}
+{'id': '7403', 'organisation': 'Tabletop Gaming', 'title': 'War Games'}
+{'id': '7491', 'organisation': 'ValeFest', 'title': 'Valefest x Circo End of Term Party'}
+{'id': '7499', 'organisation': 'Vegetarian & Vegan Soc', 'title': 'VegSoc Christmas Dinner 2023'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Indie Lounge Karaoke'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Clent Hills day hike'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Shropshire Coach Trip'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Snowdonia Weekend Trip'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Cannock Chase day hike'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Peak District Weekend trip'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Harborne Walkway and Christmas Markets'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Reserves- Shropshire coach trip'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Reserves- Snowdonia weekend trip'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': 'Winter Formal'}
+{'id': '7523', 'organisation': 'Wayfarers Hiking Society', 'title': "Wayfarer's Fleeces"}
+{'id': '7727', 'organisation': 'Doctor Who', 'title': 'DocSoc Screening'}
+{'id': '7727', 'organisation': 'Doctor Who', 'title': 'DocSoc Social'}
+{'id': '7727', 'organisation': 'Doctor Who', 'title': 'DocSoc Screening'}
+{'id': '7727', 'organisation': 'Doctor Who', 'title': 'DocSoc Screening'}
+{'id': '7727', 'organisation': 'Doctor Who', 'title': 'DocSoc Screening'}
