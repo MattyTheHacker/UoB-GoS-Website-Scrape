@@ -95,7 +95,7 @@
 {'id': '40757', 'organisation': 'Jain Society', 'title': 'Diwali in Leicester!'}
 {'id': '40820', 'organisation': 'Alternative Hip Hop', 'title': 'WINTER SHOOBZ'}
 {'id': '41191', 'organisation': 'Taylor Swift', 'title': 'Karaoke Night'}
-{'id': '41292', 'organisation': 'Make a Smile', 'title': 'Make a Smile Conference'}
+{'id': '41292', 'organisation': 'Make a Smile', 'title': 'Sorry, there was a problem'}
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Session 5 - Ghana Society Collab'}
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Session 6'}
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Games Night'}
