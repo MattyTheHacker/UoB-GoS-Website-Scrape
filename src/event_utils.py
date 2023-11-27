@@ -56,11 +56,16 @@ def get_event_details(url):
         event['organisation'] = organisation
 
     elif '/events/' in url:
-        # format: https://www.guildofstudents.com/events/ID/
-        event_id = url.split("/")[4]
+        # format: https://www.guildofstudents.com/events/ORG_ID/EVENT_ID/
+        split_url = url.split("/")
+        event_id = split_url[-2]
+        organisation_id = split_url[-3]
 
         # append the event id to the event object
-        event['id'] = event_id
+        event['event_id'] = event_id
+
+        # append the organisation id to the event object
+        event['organisation_id'] = organisation_id
 
         # if this format of URL, it's a society event, so get the name
         organisation = get_organisation_from_event(url)
@@ -70,6 +75,9 @@ def get_event_details(url):
     else:
         print("[ERROR] Invalid event url: " + url)
         return
+
+    # append the url to the event object
+    event['url'] = url
 
     # get the page
     r = session.get(url)
