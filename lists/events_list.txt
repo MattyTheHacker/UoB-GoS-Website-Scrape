@@ -58,7 +58,7 @@
 {'id': '8452', 'organisation': 'GUILD', 'title': "Chair's Network"}
 {'id': '8458', 'organisation': 'GUILD', 'title': 'Scrutiny Panel - Session 3'}
 {'id': '8459', 'organisation': 'GUILD', 'title': 'Junkbusters'}
-{'id': '8461', 'organisation': 'GUILD', 'title': 'Christmas Networking Dinner'}
+{'id': '8461', 'organisation': 'GUILD', 'title': 'Account Login'}
 {'id': '8462', 'organisation': 'GUILD', 'title': 'Deck the (Jarratt) Halls - Advent Calendar Making'}
 {'id': '8463', 'organisation': 'GUILD', 'title': 'Netball Christmas Meal Social'}
 {'id': '8464', 'organisation': 'GUILD', 'title': 'Maple Bank Festive Crafts & Cupcakes'}
@@ -99,7 +99,6 @@
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Session 6'}
 {'id': '41452', 'organisation': 'African Dance', 'title': 'African Dance Games Night'}
 {'id': '41492', 'organisation': 'Bahá’í', 'title': 'Joint event for Interfaith Week'}
-{'id': '41512', 'organisation': 'Nuclear and Materials', 'title': 'Sorry, there was a problem'}
 {'id': '41522', 'organisation': 'Roundnet', 'title': 'UBRS Roundnet Tournament'}
 {'id': '6187', 'organisation': 'BALADS', 'title': 'Strictly Brum Dancing 2023'}
 {'id': '6251', 'organisation': 'BioSoc', 'title': 'Lab Rats Bar Crawl'}

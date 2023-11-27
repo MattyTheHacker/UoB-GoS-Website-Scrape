@@ -1307,7 +1307,6 @@ https://www.guildofstudents.com/ents/event/7669/
 https://www.guildofstudents.com/ents/event/7670/
 https://www.guildofstudents.com/ents/event/7671/
 https://www.guildofstudents.com/ents/event/7672/
-https://www.guildofstudents.com/ents/event/7673/
 https://www.guildofstudents.com/ents/event/7674/
 https://www.guildofstudents.com/ents/event/7680/
 https://www.guildofstudents.com/ents/event/7681/
@@ -1359,7 +1358,6 @@ https://www.guildofstudents.com/ents/event/8450/
 https://www.guildofstudents.com/ents/event/8452/
 https://www.guildofstudents.com/ents/event/8458/
 https://www.guildofstudents.com/ents/event/8459/
-https://www.guildofstudents.com/ents/event/8461/
 https://www.guildofstudents.com/ents/event/8462/
 https://www.guildofstudents.com/ents/event/8463/
 https://www.guildofstudents.com/ents/event/8464/
@@ -3261,6 +3259,14 @@ https://www.guildofstudents.com/representation/youridea/?idea=511#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=511#idea511
 https://www.guildofstudents.com/representation/youridea/?idea=512#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=512#idea512
+https://www.guildofstudents.com/representation/youridea/?idea=514#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=514#idea514
+https://www.guildofstudents.com/representation/youridea/?idea=515#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=515#idea515
+https://www.guildofstudents.com/representation/youridea/?idea=520#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=520#idea520
+https://www.guildofstudents.com/representation/youridea/?idea=521#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=521#idea521
 https://www.guildofstudents.com/representation/youridea/?tag=Academic
 https://www.guildofstudents.com/representation/youridea/?tag=Community
 https://www.guildofstudents.com/representation/youridea/?tag=Democracy
