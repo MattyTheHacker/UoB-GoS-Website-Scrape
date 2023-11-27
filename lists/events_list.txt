@@ -58,7 +58,7 @@
 {'id': '8458', 'organisation': 'GUILD', 'title': 'Scrutiny Panel - Session 3'}
 {'id': '8459', 'organisation': 'GUILD', 'title': 'Junkbusters'}
 {'id': '8461', 'organisation': 'GUILD', 'title': 'Christmas Networking Dinner'}
-{'id': '8462', 'organisation': 'GUILD', 'title': 'Deck the (Jarratt) Halls - Advent Calendar Making'}
+{'id': '8462', 'organisation': 'GUILD', 'title': 'Sorry, there was a problem'}
 {'id': '8463', 'organisation': 'GUILD', 'title': 'Netball Christmas Meal Social'}
 {'id': '8464', 'organisation': 'GUILD', 'title': 'Maple Bank Festive Crafts & Cupcakes'}
 {'id': '8465', 'organisation': 'GUILD', 'title': 'Oak Brook Park Winter Wonderland'}
@@ -105,7 +105,7 @@
 {'id': '6187', 'organisation': 'BALADS', 'title': 'Strictly Brum Dancing 2023'}
 {'id': '6251', 'organisation': 'BioSoc', 'title': 'Lab Rats Bar Crawl'}
 {'id': '6339', 'organisation': 'Brumski & Board', 'title': 'BUCS Snowsports: BUDS 2023'}
-{'id': '6347', 'organisation': 'Brumsurf', 'title': 'Trip 1st-3rd December'}
+{'id': '6347', 'organisation': 'Brumsurf', 'title': 'Account Login'}
 {'id': '6371', 'organisation': 'BUDS', 'title': 'BUDS Winter Ball'}
 {'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'CSS Christmas Meal'}
 {'id': '6531', 'organisation': 'Computer Science Society (CSS)', 'title': 'CSS Pub Crawl'}
