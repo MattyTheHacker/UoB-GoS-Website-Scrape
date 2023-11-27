@@ -41,7 +41,7 @@
 {'id': '8412', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8412/', 'title': 'Hall Reps Big Christmas Quiz'}
 {'id': '8421', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8421/', 'title': 'How to run a Ball or Large Scale Event!'}
 {'id': '8423', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8423/', 'title': 'Wellbeing Cafe'}
-{'id': '8427', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8427/', 'title': 'Festive Wellbeing Café'}
+{'id': '8427', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8427/', 'title': 'Festive Wellbeing Cafï¿½'}
 {'id': '8428', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8428/', 'title': 'Christmas Foraging Walk'}
 {'id': '8430', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8430/', 'title': 'Give It A Go: Ice Skating'}
 {'id': '8431', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8431/', 'title': 'Match Up Catch Up'}
@@ -92,14 +92,14 @@
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8409', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8409/', 'title': 'Hide and Seek Event'}
 {'event_id': '8410', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8410/', 'title': 'Night-time Hide and Seek Event'}
-{'event_id': '8416', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/8416/', 'title': 'Visit to Christine’s Wool Shop in Bournville'}
+{'event_id': '8416', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/8416/', 'title': 'Visit to Christineï¿½s Wool Shop in Bournville'}
 {'event_id': '8322', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8322/', 'title': 'Diwali in Leicester!'}
 {'event_id': '8404', 'organisation_id': '40820', 'organisation': 'Alternative Hip Hop', 'url': 'https://www.guildofstudents.com/events/40820/8404/', 'title': 'WINTER SHOOBZ'}
 {'event_id': '8328', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/8328/', 'title': 'Karaoke Night'}
 {'event_id': '8029', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8029/', 'title': 'African Dance Session 5 - Ghana Society Collab'}
 {'event_id': '8030', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8030/', 'title': 'African Dance Session 6'}
 {'event_id': '8031', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8031/', 'title': 'African Dance Games Night'}
-{'event_id': '8323', 'organisation_id': '41492', 'organisation': 'Bahá’í', 'url': 'https://www.guildofstudents.com/events/41492/8323/', 'title': 'Joint event for Interfaith Week'}
+{'event_id': '8323', 'organisation_id': '41492', 'organisation': 'Bahï¿½ï¿½', 'url': 'https://www.guildofstudents.com/events/41492/8323/', 'title': 'Joint event for Interfaith Week'}
 {'event_id': '8454', 'organisation_id': '41512', 'organisation': 'Nuclear and Materials', 'url': 'https://www.guildofstudents.com/events/41512/8454/', 'title': 'Hoodies and Fleeces'}
 {'event_id': '8266', 'organisation_id': '41522', 'organisation': 'Roundnet', 'url': 'https://www.guildofstudents.com/events/41522/8266/', 'title': 'UBRS Roundnet Tournament'}
 {'event_id': '8297', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8297/', 'title': 'Strictly Brum Dancing 2023'}
@@ -128,7 +128,7 @@
 {'event_id': '8381', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8381/', 'title': 'Korean Lessons'}
 {'event_id': '8383', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8383/', 'title': 'Karaoke Night'}
 {'event_id': '8372', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/8372/', 'title': 'In Conversation with Jess Phillips MP'}
-{'event_id': '8340', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8340/', 'title': 'Mathsoc Winter Soirée'}
+{'event_id': '8340', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8340/', 'title': 'Mathsoc Winter Soirï¿½e'}
 {'event_id': '8441', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8441/', 'title': 'Mathsoc Christmas Vodbull'}
 {'event_id': '8236', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8236/', 'title': 'Inhumane Bar Crawl - Philosophy'}
 {'event_id': '8362', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/8362/', 'title': 'Politics Fleeces'}
