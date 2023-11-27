@@ -6,7 +6,6 @@
 {'id': '7670', 'organisation': 'GUILD', 'title': 'Sports Night'}
 {'id': '7671', 'organisation': 'GUILD', 'title': 'Sports Night'}
 {'id': '7672', 'organisation': 'GUILD', 'title': 'Sports Night'}
-{'id': '7673', 'organisation': 'GUILD', 'title': 'Account Login'}
 {'id': '7674', 'organisation': 'GUILD', 'title': 'Sports Night'}
 {'id': '7680', 'organisation': 'GUILD', 'title': "Joe's Bingo Night"}
 {'id': '7681', 'organisation': 'GUILD', 'title': "Joe's Bingo Night"}
@@ -58,7 +57,6 @@
 {'id': '8452', 'organisation': 'GUILD', 'title': "Chair's Network"}
 {'id': '8458', 'organisation': 'GUILD', 'title': 'Scrutiny Panel - Session 3'}
 {'id': '8459', 'organisation': 'GUILD', 'title': 'Junkbusters'}
-{'id': '8461', 'organisation': 'GUILD', 'title': 'Account Login'}
 {'id': '8462', 'organisation': 'GUILD', 'title': 'Deck the (Jarratt) Halls - Advent Calendar Making'}
 {'id': '8463', 'organisation': 'GUILD', 'title': 'Netball Christmas Meal Social'}
 {'id': '8464', 'organisation': 'GUILD', 'title': 'Maple Bank Festive Crafts & Cupcakes'}

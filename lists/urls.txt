@@ -1358,12 +1358,14 @@ https://www.guildofstudents.com/ents/event/8450/
 https://www.guildofstudents.com/ents/event/8452/
 https://www.guildofstudents.com/ents/event/8458/
 https://www.guildofstudents.com/ents/event/8459/
+https://www.guildofstudents.com/ents/event/8461/
 https://www.guildofstudents.com/ents/event/8462/
 https://www.guildofstudents.com/ents/event/8463/
 https://www.guildofstudents.com/ents/event/8464/
 https://www.guildofstudents.com/ents/event/8465/
 https://www.guildofstudents.com/ents/event/8466/
 https://www.guildofstudents.com/ents/event/8467/
+https://www.guildofstudents.com/ents/event/8472/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1392,6 +1394,7 @@ https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/scrutinypanel/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
+https://www.guildofstudents.com/ents/eventlist/studentreps/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
@@ -1434,6 +1437,7 @@ https://www.guildofstudents.com/events/41452/8029/
 https://www.guildofstudents.com/events/41452/8030/
 https://www.guildofstudents.com/events/41452/8031/
 https://www.guildofstudents.com/events/41492/8323/
+https://www.guildofstudents.com/events/41512/8454/
 https://www.guildofstudents.com/events/41522/8266/
 https://www.guildofstudents.com/events/6187/8297/
 https://www.guildofstudents.com/events/6251/8414/
@@ -3197,6 +3201,7 @@ https://www.guildofstudents.com/privacy-policy/studentprivacypolicynotice/
 https://www.guildofstudents.com/privacy-policy/videosurveillancesystemspolicy/
 https://www.guildofstudents.com/profile/
 https://www.guildofstudents.com/profile/141656/
+https://www.guildofstudents.com/profile/148694/
 https://www.guildofstudents.com/profile/154514/
 https://www.guildofstudents.com/profile/163752/
 https://www.guildofstudents.com/profile/164136/
@@ -3206,6 +3211,7 @@ https://www.guildofstudents.com/profile/169176/
 https://www.guildofstudents.com/profile/171268/
 https://www.guildofstudents.com/profile/197769/
 https://www.guildofstudents.com/profile/207410/
+https://www.guildofstudents.com/profile/209792/
 https://www.guildofstudents.com/profile/212526/
 https://www.guildofstudents.com/profile/234454/
 https://www.guildofstudents.com/referendum
@@ -3296,6 +3302,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officert
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/wco/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/148694/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/163752/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/164136/
@@ -3305,6 +3312,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/171268/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/197769/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/207410/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/209792/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/212526/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/234454/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
