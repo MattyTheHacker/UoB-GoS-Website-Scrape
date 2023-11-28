@@ -58,7 +58,6 @@
 {'id': '8458', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8458/', 'title': 'Scrutiny Panel - Session 3'}
 {'id': '8459', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8459/', 'title': 'Junkbusters'}
 {'id': '8461', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8461/', 'title': 'Christmas Networking Dinner'}
-{'id': '8462', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8462/', 'title': 'Sorry, there was a problem'}
 {'id': '8463', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8463/', 'title': 'Netball Christmas Meal Social'}
 {'id': '8464', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8464/', 'title': 'Maple Bank Festive Crafts & Cupcakes'}
 {'id': '8465', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8465/', 'title': 'Oak Brook Park Winter Wonderland'}
@@ -95,7 +94,7 @@
 {'event_id': '8416', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/8416/', 'title': 'Visit to Christine’s Wool Shop in Bournville'}
 {'event_id': '8322', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8322/', 'title': 'Diwali in Leicester!'}
 {'event_id': '8404', 'organisation_id': '40820', 'organisation': 'Alternative Hip Hop', 'url': 'https://www.guildofstudents.com/events/40820/8404/', 'title': 'WINTER SHOOBZ'}
-{'event_id': '8328', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/8328/', 'title': 'Karaoke Night'}
+{'event_id': '8328', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/8328/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8029', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8029/', 'title': 'African Dance Session 5 - Ghana Society Collab'}
 {'event_id': '8030', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8030/', 'title': 'African Dance Session 6'}
 {'event_id': '8031', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8031/', 'title': 'African Dance Games Night'}
