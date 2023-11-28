@@ -263,6 +263,7 @@ https://www.guildofstudents.com//instagram.com/uobgirlgamers
 https://www.guildofstudents.com//instagram.com/uobhartsoc
 https://www.guildofstudents.com//instagram.com/uobhindusoc
 https://www.guildofstudents.com//instagram.com/uobhistory
+https://www.guildofstudents.com//instagram.com/uobidsociety
 https://www.guildofstudents.com//instagram.com/uobifs
 https://www.guildofstudents.com//instagram.com/uobindiansoc
 https://www.guildofstudents.com//instagram.com/uobinsulinappreciation
@@ -1331,7 +1332,6 @@ https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
 https://www.guildofstudents.com/ents/event/8206/
 https://www.guildofstudents.com/ents/event/8241/
-https://www.guildofstudents.com/ents/event/8298/
 https://www.guildofstudents.com/ents/event/8299/
 https://www.guildofstudents.com/ents/event/8317/
 https://www.guildofstudents.com/ents/event/8318/
@@ -1365,6 +1365,9 @@ https://www.guildofstudents.com/ents/event/8466/
 https://www.guildofstudents.com/ents/event/8467/
 https://www.guildofstudents.com/ents/event/8472/
 https://www.guildofstudents.com/ents/event/8476/
+https://www.guildofstudents.com/ents/event/8477/
+https://www.guildofstudents.com/ents/event/8478/
+https://www.guildofstudents.com/ents/event/8480/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -3205,6 +3208,7 @@ https://www.guildofstudents.com/profile/148694/
 https://www.guildofstudents.com/profile/154514/
 https://www.guildofstudents.com/profile/163752/
 https://www.guildofstudents.com/profile/164136/
+https://www.guildofstudents.com/profile/165466/
 https://www.guildofstudents.com/profile/167898/
 https://www.guildofstudents.com/profile/168392/
 https://www.guildofstudents.com/profile/169176/
@@ -3307,6 +3311,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/163752/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/164136/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/165466/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/167898/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/168392/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/169176/
