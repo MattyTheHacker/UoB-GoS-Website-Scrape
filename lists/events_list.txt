@@ -31,7 +31,6 @@
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8206', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8206/', 'title': 'Sorry, there was a problem'}
 {'id': '8241', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8241/', 'title': 'ELSA National Council Meeting'}
-{'id': '8298', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8298/', 'title': 'Sorry, there was a problem'}
 {'id': '8299', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8299/', 'title': 'Scrutiny Panel - Session 2'}
 {'id': '8317', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8317/', 'title': 'Community Pantry Breakfast'}
 {'id': '8318', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8318/', 'title': 'Diwali Crafts and Celebration!'}
@@ -65,6 +64,9 @@
 {'id': '8467', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8467/', 'title': 'Shackleton Cocoa and Crafts'}
 {'id': '8472', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8472/', 'title': 'Speak and Lead'}
 {'id': '8476', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8476/', 'title': 'Pritchatts Park Festive Photobooth'}
+{'id': '8477', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8477/', 'title': 'Tennis Courts Christmas Movie Night'}
+{'id': '8478', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8478/', 'title': 'Elgar Court: Me, My Elf & I'}
+{'id': '8480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8480/', 'title': 'Battery Park Christmas Cookies & Cards'}
 {'event_id': '8471', 'organisation_id': '11890', 'organisation': 'Pharmaceutical', 'url': 'https://www.guildofstudents.com/events/11890/8471/', 'title': 'PharmSoc Cultural Night'}
 {'event_id': '8420', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8420/', 'title': 'LGBTQ+ in STEM Panel'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
