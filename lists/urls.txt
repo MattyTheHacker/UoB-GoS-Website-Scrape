@@ -1364,6 +1364,7 @@ https://www.guildofstudents.com/ents/event/8465/
 https://www.guildofstudents.com/ents/event/8466/
 https://www.guildofstudents.com/ents/event/8467/
 https://www.guildofstudents.com/ents/event/8472/
+https://www.guildofstudents.com/ents/event/8476/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
@@ -1455,6 +1456,7 @@ https://www.guildofstudents.com/events/6691/8230/
 https://www.guildofstudents.com/events/6731/8143/
 https://www.guildofstudents.com/events/6739/8219/
 https://www.guildofstudents.com/events/6739/8419/
+https://www.guildofstudents.com/events/6739/8475/
 https://www.guildofstudents.com/events/6803/8302/
 https://www.guildofstudents.com/events/6907/8355/
 https://www.guildofstudents.com/events/6907/8371/
@@ -3339,6 +3341,7 @@ https://www.guildofstudents.com/studentgroups/societies/36356/
 https://www.guildofstudents.com/studentgroups/societies/38891/
 https://www.guildofstudents.com/studentgroups/societies/39024/
 https://www.guildofstudents.com/studentgroups/societies/39195/
+https://www.guildofstudents.com/studentgroups/societies/39298/
 https://www.guildofstudents.com/studentgroups/societies/40471/
 https://www.guildofstudents.com/studentgroups/societies/40550/
 https://www.guildofstudents.com/studentgroups/societies/40630/
