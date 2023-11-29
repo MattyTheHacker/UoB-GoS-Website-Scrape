@@ -1333,7 +1333,6 @@ https://www.guildofstudents.com/ents/event/8186/
 https://www.guildofstudents.com/ents/event/8206/
 https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8299/
-https://www.guildofstudents.com/ents/event/8317/
 https://www.guildofstudents.com/ents/event/8318/
 https://www.guildofstudents.com/ents/event/8376/
 https://www.guildofstudents.com/ents/event/8377/
@@ -1376,7 +1375,6 @@ https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/christmasbirmingham/
 https://www.guildofstudents.com/ents/eventlist/club/
-https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
@@ -1385,7 +1383,6 @@ https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
-https://www.guildofstudents.com/ents/eventlist/guildadvice/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
@@ -2515,6 +2512,7 @@ https://www.guildofstudents.com/organisation/38809/
 https://www.guildofstudents.com/organisation/38832/
 https://www.guildofstudents.com/organisation/39116/
 https://www.guildofstudents.com/organisation/39365/
+https://www.guildofstudents.com/organisation/39596/
 https://www.guildofstudents.com/organisation/3bugsfringe/
 https://www.guildofstudents.com/organisation/40488/
 https://www.guildofstudents.com/organisation/40820/
@@ -2695,9 +2693,6 @@ https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment
 https://www.guildofstudents.com/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf
 https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2023.pdf
 https://www.guildofstudents.com/pageassets/blackvoices/Black-Voices-Manifesto-1022.pdf
-https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-2023-Complaints-Form.docx
-https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-Complaints-Procedure-2023.pdf
-https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-Regulations-2023-24.pdf
 https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Guild-Bye-Laws.pdf
 https://www.guildofstudents.com/pageassets/elections/autumn-elections-Zero-Tolerance-Policy-2023.pdf
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/2022-23-UOB-Guild-of-Students-Financial-Statements-Final.pdf
@@ -3297,6 +3292,7 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/aeo/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/eo/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/io/new/
