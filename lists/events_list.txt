@@ -31,7 +31,7 @@
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8206', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8206/', 'title': 'Sorry, there was a problem'}
 {'id': '8241', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8241/', 'title': 'ELSA National Council Meeting'}
-{'id': '8299', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8299/', 'title': 'Scrutiny Panel - Session 2'}
+{'id': '8299', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8299/', 'title': 'Sorry, there was a problem'}
 {'id': '8318', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8318/', 'title': 'Diwali Crafts and Celebration!'}
 {'id': '8376', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8376/', 'title': 'Battery Park Hole in One'}
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
@@ -104,7 +104,6 @@
 {'event_id': '8297', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8297/', 'title': 'Strictly Brum Dancing 2023'}
 {'event_id': '8414', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8414/', 'title': 'Lab Rats Bar Crawl'}
 {'event_id': '8326', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8326/', 'title': 'BUCS Snowsports: BUDS 2023'}
-{'event_id': '8434', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8434/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8284', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8284/', 'title': 'CSS Christmas Meal'}
 {'event_id': '8295', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8295/', 'title': 'CSS Pub Crawl'}
 {'event_id': '8303', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8303/', 'title': 'CSS Film Night'}
