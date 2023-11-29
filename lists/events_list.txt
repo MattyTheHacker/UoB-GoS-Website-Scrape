@@ -32,7 +32,6 @@
 {'id': '8206', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8206/', 'title': 'Sorry, there was a problem'}
 {'id': '8241', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8241/', 'title': 'ELSA National Council Meeting'}
 {'id': '8299', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8299/', 'title': 'Scrutiny Panel - Session 2'}
-{'id': '8317', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8317/', 'title': 'Account Login'}
 {'id': '8318', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8318/', 'title': 'Diwali Crafts and Celebration!'}
 {'id': '8376', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8376/', 'title': 'Battery Park Hole in One'}
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
