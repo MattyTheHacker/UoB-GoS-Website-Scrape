@@ -101,12 +101,10 @@
 {'event_id': '8030', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8030/', 'title': 'African Dance Session 6'}
 {'event_id': '8031', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8031/', 'title': 'African Dance Games Night'}
 {'event_id': '8323', 'organisation_id': '41492', 'organisation': 'Bahá’í', 'url': 'https://www.guildofstudents.com/events/41492/8323/', 'title': 'Joint event for Interfaith Week'}
-{'event_id': '8454', 'organisation_id': '41512', 'organisation': 'Nuclear and Materials', 'url': 'https://www.guildofstudents.com/events/41512/8454/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8266', 'organisation_id': '41522', 'organisation': 'Roundnet', 'url': 'https://www.guildofstudents.com/events/41522/8266/', 'title': 'UBRS Roundnet Tournament'}
 {'event_id': '8297', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8297/', 'title': 'Strictly Brum Dancing 2023'}
 {'event_id': '8414', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8414/', 'title': 'Lab Rats Bar Crawl'}
 {'event_id': '8326', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8326/', 'title': 'BUCS Snowsports: BUDS 2023'}
-{'event_id': '8384', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8384/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8434', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8434/', 'title': 'Craft Society - Creative Coffee Hub Social'}
 {'event_id': '8284', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8284/', 'title': 'CSS Christmas Meal'}
 {'event_id': '8295', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8295/', 'title': 'CSS Pub Crawl'}
@@ -174,6 +172,7 @@
 {'event_id': '8131', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8131/', 'title': 'War Games'}
 {'event_id': '8132', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8132/', 'title': 'War Games'}
 {'event_id': '8133', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8133/', 'title': 'War Games'}
+{'event_id': '8481', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8481/', 'title': 'Games Night Fundraiser'}
 {'event_id': '8455', 'organisation_id': '7491', 'organisation': 'ValeFest', 'url': 'https://www.guildofstudents.com/events/7491/8455/', 'title': 'Valefest x Circo End of Term Party'}
 {'event_id': '8405', 'organisation_id': '7499', 'organisation': 'Vegetarian & Vegan Soc', 'url': 'https://www.guildofstudents.com/events/7499/8405/', 'title': 'VegSoc Christmas Dinner 2023'}
 {'event_id': '8222', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8222/', 'title': 'Indie Lounge Karaoke'}
