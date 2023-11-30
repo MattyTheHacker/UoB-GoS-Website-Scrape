@@ -28,7 +28,6 @@
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8241', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8241/', 'title': 'ELSA National Council Meeting'}
 {'id': '8318', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8318/', 'title': 'Diwali Crafts and Celebration!'}
-{'id': '8376', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8376/', 'title': 'Account Login'}
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
 {'id': '8386', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8386/', 'title': 'Christmas Card Crafting'}
 {'id': '8412', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8412/', 'title': 'Hall Reps Big Christmas Quiz'}
@@ -47,8 +46,8 @@
 {'id': '8447', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8447/', 'title': 'Committee Member Focus Group'}
 {'id': '8450', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8450/', 'title': 'International & Post Graduate Christmas Party'}
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
-{'id': '8458', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8458/', 'title': 'Scrutiny Panel - Session 3'}
-{'id': '8459', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8459/', 'title': 'Junkbusters'}
+{'id': '8458', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8458/', 'title': 'Sorry, there was a problem'}
+{'id': '8459', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8459/', 'title': 'Sorry, there was a problem'}
 {'id': '8461', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8461/', 'title': 'Christmas Networking Dinner'}
 {'id': '8463', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8463/', 'title': 'Netball Christmas Meal Social'}
 {'id': '8465', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8465/', 'title': 'Oak Brook Park Winter Wonderland'}
@@ -59,6 +58,7 @@
 {'id': '8477', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8477/', 'title': 'Tennis Courts Christmas Movie Night'}
 {'id': '8478', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8478/', 'title': 'Elgar Court: Me, My Elf & I'}
 {'id': '8480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8480/', 'title': 'Battery Park Christmas Cookies & Cards'}
+{'id': '8482', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8482/', 'title': 'Aitken Christmas Choco-Crafts'}
 {'event_id': '8471', 'organisation_id': '11890', 'organisation': 'Pharmaceutical', 'url': 'https://www.guildofstudents.com/events/11890/8471/', 'title': 'PharmSoc Cultural Night'}
 {'event_id': '8420', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8420/', 'title': 'LGBTQ+ in STEM Panel'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
@@ -119,8 +119,8 @@
 {'event_id': '8371', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8371/', 'title': 'Pepero Making Session'}
 {'event_id': '8379', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8379/', 'title': 'Korean Lessons'}
 {'event_id': '8380', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8380/', 'title': 'Korean Game Night'}
-{'event_id': '8381', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8381/', 'title': 'Korean Lessons'}
-{'event_id': '8383', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8383/', 'title': 'Karaoke Night'}
+{'event_id': '8381', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8381/', 'title': 'Sorry, there was a problem'}
+{'event_id': '8383', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8383/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8372', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/8372/', 'title': 'In Conversation with Jess Phillips MP'}
 {'event_id': '8340', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8340/', 'title': 'Mathsoc Winter Soirée'}
 {'event_id': '8441', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8441/', 'title': 'Mathsoc Christmas Vodbull'}
