@@ -1420,6 +1420,9 @@ https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35779/7484/
 https://www.guildofstudents.com/events/39125/8409/
 https://www.guildofstudents.com/events/39125/8410/
+https://www.guildofstudents.com/events/39125/8484/
+https://www.guildofstudents.com/events/39125/8485/
+https://www.guildofstudents.com/events/39125/8486/
 https://www.guildofstudents.com/events/39633/8416/
 https://www.guildofstudents.com/events/40757/8322/
 https://www.guildofstudents.com/events/40820/8404/
@@ -3499,7 +3502,6 @@ https://www.guildofstudents.com/welcome/support#officers
 https://www.guildofstudents.com/welcome/support#unisupport
 https://www.guildofstudents.com/welcome/support/
 https://www.guildofstudents.com/welcome/undergraduate
-https://www.guildofstudents.comintranet.birmingham.ac.uk/as/registry/policy/conduct/examirregs/index.aspx#intro
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl15$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl21$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl31$filterList','')

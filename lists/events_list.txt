@@ -46,11 +46,9 @@
 {'id': '8447', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8447/', 'title': 'Committee Member Focus Group'}
 {'id': '8450', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8450/', 'title': 'International & Post Graduate Christmas Party'}
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
-{'id': '8458', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8458/', 'title': 'Sorry, there was a problem'}
-{'id': '8459', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8459/', 'title': 'Sorry, there was a problem'}
 {'id': '8461', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8461/', 'title': 'Christmas Networking Dinner'}
 {'id': '8463', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8463/', 'title': 'Netball Christmas Meal Social'}
-{'id': '8465', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8465/', 'title': 'Oak Brook Park Winter Wonderland'}
+{'id': '8465', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8465/', 'title': 'Sorry, there was a problem'}
 {'id': '8466', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8466/', 'title': 'Chamberlain Dutch Pancakes and Decorations'}
 {'id': '8467', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8467/', 'title': 'Shackleton Cocoa and Crafts'}
 {'id': '8472', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8472/', 'title': 'Speak and Lead'}
@@ -66,6 +64,7 @@
 {'event_id': '8408', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8408/', 'title': 'ASC Goes Bowling'}
 {'event_id': '7945', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/7945/', 'title': 'Civil Service Information Evening'}
 {'event_id': '8360', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8360/', 'title': 'Pub Quiz'}
+{'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8418', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8418/', 'title': 'History Christmas Social'}
 {'event_id': '8337', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8337/', 'title': 'Sober Socials & Make a Smile Games Night!'}
 {'event_id': '8341', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8341/', 'title': 'Sober Socials Games Night'}
@@ -73,6 +72,7 @@
 {'event_id': '8393', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8393/', 'title': 'Ice Skating + Christmas Markets with UOBEX!'}
 {'event_id': '8411', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8411/', 'title': 'UOBEX Christmas Party!'}
 {'event_id': '8400', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8400/', 'title': 'MCM Birmingham ComicCon Trip!'}
+{'event_id': '8460', 'organisation_id': '22478', 'organisation': 'Nursing Society', 'url': 'https://www.guildofstudents.com/events/22478/8460/', 'title': 'Nursing Careers Fair'}
 {'event_id': '8339', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8339/', 'title': 'The Wizard of Oz: The Panto!'}
 {'event_id': '8343', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8343/', 'title': 'The Wizard of Oz: The Panto!'}
 {'event_id': '8344', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8344/', 'title': 'The Wizard of Oz: The Panto!'}
@@ -119,8 +119,6 @@
 {'event_id': '8371', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8371/', 'title': 'Pepero Making Session'}
 {'event_id': '8379', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8379/', 'title': 'Korean Lessons'}
 {'event_id': '8380', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8380/', 'title': 'Korean Game Night'}
-{'event_id': '8381', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8381/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8383', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8383/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8372', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/8372/', 'title': 'In Conversation with Jess Phillips MP'}
 {'event_id': '8340', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8340/', 'title': 'Mathsoc Winter Soirée'}
 {'event_id': '8441', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8441/', 'title': 'Mathsoc Christmas Vodbull'}
