@@ -21,20 +21,20 @@
 {'id': '7696', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/7696/', 'title': "Joe's Big Quiz"}
 {'id': '8056', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8056/', 'title': 'Hall Reps Games Night'}
 {'id': '8057', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8057/', 'title': 'Hall Reps Games Night: Checkmates and Cheesecakes'}
-{'id': '8058', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8058/', 'title': 'Hall Reps Games Night'}
+{'id': '8058', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8058/', 'title': 'Account Login'}
 {'id': '8059', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8059/', 'title': 'Hall Reps Games Night'}
-{'id': '8060', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8060/', 'title': 'Hall Reps Games Night'}
+{'id': '8060', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8060/', 'title': 'Account Login'}
 {'id': '8061', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8061/', 'title': 'Hall Reps Games Night'}
 {'id': '8141', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8141/', 'title': 'Halls Halloween Spooktacular'}
 {'id': '8185', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8185/', 'title': 'Housemate Finder'}
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8241', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8241/', 'title': 'ELSA National Council Meeting'}
 {'id': '8318', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8318/', 'title': 'Diwali Crafts and Celebration!'}
-{'id': '8376', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8376/', 'title': 'Battery Park Hole in One'}
+{'id': '8376', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8376/', 'title': 'Account Login'}
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
 {'id': '8386', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8386/', 'title': 'Christmas Card Crafting'}
 {'id': '8412', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8412/', 'title': 'Hall Reps Big Christmas Quiz'}
-{'id': '8421', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8421/', 'title': 'How to run a Ball or Large Scale Event!'}
+{'id': '8421', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8421/', 'title': 'Sorry, there was a problem'}
 {'id': '8423', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8423/', 'title': 'Wellbeing Cafe'}
 {'id': '8427', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8427/', 'title': 'Festive Wellbeing Café'}
 {'id': '8428', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8428/', 'title': 'Christmas Foraging Walk'}
