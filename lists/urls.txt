@@ -1328,7 +1328,6 @@ https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
 https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8318/
-https://www.guildofstudents.com/ents/event/8376/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8386/
 https://www.guildofstudents.com/ents/event/8412/
@@ -1359,6 +1358,7 @@ https://www.guildofstudents.com/ents/event/8476/
 https://www.guildofstudents.com/ents/event/8477/
 https://www.guildofstudents.com/ents/event/8478/
 https://www.guildofstudents.com/ents/event/8480/
+https://www.guildofstudents.com/ents/event/8482/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=11&year=2023
