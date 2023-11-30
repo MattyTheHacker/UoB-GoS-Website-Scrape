@@ -26,7 +26,7 @@
 {'id': '8060', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8060/', 'title': 'Hall Reps Games Night'}
 {'id': '8061', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8061/', 'title': 'Hall Reps Games Night'}
 {'id': '8141', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8141/', 'title': 'Halls Halloween Spooktacular'}
-{'id': '8184', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8184/', 'title': 'Housemate Finder'}
+{'id': '8184', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8184/', 'title': 'Sorry, there was a problem'}
 {'id': '8185', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8185/', 'title': 'Housemate Finder'}
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8206', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8206/', 'title': 'Sorry, there was a problem'}
@@ -56,7 +56,6 @@
 {'id': '8459', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8459/', 'title': 'Junkbusters'}
 {'id': '8461', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8461/', 'title': 'Christmas Networking Dinner'}
 {'id': '8463', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8463/', 'title': 'Netball Christmas Meal Social'}
-{'id': '8464', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8464/', 'title': 'Sorry, there was a problem'}
 {'id': '8465', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8465/', 'title': 'Oak Brook Park Winter Wonderland'}
 {'id': '8466', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8466/', 'title': 'Chamberlain Dutch Pancakes and Decorations'}
 {'id': '8467', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8467/', 'title': 'Shackleton Cocoa and Crafts'}

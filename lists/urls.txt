@@ -1278,8 +1278,6 @@ https://www.guildofstudents.com/asset/Job/124/Job-Description-Education-Welfare-
 https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-Information-2023.pdf
 https://www.guildofstudents.com/asset/News/6016/ASV-1-November-2023-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-By-Elections-2023-Results-Tables.pdf
-https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Candidate-Budget-Information.pdf
-https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2023-Results-Tables-Full.pdf
 https://www.guildofstudents.com/asset/News/6016/Referendum-Result-Should-the-Guild-Support-the-UCU-Industrial-Action-for-2023.24-and-2024.25-Academic-Years.pdf
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
@@ -1328,10 +1326,8 @@ https://www.guildofstudents.com/ents/event/8059/
 https://www.guildofstudents.com/ents/event/8060/
 https://www.guildofstudents.com/ents/event/8061/
 https://www.guildofstudents.com/ents/event/8141/
-https://www.guildofstudents.com/ents/event/8184/
 https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
-https://www.guildofstudents.com/ents/event/8206/
 https://www.guildofstudents.com/ents/event/8241/
 https://www.guildofstudents.com/ents/event/8318/
 https://www.guildofstudents.com/ents/event/8376/
@@ -1439,6 +1435,8 @@ https://www.guildofstudents.com/events/41522/8266/
 https://www.guildofstudents.com/events/6187/8297/
 https://www.guildofstudents.com/events/6251/8414/
 https://www.guildofstudents.com/events/6339/8326/
+https://www.guildofstudents.com/events/6475/8374/
+https://www.guildofstudents.com/events/6475/8375/
 https://www.guildofstudents.com/events/6531/8284/
 https://www.guildofstudents.com/events/6531/8295/
 https://www.guildofstudents.com/events/6531/8303/
@@ -1543,14 +1541,11 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
-https://www.guildofstudents.com/news/article/website/Autumn-Elections-Results-Statement/
-https://www.guildofstudents.com/news/article/website/Guild-welcomes-new-chair-as-Robert-Smeath-completes-term-of-office/
 https://www.guildofstudents.com/news/article/website/Incident-at-FAB-on-11-November/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Repurposing-Old-Clothes-for-a-Stylish-Tomorrow/
 https://www.guildofstudents.com/news/article/website/Standing-Against-Antisemitism-and-All-Forms-of-Racism/
-https://www.guildofstudents.com/news/article/website/Statement-on-Calling-a-Referendum-on-UCU-Strike-Action/
 https://www.guildofstudents.com/news/article/website/Study/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
@@ -3517,7 +3512,6 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V8735')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
-https://www.guildofstudents.comjavascript:__doPostBack('ctl00$newslist$rptPages$ctl00$lnkPageNumber','')
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
@@ -3614,7 +3608,6 @@ https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:editor@redbrick.me
 https://www.guildofstudents.commailto:education@guild.bham.ac.uk
 https://www.guildofstudents.commailto:EgyptSociety@guild.bham.ac.uk
-https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk
 https://www.guildofstudents.commailto:environmentalofficer@guild.bham.ac.uk
