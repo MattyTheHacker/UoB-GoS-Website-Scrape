@@ -93,7 +93,6 @@ econsoc@guild.bham.ac.uk
 editor@redbrick.me
 education@guild.bham.ac.uk
 EgyptSociety@guild.bham.ac.uk
-elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
 enquiries@guild.bham.ac.uk
 environmentalofficer@guild.bham.ac.uk
