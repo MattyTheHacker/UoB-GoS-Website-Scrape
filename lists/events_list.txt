@@ -8,7 +8,6 @@
 {'id': '8185', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8185/', 'title': 'Housemate Finder'}
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
-{'id': '8386', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8386/', 'title': 'Sorry, there was a problem'}
 {'id': '8412', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8412/', 'title': 'Hall Reps Big Christmas Quiz'}
 {'id': '8423', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8423/', 'title': 'Wellbeing Cafe'}
 {'id': '8427', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8427/', 'title': 'Festive Wellbeing Café'}
