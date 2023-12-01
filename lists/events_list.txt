@@ -86,6 +86,9 @@
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8409', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8409/', 'title': 'Hide and Seek Event'}
 {'event_id': '8410', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8410/', 'title': 'Night-time Hide and Seek Event'}
+{'event_id': '8484', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8484/', 'title': 'Hide and Seek Christmas Event'}
+{'event_id': '8485', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8485/', 'title': 'Hide and Seek EGM'}
+{'event_id': '8486', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8486/', 'title': 'Pint and Seek'}
 {'event_id': '8416', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/8416/', 'title': 'Visit to Christine’s Wool Shop in Bournville'}
 {'event_id': '8322', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8322/', 'title': 'Diwali in Leicester!'}
 {'event_id': '8404', 'organisation_id': '40820', 'organisation': 'Alternative Hip Hop', 'url': 'https://www.guildofstudents.com/events/40820/8404/', 'title': 'WINTER SHOOBZ'}
@@ -115,7 +118,7 @@
 {'event_id': '8419', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8419/', 'title': 'NHSF Zonal Sports'}
 {'event_id': '8475', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8475/', 'title': 'Satyanarayan Puja'}
 {'event_id': '8302', 'organisation_id': '6803', 'organisation': 'Infinity Stage Company', 'url': 'https://www.guildofstudents.com/events/6803/8302/', 'title': 'Guild Drama Winter Ball 2023'}
-{'event_id': '8355', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8355/', 'title': 'Korea society Kimchi day'}
+{'event_id': '8355', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8355/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8371', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8371/', 'title': 'Pepero Making Session'}
 {'event_id': '8379', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8379/', 'title': 'Korean Lessons'}
 {'event_id': '8380', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8380/', 'title': 'Korean Game Night'}
