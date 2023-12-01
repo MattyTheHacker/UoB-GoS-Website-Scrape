@@ -1308,7 +1308,6 @@ https://www.guildofstudents.com/ents/event/8061/
 https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
 https://www.guildofstudents.com/ents/event/8377/
-https://www.guildofstudents.com/ents/event/8386/
 https://www.guildofstudents.com/ents/event/8412/
 https://www.guildofstudents.com/ents/event/8423/
 https://www.guildofstudents.com/ents/event/8427/
@@ -1342,7 +1341,6 @@ https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/christmasbirmingham/
 https://www.guildofstudents.com/ents/eventlist/club/
-https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
@@ -1459,6 +1457,7 @@ https://www.guildofstudents.com/news/article/website/Standing-Against-Antisemiti
 https://www.guildofstudents.com/news/article/website/Study/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
+https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
 https://www.guildofstudents.com/news/article/website/UCU-Referendum-Result-Nov-2023/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/news/rss/27259/
