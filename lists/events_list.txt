@@ -26,8 +26,8 @@
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
 {'id': '8461', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8461/', 'title': 'Christmas Networking Dinner'}
 {'id': '8463', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8463/', 'title': 'Netball Christmas Meal Social'}
-{'id': '8466', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8466/', 'title': 'Chamberlain Dutch Pancakes and Decorations'}
-{'id': '8467', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8467/', 'title': 'Shackleton Cocoa and Crafts'}
+{'id': '8466', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8466/', 'title': 'Sorry, there was a problem'}
+{'id': '8467', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8467/', 'title': 'Sorry, there was a problem'}
 {'id': '8472', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8472/', 'title': 'Speak and Lead'}
 {'id': '8476', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8476/', 'title': 'Pritchatts Park Festive Photobooth'}
 {'id': '8477', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8477/', 'title': 'Tennis Courts Christmas Movie Night'}
