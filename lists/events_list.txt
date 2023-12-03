@@ -41,6 +41,7 @@
 {'event_id': '8460', 'organisation_id': '22478', 'organisation': 'Nursing Society', 'url': 'https://www.guildofstudents.com/events/22478/8460/', 'title': 'Nursing Careers Fair'}
 {'event_id': '8344', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8344/', 'title': 'The Wizard of Oz: The Panto!'}
 {'event_id': '8270', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8270/', 'title': 'Christmas Movie Night'}
+{'event_id': '8487', 'organisation_id': '35305', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35305/8487/', 'title': 'Nutritank Cook Along'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8484', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8484/', 'title': 'Hide and Seek Christmas Event'}
 {'event_id': '8485', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8485/', 'title': 'Hide and Seek EGM'}
