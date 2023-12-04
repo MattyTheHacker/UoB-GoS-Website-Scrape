@@ -31,6 +31,8 @@
 {'id': '8478', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8478/', 'title': 'Elgar Court: Me, My Elf & I'}
 {'id': '8480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8480/', 'title': 'Battery Park Christmas Cookies & Cards'}
 {'id': '8482', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8482/', 'title': 'Aitken Christmas Choco-Crafts'}
+{'id': '8491', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8491/', 'title': 'Co-Chair Training'}
+{'id': '8492', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8492/', 'title': 'Rugby Union Christmas Meal'}
 {'event_id': '8471', 'organisation_id': '11890', 'organisation': 'Pharmaceutical', 'url': 'https://www.guildofstudents.com/events/11890/8471/', 'title': 'PharmSoc Cultural Night'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
 {'event_id': '8373', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8373/', 'title': 'Interfaith Quiz'}
