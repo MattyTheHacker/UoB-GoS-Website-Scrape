@@ -1320,12 +1320,10 @@ https://www.guildofstudents.com/ents/event/8438/
 https://www.guildofstudents.com/ents/event/8439/
 https://www.guildofstudents.com/ents/event/8443/
 https://www.guildofstudents.com/ents/event/8445/
-https://www.guildofstudents.com/ents/event/8446/
 https://www.guildofstudents.com/ents/event/8447/
 https://www.guildofstudents.com/ents/event/8450/
 https://www.guildofstudents.com/ents/event/8452/
 https://www.guildofstudents.com/ents/event/8461/
-https://www.guildofstudents.com/ents/event/8472/
 https://www.guildofstudents.com/ents/event/8476/
 https://www.guildofstudents.com/ents/event/8477/
 https://www.guildofstudents.com/ents/event/8478/
@@ -1350,7 +1348,6 @@ https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
-https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/social/
