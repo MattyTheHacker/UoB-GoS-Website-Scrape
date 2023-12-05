@@ -22,8 +22,7 @@
 {'id': '8445', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8445/', 'title': 'Language Cafe'}
 {'id': '8450', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8450/', 'title': 'International & Post Graduate Christmas Party'}
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
-{'id': '8461', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8461/', 'title': 'Sorry, there was a problem'}
-{'id': '8476', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8476/', 'title': 'Pritchatts Park Festive Photobooth'}
+{'id': '8476', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8476/', 'title': 'Sorry, there was a problem'}
 {'id': '8477', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8477/', 'title': 'Tennis Courts Christmas Movie Night'}
 {'id': '8478', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8478/', 'title': 'Elgar Court: Me, My Elf & I'}
 {'id': '8480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8480/', 'title': 'Battery Park Christmas Cookies & Cards'}
