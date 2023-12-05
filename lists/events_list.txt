@@ -20,7 +20,6 @@
 {'id': '8439', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8439/', 'title': 'Hot Chocolate and Christmas Crafts'}
 {'id': '8443', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8443/', 'title': 'Pass It Forward - Donate your unwanted items'}
 {'id': '8445', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8445/', 'title': 'Language Cafe'}
-{'id': '8447', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8447/', 'title': 'Sorry, there was a problem'}
 {'id': '8450', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8450/', 'title': 'International & Post Graduate Christmas Party'}
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
 {'id': '8461', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8461/', 'title': 'Christmas Networking Dinner'}
@@ -30,6 +29,7 @@
 {'id': '8480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8480/', 'title': 'Battery Park Christmas Cookies & Cards'}
 {'id': '8482', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8482/', 'title': 'Aitken Christmas Choco-Crafts'}
 {'id': '8492', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8492/', 'title': 'Rugby Union Christmas Meal'}
+{'id': '8495', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8495/', 'title': 'Community Pantry Breakfast'}
 {'event_id': '8471', 'organisation_id': '11890', 'organisation': 'Pharmaceutical', 'url': 'https://www.guildofstudents.com/events/11890/8471/', 'title': 'PharmSoc Cultural Night'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
 {'event_id': '8373', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8373/', 'title': 'Interfaith Quiz'}
