@@ -1442,6 +1442,7 @@ https://www.guildofstudents.com/news/article/website/Study/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
+https://www.guildofstudents.com/news/article/website/Things-to-do-in-Birmingham-over-Christmas/
 https://www.guildofstudents.com/news/article/website/UCU-Referendum-Result-Nov-2023/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/news/rss/27259/
@@ -3079,7 +3080,6 @@ https://www.guildofstudents.com/privacy-policy/studentprivacypolicynotice/
 https://www.guildofstudents.com/privacy-policy/videosurveillancesystemspolicy/
 https://www.guildofstudents.com/profile/
 https://www.guildofstudents.com/profile/141656/
-https://www.guildofstudents.com/profile/148694/
 https://www.guildofstudents.com/profile/154514/
 https://www.guildofstudents.com/profile/163752/
 https://www.guildofstudents.com/profile/164136/
@@ -3174,7 +3174,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/148694/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/163752/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/164136/
