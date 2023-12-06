@@ -19,7 +19,6 @@
 {'id': '8438', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8438/', 'title': 'Hot Chocolate and Christmas Crafts'}
 {'id': '8439', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8439/', 'title': 'Hot Chocolate and Christmas Crafts'}
 {'id': '8443', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8443/', 'title': 'Pass It Forward - Donate your unwanted items'}
-{'id': '8445', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8445/', 'title': 'Sorry, there was a problem'}
 {'id': '8450', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8450/', 'title': 'International & Post Graduate Christmas Party'}
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
 {'id': '8478', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8478/', 'title': 'Elgar Court: Me, My Elf & I'}
@@ -34,7 +33,6 @@
 {'event_id': '8488', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8488/', 'title': 'Final Games Night of 2022'}
 {'event_id': '8490', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8490/', 'title': 'Christmas Chaos Quiz'}
 {'event_id': '8400', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8400/', 'title': 'MCM Birmingham ComicCon Trip!'}
-{'event_id': '8460', 'organisation_id': '22478', 'organisation': 'Nursing Society', 'url': 'https://www.guildofstudents.com/events/22478/8460/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8270', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8270/', 'title': 'Christmas Movie Night'}
 {'event_id': '8487', 'organisation_id': '35305', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35305/8487/', 'title': 'Nutritank Cook Along'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
@@ -48,7 +46,6 @@
 {'event_id': '8414', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8414/', 'title': 'Lab Rats Bar Crawl'}
 {'event_id': '8374', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8374/', 'title': 'Christmas Event - Early session'}
 {'event_id': '8375', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8375/', 'title': 'Christmas Event - Late session'}
-{'event_id': '7923', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/7923/', 'title': 'Sorry, there was a problem'}
 {'event_id': '7063', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/7063/', 'title': 'CSS Gets Ducks'}
 {'event_id': '8284', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8284/', 'title': 'CSS Christmas Meal'}
 {'event_id': '8429', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8429/', 'title': 'Design and Development with Kainos'}
