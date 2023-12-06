@@ -22,13 +22,11 @@
 {'id': '8445', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8445/', 'title': 'Language Cafe'}
 {'id': '8450', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8450/', 'title': 'International & Post Graduate Christmas Party'}
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
-{'id': '8476', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8476/', 'title': 'Sorry, there was a problem'}
-{'id': '8477', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8477/', 'title': 'Sorry, there was a problem'}
 {'id': '8478', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8478/', 'title': 'Elgar Court: Me, My Elf & I'}
 {'id': '8480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8480/', 'title': 'Battery Park Christmas Cookies & Cards'}
 {'id': '8482', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8482/', 'title': 'Aitken Christmas Choco-Crafts'}
 {'id': '8492', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8492/', 'title': 'Rugby Union Christmas Meal'}
-{'id': '8495', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8495/', 'title': 'Community Pantry Breakfast'}
+{'id': '8495', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8495/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8471', 'organisation_id': '11890', 'organisation': 'Pharmaceutical', 'url': 'https://www.guildofstudents.com/events/11890/8471/', 'title': 'PharmSoc Cultural Night'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
 {'event_id': '8373', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8373/', 'title': 'Interfaith Quiz'}
@@ -36,7 +34,6 @@
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8488', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8488/', 'title': 'Final Games Night of 2022'}
 {'event_id': '8490', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8490/', 'title': 'Christmas Chaos Quiz'}
-{'event_id': '8411', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8411/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8400', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8400/', 'title': 'MCM Birmingham ComicCon Trip!'}
 {'event_id': '8460', 'organisation_id': '22478', 'organisation': 'Nursing Society', 'url': 'https://www.guildofstudents.com/events/22478/8460/', 'title': 'Nursing Careers Fair'}
 {'event_id': '8270', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8270/', 'title': 'Christmas Movie Night'}

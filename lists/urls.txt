@@ -1324,7 +1324,6 @@ https://www.guildofstudents.com/ents/event/8478/
 https://www.guildofstudents.com/ents/event/8480/
 https://www.guildofstudents.com/ents/event/8482/
 https://www.guildofstudents.com/ents/event/8492/
-https://www.guildofstudents.com/ents/event/8495/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
@@ -1332,8 +1331,6 @@ https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/christmasbirmingham/
 https://www.guildofstudents.com/ents/eventlist/club/
-https://www.guildofstudents.com/ents/eventlist/communitypantry/
-https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
