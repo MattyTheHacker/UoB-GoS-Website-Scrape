@@ -1317,7 +1317,6 @@ https://www.guildofstudents.com/ents/event/8433/
 https://www.guildofstudents.com/ents/event/8438/
 https://www.guildofstudents.com/ents/event/8439/
 https://www.guildofstudents.com/ents/event/8443/
-https://www.guildofstudents.com/ents/event/8445/
 https://www.guildofstudents.com/ents/event/8450/
 https://www.guildofstudents.com/ents/event/8452/
 https://www.guildofstudents.com/ents/event/8478/
@@ -1333,7 +1332,6 @@ https://www.guildofstudents.com/ents/eventlist/christmasbirmingham/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
-https://www.guildofstudents.com/ents/eventlist/Employabilty/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
@@ -1348,7 +1346,6 @@ https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/travel/
-https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
@@ -1360,7 +1357,6 @@ https://www.guildofstudents.com/events/13206/8483/
 https://www.guildofstudents.com/events/20913/8488/
 https://www.guildofstudents.com/events/20913/8490/
 https://www.guildofstudents.com/events/21718/8400/
-https://www.guildofstudents.com/events/22478/8460/
 https://www.guildofstudents.com/events/33847/8270/
 https://www.guildofstudents.com/events/35305/8487/
 https://www.guildofstudents.com/events/35779/7484/
@@ -1374,7 +1370,6 @@ https://www.guildofstudents.com/events/6187/8297/
 https://www.guildofstudents.com/events/6251/8414/
 https://www.guildofstudents.com/events/6475/8374/
 https://www.guildofstudents.com/events/6475/8375/
-https://www.guildofstudents.com/events/6523/7923/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/8284/
 https://www.guildofstudents.com/events/6531/8429/
@@ -2574,6 +2569,9 @@ https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment
 https://www.guildofstudents.com/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf
 https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2023.pdf
 https://www.guildofstudents.com/pageassets/blackvoices/Black-Voices-Manifesto-1022.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-2023-Complaints-Form.docx
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-Complaints-Procedure-2023.pdf
+https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Elections-Regulations-2023-24.pdf
 https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Guild-Bye-Laws.pdf
 https://www.guildofstudents.com/pageassets/elections/autumn-elections-Zero-Tolerance-Policy-2023.pdf
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/2022-23-UOB-Guild-of-Students-Financial-Statements-Final.pdf
@@ -3172,7 +3170,6 @@ https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
@@ -3483,6 +3480,7 @@ https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:editor@redbrick.me
 https://www.guildofstudents.commailto:education@guild.bham.ac.uk
 https://www.guildofstudents.commailto:EgyptSociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk
 https://www.guildofstudents.commailto:environmentalofficer@guild.bham.ac.uk
