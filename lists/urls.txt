@@ -7,6 +7,7 @@ http://www.guildofstudents.com/marksoutoftenancy
 http://www.guildofstudents.com/mediasales/
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
 http://www.guildofstudents.com/studentgroups
+http://www.guildofstudents.com/studentmentors
 http://www.guildofstudents.com/sustainability/gogreenweek
 http://www.guildofstudents.com/welcome
 https://www.guildofstudents.com
@@ -1434,6 +1435,7 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
+https://www.guildofstudents.com/news/article/website/looking-after-your-mental-health-and-wellbeing-during-exams/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Repurposing-Old-Clothes-for-a-Stylish-Tomorrow/
@@ -3691,7 +3693,6 @@ https://www.guildofstudents.commailto:womensofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:worklink@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:writersbloc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:yoga@guild.bham.ac.uk
-https://www.guildofstudents.commailtostudentreps@guild.bham.ac.uk
 https://www.guildofstudents.comtel:0121 41 58950
 https://www.guildofstudents.comtel:0121 415 856
 https://www.guildofstudents.comtel:0121 415 8912
