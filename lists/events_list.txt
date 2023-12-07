@@ -61,7 +61,7 @@
 {'event_id': '8441', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8441/', 'title': 'Mathsoc Christmas Vodbull'}
 {'event_id': '8479', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8479/', 'title': 'UBMC Scotland Trip 2024'}
 {'event_id': '8387', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/8387/', 'title': 'Christmas Drinks'}
-{'event_id': '8415', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8415/', 'title': 'Psychology bar crawl'}
+{'event_id': '8415', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8415/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8407', 'organisation_id': '7235', 'organisation': 'Redbrick', 'url': 'https://www.guildofstudents.com/events/7235/8407/', 'title': 'Media Ball'}
 {'event_id': '8470', 'organisation_id': '7299', 'organisation': 'Scouts & Guides', 'url': 'https://www.guildofstudents.com/events/7299/8470/', 'title': 'Christmas Sleepover'}
 {'event_id': '8348', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/8348/', 'title': 'STAR Quiz Night'}

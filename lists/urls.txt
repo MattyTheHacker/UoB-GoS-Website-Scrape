@@ -1332,6 +1332,7 @@ https://www.guildofstudents.com/ents/event/8492/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
+https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/christmasbirmingham/
