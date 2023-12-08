@@ -24,6 +24,7 @@
 {'id': '8480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8480/', 'title': 'Battery Park Christmas Cookies & Cards'}
 {'id': '8482', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8482/', 'title': 'Aitken Christmas Choco-Crafts'}
 {'id': '8492', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8492/', 'title': 'Rugby Union Christmas Meal'}
+{'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
 {'event_id': '8373', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8373/', 'title': 'Interfaith Quiz'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
@@ -53,7 +54,7 @@
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
 {'event_id': '8475', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8475/', 'title': 'Satyanarayan Puja'}
 {'event_id': '8302', 'organisation_id': '6803', 'organisation': 'Infinity Stage Company', 'url': 'https://www.guildofstudents.com/events/6803/8302/', 'title': 'Guild Drama Winter Ball 2023'}
-{'event_id': '8441', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8441/', 'title': 'Sorry, there was a problem'}
+{'event_id': '8473', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8473/', 'title': 'Mathsoc Bingo Barcrawl'}
 {'event_id': '8479', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8479/', 'title': 'UBMC Scotland Trip 2024'}
 {'event_id': '8387', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/8387/', 'title': 'Christmas Drinks'}
 {'event_id': '8407', 'organisation_id': '7235', 'organisation': 'Redbrick', 'url': 'https://www.guildofstudents.com/events/7235/8407/', 'title': 'Media Ball'}
