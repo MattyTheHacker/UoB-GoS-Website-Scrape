@@ -9,7 +9,7 @@
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
 {'id': '8412', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8412/', 'title': 'Hall Reps Big Christmas Quiz'}
-{'id': '8423', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8423/', 'title': 'Wellbeing Cafe'}
+{'id': '8423', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8423/', 'title': 'Sorry, there was a problem'}
 {'id': '8427', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8427/', 'title': 'Festive Wellbeing Café'}
 {'id': '8428', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8428/', 'title': 'Christmas Foraging Walk'}
 {'id': '8430', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8430/', 'title': 'Give It A Go: Ice Skating'}
@@ -19,10 +19,8 @@
 {'id': '8438', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8438/', 'title': 'Hot Chocolate and Christmas Crafts'}
 {'id': '8439', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8439/', 'title': 'Hot Chocolate and Christmas Crafts'}
 {'id': '8443', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8443/', 'title': 'Pass It Forward - Donate your unwanted items'}
-{'id': '8450', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8450/', 'title': 'International & Post Graduate Christmas Party'}
+{'id': '8450', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8450/', 'title': 'Sorry, there was a problem'}
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
-{'id': '8480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8480/', 'title': 'Sorry, there was a problem'}
-{'id': '8482', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8482/', 'title': 'Sorry, there was a problem'}
 {'id': '8492', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8492/', 'title': 'Rugby Union Christmas Meal'}
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
@@ -41,16 +39,12 @@
 {'event_id': '8494', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8494/', 'title': 'The contemporary relevance of Jain philosophy'}
 {'event_id': '8404', 'organisation_id': '40820', 'organisation': 'Alternative Hip Hop', 'url': 'https://www.guildofstudents.com/events/40820/8404/', 'title': 'WINTER SHOOBZ'}
 {'event_id': '8297', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8297/', 'title': 'Strictly Brum Dancing 2023'}
-{'event_id': '8374', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8374/', 'title': 'Christmas Event - Early session'}
-{'event_id': '8375', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8375/', 'title': 'Christmas Event - Late session'}
+{'event_id': '8374', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8374/', 'title': 'Sorry, there was a problem'}
+{'event_id': '8375', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8375/', 'title': 'Sorry, there was a problem'}
 {'event_id': '7063', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/7063/', 'title': 'CSS Gets Ducks'}
 {'event_id': '8284', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8284/', 'title': 'CSS Christmas Meal'}
 {'event_id': '8429', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8429/', 'title': 'Design and Development with Kainos'}
 {'event_id': '8453', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8453/', 'title': 'The Technology of BNY Mellon'}
-{'event_id': '8469', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8469/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8228', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8228/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8229', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8229/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8230', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8230/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
 {'event_id': '8475', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8475/', 'title': 'Satyanarayan Puja'}
 {'event_id': '8302', 'organisation_id': '6803', 'organisation': 'Infinity Stage Company', 'url': 'https://www.guildofstudents.com/events/6803/8302/', 'title': 'Guild Drama Winter Ball 2023'}

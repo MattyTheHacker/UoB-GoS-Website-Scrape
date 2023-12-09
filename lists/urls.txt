@@ -1313,7 +1313,6 @@ https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8412/
-https://www.guildofstudents.com/ents/event/8423/
 https://www.guildofstudents.com/ents/event/8427/
 https://www.guildofstudents.com/ents/event/8428/
 https://www.guildofstudents.com/ents/event/8430/
@@ -1323,7 +1322,6 @@ https://www.guildofstudents.com/ents/event/8433/
 https://www.guildofstudents.com/ents/event/8438/
 https://www.guildofstudents.com/ents/event/8439/
 https://www.guildofstudents.com/ents/event/8443/
-https://www.guildofstudents.com/ents/event/8450/
 https://www.guildofstudents.com/ents/event/8452/
 https://www.guildofstudents.com/ents/event/8492/
 https://www.guildofstudents.com/ents/event/8498/
@@ -1347,7 +1345,6 @@ https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
-https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
@@ -1367,8 +1364,6 @@ https://www.guildofstudents.com/events/39633/8416/
 https://www.guildofstudents.com/events/40757/8494/
 https://www.guildofstudents.com/events/40820/8404/
 https://www.guildofstudents.com/events/6187/8297/
-https://www.guildofstudents.com/events/6475/8374/
-https://www.guildofstudents.com/events/6475/8375/
 https://www.guildofstudents.com/events/6531/7063/
 https://www.guildofstudents.com/events/6531/8284/
 https://www.guildofstudents.com/events/6531/8429/
