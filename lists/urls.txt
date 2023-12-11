@@ -8,6 +8,7 @@ http://www.guildofstudents.com/mediasales/
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
 http://www.guildofstudents.com/studentgroups
 http://www.guildofstudents.com/studentmentors
+http://www.guildofstudents.com/support/guildadvice/
 http://www.guildofstudents.com/sustainability/gogreenweek
 http://www.guildofstudents.com/welcome
 https://www.guildofstudents.com
@@ -1416,6 +1417,7 @@ https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
+https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
 https://www.guildofstudents.com/news/article/website/looking-after-your-mental-health-and-wellbeing-during-exams/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
