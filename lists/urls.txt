@@ -50,18 +50,10 @@ https://www.guildofstudents.com#bournbrookinfo
 https://www.guildofstudents.com#carouselevents
 https://www.guildofstudents.com#carouseleventsxs
 https://www.guildofstudents.com#chamberlaininfo
-https://www.guildofstudents.com#collapse-activity-award
-https://www.guildofstudents.com#collapse-diversity-award
 https://www.guildofstudents.com#collapse-election-dates
 https://www.guildofstudents.com#collapse-events-dates
-https://www.guildofstudents.com#collapse-ianking-award
-https://www.guildofstudents.com#collapse-impact-award
-https://www.guildofstudents.com#collapse-kickstart-award
-https://www.guildofstudents.com#collapse-members-award
 https://www.guildofstudents.com#collapse-reps-nav
 https://www.guildofstudents.com#collapse-scrutiny-dates
-https://www.guildofstudents.com#collapse-smallgroup-award
-https://www.guildofstudents.com#collapse-volunteer-award
 https://www.guildofstudents.com#collapseEight
 https://www.guildofstudents.com#collapseEleven
 https://www.guildofstudents.com#collapseFive
@@ -1290,6 +1282,7 @@ https://www.guildofstudents.com/blogs/blog/officers-23-24/
 https://www.guildofstudents.com/blogs/blog/officers-23-24/2023/08/30/Hi-Im-Dean/
 https://www.guildofstudents.com/blogs/blog/officers-23-24/2023/10/04/Hiya-Im-Cat-your-Sports-Officer/
 https://www.guildofstudents.com/blogs/blog/officers-23-24/2023/10/30/Introducing-Community-Pantry-Breakfast/
+https://www.guildofstudents.com/blogs/blog/officers-23-24/2023/12/11/Hi-Im-Amira-your-Guild-President/
 https://www.guildofstudents.com/blogs/blog/studentstaff/
 https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Amy-Student-Mentor/
 https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Community-Wardens/
@@ -3164,6 +3157,7 @@ https://www.guildofstudents.com/spiking/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/guildawards/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
