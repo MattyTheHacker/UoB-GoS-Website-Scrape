@@ -77,7 +77,12 @@ https://www.guildofstudents.com#mapleinfo
 https://www.guildofstudents.com#masoninfo
 https://www.guildofstudents.com#mediapack
 https://www.guildofstudents.com#metalworksinfo
+https://www.guildofstudents.com#navalice
+https://www.guildofstudents.com#navamira
+https://www.guildofstudents.com#navben
 https://www.guildofstudents.com#navcal
+https://www.guildofstudents.com#navcat
+https://www.guildofstudents.com#navdean
 https://www.guildofstudents.com#navdetails
 https://www.guildofstudents.com#naveight
 https://www.guildofstudents.com#navelections
@@ -85,6 +90,8 @@ https://www.guildofstudents.com#navevents
 https://www.guildofstudents.com#navfilter
 https://www.guildofstudents.com#navfive
 https://www.guildofstudents.com#navfour
+https://www.guildofstudents.com#navharry
+https://www.guildofstudents.com#navjoe
 https://www.guildofstudents.com#navmotion
 https://www.guildofstudents.com#navnew
 https://www.guildofstudents.com#navnine
@@ -2360,6 +2367,7 @@ https://www.guildofstudents.com/officerteam/president
 https://www.guildofstudents.com/officerteam/president/
 https://www.guildofstudents.com/officerteam/so/
 https://www.guildofstudents.com/officerteam/wco/
+https://www.guildofstudents.com/officerteam/wins
 https://www.guildofstudents.com/organisation/26488/
 https://www.guildofstudents.com/organisation/33748/
 https://www.guildofstudents.com/organisation/33757/

@@ -20,6 +20,8 @@
 {'id': '8443', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8443/', 'title': 'Pass It Forward - Donate your unwanted items'}
 {'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
+{'id': '8500', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8500/', 'title': 'Mid-Year Committee Training Conference: Morning'}
+{'id': '8501', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8501/', 'title': 'Mid-Year Committee Training Conference: Afternoon'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
 {'event_id': '8373', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8373/', 'title': 'Interfaith Quiz'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
