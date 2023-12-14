@@ -1298,6 +1298,7 @@ https://www.guildofstudents.com/blogs/rss/studentstaff/
 https://www.guildofstudents.com/christmas
 https://www.guildofstudents.com/christmas/helpandsupport
 https://www.guildofstudents.com/community-wardens/cleaner-and-greener/junkbusters/
+https://www.guildofstudents.com/communitywardens/
 https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
@@ -1328,6 +1329,7 @@ https://www.guildofstudents.com/ents/event/8452/
 https://www.guildofstudents.com/ents/event/8498/
 https://www.guildofstudents.com/ents/event/8500/
 https://www.guildofstudents.com/ents/event/8501/
+https://www.guildofstudents.com/ents/event/8502/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
