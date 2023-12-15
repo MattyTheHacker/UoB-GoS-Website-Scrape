@@ -12,7 +12,6 @@
 {'id': '8427', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8427/', 'title': 'Festive Wellbeing Café'}
 {'id': '8428', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8428/', 'title': 'Christmas Foraging Walk'}
 {'id': '8430', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8430/', 'title': 'Give It A Go: Ice Skating'}
-{'id': '8431', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8431/', 'title': 'Sorry, there was a problem'}
 {'id': '8432', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8432/', 'title': 'Match Up Catch Up In Person'}
 {'id': '8433', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8433/', 'title': 'Wreath Making & Biscuit Decorating'}
 {'id': '8438', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8438/', 'title': 'Hot Chocolate and Christmas Crafts'}
