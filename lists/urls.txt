@@ -207,6 +207,7 @@ https://www.guildofstudents.com//instagram.com/uob_chess
 https://www.guildofstudents.com//instagram.com/uob_cocktail
 https://www.guildofstudents.com//instagram.com/uob_communists
 https://www.guildofstudents.com//instagram.com/uob_dj
+https://www.guildofstudents.com//instagram.com/uob_edsoc
 https://www.guildofstudents.com//instagram.com/uob_elal
 https://www.guildofstudents.com//instagram.com/uob_esports
 https://www.guildofstudents.com//instagram.com/uob_fashion
@@ -2441,6 +2442,7 @@ https://www.guildofstudents.com/organisation/dcl/
 https://www.guildofstudents.com/organisation/development/
 https://www.guildofstudents.com/organisation/doctorwho/
 https://www.guildofstudents.com/organisation/econsoc/
+https://www.guildofstudents.com/organisation/education/
 https://www.guildofstudents.com/organisation/elalsoc/
 https://www.guildofstudents.com/organisation/elsa/
 https://www.guildofstudents.com/organisation/esports/
@@ -3491,6 +3493,7 @@ https://www.guildofstudents.commailto:eastafrican@guild.bham.ac.uk
 https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:editor@redbrick.me
 https://www.guildofstudents.commailto:education@guild.bham.ac.uk
+https://www.guildofstudents.commailto:educationsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:EgyptSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
