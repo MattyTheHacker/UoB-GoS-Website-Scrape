@@ -92,6 +92,7 @@ eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
 editor@redbrick.me
 education@guild.bham.ac.uk
+educationsoc@guild.bham.ac.uk
 EgyptSociety@guild.bham.ac.uk
 elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
