@@ -1315,7 +1315,6 @@ https://www.guildofstudents.com/ents/event/8185/
 https://www.guildofstudents.com/ents/event/8186/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8412/
-https://www.guildofstudents.com/ents/event/8427/
 https://www.guildofstudents.com/ents/event/8428/
 https://www.guildofstudents.com/ents/event/8430/
 https://www.guildofstudents.com/ents/event/8432/
@@ -1330,6 +1329,7 @@ https://www.guildofstudents.com/ents/event/8500/
 https://www.guildofstudents.com/ents/event/8501/
 https://www.guildofstudents.com/ents/event/8502/
 https://www.guildofstudents.com/ents/event/8503/
+https://www.guildofstudents.com/ents/event/8506/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=12&year=2023
@@ -1404,8 +1404,6 @@ https://www.guildofstudents.com/events/7491/8455/
 https://www.guildofstudents.com/events/7499/8405/
 https://www.guildofstudents.com/events/7523/8402/
 https://www.guildofstudents.com/events/7523/8403/
-https://www.guildofstudents.com/events/7523/8436/
-https://www.guildofstudents.com/events/7523/8437/
 https://www.guildofstudents.com/events/7523/8440/
 https://www.guildofstudents.com/events/7523/8442/
 https://www.guildofstudents.com/events/7727/8308/
@@ -1429,9 +1427,9 @@ https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
+https://www.guildofstudents.com/news/article/website/Overcoming-loneliness-at-University/
 https://www.guildofstudents.com/news/article/website/Rep-Awards-Results/
 https://www.guildofstudents.com/news/article/website/Repurposing-Old-Clothes-for-a-Stylish-Tomorrow/
-https://www.guildofstudents.com/news/article/website/Standing-Against-Antisemitism-and-All-Forms-of-Racism/
 https://www.guildofstudents.com/news/article/website/Study/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
@@ -3103,7 +3101,6 @@ https://www.guildofstudents.com/profile/197769/
 https://www.guildofstudents.com/profile/206647/
 https://www.guildofstudents.com/profile/207410/
 https://www.guildofstudents.com/profile/209792/
-https://www.guildofstudents.com/profile/212526/
 https://www.guildofstudents.com/profile/234454/
 https://www.guildofstudents.com/referendum
 https://www.guildofstudents.com/referendum/
@@ -3217,7 +3214,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/206647/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/207410/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/209792/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/212526/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/234454/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/shop/reviewbasket/
