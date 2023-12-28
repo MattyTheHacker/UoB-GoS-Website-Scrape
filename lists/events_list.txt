@@ -43,6 +43,9 @@
 {'event_id': '8284', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8284/', 'title': 'CSS Christmas Meal'}
 {'event_id': '8429', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8429/', 'title': 'Design and Development with Kainos'}
 {'event_id': '8453', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8453/', 'title': 'The Technology of BNY Mellon'}
+{'event_id': '8508', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8508/', 'title': 'CSS Board Games Night'}
+{'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
+{'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
 {'event_id': '8475', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8475/', 'title': 'Satyanarayan Puja'}
 {'event_id': '8302', 'organisation_id': '6803', 'organisation': 'Infinity Stage Company', 'url': 'https://www.guildofstudents.com/events/6803/8302/', 'title': 'Guild Drama Winter Ball 2023'}
@@ -73,6 +76,7 @@
 {'event_id': '8405', 'organisation_id': '7499', 'organisation': 'Vegetarian & Vegan Soc', 'url': 'https://www.guildofstudents.com/events/7499/8405/', 'title': 'VegSoc Christmas Dinner 2023'}
 {'event_id': '8402', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8402/', 'title': 'Peak District Weekend trip'}
 {'event_id': '8403', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8403/', 'title': 'Harborne Walkway and Christmas Markets'}
+{'event_id': '8437', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8437/', 'title': 'Reserves- Snowdonia weekend trip'}
 {'event_id': '8440', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8440/', 'title': 'Winter Formal'}
 {'event_id': '8442', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8442/', 'title': "Wayfarer's Fleeces"}
 {'event_id': '8308', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8308/', 'title': 'DocSoc Screening'}
