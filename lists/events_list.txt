@@ -1,82 +1,29 @@
-{'id': '7664', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/7664/', 'title': 'CHRISTMAS FAB'}
-{'id': '7674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/7674/', 'title': 'Sports Night'}
-{'id': '7684', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/7684/', 'title': "Joe's Bingo Night"}
-{'id': '7685', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/7685/', 'title': "Joe's Bingo Night"}
-{'id': '7695', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/7695/', 'title': "Joe's Big Quiz"}
-{'id': '7696', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/7696/', 'title': "Joe's Big Quiz"}
-{'id': '8061', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8061/', 'title': 'Hall Reps Games Night'}
-{'id': '8185', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8185/', 'title': 'Housemate Finder'}
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
-{'id': '8412', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8412/', 'title': 'Hall Reps Big Christmas Quiz'}
-{'id': '8428', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8428/', 'title': 'Christmas Foraging Walk'}
-{'id': '8430', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8430/', 'title': 'Give It A Go: Ice Skating'}
-{'id': '8433', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8433/', 'title': 'Wreath Making & Biscuit Decorating'}
-{'id': '8438', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8438/', 'title': 'Hot Chocolate and Christmas Crafts'}
-{'id': '8439', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8439/', 'title': 'Hot Chocolate and Christmas Crafts'}
-{'id': '8443', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8443/', 'title': 'Pass It Forward - Donate your unwanted items'}
-{'id': '8444', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8444/', 'title': 'Christmas Goody Bags'}
-{'id': '8452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8452/', 'title': "Chair's Network"}
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'id': '8500', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8500/', 'title': 'Mid-Year Committee Training Conference: Morning'}
 {'id': '8501', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8501/', 'title': 'Mid-Year Committee Training Conference: Afternoon'}
 {'id': '8502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8502/', 'title': 'Dental Society Ball 2024'}
-{'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
 {'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Wellbeing Café'}
+{'id': '8529', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8529/', 'title': 'Study and a Snack'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
-{'event_id': '8373', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8373/', 'title': 'Interfaith Quiz'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
-{'event_id': '8488', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8488/', 'title': 'Final Games Night of 2022'}
-{'event_id': '8490', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8490/', 'title': 'Christmas Chaos Quiz'}
-{'event_id': '8400', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8400/', 'title': 'MCM Birmingham ComicCon Trip!'}
-{'event_id': '8270', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8270/', 'title': 'Christmas Movie Night'}
-{'event_id': '8487', 'organisation_id': '35305', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35305/8487/', 'title': 'Nutritank Cook Along'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
-{'event_id': '8484', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8484/', 'title': 'Hide and Seek Christmas Event'}
-{'event_id': '8485', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8485/', 'title': 'Hide and Seek EGM'}
-{'event_id': '8486', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8486/', 'title': 'Pint and Seek'}
-{'event_id': '8416', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/8416/', 'title': 'Visit to Christine’s Wool Shop in Bournville'}
-{'event_id': '8494', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8494/', 'title': 'The contemporary relevance of Jain philosophy'}
-{'event_id': '8404', 'organisation_id': '40820', 'organisation': 'Alternative Hip Hop', 'url': 'https://www.guildofstudents.com/events/40820/8404/', 'title': 'WINTER SHOOBZ'}
-{'event_id': '8297', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8297/', 'title': 'Strictly Brum Dancing 2023'}
-{'event_id': '7063', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/7063/', 'title': 'CSS Gets Ducks'}
-{'event_id': '8284', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8284/', 'title': 'CSS Christmas Meal'}
-{'event_id': '8429', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8429/', 'title': 'Design and Development with Kainos'}
-{'event_id': '8453', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8453/', 'title': 'The Technology of BNY Mellon'}
 {'event_id': '8508', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8508/', 'title': 'CSS Board Games Night'}
 {'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
-{'event_id': '8475', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8475/', 'title': 'Satyanarayan Puja'}
-{'event_id': '8302', 'organisation_id': '6803', 'organisation': 'Infinity Stage Company', 'url': 'https://www.guildofstudents.com/events/6803/8302/', 'title': 'Guild Drama Winter Ball 2023'}
 {'event_id': '8473', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8473/', 'title': 'Mathsoc Bingo Barcrawl'}
 {'event_id': '8479', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8479/', 'title': 'UBMC Scotland Trip 2024'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
-{'event_id': '8387', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/8387/', 'title': 'Christmas Drinks'}
-{'event_id': '8407', 'organisation_id': '7235', 'organisation': 'Redbrick', 'url': 'https://www.guildofstudents.com/events/7235/8407/', 'title': 'Media Ball'}
-{'event_id': '8470', 'organisation_id': '7299', 'organisation': 'Scouts & Guides', 'url': 'https://www.guildofstudents.com/events/7299/8470/', 'title': 'Christmas Sleepover'}
-{'event_id': '8348', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/8348/', 'title': 'STAR Quiz Night'}
-{'event_id': '8074', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8074/', 'title': 'Board Games'}
-{'event_id': '8075', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8075/', 'title': 'Board Games'}
-{'event_id': '8076', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8076/', 'title': 'Board Games'}
-{'event_id': '8099', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8099/', 'title': 'Puzzle Games'}
-{'event_id': '8100', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8100/', 'title': 'Puzzle Games'}
-{'event_id': '8101', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8101/', 'title': 'Puzzle Games'}
-{'event_id': '8109', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8109/', 'title': 'Card Games'}
-{'event_id': '8110', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8110/', 'title': 'Card Games'}
-{'event_id': '8111', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8111/', 'title': 'Card Games'}
-{'event_id': '8120', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8120/', 'title': 'Roleplay Sunday'}
-{'event_id': '8121', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8121/', 'title': 'Roleplay Sunday'}
-{'event_id': '8122', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8122/', 'title': 'Roleplay Sunday'}
-{'event_id': '8131', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8131/', 'title': 'War Games'}
-{'event_id': '8132', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8132/', 'title': 'War Games'}
-{'event_id': '8133', 'organisation_id': '7403', 'organisation': 'Tabletop Gaming', 'url': 'https://www.guildofstudents.com/events/7403/8133/', 'title': 'War Games'}
-{'event_id': '8481', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8481/', 'title': 'Games Night Fundraiser'}
-{'event_id': '8455', 'organisation_id': '7491', 'organisation': 'ValeFest', 'url': 'https://www.guildofstudents.com/events/7491/8455/', 'title': 'Valefest x Circo End of Term Party'}
-{'event_id': '8405', 'organisation_id': '7499', 'organisation': 'Vegetarian & Vegan Soc', 'url': 'https://www.guildofstudents.com/events/7499/8405/', 'title': 'VegSoc Christmas Dinner 2023'}
-{'event_id': '8402', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8402/', 'title': 'Peak District Weekend trip'}
-{'event_id': '8403', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8403/', 'title': 'Harborne Walkway and Christmas Markets'}
 {'event_id': '8437', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8437/', 'title': 'Reserves- Snowdonia weekend trip'}
-{'event_id': '8440', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8440/', 'title': 'Winter Formal'}
-{'event_id': '8442', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8442/', 'title': "Wayfarer's Fleeces"}
-{'event_id': '8308', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8308/', 'title': 'DocSoc Screening'}
+{'event_id': '8514', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8514/', 'title': 'Brecon weekend trip'}
+{'event_id': '8515', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8515/', 'title': 'Malvern refresher walk'}
+{'event_id': '8516', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8516/', 'title': 'Wilmcote to Stratford walk'}
+{'event_id': '8522', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8522/', 'title': 'DocSoc Screening'}
+{'event_id': '8523', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8523/', 'title': 'DocSoc Screening'}
+{'event_id': '8524', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8524/', 'title': 'DocSoc Screening'}
+{'event_id': '8525', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8525/', 'title': 'DocSoc Screening'}
+{'event_id': '8526', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8526/', 'title': 'DocSoc Screening'}
+{'event_id': '8527', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8527/', 'title': 'DocSoc Screening'}
+{'event_id': '8528', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8528/', 'title': 'DocSoc Screening'}
