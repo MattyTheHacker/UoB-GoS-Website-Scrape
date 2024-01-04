@@ -6,6 +6,8 @@ https://www.guildofstudents.commailto:activities@guild.bham.ac.uk
 https://www.guildofstudents.commailto:adventist@guild.bham.ac.uk
 https://www.guildofstudents.commailto:afro-carib@guild.bham.ac.uk
 https://www.guildofstudents.commailto:afro-dance@guild.bham.ac.uk
+https://www.guildofstudents.commailto:afropology@guild.bham.ac.uk
+https://www.guildofstudents.commailto:afropologysoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ahlulbayt@guild.bham.ac.uk
 https://www.guildofstudents.commailto:AlternativeHipHopSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:amnesty@guild.bham.ac.uk
@@ -68,6 +70,7 @@ https://www.guildofstudents.commailto:chinesechristians@guild.bham.ac.uk
 https://www.guildofstudents.commailto:churchcentral@guild.bham.ac.uk
 https://www.guildofstudents.commailto:civsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:cocktail@guild.bham.ac.uk
+https://www.guildofstudents.commailto:commercialawarenesssoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:communications@guild.bham.ac.uk
 https://www.guildofstudents.commailto:community@guild.bham.ac.uk
 https://www.guildofstudents.commailto:communitypantry@guild.bham.ac.uk
