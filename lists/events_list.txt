@@ -4,15 +4,27 @@
 {'id': '8500', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8500/', 'title': 'Mid-Year Committee Training Conference: Morning'}
 {'id': '8501', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8501/', 'title': 'Mid-Year Committee Training Conference: Afternoon'}
 {'id': '8502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8502/', 'title': 'Dental Society Ball 2024'}
+{'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
 {'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Wellbeing Café'}
 {'id': '8529', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8529/', 'title': 'Study and a Snack'}
+{'id': '8533', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8533/', 'title': 'Committee Celebration Event!'}
+{'id': '8534', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8534/', 'title': "Chair's Network"}
+{'id': '8539', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8539/', 'title': 'Give It A Go Week: Monday'}
+{'id': '8541', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8541/', 'title': 'Give It A Go Week: Tuesday'}
+{'id': '8542', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8542/', 'title': 'Give It A Go Week: Thursday'}
+{'id': '8543', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8543/', 'title': 'Give It A Go Week: Friday'}
+{'id': '8544', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8544/', 'title': 'Mid-Year Societies/Sports Fair'}
 {'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
+{'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
+{'event_id': '8530', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/8530/', 'title': 'Buddhist Center Day Retreat'}
 {'event_id': '8508', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8508/', 'title': 'CSS Board Games Night'}
 {'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
+{'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
+{'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
 {'event_id': '8473', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8473/', 'title': 'Mathsoc Bingo Barcrawl'}
 {'event_id': '8479', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8479/', 'title': 'UBMC Scotland Trip 2024'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
