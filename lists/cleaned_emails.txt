@@ -6,6 +6,8 @@ activities@guild.bham.ac.uk
 adventist@guild.bham.ac.uk
 afro-carib@guild.bham.ac.uk
 afro-dance@guild.bham.ac.uk
+afropology@guild.bham.ac.uk
+afropologysoc@guild.bham.ac.uk
 ahlulbayt@guild.bham.ac.uk
 AlternativeHipHopSociety@guild.bham.ac.uk
 amnesty@guild.bham.ac.uk
@@ -68,6 +70,7 @@ chinesechristians@guild.bham.ac.uk
 churchcentral@guild.bham.ac.uk
 civsoc@guild.bham.ac.uk
 cocktail@guild.bham.ac.uk
+commercialawarenesssoc@guild.bham.ac.uk
 communications@guild.bham.ac.uk
 community@guild.bham.ac.uk
 communitypantry@guild.bham.ac.uk
