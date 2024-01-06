@@ -5,7 +5,7 @@
 {'id': '8501', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8501/', 'title': 'Mid-Year Committee Training Conference: Afternoon'}
 {'id': '8502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8502/', 'title': 'Dental Society Ball 2024'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
-{'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Wellbeing Café'}
+{'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Wellbeing CafÃ©'}
 {'id': '8529', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8529/', 'title': 'Study and a Snack'}
 {'id': '8533', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8533/', 'title': 'Committee Celebration Event!'}
 {'id': '8534', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8534/', 'title': "Chair's Network"}
@@ -14,7 +14,7 @@
 {'id': '8542', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8542/', 'title': 'Give It A Go Week: Thursday'}
 {'id': '8543', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8543/', 'title': 'Give It A Go Week: Friday'}
 {'id': '8544', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8544/', 'title': 'Mid-Year Societies/Sports Fair'}
-{'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Winter Retreat'}
+{'event_id': '8456', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8456/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
