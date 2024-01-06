@@ -9,6 +9,9 @@ git pull
 # Run the python script
 python scrape_without_prompts.py
 
+# Run the events script
+python event_utilts.py
+
 # Add all files to git
 git add --all
 
