@@ -14,8 +14,10 @@ amnesty@guild.bham.ac.uk
 anime@guild.bham.ac.uk
 arabsoc@guild.bham.ac.uk
 archaeology@guild.bham.ac.uk
+article19@guild.bham.ac.uk
 artsoc@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
+aviation@guild.bham.ac.uk
 bacas@guild.bham.ac.uk
 badfilm@guild.bham.ac.uk
 bahaisociety@guild.bham.ac.uk
@@ -28,6 +30,7 @@ bedsoc@guild.bham.ac.uk
 bema@guild.bham.ac.uk
 benchball@guild.bham.ac.uk
 bhangra@guild.bham.ac.uk
+Bharatanatyam@guild.bham.ac.uk
 BIFS@guild.bham.ac.uk
 biosoc@guild.bham.ac.uk
 birmingham@intervol.org.uk
@@ -97,7 +100,6 @@ editor@redbrick.me
 education@guild.bham.ac.uk
 educationsoc@guild.bham.ac.uk
 EgyptSociety@guild.bham.ac.uk
-elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
 enquiries@guild.bham.ac.uk
 environmentalofficer@guild.bham.ac.uk
@@ -139,6 +141,7 @@ hse@guild.bham.ac.uk
 iceskating@guild.bham.ac.uk
 ics@guild.bham.ac.uk
 ifa@guild.bham.ac.uk
+ifc@guild.bham.ac.uk
 indiancultural@guild.bham.ac.uk
 indonesian@guild.bham.ac.uk
 infinity@guild.bham.ac.uk
@@ -149,6 +152,7 @@ internationaldevelopment@guild.bham.ac.uk
 intervol@guild.bham.ac.uk
 isa@guild.bham.ac.uk
 islamicartsandheritage@gmail.com
+IslamicSportsSoc@guild.bham.ac.uk
 israel@guild.bham.ac.uk
 italian@guild.bham.ac.uk
 J.Lindsay@guild.bham.ac.uk
@@ -159,6 +163,7 @@ jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
 jobs@guild.bham.ac.uk
 kase@guild.bham.ac.uk
+kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
 KCover@guild.bham.ac.uk
 kickboxing@guild.bham.ac.uk
@@ -247,6 +252,7 @@ sitcom@guild.bham.ac.uk
 skateboarding@guild.bham.ac.uk
 sobersocials@guild.bham.ac.uk
 socialistworkersstudentsociety@guild.bham.ac.uk
+SocialPolicyandSociology@guild.bham.ac.uk
 socialworksoc@guild.bham.ac.uk
 somali@guild.bham.ac.uk
 sports@guild.bham.ac.uk
