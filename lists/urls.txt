@@ -1318,6 +1318,7 @@ https://www.guildofstudents.com/ents/event/8541/
 https://www.guildofstudents.com/ents/event/8542/
 https://www.guildofstudents.com/ents/event/8543/
 https://www.guildofstudents.com/ents/event/8544/
+https://www.guildofstudents.com/ents/event/8554/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
@@ -1327,6 +1328,7 @@ https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
+https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/giveitago/

@@ -6,7 +6,8 @@
 {'id': '8502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8502/', 'title': 'Dental Society Ball 2024'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
 {'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Wellbeing Café'}
-{'id': '8529', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8529/', 'title': 'Study and a Snack'}
+{'id': '8529', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8529/', 'title': 'Sorry, there was a problem'}
+{'id': '8531', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8531/', 'title': 'Language Cafe'}
 {'id': '8533', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8533/', 'title': 'Committee Celebration Event!'}
 {'id': '8534', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8534/', 'title': "Chair's Network"}
 {'id': '8539', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8539/', 'title': 'Give It A Go Week: Monday'}
@@ -22,6 +23,7 @@
 {'event_id': '8508', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8508/', 'title': 'CSS Board Games Night'}
 {'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
+{'event_id': '8545', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8545/', 'title': 'EconSoc, Marketing Soc and BIFS Bar Crawl'}
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
 {'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
