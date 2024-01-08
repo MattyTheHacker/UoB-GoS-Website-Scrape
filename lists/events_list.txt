@@ -15,6 +15,7 @@
 {'id': '8542', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8542/', 'title': 'Give It A Go Week: Thursday'}
 {'id': '8543', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8543/', 'title': 'Give It A Go Week: Friday'}
 {'id': '8544', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8544/', 'title': 'Mid-Year Societies/Sports Fair'}
+{'id': '8554', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8554/', 'title': 'Welcome Back Party'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8536', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8536/', 'title': 'UOBEX Taster Session (Semester 2)!'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
