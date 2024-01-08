@@ -1276,7 +1276,6 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
-https://www.guildofstudents.com/asset/Job/124/Student-Groups-Coordinator-Job-Description.docx.pdf
 https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-Information-2023.pdf
 https://www.guildofstudents.com/asset/News/6016/ASV-1-November-2023-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-By-Elections-2023-Results-Tables.pdf
@@ -1311,6 +1310,7 @@ https://www.guildofstudents.com/ents/event/8502/
 https://www.guildofstudents.com/ents/event/8503/
 https://www.guildofstudents.com/ents/event/8506/
 https://www.guildofstudents.com/ents/event/8529/
+https://www.guildofstudents.com/ents/event/8531/
 https://www.guildofstudents.com/ents/event/8533/
 https://www.guildofstudents.com/ents/event/8534/
 https://www.guildofstudents.com/ents/event/8539/
@@ -1355,6 +1355,7 @@ https://www.guildofstudents.com/events/6355/8530/
 https://www.guildofstudents.com/events/6531/8508/
 https://www.guildofstudents.com/events/6531/8509/
 https://www.guildofstudents.com/events/6531/8510/
+https://www.guildofstudents.com/events/6587/8545/
 https://www.guildofstudents.com/events/6731/8143/
 https://www.guildofstudents.com/events/6739/8547/
 https://www.guildofstudents.com/events/6739/8548/
@@ -1382,8 +1383,6 @@ https://www.guildofstudents.com/guildadvice/
 https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
-https://www.guildofstudents.com/jobs/browse/
-https://www.guildofstudents.com/jobs/vacancy/2828/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
@@ -2325,22 +2324,14 @@ https://www.guildofstudents.com/officerteam#pto
 https://www.guildofstudents.com/officerteam/
 https://www.guildofstudents.com/officerteam/#pto
 https://www.guildofstudents.com/officerteam/aeo/
-https://www.guildofstudents.com/officerteam/aeo/new/
 https://www.guildofstudents.com/officerteam/eo
 https://www.guildofstudents.com/officerteam/eo/
-https://www.guildofstudents.com/officerteam/eo/new/
 https://www.guildofstudents.com/officerteam/io/
-https://www.guildofstudents.com/officerteam/io/new/
-https://www.guildofstudents.com/officerteam/new#pto
 https://www.guildofstudents.com/officerteam/pgo/
-https://www.guildofstudents.com/officerteam/pgo/new/
 https://www.guildofstudents.com/officerteam/president
 https://www.guildofstudents.com/officerteam/president/
-https://www.guildofstudents.com/officerteam/president/new/
 https://www.guildofstudents.com/officerteam/so/
-https://www.guildofstudents.com/officerteam/so/new/
 https://www.guildofstudents.com/officerteam/wco/
-https://www.guildofstudents.com/officerteam/wco/new/
 https://www.guildofstudents.com/officerteam/wins
 https://www.guildofstudents.com/organisation/26488/
 https://www.guildofstudents.com/organisation/33748/
@@ -3157,14 +3148,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/me
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/guildawards/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/aeo/new/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/eo/new/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/io/new/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/new/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/pgo/new/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/president/new/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/so/new/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/wco/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
@@ -3192,7 +3175,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://w
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot
-https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/jobs/browse/
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/studentgroups/running-a-group/committee-elections/
 https://www.guildofstudents.com/staff/
 https://www.guildofstudents.com/studentgroups
@@ -3546,7 +3528,6 @@ https://www.guildofstudents.commailto:JainSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:japan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jewish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jfs@guild.bham.ac.uk
-https://www.guildofstudents.commailto:jobs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kase@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kazakh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
