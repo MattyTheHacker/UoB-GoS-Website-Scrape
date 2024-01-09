@@ -1350,6 +1350,7 @@ https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomepageint/
+https://www.guildofstudents.com/ents/eventlist/welcomepageunder/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
@@ -1357,6 +1358,7 @@ https://www.guildofstudents.com/events/13206/8483/
 https://www.guildofstudents.com/events/20937/8536/
 https://www.guildofstudents.com/events/26488/8546/
 https://www.guildofstudents.com/events/35779/7484/
+https://www.guildofstudents.com/events/41452/8563/
 https://www.guildofstudents.com/events/6355/8530/
 https://www.guildofstudents.com/events/6531/8508/
 https://www.guildofstudents.com/events/6531/8509/
@@ -1365,6 +1367,7 @@ https://www.guildofstudents.com/events/6587/8545/
 https://www.guildofstudents.com/events/6731/8143/
 https://www.guildofstudents.com/events/6739/8547/
 https://www.guildofstudents.com/events/6739/8548/
+https://www.guildofstudents.com/events/6827/8561/
 https://www.guildofstudents.com/events/7011/8473/
 https://www.guildofstudents.com/events/7067/8507/
 https://www.guildofstudents.com/events/7067/8535/
@@ -3345,6 +3348,7 @@ https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
 https://www.guildofstudents.com/welcome/events/event/8536/
+https://www.guildofstudents.com/welcome/events/event/8563/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
