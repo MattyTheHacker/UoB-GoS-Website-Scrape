@@ -18,6 +18,8 @@
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'sports-night'}
 {'id': '8559', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8559/', 'title': 'Cold Cups and Cakes'}
 {'id': '8560', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8560/', 'title': 'Community Breakfast'}
+{'event_id': '8570', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8570/', 'title': 'Coffee Social'}
+{'event_id': '8571', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8571/', 'title': 'Coffee Social'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8536', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8536/', 'title': 'UOBEX Taster Session (Semester 2)!'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
@@ -32,6 +34,7 @@
 {'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
 {'event_id': '8561', 'organisation_id': '6827', 'organisation': 'Birmingham Investment and Finance', 'url': 'https://www.guildofstudents.com/events/6827/8561/', 'title': 'MarkSoc X BIFS X EconSoc Vodbull Bar Crawl'}
+{'event_id': '8569', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/8569/', 'title': 'Holocaust Memorial Day event with Janine Webber'}
 {'event_id': '8473', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8473/', 'title': 'Mathsoc Bingo Barcrawl'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
 {'event_id': '8535', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8535/', 'title': 'Learn to Trad 1 Day Trip 2024'}
