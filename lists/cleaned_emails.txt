@@ -145,6 +145,7 @@ ifc@guild.bham.ac.uk
 indiancultural@guild.bham.ac.uk
 indonesian@guild.bham.ac.uk
 infinity@guild.bham.ac.uk
+info@guild.bham.ac.uk
 info@ubisoc.co.uk
 insulinappreciation@guild.bham.ac.uk
 international@guild.bham.ac.uk

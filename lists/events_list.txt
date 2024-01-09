@@ -15,11 +15,21 @@
 {'id': '8543', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8543/', 'title': 'Give It A Go Week: Friday'}
 {'id': '8544', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8544/', 'title': 'Mid-Year Societies/Sports Fair'}
 {'id': '8554', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8554/', 'title': 'Welcome Back Party'}
+{'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': "Vice-Chancellor's and President's Question Time & Company Law Meeting"}
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'sports-night'}
 {'id': '8559', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8559/', 'title': 'Cold Cups and Cakes'}
 {'id': '8560', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8560/', 'title': 'Community Breakfast'}
 {'event_id': '8570', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8570/', 'title': 'Coffee Social'}
 {'event_id': '8571', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8571/', 'title': 'Coffee Social'}
+{'event_id': '8572', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8572/', 'title': 'Film Night'}
+{'event_id': '8573', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8573/', 'title': 'Coffee Social'}
+{'event_id': '8574', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8574/', 'title': 'Coffee Social'}
+{'event_id': '8575', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8575/', 'title': 'Coffee Social'}
+{'event_id': '8576', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8576/', 'title': 'Coffee Social'}
+{'event_id': '8577', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8577/', 'title': 'Coffee Social'}
+{'event_id': '8578', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8578/', 'title': 'Coffee Social'}
+{'event_id': '8579', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8579/', 'title': 'Coffee Social'}
+{'event_id': '8580', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8580/', 'title': 'Trip to Bletchley Park'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8536', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8536/', 'title': 'UOBEX Taster Session (Semester 2)!'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
