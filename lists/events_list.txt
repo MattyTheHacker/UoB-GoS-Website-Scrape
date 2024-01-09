@@ -22,6 +22,7 @@
 {'event_id': '8536', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8536/', 'title': 'UOBEX Taster Session (Semester 2)!'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
+{'event_id': '8563', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8563/', 'title': 'African Dance Session 1'}
 {'event_id': '8530', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/8530/', 'title': 'Buddhist Center Day Retreat'}
 {'event_id': '8508', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8508/', 'title': 'CSS Board Games Night'}
 {'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
@@ -30,6 +31,7 @@
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
 {'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
+{'event_id': '8561', 'organisation_id': '6827', 'organisation': 'Birmingham Investment and Finance', 'url': 'https://www.guildofstudents.com/events/6827/8561/', 'title': 'MarkSoc X BIFS X EconSoc Vodbull Bar Crawl'}
 {'event_id': '8473', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8473/', 'title': 'Mathsoc Bingo Barcrawl'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
 {'event_id': '8535', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8535/', 'title': 'Learn to Trad 1 Day Trip 2024'}
@@ -45,3 +47,4 @@
 {'event_id': '8527', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8527/', 'title': 'DocSoc Screening'}
 {'event_id': '8528', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8528/', 'title': 'DocSoc Screening'}
 {'event_id': '8536', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/8536/', 'title': 'UOBEX Taster Session (Semester 2)!'}
+{'event_id': '8563', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/8563/', 'title': 'African Dance Session 1'}
