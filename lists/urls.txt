@@ -1327,7 +1327,6 @@ https://www.guildofstudents.com/ents/event/8554/
 https://www.guildofstudents.com/ents/event/8555/
 https://www.guildofstudents.com/ents/event/8556/
 https://www.guildofstudents.com/ents/event/8559/
-https://www.guildofstudents.com/ents/event/8560/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
@@ -1336,14 +1335,12 @@ https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/clm/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
-https://www.guildofstudents.com/ents/eventlist/destress/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
-https://www.guildofstudents.com/ents/eventlist/guildadvice/
 https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
@@ -3707,6 +3704,7 @@ https://www.guildofstudents.commailto:womensofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:worklink@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:writersbloc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:yoga@guild.bham.ac.uk
+https://www.guildofstudents.commailtostudentreps@guild.bham.ac.uk
 https://www.guildofstudents.comtel:0121 41 58950
 https://www.guildofstudents.comtel:0121 415 856
 https://www.guildofstudents.comtel:0121 415 8912

@@ -18,7 +18,7 @@
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': "Vice-Chancellor's and President's Question Time & Company Law Meeting"}
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'sports-night'}
 {'id': '8559', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8559/', 'title': 'Cold Cups and Cakes'}
-{'id': '8560', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8560/', 'title': 'Community Breakfast'}
+{'id': '8560', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8560/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8570', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8570/', 'title': 'Coffee Social'}
 {'event_id': '8571', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8571/', 'title': 'Coffee Social'}
 {'event_id': '8572', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8572/', 'title': 'Film Night'}
