@@ -1327,6 +1327,7 @@ https://www.guildofstudents.com/ents/event/8541/
 https://www.guildofstudents.com/ents/event/8542/
 https://www.guildofstudents.com/ents/event/8543/
 https://www.guildofstudents.com/ents/event/8544/
+https://www.guildofstudents.com/ents/event/8553/
 https://www.guildofstudents.com/ents/event/8554/
 https://www.guildofstudents.com/ents/event/8555/
 https://www.guildofstudents.com/ents/event/8556/
@@ -1345,6 +1346,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
+https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/clm/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
@@ -1435,6 +1437,7 @@ https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
+https://www.guildofstudents.com/news/article/website/Investigation-into-FAB-incident-11-November-2023/
 https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2024/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
 https://www.guildofstudents.com/news/article/website/Overcoming-loneliness-at-University/
