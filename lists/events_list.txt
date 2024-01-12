@@ -14,6 +14,7 @@
 {'id': '8542', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8542/', 'title': 'Give It A Go Week: Thursday'}
 {'id': '8543', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8543/', 'title': 'Give It A Go Week: Friday'}
 {'id': '8544', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8544/', 'title': 'Mid-Year Societies/Sports Fair'}
+{'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8554', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8554/', 'title': 'Welcome Back Party'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': "Vice-Chancellor's and President's Question Time & Company Law Meeting"}
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'sports-night'}
@@ -38,7 +39,7 @@
 {'event_id': '8578', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8578/', 'title': 'Coffee Social'}
 {'event_id': '8579', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8579/', 'title': 'Coffee Social'}
 {'event_id': '8580', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8580/', 'title': 'Trip to Bletchley Park'}
-{'event_id': '8593', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8593/', 'title': 'Merch Sale!'}
+{'event_id': '8593', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8593/', 'title': 'Account Login'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8536', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8536/', 'title': 'UOBEX Taster Session (Semester 2)!'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
