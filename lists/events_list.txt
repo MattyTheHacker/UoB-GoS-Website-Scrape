@@ -1,8 +1,6 @@
 {'id': '8186', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8186/', 'title': 'Housemate Finder'}
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
-{'id': '8500', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8500/', 'title': 'Sorry, there was a problem'}
-{'id': '8501', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8501/', 'title': 'Sorry, there was a problem'}
 {'id': '8502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8502/', 'title': 'Dental Society Ball 2024'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
 {'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Wellbeing Café'}
@@ -39,7 +37,7 @@
 {'event_id': '8578', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8578/', 'title': 'Coffee Social'}
 {'event_id': '8579', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8579/', 'title': 'Coffee Social'}
 {'event_id': '8580', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8580/', 'title': 'Trip to Bletchley Park'}
-{'event_id': '8593', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8593/', 'title': 'Account Login'}
+{'event_id': '8562', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8562/', 'title': 'ASC Bread-Baking Bonanza!'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8536', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8536/', 'title': 'UOBEX Taster Session (Semester 2)!'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
