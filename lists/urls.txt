@@ -1326,7 +1326,6 @@ https://www.guildofstudents.com/ents/event/8542/
 https://www.guildofstudents.com/ents/event/8543/
 https://www.guildofstudents.com/ents/event/8544/
 https://www.guildofstudents.com/ents/event/8553/
-https://www.guildofstudents.com/ents/event/8554/
 https://www.guildofstudents.com/ents/event/8555/
 https://www.guildofstudents.com/ents/event/8556/
 https://www.guildofstudents.com/ents/event/8559/
@@ -1350,7 +1349,6 @@ https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
-https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
@@ -1460,6 +1458,9 @@ https://www.guildofstudents.com/events/7727/8525/
 https://www.guildofstudents.com/events/7727/8526/
 https://www.guildofstudents.com/events/7727/8527/
 https://www.guildofstudents.com/events/7727/8528/
+https://www.guildofstudents.com/events/7727/8639/
+https://www.guildofstudents.com/events/7727/8640/
+https://www.guildofstudents.com/events/7727/8641/
 https://www.guildofstudents.com/fab
 https://www.guildofstudents.com/fab/
 https://www.guildofstudents.com/footer/cookiepolicy/

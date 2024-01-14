@@ -13,7 +13,7 @@
 {'id': '8543', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8543/', 'title': 'Give It A Go Week: Friday'}
 {'id': '8544', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8544/', 'title': 'Mid-Year Societies/Sports Fair'}
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
-{'id': '8554', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8554/', 'title': 'Welcome Back Party'}
+{'id': '8554', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8554/', 'title': 'Sorry, there was a problem'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': "Vice-Chancellor's and President's Question Time & Company Law Meeting"}
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'sports-night'}
 {'id': '8559', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8559/', 'title': 'Cold Cups and Cakes'}
