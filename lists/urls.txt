@@ -172,6 +172,7 @@ https://www.guildofstudents.com//instagram.com/cssbham
 https://www.guildofstudents.com//instagram.com/danceclublatino
 https://www.guildofstudents.com//instagram.com/dogsocuob
 https://www.guildofstudents.com//instagram.com/elsabirmingham
+https://www.guildofstudents.com//instagram.com/enactus_birmingham
 https://www.guildofstudents.com//instagram.com/ewbuob
 https://www.guildofstudents.com//instagram.com/filmsocbham
 https://www.guildofstudents.com//instagram.com/firstaidsocietyuob
@@ -1362,6 +1363,7 @@ https://www.guildofstudents.com/ents/event/8589/
 https://www.guildofstudents.com/ents/event/8592/
 https://www.guildofstudents.com/ents/event/8654/
 https://www.guildofstudents.com/ents/event/8656/
+https://www.guildofstudents.com/ents/event/8657/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
@@ -1442,6 +1444,7 @@ https://www.guildofstudents.com/events/12167/8579/
 https://www.guildofstudents.com/events/12167/8580/
 https://www.guildofstudents.com/events/12508/8562/
 https://www.guildofstudents.com/events/13206/8483/
+https://www.guildofstudents.com/events/20372/8590/
 https://www.guildofstudents.com/events/20913/8595/
 https://www.guildofstudents.com/events/20913/8596/
 https://www.guildofstudents.com/events/20913/8597/
@@ -2533,6 +2536,7 @@ https://www.guildofstudents.com/organisation/econsoc/
 https://www.guildofstudents.com/organisation/education/
 https://www.guildofstudents.com/organisation/elalsoc/
 https://www.guildofstudents.com/organisation/elsa/
+https://www.guildofstudents.com/organisation/enactus/
 https://www.guildofstudents.com/organisation/esports/
 https://www.guildofstudents.com/organisation/ewb/
 https://www.guildofstudents.com/organisation/fashion/
@@ -3615,6 +3619,7 @@ https://www.guildofstudents.commailto:educationsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:EgyptSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
+https://www.guildofstudents.commailto:enactus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk
 https://www.guildofstudents.commailto:environmentalofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:esports@guild.bham.ac.uk
