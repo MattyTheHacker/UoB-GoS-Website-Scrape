@@ -30,6 +30,8 @@
 {'id': '8654', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8654/', 'title': 'Hall Reps Games Night'}
 {'id': '8656', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8656/', 'title': 'Bingo'}
 {'id': '8657', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8657/', 'title': 'Metalworks Animal Pots and Plants'}
+{'id': '8658', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8658/', 'title': 'Self-Love ValenTIME'}
+{'id': '8659', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8659/', 'title': 'Community Coffee Morning'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -75,6 +77,10 @@
 {'event_id': '8580', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8580/', 'title': 'Trip to Bletchley Park'}
 {'event_id': '8562', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8562/', 'title': 'ASC Bread-Baking Bonanza!'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
+{'event_id': '8661', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8661/', 'title': 'Speaker Series: Gina Dutton'}
+{'event_id': '8662', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8662/', 'title': 'Speaker Series: Councillor Hannah Chapman and Councillor Zoe Leventhal'}
+{'event_id': '8663', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8663/', 'title': 'Speaker Series: Baroness Gisela Stuart'}
+{'event_id': '8664', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8664/', 'title': 'Speaker Series: Councillor Morriam Jan'}
 {'event_id': '8590', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8590/', 'title': "Heidi's social"}
 {'event_id': '8595', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8595/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8596', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8596/', 'title': 'Sober Socials Friday Games Night'}
