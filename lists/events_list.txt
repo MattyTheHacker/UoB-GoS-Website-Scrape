@@ -19,7 +19,6 @@
 {'id': '8559', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8559/', 'title': 'Cold Cups and Cakes'}
 {'id': '8581', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8581/', 'title': 'Wellbeing Café'}
 {'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Housemate Finder'}
-{'id': '8583', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8583/', 'title': 'Sorry, there was a problem'}
 {'id': '8584', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8584/', 'title': 'Yoga'}
 {'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Yoga'}
 {'id': '8586', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8586/', 'title': 'Self Defence Class (ALL STUDENTS)'}
@@ -94,6 +93,7 @@
 {'event_id': '8604', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8604/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8536', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8536/', 'title': 'UOBEX Taster Session (Semester 2)!'}
 {'event_id': '8551', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8551/', 'title': 'UOBEX Game Night!'}
+{'event_id': '8655', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8655/', 'title': 'Golf Fang with UOBEX!'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
