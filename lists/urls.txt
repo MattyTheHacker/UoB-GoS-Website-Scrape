@@ -1372,10 +1372,12 @@ https://www.guildofstudents.com/ents/event/8674/
 https://www.guildofstudents.com/ents/event/8675/
 https://www.guildofstudents.com/ents/event/8676/
 https://www.guildofstudents.com/ents/event/8677/
+https://www.guildofstudents.com/ents/event/8678/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
+https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/clm/

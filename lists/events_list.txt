@@ -32,6 +32,8 @@
 {'id': '8659', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8659/', 'title': 'Community Coffee Morning'}
 {'id': '8674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8674/', 'title': 'sports-night'}
 {'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'sports-night'}
+{'id': '8676', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8676/', 'title': 'Letter Writing Workshop'}
+{'id': '8677', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8677/', 'title': 'Bournbrook Mosaic Masterpieces'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
