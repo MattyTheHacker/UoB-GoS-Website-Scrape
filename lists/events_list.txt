@@ -30,6 +30,8 @@
 {'id': '8657', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8657/', 'title': 'Metalworks Animal Pots and Plants'}
 {'id': '8658', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8658/', 'title': 'Self-Love ValenTIME'}
 {'id': '8659', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8659/', 'title': 'Community Coffee Morning'}
+{'id': '8674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8674/', 'title': 'sports-night'}
+{'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'sports-night'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -117,7 +119,7 @@
 {'event_id': '8516', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8516/', 'title': 'Wilmcote to Stratford walk'}
 {'event_id': '8669', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8669/', 'title': 'Elan Valley coach trip'}
 {'event_id': '8670', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8670/', 'title': 'Lake District weekend trip'}
-{'event_id': '8671', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8671/', 'title': 'Shropshire'}
+{'event_id': '8671', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8671/', 'title': 'Shropshire Day Hike'}
 {'event_id': '8672', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8672/', 'title': 'Hay on Wye coach trip'}
 {'event_id': '8522', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8522/', 'title': 'DocSoc Screening'}
 {'event_id': '8523', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8523/', 'title': 'DocSoc Screening'}
