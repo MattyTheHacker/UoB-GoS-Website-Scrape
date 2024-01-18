@@ -1,3 +1,4 @@
+ https://www.guildofstudents.com/elections/
 http://www.guildofstudents.com
 http://www.guildofstudents.com/
 http://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
@@ -1308,6 +1309,8 @@ https://www.guildofstudents.com/allstudentvote/
 https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-Information-2023.pdf
 https://www.guildofstudents.com/asset/News/6016/ASV-1-November-2023-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-By-Elections-2023-Results-Tables.pdf
+https://www.guildofstudents.com/asset/News/6016/Elections-Regulations-2023-24-Officer-Elections-24.pdf
+https://www.guildofstudents.com/asset/News/6016/Guild-of-Students-Bye-Law-8-Officer-Elections-24.pdf
 https://www.guildofstudents.com/asset/News/6016/Referendum-Result-Should-the-Guild-Support-the-UCU-Industrial-Action-for-2023.24-and-2024.25-Academic-Years.pdf
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
@@ -1366,6 +1369,8 @@ https://www.guildofstudents.com/ents/event/8656/
 https://www.guildofstudents.com/ents/event/8657/
 https://www.guildofstudents.com/ents/event/8658/
 https://www.guildofstudents.com/ents/event/8659/
+https://www.guildofstudents.com/ents/event/8674/
+https://www.guildofstudents.com/ents/event/8675/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
@@ -1519,6 +1524,7 @@ https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experienc
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
 https://www.guildofstudents.com/news/article/website/Investigation-into-FAB-incident-11-November-2023/
+https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2024/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
 https://www.guildofstudents.com/news/article/website/Overcoming-loneliness-at-University/
 https://www.guildofstudents.com/news/article/website/Repurposing-Old-Clothes-for-a-Stylish-Tomorrow/
