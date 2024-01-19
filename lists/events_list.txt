@@ -3,7 +3,7 @@
 {'id': '8502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8502/', 'title': 'Dental Society Ball 2024'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Sorry, there was a problem'}
 {'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Wellbeing Café'}
-{'id': '8531', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8531/', 'title': 'Language Cafe'}
+{'id': '8531', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8531/', 'title': 'Sorry, there was a problem'}
 {'id': '8533', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8533/', 'title': 'Committee Celebration Event!'}
 {'id': '8534', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8534/', 'title': "Chair's Network"}
 {'id': '8539', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8539/', 'title': 'Give It A Go Week: Monday'}
@@ -134,7 +134,6 @@
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
 {'event_id': '8561', 'organisation_id': '6827', 'organisation': 'Birmingham Investment and Finance', 'url': 'https://www.guildofstudents.com/events/6827/8561/', 'title': 'MarkSoc X BIFS X EconSoc Vodbull Bar Crawl'}
 {'event_id': '8569', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/8569/', 'title': 'Holocaust Memorial Day event with Janine Webber'}
-{'event_id': '8473', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8473/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
 {'event_id': '8535', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8535/', 'title': 'Learn to Trad 1 Day Trip 2024'}
 {'event_id': '8437', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8437/', 'title': 'Reserves- Snowdonia weekend trip'}
