@@ -2,7 +2,6 @@
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'id': '8502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8502/', 'title': 'Dental Society Ball 2024'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Sorry, there was a problem'}
-{'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Sorry, there was a problem'}
 {'id': '8534', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8534/', 'title': "Chair's Network"}
 {'id': '8537', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8537/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
 {'id': '8538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8538/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
@@ -138,7 +137,6 @@
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
 {'event_id': '8535', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8535/', 'title': 'Learn to Trad 1 Day Trip 2024'}
-{'event_id': '8437', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8437/', 'title': 'Reserves- Snowdonia weekend trip'}
 {'event_id': '8514', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8514/', 'title': 'Brecon weekend trip'}
 {'event_id': '8515', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8515/', 'title': 'Malvern refresher walk'}
 {'event_id': '8516', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8516/', 'title': 'Wilmcote to Stratford walk'}
