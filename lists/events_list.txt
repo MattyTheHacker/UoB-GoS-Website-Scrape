@@ -14,7 +14,7 @@
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': "Vice-Chancellor's and President's Question Time & Company Law Meeting"}
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'sports-night'}
-{'id': '8559', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8559/', 'title': 'Cold Cups and Cakes'}
+{'id': '8559', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8559/', 'title': 'Sorry, there was a problem'}
 {'id': '8581', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8581/', 'title': 'Wellbeing Café'}
 {'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Housemate Finder'}
 {'id': '8584', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8584/', 'title': 'Yoga'}
