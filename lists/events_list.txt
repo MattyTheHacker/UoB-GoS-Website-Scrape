@@ -2,7 +2,7 @@
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'id': '8502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8502/', 'title': 'Dental Society Ball 2024'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Sorry, there was a problem'}
-{'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Wellbeing Café'}
+{'id': '8506', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8506/', 'title': 'Sorry, there was a problem'}
 {'id': '8534', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8534/', 'title': "Chair's Network"}
 {'id': '8537', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8537/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
 {'id': '8538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8538/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
