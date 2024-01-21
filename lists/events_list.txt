@@ -120,6 +120,7 @@
 {'event_id': '8606', 'organisation_id': '35449', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35449/8606/', 'title': 'Teddy Bear Hospital Annual Conference'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
+{'event_id': '8707', 'organisation_id': '40835', 'organisation': 'Queer Arts', 'url': 'https://www.guildofstudents.com/events/40835/8707/', 'title': 'Creating Flag Art'}
 {'event_id': '8564', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8564/', 'title': 'African Dance Session 2'}
 {'event_id': '8706', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8706/', 'title': 'Henna Night'}
 {'event_id': '8679', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/8679/', 'title': 'Braunton Trip 2024'}
