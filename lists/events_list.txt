@@ -16,6 +16,7 @@
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'sports-night'}
 {'id': '8581', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8581/', 'title': 'Wellbeing Café'}
 {'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Housemate Finder'}
+{'id': '8583', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8583/', 'title': 'Yoga'}
 {'id': '8584', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8584/', 'title': 'Yoga'}
 {'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Yoga'}
 {'id': '8586', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8586/', 'title': 'Self Defence Class (ALL STUDENTS)'}
@@ -139,7 +140,6 @@
 {'event_id': '8569', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/8569/', 'title': 'Holocaust Memorial Day event with Janine Webber'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
-{'event_id': '8535', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8535/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8514', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8514/', 'title': 'Brecon weekend trip'}
 {'event_id': '8515', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8515/', 'title': 'Malvern refresher walk'}
 {'event_id': '8516', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8516/', 'title': 'Wilmcote to Stratford walk'}
