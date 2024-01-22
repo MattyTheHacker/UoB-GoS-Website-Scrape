@@ -34,7 +34,7 @@
 {'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'sports-night'}
 {'id': '8676', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8676/', 'title': 'Letter Writing Workshop'}
 {'id': '8677', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8677/', 'title': 'Bournbrook Mosaic Masterpieces'}
-{'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'Ball'}
+{'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'MathSoc Spring Ball'}
 {'id': '8680', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8680/', 'title': 'Quiz Night'}
 {'id': '8681', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8681/', 'title': 'Quiz'}
 {'id': '8682', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8682/', 'title': 'Quiz'}
@@ -125,6 +125,7 @@
 {'event_id': '8604', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8604/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8551', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8551/', 'title': 'UOBEX Game Night!'}
 {'event_id': '8655', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8655/', 'title': 'Golf Fang with UOBEX!'}
+{'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
 {'event_id': '8606', 'organisation_id': '35449', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35449/8606/', 'title': 'Teddy Bear Hospital Annual Conference'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
@@ -135,6 +136,7 @@
 {'event_id': '8706', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8706/', 'title': 'Henna Night'}
 {'event_id': '8679', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/8679/', 'title': 'Braunton Trip 2024'}
 {'event_id': '8530', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/8530/', 'title': 'Buddhist Center Day Retreat'}
+{'event_id': '8549', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8549/', 'title': 'Craft Society - Creative Coffee Hub Social'}
 {'event_id': '8508', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8508/', 'title': 'CSS Board Games Night'}
 {'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
