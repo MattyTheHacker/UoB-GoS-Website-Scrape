@@ -240,6 +240,7 @@ https://www.guildofstudents.com//instagram.com/uob_gotsoc
 https://www.guildofstudents.com//instagram.com/uob_greenstudents
 https://www.guildofstudents.com//instagram.com/uob_hookersandstitchers
 https://www.guildofstudents.com//instagram.com/uob_ice_skating
+https://www.guildofstudents.com//instagram.com/uob_ifc
 https://www.guildofstudents.com//instagram.com/uob_koreasociety
 https://www.guildofstudents.com//instagram.com/uob_labour
 https://www.guildofstudents.com//instagram.com/uob_larp_society
@@ -1400,6 +1401,7 @@ https://www.guildofstudents.com/ents/event/8719/
 https://www.guildofstudents.com/ents/event/8720/
 https://www.guildofstudents.com/ents/event/8721/
 https://www.guildofstudents.com/ents/event/8722/
+https://www.guildofstudents.com/ents/event/8727/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
@@ -1419,6 +1421,7 @@ https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
 https://www.guildofstudents.com/ents/eventlist/GoGreen/
+https://www.guildofstudents.com/ents/eventlist/guildadvice/
 https://www.guildofstudents.com/ents/eventlist/guildawards/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/housing/
@@ -2537,7 +2540,6 @@ https://www.guildofstudents.com/organisation/41701/
 https://www.guildofstudents.com/organisation/42040/
 https://www.guildofstudents.com/organisation/42050/
 https://www.guildofstudents.com/organisation/42070/
-https://www.guildofstudents.com/organisation/42121/
 https://www.guildofstudents.com/organisation/43151/
 https://www.guildofstudents.com/organisation/43193/
 https://www.guildofstudents.com/organisation/43203/
@@ -2608,6 +2610,7 @@ https://www.guildofstudents.com/organisation/history/
 https://www.guildofstudents.com/organisation/historyofart/
 https://www.guildofstudents.com/organisation/hookersandstitchers/
 https://www.guildofstudents.com/organisation/hse/
+https://www.guildofstudents.com/organisation/ifc/
 https://www.guildofstudents.com/organisation/infinity/
 https://www.guildofstudents.com/organisation/investment/
 https://www.guildofstudents.com/organisation/jabsoc/
