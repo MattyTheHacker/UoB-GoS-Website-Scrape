@@ -126,6 +126,7 @@
 {'event_id': '8551', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8551/', 'title': 'UOBEX Game Night!'}
 {'event_id': '8655', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8655/', 'title': 'Golf Fang with UOBEX!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
+{'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
 {'event_id': '8606', 'organisation_id': '35449', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35449/8606/', 'title': 'Teddy Bear Hospital Annual Conference'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
