@@ -2,7 +2,7 @@
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Sorry, there was a problem'}
 {'id': '8532', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8532/', 'title': 'Language Cafe'}
-{'id': '8534', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8534/', 'title': "Chair's Network"}
+{'id': '8534', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8534/', 'title': 'Sorry, there was a problem'}
 {'id': '8537', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8537/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
 {'id': '8538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8538/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
 {'id': '8539', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8539/', 'title': 'Give It A Go Week: Monday'}
