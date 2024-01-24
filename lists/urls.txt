@@ -8,6 +8,7 @@ http://www.guildofstudents.com/marksoutoftenancy
 http://www.guildofstudents.com/mediasales/
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
 http://www.guildofstudents.com/studentgroups
+http://www.guildofstudents.com/studentstaff
 http://www.guildofstudents.com/support/guildadvice/
 http://www.guildofstudents.com/sustainability/gogreenweek
 http://www.guildofstudents.com/welcome
@@ -3527,6 +3528,8 @@ https://www.guildofstudents.com/support/guildadvice/hardshipfund/
 https://www.guildofstudents.com/support/guildadvice/who-we-are-guild-advice/
 https://www.guildofstudents.com/support/international/oneworldfestival/
 https://www.guildofstudents.com/support/marksoutoftenancy/
+https://www.guildofstudents.com/support/moneymatters/
+https://www.guildofstudents.com/support/moneymatters/budgeting
 https://www.guildofstudents.com/support/sportaccessfund/
 https://www.guildofstudents.com/support/studentmentors/
 https://www.guildofstudents.com/support/studentmentors/contact/

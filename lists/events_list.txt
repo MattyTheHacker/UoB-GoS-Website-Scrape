@@ -67,6 +67,11 @@
 {'id': '8732', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8732/', 'title': 'Student Mentor Pop Up'}
 {'id': '8733', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8733/', 'title': 'Student Mentor Pop Up'}
 {'id': '8737', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8737/', 'title': 'Coffee & Clean Up'}
+{'id': '8738', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8738/', 'title': 'Big Selly Litter Pick'}
+{'id': '8739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8739/', 'title': 'Card Making & Cakes'}
+{'id': '8740', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8740/', 'title': 'Sorry, there was a problem'}
+{'id': '8741', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8741/', 'title': 'Birdhouse Painting Party'}
+{'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
