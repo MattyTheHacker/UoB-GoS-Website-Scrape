@@ -22,7 +22,6 @@
 {'id': '8586', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8586/', 'title': 'Self Defence Class (ALL STUDENTS)'}
 {'id': '8587', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8587/', 'title': 'Self Defence Class (ALL STUDENTS)'}
 {'id': '8588', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8588/', 'title': 'Self Defence Class (FEMALE AND NON BINARY STUDENTS)'}
-{'id': '8589', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8589/', 'title': 'Sorry, there was a problem'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
 {'id': '8592', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8592/', 'title': 'Hall Reps Games Night'}
 {'id': '8654', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8654/', 'title': 'Hall Reps Games Night'}
@@ -58,7 +57,6 @@
 {'id': '8717', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8717/', 'title': 'Becoming an Officer: Sports Club Session'}
 {'id': '8718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8718/', 'title': 'Becoming an Officer: LGBT+ Students Session'}
 {'id': '8719', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8719/', 'title': 'Becoming an Officer: Student Reps'}
-{'id': '8720', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8720/', 'title': 'Account Login'}
 {'id': '8721', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8721/', 'title': 'Hall Reps Games Night'}
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
 {'id': '8727', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8727/', 'title': 'Not On Workshop'}
@@ -68,6 +66,7 @@
 {'id': '8731', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8731/', 'title': 'Student Mentor Pop Up'}
 {'id': '8732', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8732/', 'title': 'Student Mentor Pop Up'}
 {'id': '8733', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8733/', 'title': 'Student Mentor Pop Up'}
+{'id': '8737', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8737/', 'title': 'Coffee & Clean Up'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -117,7 +116,6 @@
 {'event_id': '8663', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8663/', 'title': 'Speaker Series: Baroness Gisela Stuart'}
 {'event_id': '8664', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8664/', 'title': 'Speaker Series: Councillor Morriam Jan'}
 {'event_id': '8673', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8673/', 'title': "International Women's Day Ball Afterparty"}
-{'event_id': '8590', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8590/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8595', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8595/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8596', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8596/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8597', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8597/', 'title': 'Sober Socials Friday Games Night'}
@@ -150,6 +148,7 @@
 {'event_id': '8545', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8545/', 'title': 'EconSoc, Marketing Soc and BIFS Bar Crawl'}
 {'event_id': '8645', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8645/', 'title': 'Ruddigore by UBG&S'}
 {'event_id': '8646', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8646/', 'title': 'Ruddigore by UBG&S'}
+{'event_id': '8647', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8647/', 'title': 'Ruddigore by UBG&S'}
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
 {'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
