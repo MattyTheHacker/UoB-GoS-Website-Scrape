@@ -54,7 +54,7 @@
 {'id': '8696', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8696/', 'title': 'Bingo'}
 {'id': '8697', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8697/', 'title': 'Bingo'}
 {'id': '8698', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8698/', 'title': 'Bingo'}
-{'id': '8702', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8702/', 'title': 'Umbrella @ Battery Park'}
+{'id': '8702', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8702/', 'title': 'Sorry, there was a problem'}
 {'id': '8716', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8716/', 'title': 'Officer Elections 2024: Candidate Briefing'}
 {'id': '8717', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8717/', 'title': 'Becoming an Officer: Sports Club Session'}
 {'id': '8718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8718/', 'title': 'Becoming an Officer: LGBT+ Students Session'}
@@ -112,14 +112,13 @@
 {'event_id': '8578', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8578/', 'title': 'Coffee Social'}
 {'event_id': '8579', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8579/', 'title': 'Coffee Social'}
 {'event_id': '8580', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8580/', 'title': 'Trip to Bletchley Park'}
-{'event_id': '8562', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8562/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8661', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8661/', 'title': 'Speaker Series: Gina Dutton'}
 {'event_id': '8662', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8662/', 'title': 'Speaker Series: Councillor Hannah Chapman and Councillor Zoe Leventhal'}
 {'event_id': '8663', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8663/', 'title': 'Speaker Series: Baroness Gisela Stuart'}
 {'event_id': '8664', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8664/', 'title': 'Speaker Series: Councillor Morriam Jan'}
 {'event_id': '8673', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8673/', 'title': "International Women's Day Ball Afterparty"}
-{'event_id': '8590', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8590/', 'title': "Heidi's social"}
+{'event_id': '8590', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8590/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8595', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8595/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8596', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8596/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8597', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8597/', 'title': 'Sober Socials Friday Games Night'}
@@ -148,6 +147,7 @@
 {'event_id': '8508', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8508/', 'title': 'CSS Board Games Night'}
 {'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
+{'event_id': '8734', 'organisation_id': '6547', 'organisation': 'DCL', 'url': 'https://www.guildofstudents.com/events/6547/8734/', 'title': 'Cali Fair by Dance Club Latino'}
 {'event_id': '8545', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8545/', 'title': 'EconSoc, Marketing Soc and BIFS Bar Crawl'}
 {'event_id': '8645', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8645/', 'title': 'Ruddigore by UBG&S'}
 {'event_id': '8646', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8646/', 'title': 'Ruddigore by UBG&S'}
@@ -159,6 +159,7 @@
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
 {'event_id': '8552', 'organisation_id': '7099', 'organisation': 'Nepalese', 'url': 'https://www.guildofstudents.com/events/7099/8552/', 'title': 'Nepalese cultural festival'}
+{'event_id': '8736', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8736/', 'title': 'Henna and Cultural Night Fundraiser'}
 {'event_id': '8514', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8514/', 'title': 'Brecon weekend trip'}
 {'event_id': '8515', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8515/', 'title': 'Malvern refresher walk'}
 {'event_id': '8516', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8516/', 'title': 'Wilmcote to Stratford walk'}
@@ -166,6 +167,7 @@
 {'event_id': '8670', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8670/', 'title': 'Lake District weekend trip'}
 {'event_id': '8671', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8671/', 'title': 'Shropshire Day Hike'}
 {'event_id': '8672', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8672/', 'title': 'Hay on Wye coach trip'}
+{'event_id': '8735', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8735/', 'title': 'Reserves- Brecon'}
 {'event_id': '8522', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8522/', 'title': 'DocSoc Screening'}
 {'event_id': '8523', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8523/', 'title': 'DocSoc Screening'}
 {'event_id': '8524', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8524/', 'title': 'DocSoc Screening'}
