@@ -1,3 +1,4 @@
+13thhorror@guild.bham.ac.uk
 A.Sheridan@guild.bham.ac.uk
 abacus@guild.bham.ac.uk
 acappella@guild.bham.ac.uk
@@ -107,6 +108,7 @@ enactus@guild.bham.ac.uk
 enquiries@guild.bham.ac.uk
 environmentalofficer@guild.bham.ac.uk
 esports@guild.bham.ac.uk
+euaffairs@guild.bham.ac.uk
 ewb@guild.bham.ac.uk
 fashion@guild.bham.ac.uk
 filipino@guild.bham.ac.uk
@@ -199,6 +201,7 @@ modernlanguages@guild.bham.ac.uk
 mooting@guild.bham.ac.uk
 motd@guild.bham.ac.uk
 muaythaiboxing@guild.bham.ac.uk
+munsociety@guild.bham.ac.uk
 N.Bailey@guild.bham.ac.uk
 navigators@guild.bham.ac.uk
 nepalese@guild.bham.ac.uk
