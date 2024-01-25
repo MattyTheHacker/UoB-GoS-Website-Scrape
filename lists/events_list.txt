@@ -11,7 +11,7 @@
 {'id': '8543', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8543/', 'title': 'Give It A Go Week: Friday'}
 {'id': '8544', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8544/', 'title': 'Mid-Year Societies/Sports Fair'}
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
-{'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': "President's Question Time & Company Law Meeting"}
+{'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'Sports Night'}
 {'id': '8581', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8581/', 'title': 'Wellbeing Café'}
 {'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Housemate Finder'}
@@ -30,7 +30,6 @@
 {'id': '8674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8674/', 'title': 'Sports Night'}
 {'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'Sports Night'}
 {'id': '8676', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8676/', 'title': 'Letter Writing Workshop'}
-{'id': '8677', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8677/', 'title': 'Sorry, there was a problem'}
 {'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'Mathsoc Spring Ball'}
 {'id': '8680', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8680/', 'title': 'Quiz Night'}
 {'id': '8681', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8681/', 'title': 'Quiz'}
@@ -74,6 +73,7 @@
 {'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Student Volunteering Week Celebration!'}
 {'id': '8748', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8748/', 'title': 'Bournbrook Film Bingo'}
 {'id': '8749', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8749/', 'title': 'Mason Post-it Note Café'}
+{'id': '8752', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8752/', 'title': 'Maple Bank Back to School'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
