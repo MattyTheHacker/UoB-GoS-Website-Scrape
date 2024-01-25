@@ -30,8 +30,8 @@
 {'id': '8674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8674/', 'title': 'Sports Night'}
 {'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'Sports Night'}
 {'id': '8676', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8676/', 'title': 'Letter Writing Workshop'}
-{'id': '8677', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8677/', 'title': 'Bournbrook Mosaic Masterpieces'}
-{'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'MathSoc Spring Ball'}
+{'id': '8677', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8677/', 'title': 'Sorry, there was a problem'}
+{'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'Mathsoc Spring Ball'}
 {'id': '8680', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8680/', 'title': 'Quiz Night'}
 {'id': '8681', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8681/', 'title': 'Quiz'}
 {'id': '8682', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8682/', 'title': 'Quiz'}
