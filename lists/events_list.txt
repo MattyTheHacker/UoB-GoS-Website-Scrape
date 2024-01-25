@@ -18,7 +18,6 @@
 {'id': '8583', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8583/', 'title': 'Yoga'}
 {'id': '8584', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8584/', 'title': 'Yoga'}
 {'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Yoga'}
-{'id': '8586', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8586/', 'title': 'Sorry, there was a problem'}
 {'id': '8587', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8587/', 'title': 'Self Defence Class (ALL STUDENTS)'}
 {'id': '8588', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8588/', 'title': 'Self Defence Class (FEMALE AND NON BINARY STUDENTS)'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
@@ -71,6 +70,7 @@
 {'id': '8741', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8741/', 'title': 'Birdhouse Painting Party'}
 {'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
 {'id': '8744', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8744/', 'title': 'Reclaim the Night: Banner Making'}
+{'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Student Volunteering Week Celebration!'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -131,7 +131,7 @@
 {'event_id': '8602', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8602/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8603', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8603/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8604', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8604/', 'title': 'Sober Socials Friday Games Night'}
-{'event_id': '8551', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8551/', 'title': 'UOBEX Game Night!'}
+{'event_id': '8551', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8551/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8655', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8655/', 'title': 'Golf Fang with UOBEX!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
@@ -141,7 +141,7 @@
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
 {'event_id': '8707', 'organisation_id': '40835', 'organisation': 'Queer Arts', 'url': 'https://www.guildofstudents.com/events/40835/8707/', 'title': 'Creating Flag Art'}
 {'event_id': '8715', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/8715/', 'title': 'Friendly Debate Night'}
-{'event_id': '8564', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8564/', 'title': 'African Dance Session 2'}
+{'event_id': '8564', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8564/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8706', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8706/', 'title': 'Henna Night'}
 {'event_id': '8679', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/8679/', 'title': 'Braunton Trip 2024'}
 {'event_id': '8530', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/8530/', 'title': 'Buddhist Center Day Retreat'}
