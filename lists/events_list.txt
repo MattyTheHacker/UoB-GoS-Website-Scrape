@@ -15,7 +15,7 @@
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'Sports Night'}
 {'id': '8581', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8581/', 'title': 'Wellbeing Café'}
 {'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Housemate Finder'}
-{'id': '8583', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8583/', 'title': 'Yoga'}
+{'id': '8583', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8583/', 'title': 'Sorry, there was a problem'}
 {'id': '8584', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8584/', 'title': 'Yoga'}
 {'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Yoga'}
 {'id': '8587', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8587/', 'title': 'Self Defence Class (ALL STUDENTS)'}
@@ -51,7 +51,7 @@
 {'id': '8697', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8697/', 'title': 'Bingo'}
 {'id': '8698', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8698/', 'title': 'Bingo'}
 {'id': '8716', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8716/', 'title': 'Officer Elections 2024: Candidate Briefing'}
-{'id': '8717', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8717/', 'title': 'Becoming an Officer: Sports Club Session'}
+{'id': '8717', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8717/', 'title': 'Sorry, there was a problem'}
 {'id': '8718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8718/', 'title': 'Becoming an Officer: LGBT+ Students Session'}
 {'id': '8719', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8719/', 'title': 'Becoming an Officer: Student Reps'}
 {'id': '8721', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8721/', 'title': 'Hall Reps Games Night'}
@@ -137,6 +137,7 @@
 {'event_id': '8655', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8655/', 'title': 'Golf Fang with UOBEX!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
+{'event_id': '8704', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/8704/', 'title': 'Criminology Pub Quiz'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
 {'event_id': '8606', 'organisation_id': '35449', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35449/8606/', 'title': 'Teddy Bear Hospital Annual Conference'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
@@ -154,7 +155,6 @@
 {'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
 {'event_id': '8734', 'organisation_id': '6547', 'organisation': 'DCL', 'url': 'https://www.guildofstudents.com/events/6547/8734/', 'title': 'Cali Fair by Dance Club Latino'}
-{'event_id': '8545', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8545/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8645', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8645/', 'title': 'Ruddigore by UBG&S'}
 {'event_id': '8646', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8646/', 'title': 'Ruddigore by UBG&S'}
 {'event_id': '8647', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8647/', 'title': 'Ruddigore by UBG&S'}
