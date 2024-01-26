@@ -1447,6 +1447,7 @@ https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
+https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
@@ -1511,10 +1512,12 @@ https://www.guildofstudents.com/events/20913/8601/
 https://www.guildofstudents.com/events/20913/8602/
 https://www.guildofstudents.com/events/20913/8603/
 https://www.guildofstudents.com/events/20913/8604/
+https://www.guildofstudents.com/events/20913/8708/
 https://www.guildofstudents.com/events/20937/8655/
 https://www.guildofstudents.com/events/21718/8724/
 https://www.guildofstudents.com/events/22470/8725/
 https://www.guildofstudents.com/events/23405/8704/
+https://www.guildofstudents.com/events/23631/8755/
 https://www.guildofstudents.com/events/26488/8546/
 https://www.guildofstudents.com/events/35449/8606/
 https://www.guildofstudents.com/events/35779/7484/
@@ -1579,6 +1582,7 @@ https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-Nov-2023/
+https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
 https://www.guildofstudents.com/news/article/website/Investigation-into-FAB-incident-11-November-2023/
 https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2024/
