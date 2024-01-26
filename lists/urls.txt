@@ -53,7 +53,6 @@ https://www.guildofstudents.com#carouselevents
 https://www.guildofstudents.com#carouseleventsxs
 https://www.guildofstudents.com#chamberlaininfo
 https://www.guildofstudents.com#clmdetails
-https://www.guildofstudents.com#clmproxyvote
 https://www.guildofstudents.com#collapse-articles
 https://www.guildofstudents.com#collapse-election-dates
 https://www.guildofstudents.com#collapse-events-dates
@@ -1357,7 +1356,6 @@ https://www.guildofstudents.com/ents/event/8555/
 https://www.guildofstudents.com/ents/event/8556/
 https://www.guildofstudents.com/ents/event/8581/
 https://www.guildofstudents.com/ents/event/8582/
-https://www.guildofstudents.com/ents/event/8583/
 https://www.guildofstudents.com/ents/event/8584/
 https://www.guildofstudents.com/ents/event/8585/
 https://www.guildofstudents.com/ents/event/8587/
@@ -1393,7 +1391,6 @@ https://www.guildofstudents.com/ents/event/8696/
 https://www.guildofstudents.com/ents/event/8697/
 https://www.guildofstudents.com/ents/event/8698/
 https://www.guildofstudents.com/ents/event/8716/
-https://www.guildofstudents.com/ents/event/8717/
 https://www.guildofstudents.com/ents/event/8718/
 https://www.guildofstudents.com/ents/event/8719/
 https://www.guildofstudents.com/ents/event/8721/
