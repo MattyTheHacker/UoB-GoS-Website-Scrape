@@ -143,7 +143,6 @@
 {'event_id': '8746', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8746/', 'title': 'Kotthu & Movie Social!'}
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
 {'event_id': '8707', 'organisation_id': '40835', 'organisation': 'Queer Arts', 'url': 'https://www.guildofstudents.com/events/40835/8707/', 'title': 'Creating Flag Art'}
-{'event_id': '8715', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/8715/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8565', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8565/', 'title': 'African Dance Session 3'}
 {'event_id': '8706', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8706/', 'title': 'Henna Night'}
 {'event_id': '8699', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8699/', 'title': 'Bakesoc & Vegan Society collab 31/01/24 - Vegan Red Velvet Cupcakes 5:30-7'}
