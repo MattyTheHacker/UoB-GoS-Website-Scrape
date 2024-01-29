@@ -168,6 +168,7 @@
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
 {'event_id': '8561', 'organisation_id': '6827', 'organisation': 'Birmingham Investment and Finance', 'url': 'https://www.guildofstudents.com/events/6827/8561/', 'title': 'MarkSoc X BIFS X EconSoc Vodbull Bar Crawl'}
 {'event_id': '8569', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/8569/', 'title': 'Holocaust Memorial Day event with Janine Webber'}
+{'event_id': '8765', 'organisation_id': '6963', 'organisation': 'First Aid Society - SJA LINKS', 'url': 'https://www.guildofstudents.com/events/6963/8765/', 'title': 'First Aid Society Merch 2024'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
 {'event_id': '8552', 'organisation_id': '7099', 'organisation': 'Nepalese', 'url': 'https://www.guildofstudents.com/events/7099/8552/', 'title': 'Nepalese cultural festival'}
