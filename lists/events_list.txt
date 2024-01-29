@@ -76,6 +76,9 @@
 {'id': '8754', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8754/', 'title': 'FREE latin dance class with DCL'}
 {'id': '8768', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8768/', 'title': 'Housemate Finder'}
 {'id': '8772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8772/', 'title': 'Pritchatts Grammys Quiz Night'}
+{'id': '8773', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8773/', 'title': 'Pass It Forward - Collection'}
+{'id': '8774', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8774/', 'title': 'Hall Reps Games Night'}
+{'id': '8775', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8775/', 'title': 'Lunar New Year Celebration'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
