@@ -178,6 +178,7 @@
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
 {'event_id': '8552', 'organisation_id': '7099', 'organisation': 'Nepalese', 'url': 'https://www.guildofstudents.com/events/7099/8552/', 'title': 'Nepalese cultural festival'}
+{'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8736', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8736/', 'title': 'Henna and Cultural Night Fundraiser'}
 {'event_id': '8514', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8514/', 'title': 'Brecon weekend trip'}
 {'event_id': '8515', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8515/', 'title': 'Malvern refresher walk'}
