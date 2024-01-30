@@ -23,7 +23,7 @@
 {'id': '8592', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8592/', 'title': 'Hall Reps Games Night'}
 {'id': '8654', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8654/', 'title': 'Hall Reps Games Night'}
 {'id': '8656', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8656/', 'title': 'Bingo'}
-{'id': '8657', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8657/', 'title': 'Metalworks Animal Pots and Plants'}
+{'id': '8657', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8657/', 'title': 'Account Login'}
 {'id': '8658', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8658/', 'title': 'Self-Love ValenTIME'}
 {'id': '8659', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8659/', 'title': 'Community Coffee Morning'}
 {'id': '8674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8674/', 'title': 'Sports Night'}
