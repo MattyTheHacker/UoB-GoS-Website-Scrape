@@ -23,7 +23,6 @@
 {'id': '8592', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8592/', 'title': 'Hall Reps Games Night'}
 {'id': '8654', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8654/', 'title': 'Hall Reps Games Night'}
 {'id': '8656', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8656/', 'title': 'Bingo'}
-{'id': '8657', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8657/', 'title': 'Account Login'}
 {'id': '8658', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8658/', 'title': 'Self-Love ValenTIME'}
 {'id': '8659', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8659/', 'title': 'Community Coffee Morning'}
 {'id': '8674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8674/', 'title': 'Sports Night'}
@@ -54,7 +53,7 @@
 {'id': '8719', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8719/', 'title': 'Becoming an Officer: Student Reps'}
 {'id': '8721', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8721/', 'title': 'Hall Reps Games Night'}
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
-{'id': '8727', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8727/', 'title': 'Not On Workshop'}
+{'id': '8727', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8727/', 'title': 'Sorry, there was a problem'}
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
 {'id': '8730', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8730/', 'title': 'Student Mentor Pop Up'}
@@ -79,6 +78,8 @@
 {'id': '8773', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8773/', 'title': 'Pass It Forward - Collection'}
 {'id': '8774', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8774/', 'title': 'Hall Reps Games Night'}
 {'id': '8775', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8775/', 'title': 'Lunar New Year Celebration'}
+{'id': '8777', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8777/', 'title': 'Community Breakfast'}
+{'id': '8778', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8778/', 'title': 'Elgar Tea Party'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
