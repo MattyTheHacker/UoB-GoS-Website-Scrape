@@ -53,7 +53,6 @@
 {'id': '8719', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8719/', 'title': 'Becoming an Officer: Student Reps'}
 {'id': '8721', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8721/', 'title': 'Hall Reps Games Night'}
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
-{'id': '8727', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8727/', 'title': 'Sorry, there was a problem'}
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
 {'id': '8730', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8730/', 'title': 'Student Mentor Pop Up'}
@@ -162,7 +161,7 @@
 {'event_id': '8699', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8699/', 'title': 'Bakesoc & Vegan Society collab 31/01/24 - Vegan Red Velvet Cupcakes 5:30-7'}
 {'event_id': '8700', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8700/', 'title': 'Bakesoc & Vegan Society collab 31/01/24 - Vegan Red Velvet Cupcakes 7-8:30'}
 {'event_id': '8530', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/8530/', 'title': 'Buddhist Center Day Retreat'}
-{'event_id': '8665', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8665/', 'title': 'Craft Society - Needle Felting'}
+{'event_id': '8665', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8665/', 'title': 'Account Login'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
 {'event_id': '8508', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8508/', 'title': 'CSS Board Games Night'}
 {'event_id': '8509', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8509/', 'title': 'CSS Pub Night'}
