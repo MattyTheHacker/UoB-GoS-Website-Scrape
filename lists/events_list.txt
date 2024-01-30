@@ -149,6 +149,7 @@
 {'event_id': '8755', 'organisation_id': '23631', 'organisation': 'Filipino', 'url': 'https://www.guildofstudents.com/events/23631/8755/', 'title': 'Filsoc Potluck'}
 {'event_id': '8546', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8546/', 'title': 'Bar Crawl'}
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}
+{'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '8606', 'organisation_id': '35449', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35449/8606/', 'title': 'Teddy Bear Hospital Annual Conference'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8746', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8746/', 'title': 'Kotthu & Movie Social!'}
@@ -177,7 +178,6 @@
 {'event_id': '8569', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/8569/', 'title': 'Holocaust Memorial Day event with Janine Webber'}
 {'event_id': '8765', 'organisation_id': '6963', 'organisation': 'First Aid Society - SJA LINKS', 'url': 'https://www.guildofstudents.com/events/6963/8765/', 'title': 'First Aid Society Merch 2024'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
-{'event_id': '8507', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8507/', 'title': 'Team Membership'}
 {'event_id': '8552', 'organisation_id': '7099', 'organisation': 'Nepalese', 'url': 'https://www.guildofstudents.com/events/7099/8552/', 'title': 'Nepalese cultural festival'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8736', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8736/', 'title': 'Henna and Cultural Night Fundraiser'}
