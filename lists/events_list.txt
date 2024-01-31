@@ -178,7 +178,7 @@
 {'event_id': '8569', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/8569/', 'title': 'Holocaust Memorial Day event with Janine Webber'}
 {'event_id': '8765', 'organisation_id': '6963', 'organisation': 'First Aid Society - SJA LINKS', 'url': 'https://www.guildofstudents.com/events/6963/8765/', 'title': 'First Aid Society Merch 2024'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
-{'event_id': '8552', 'organisation_id': '7099', 'organisation': 'Nepalese', 'url': 'https://www.guildofstudents.com/events/7099/8552/', 'title': 'Nepalese cultural festival'}
+{'event_id': '8552', 'organisation_id': '7099', 'organisation': 'Nepalese', 'url': 'https://www.guildofstudents.com/events/7099/8552/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8736', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8736/', 'title': 'Henna and Cultural Night Fundraiser'}
 {'event_id': '8514', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8514/', 'title': 'Brecon weekend trip'}
