@@ -16,7 +16,7 @@
 {'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Housemate Finder'}
 {'id': '8584', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8584/', 'title': 'Yoga'}
 {'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Yoga'}
-{'id': '8587', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8587/', 'title': 'Self Defence Class (ALL STUDENTS)'}
+{'id': '8587', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8587/', 'title': 'Sorry, there was a problem'}
 {'id': '8588', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8588/', 'title': 'Self Defence Class (FEMALE AND NON BINARY STUDENTS)'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
 {'id': '8592', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8592/', 'title': 'Hall Reps Games Night'}
@@ -27,7 +27,7 @@
 {'id': '8674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8674/', 'title': 'Sports Night'}
 {'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'Sports Night'}
 {'id': '8676', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8676/', 'title': 'Letter Writing Workshop'}
-{'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'Mathsoc Spring Ball'}
+{'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'Sorry, there was a problem'}
 {'id': '8680', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8680/', 'title': 'Quiz Night'}
 {'id': '8681', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8681/', 'title': 'Quiz'}
 {'id': '8682', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8682/', 'title': 'Quiz'}
@@ -83,6 +83,10 @@
 {'id': '8784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8784/', 'title': 'Micro Volunteering Give It A Go: Bracelet Making with UoB Beat'}
 {'id': '8785', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8785/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Grow With Joe"}
 {'id': '8786', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8786/', 'title': 'Micro Volunteering Give It A Go: CPR and Basic Life Saving Skills with First Aid Soc'}
+{'id': '8788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8788/', 'title': 'Random Acts Of Kindness Crafts'}
+{'id': '8790', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8790/', 'title': 'Letters For The Elderly'}
+{'id': '8791', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8791/', 'title': 'Elgar Heartfelt Hampers'}
+{'id': '8793', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8793/', 'title': 'Jarratt Cookie Cubes and Coffee Cups'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
