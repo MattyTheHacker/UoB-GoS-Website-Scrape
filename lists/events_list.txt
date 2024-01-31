@@ -13,7 +13,6 @@
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
 {'id': '8556', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8556/', 'title': 'Sports Night'}
-{'id': '8581', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8581/', 'title': 'Account Login'}
 {'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Housemate Finder'}
 {'id': '8584', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8584/', 'title': 'Yoga'}
 {'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Yoga'}
@@ -79,6 +78,11 @@
 {'id': '8775', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8775/', 'title': 'Lunar New Year Celebration'}
 {'id': '8778', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8778/', 'title': 'Elgar Tea Party'}
 {'id': '8779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8779/', 'title': 'Tennis Court Cacti and Cookies'}
+{'id': '8782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8782/', 'title': 'Micro Volunteering Give It A Go: Valentines Card Making with UNICEF'}
+{'id': '8783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8783/', 'title': 'Micro Volunteering Give It A Go: Campus Litter Pick with Amnesty'}
+{'id': '8784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8784/', 'title': 'Micro Volunteering Give It A Go: Bracelet Making with UoB Beat'}
+{'id': '8785', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8785/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Grow With Joe"}
+{'id': '8786', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8786/', 'title': 'Micro Volunteering Give It A Go: CPR and Basic Life Saving Skills with First Aid Soc'}
 {'event_id': '8607', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8607/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8608', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8608/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
