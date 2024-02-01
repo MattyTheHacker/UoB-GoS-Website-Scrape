@@ -1314,7 +1314,15 @@ https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-
 https://www.guildofstudents.com/asset/News/6016/Autumn-By-Elections-2023-Results-Tables.pdf
 https://www.guildofstudents.com/asset/News/6016/Elections-Regulations-2023-24-Officer-Elections-24.pdf
 https://www.guildofstudents.com/asset/News/6016/Guild-of-Students-Bye-Law-8-Officer-Elections-24.pdf
+https://www.guildofstudents.com/asset/Organisation/34400/Annual-Risk-Assessment-2019-2020.pdf
+https://www.guildofstudents.com/asset/Organisation/34400/Autism-constitution-2019.pdf
+https://www.guildofstudents.com/asset/Organisation/34400/Autism-Constitution-2021.pdf
+https://www.guildofstudents.com/asset/Organisation/34400/Autism-Society-Comittee-Meeting-4.12.19.pdf
+https://www.guildofstudents.com/asset/Organisation/34400/Autism-Society-Committee-Meeting-23.10.19.pdf
+https://www.guildofstudents.com/asset/Organisation/34400/Autism-society-Covid-Context-RA_MeetUps.pdf
+https://www.guildofstudents.com/asset/Organisation/34400/EGM-Oct-2021_redacted_surnames.pdf
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
+https://www.guildofstudents.com/asset/Organisation/7435/Volunteer-description-TAPP-pdf.pdf
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
 https://www.guildofstudents.com/blackvoices/
 https://www.guildofstudents.com/blogs/blog/officers-23-24/
@@ -1491,6 +1499,7 @@ https://www.guildofstudents.com/events/13206/8662/
 https://www.guildofstudents.com/events/13206/8663/
 https://www.guildofstudents.com/events/13206/8664/
 https://www.guildofstudents.com/events/13206/8673/
+https://www.guildofstudents.com/events/13206/8807/
 https://www.guildofstudents.com/events/20372/8667/
 https://www.guildofstudents.com/events/20913/8597/
 https://www.guildofstudents.com/events/20913/8598/
@@ -2557,6 +2566,7 @@ https://www.guildofstudents.com/organisation/archaeology/
 https://www.guildofstudents.com/organisation/art/
 https://www.guildofstudents.com/organisation/article19/
 https://www.guildofstudents.com/organisation/astrosoc/
+https://www.guildofstudents.com/organisation/autism/
 https://www.guildofstudents.com/organisation/bacas/
 https://www.guildofstudents.com/organisation/badfilm/
 https://www.guildofstudents.com/organisation/baking/
@@ -3402,6 +3412,7 @@ https://www.guildofstudents.com/studentgroups/societies/amnesty/
 https://www.guildofstudents.com/studentgroups/societies/anglican/
 https://www.guildofstudents.com/studentgroups/societies/arab/
 https://www.guildofstudents.com/studentgroups/societies/asc/
+https://www.guildofstudents.com/studentgroups/societies/autismplayproject/
 https://www.guildofstudents.com/studentgroups/societies/beat/
 https://www.guildofstudents.com/studentgroups/societies/bema/
 https://www.guildofstudents.com/studentgroups/societies/bengali/
@@ -3598,6 +3609,7 @@ https://www.guildofstudents.commailto:archaeology@guild.bham.ac.uk
 https://www.guildofstudents.commailto:article19@guild.bham.ac.uk
 https://www.guildofstudents.commailto:artsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:astrosoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:autism@guild.bham.ac.uk
 https://www.guildofstudents.commailto:aviation@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bacas@guild.bham.ac.uk
 https://www.guildofstudents.commailto:badfilm@guild.bham.ac.uk
@@ -3857,6 +3869,7 @@ https://www.guildofstudents.commailto:studentvoice@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sudanese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:systemsteam@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tamil@guild.bham.ac.uk
+https://www.guildofstudents.commailto:tapp@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tcu@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tea@guild.bham.ac.uk
 https://www.guildofstudents.commailto:teamup@guild.bham.ac.uk

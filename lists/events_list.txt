@@ -51,7 +51,6 @@
 {'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Student Volunteering Week Celebration!'}
 {'id': '8748', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8748/', 'title': 'Bournbrook Film Bingo'}
 {'id': '8749', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8749/', 'title': 'Mason Post-it Note Café'}
-{'id': '8752', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8752/', 'title': 'Account Login'}
 {'id': '8753', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8753/', 'title': 'BUDS FREE Street/Commercial Class'}
 {'id': '8754', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8754/', 'title': 'FREE latin dance class with DCL'}
 {'id': '8768', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8768/', 'title': 'Housemate Finder'}

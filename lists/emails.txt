@@ -18,6 +18,7 @@ https://www.guildofstudents.commailto:archaeology@guild.bham.ac.uk
 https://www.guildofstudents.commailto:article19@guild.bham.ac.uk
 https://www.guildofstudents.commailto:artsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:astrosoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:autism@guild.bham.ac.uk
 https://www.guildofstudents.commailto:aviation@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bacas@guild.bham.ac.uk
 https://www.guildofstudents.commailto:badfilm@guild.bham.ac.uk
@@ -277,6 +278,7 @@ https://www.guildofstudents.commailto:studentvoice@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sudanese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:systemsteam@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tamil@guild.bham.ac.uk
+https://www.guildofstudents.commailto:tapp@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tcu@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tea@guild.bham.ac.uk
 https://www.guildofstudents.commailto:teamup@guild.bham.ac.uk
