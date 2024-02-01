@@ -2,7 +2,6 @@
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Sorry, there was a problem'}
 {'id': '8532', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8532/', 'title': "Language Cafe x Valentine's Day"}
-{'id': '8537', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8537/', 'title': 'Sorry, there was a problem'}
 {'id': '8538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8538/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
 {'id': '8540', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8540/', 'title': 'Pole fitness taster for Postgraduates!'}
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
@@ -52,7 +51,7 @@
 {'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Student Volunteering Week Celebration!'}
 {'id': '8748', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8748/', 'title': 'Bournbrook Film Bingo'}
 {'id': '8749', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8749/', 'title': 'Mason Post-it Note Café'}
-{'id': '8752', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8752/', 'title': 'Maple Bank Back to School'}
+{'id': '8752', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8752/', 'title': 'Account Login'}
 {'id': '8753', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8753/', 'title': 'BUDS FREE Street/Commercial Class'}
 {'id': '8754', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8754/', 'title': 'FREE latin dance class with DCL'}
 {'id': '8768', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8768/', 'title': 'Housemate Finder'}
@@ -141,10 +140,12 @@
 {'event_id': '8707', 'organisation_id': '40835', 'organisation': 'Queer Arts', 'url': 'https://www.guildofstudents.com/events/40835/8707/', 'title': 'Creating Flag Art'}
 {'event_id': '8565', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8565/', 'title': 'African Dance Session 3'}
 {'event_id': '8764', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/8764/', 'title': "Meet n' Play"}
+{'event_id': '8798', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8798/', 'title': 'Henna Workshop'}
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
 {'event_id': '8792', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8792/', 'title': 'Cupids Corner Cocktail event'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
+{'event_id': '8799', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8799/', 'title': 'The BNY Mellon Technical Challenge'}
 {'event_id': '8734', 'organisation_id': '6547', 'organisation': 'DCL', 'url': 'https://www.guildofstudents.com/events/6547/8734/', 'title': 'Cali Fair by Dance Club Latino'}
 {'event_id': '8645', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8645/', 'title': 'Ruddigore by UBG&S'}
 {'event_id': '8646', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8646/', 'title': 'Ruddigore by UBG&S'}
@@ -159,6 +160,7 @@
 {'event_id': '8765', 'organisation_id': '6963', 'organisation': 'First Aid Society - SJA LINKS', 'url': 'https://www.guildofstudents.com/events/6963/8765/', 'title': 'First Aid Society Merch 2024'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
+{'event_id': '8705', 'organisation_id': '7283', 'organisation': 'Saudi', 'url': 'https://www.guildofstudents.com/events/7283/8705/', 'title': 'Saudi Founding Day'}
 {'event_id': '8669', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8669/', 'title': 'Elan Valley coach trip'}
 {'event_id': '8670', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8670/', 'title': 'Lake District weekend trip'}
 {'event_id': '8671', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8671/', 'title': 'Shropshire Day Hike'}
