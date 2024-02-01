@@ -18,6 +18,7 @@ archaeology@guild.bham.ac.uk
 article19@guild.bham.ac.uk
 artsoc@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
+autism@guild.bham.ac.uk
 aviation@guild.bham.ac.uk
 bacas@guild.bham.ac.uk
 badfilm@guild.bham.ac.uk
@@ -275,6 +276,7 @@ studentvoice@guild.bham.ac.uk
 sudanese@guild.bham.ac.uk
 systemsteam@guild.bham.ac.uk
 tamil@guild.bham.ac.uk
+tapp@guild.bham.ac.uk
 tcu@guild.bham.ac.uk
 tea@guild.bham.ac.uk
 teamup@guild.bham.ac.uk

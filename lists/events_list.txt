@@ -113,6 +113,7 @@
 {'event_id': '8663', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8663/', 'title': 'Speaker Series: Baroness Gisela Stuart'}
 {'event_id': '8664', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8664/', 'title': 'Speaker Series: Councillor Morriam Jan'}
 {'event_id': '8673', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8673/', 'title': "International Women's Day Ball Afterparty"}
+{'event_id': '8807', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8807/', 'title': 'Summer Celebration | Women in Politics'}
 {'event_id': '8667', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8667/', 'title': 'West Midlands Police Museum Visit'}
 {'event_id': '8597', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8597/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8598', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8598/', 'title': 'Sober Socials Friday Games Night'}
