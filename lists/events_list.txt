@@ -38,8 +38,8 @@
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
 {'id': '8730', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8730/', 'title': 'Student Mentor Pop Up'}
-{'id': '8731', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8731/', 'title': 'Student Mentor Pop Up'}
-{'id': '8732', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8732/', 'title': 'Student Mentor Pop Up'}
+{'id': '8731', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8731/', 'title': 'Sorry, there was a problem'}
+{'id': '8732', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8732/', 'title': 'Sorry, there was a problem'}
 {'id': '8733', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8733/', 'title': 'Student Mentor Pop Up'}
 {'id': '8737', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8737/', 'title': 'Coffee & Clean Up'}
 {'id': '8738', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8738/', 'title': 'Big Selly Litter Pick'}
@@ -128,6 +128,7 @@
 {'event_id': '8747', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8747/', 'title': 'UOBEX Movie Night + EGM!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
+{'event_id': '8809', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8809/', 'title': "A Midsummer's Night Dream"}
 {'event_id': '8704', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/8704/', 'title': 'Criminology Pub Quiz'}
 {'event_id': '8755', 'organisation_id': '23631', 'organisation': 'Filipino', 'url': 'https://www.guildofstudents.com/events/23631/8755/', 'title': 'Filsoc Potluck'}
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}
