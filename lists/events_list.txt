@@ -30,6 +30,7 @@
 {'id': '8696', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8696/', 'title': 'Bingo'}
 {'id': '8697', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8697/', 'title': 'Bingo'}
 {'id': '8698', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8698/', 'title': 'Bingo'}
+{'id': '8701', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8701/', 'title': 'Refreshers'}
 {'id': '8716', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8716/', 'title': 'Officer Elections 2024: Candidate Briefing'}
 {'id': '8718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8718/', 'title': 'Becoming an Officer: LGBT+ Students Session'}
 {'id': '8719', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8719/', 'title': 'Becoming an Officer: Student Reps'}
@@ -70,6 +71,8 @@
 {'id': '8794', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8794/', 'title': 'sports-night'}
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Ball'}
 {'id': '8797', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8797/', 'title': 'Pritchatts Jewellery Making and Brownies'}
+{'id': '8811', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8811/', 'title': 'Refreshers'}
+{'id': '8812', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8812/', 'title': 'Where Volunteering Can Take You'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -127,6 +130,7 @@
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
 {'event_id': '8809', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8809/', 'title': "A Midsummer's Night Dream"}
+{'event_id': '8810', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8810/', 'title': 'Charity Karaoke'}
 {'event_id': '8704', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/8704/', 'title': 'Criminology Pub Quiz'}
 {'event_id': '8755', 'organisation_id': '23631', 'organisation': 'Filipino', 'url': 'https://www.guildofstudents.com/events/23631/8755/', 'title': 'Filsoc Potluck'}
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}

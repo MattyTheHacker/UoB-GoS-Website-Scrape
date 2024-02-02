@@ -1356,13 +1356,12 @@ https://www.guildofstudents.com/ents/event/8540/
 https://www.guildofstudents.com/ents/event/8553/
 https://www.guildofstudents.com/ents/event/8555/
 https://www.guildofstudents.com/ents/event/8582/
-https://www.guildofstudents.com/ents/event/8584/
 https://www.guildofstudents.com/ents/event/8585/
 https://www.guildofstudents.com/ents/event/8588/
 https://www.guildofstudents.com/ents/event/8591/
 https://www.guildofstudents.com/ents/event/8658/
-https://www.guildofstudents.com/ents/event/8659/
 https://www.guildofstudents.com/ents/event/8675/
+https://www.guildofstudents.com/ents/event/8678/
 https://www.guildofstudents.com/ents/event/8682/
 https://www.guildofstudents.com/ents/event/8683/
 https://www.guildofstudents.com/ents/event/8684/
@@ -1422,6 +1421,7 @@ https://www.guildofstudents.com/ents/event/8796/
 https://www.guildofstudents.com/ents/event/8797/
 https://www.guildofstudents.com/ents/event/8811/
 https://www.guildofstudents.com/ents/event/8812/
+https://www.guildofstudents.com/ents/event/8813/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
@@ -1513,6 +1513,7 @@ https://www.guildofstudents.com/events/20913/8603/
 https://www.guildofstudents.com/events/20913/8604/
 https://www.guildofstudents.com/events/20913/8708/
 https://www.guildofstudents.com/events/20937/8655/
+https://www.guildofstudents.com/events/20937/8743/
 https://www.guildofstudents.com/events/20937/8747/
 https://www.guildofstudents.com/events/21718/8724/
 https://www.guildofstudents.com/events/22470/8725/
@@ -3376,6 +3377,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/shop/rev
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/support/sportaccessfund/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
@@ -3468,6 +3470,7 @@ https://www.guildofstudents.com/studentgroups/societies/linguist/
 https://www.guildofstudents.com/studentgroups/societies/links/
 https://www.guildofstudents.com/studentgroups/societies/lunar/
 https://www.guildofstudents.com/studentgroups/societies/make-a-smile/
+https://www.guildofstudents.com/studentgroups/societies/malayalee/
 https://www.guildofstudents.com/studentgroups/societies/malaysian/
 https://www.guildofstudents.com/studentgroups/societies/marrow/
 https://www.guildofstudents.com/studentgroups/societies/msf/
@@ -3787,6 +3790,7 @@ https://www.guildofstudents.commailto:linguist@guild.bham.ac.uk
 https://www.guildofstudents.commailto:links@guild.bham.ac.uk
 https://www.guildofstudents.commailto:liveart@guild.bham.ac.uk
 https://www.guildofstudents.commailto:livemusic@guild.bham.ac.uk
+https://www.guildofstudents.commailto:malayalee@guild.bham.ac.uk
 https://www.guildofstudents.commailto:malaysia@guild.bham.ac.uk
 https://www.guildofstudents.commailto:marketing.birmingham@uk.elsa.org
 https://www.guildofstudents.commailto:marketingsociety@guild.bham.ac.uk
