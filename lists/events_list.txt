@@ -38,8 +38,6 @@
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
 {'id': '8730', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8730/', 'title': 'Student Mentor Pop Up'}
-{'id': '8731', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8731/', 'title': 'Sorry, there was a problem'}
-{'id': '8732', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8732/', 'title': 'Sorry, there was a problem'}
 {'id': '8733', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8733/', 'title': 'Student Mentor Pop Up'}
 {'id': '8737', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8737/', 'title': 'Coffee & Clean Up'}
 {'id': '8738', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8738/', 'title': 'Big Selly Litter Pick'}
@@ -134,12 +132,13 @@
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '8606', 'organisation_id': '35449', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35449/8606/', 'title': 'Teddy Bear Hospital Annual Conference'}
+{'event_id': '8769', 'organisation_id': '35529', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35529/8769/', 'title': 'Oddballs Bobble Hats'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8746', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8746/', 'title': 'Kotthu & Movie Social!'}
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
 {'event_id': '8808', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8808/', 'title': 'Paint and Sip'}
-{'event_id': '8707', 'organisation_id': '40835', 'organisation': 'Queer Arts', 'url': 'https://www.guildofstudents.com/events/40835/8707/', 'title': 'Creating Flag Art'}
+{'event_id': '8707', 'organisation_id': '40835', 'organisation': 'Queer Arts', 'url': 'https://www.guildofstudents.com/events/40835/8707/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8565', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8565/', 'title': 'African Dance Session 3'}
 {'event_id': '8764', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/8764/', 'title': "Meet n' Play"}
 {'event_id': '8798', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8798/', 'title': 'Henna Workshop'}
@@ -159,7 +158,6 @@
 {'event_id': '8143', 'organisation_id': '6731', 'organisation': 'Harry Potter', 'url': 'https://www.guildofstudents.com/events/6731/8143/', 'title': 'Harry Potter Studios Trip'}
 {'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
-{'event_id': '8765', 'organisation_id': '6963', 'organisation': 'First Aid Society - SJA LINKS', 'url': 'https://www.guildofstudents.com/events/6963/8765/', 'title': 'Account Login'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8801', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/8801/', 'title': 'Mathsoc Quiz Night'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
