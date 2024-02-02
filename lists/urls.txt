@@ -1422,6 +1422,8 @@ https://www.guildofstudents.com/ents/event/8797/
 https://www.guildofstudents.com/ents/event/8811/
 https://www.guildofstudents.com/ents/event/8812/
 https://www.guildofstudents.com/ents/event/8813/
+https://www.guildofstudents.com/ents/event/8815/
+https://www.guildofstudents.com/ents/event/8816/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
@@ -1590,6 +1592,7 @@ https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Student
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
 https://www.guildofstudents.com/news/article/website/Overcoming-loneliness-at-University/
 https://www.guildofstudents.com/news/article/website/Repurposing-Old-Clothes-for-a-Stylish-Tomorrow/
+https://www.guildofstudents.com/news/article/website/Study/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
@@ -3597,6 +3600,7 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/\\/about/')
+https://www.guildofstudents.comjavascript:__doPostBack('ctl00$newslist$rptPages$ctl00$lnkPageNumber','')
 https://www.guildofstudents.comjavascript:history.back();
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:13thhorror@guild.bham.ac.uk

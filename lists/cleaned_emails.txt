@@ -188,6 +188,7 @@ linguist@guild.bham.ac.uk
 links@guild.bham.ac.uk
 liveart@guild.bham.ac.uk
 livemusic@guild.bham.ac.uk
+malayalee@guild.bham.ac.uk
 malaysia@guild.bham.ac.uk
 marketing.birmingham@uk.elsa.org
 marketingsociety@guild.bham.ac.uk

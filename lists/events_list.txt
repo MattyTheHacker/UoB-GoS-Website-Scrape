@@ -7,13 +7,12 @@
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
 {'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Housemate Finder'}
-{'id': '8584', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8584/', 'title': 'Sorry, there was a problem'}
 {'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Yoga'}
 {'id': '8588', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8588/', 'title': 'Self Defence Class (FEMALE AND NON BINARY STUDENTS)'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
 {'id': '8658', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8658/', 'title': 'Self-Love ValenTIME'}
-{'id': '8659', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8659/', 'title': 'Sorry, there was a problem'}
 {'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'Sports Night'}
+{'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'Mathsoc Spring Ball'}
 {'id': '8682', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8682/', 'title': 'Quiz'}
 {'id': '8683', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8683/', 'title': 'Quiz'}
 {'id': '8684', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8684/', 'title': 'Quiz'}
@@ -73,6 +72,7 @@
 {'id': '8797', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8797/', 'title': 'Pritchatts Jewellery Making and Brownies'}
 {'id': '8811', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8811/', 'title': 'Refreshers'}
 {'id': '8812', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8812/', 'title': 'Where Volunteering Can Take You'}
+{'id': '8813', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8813/', 'title': 'Hall Reps Pick up a Pancake Mix'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -126,6 +126,7 @@
 {'event_id': '8604', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8604/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8708', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8708/', 'title': 'Sober Socials Laser Tag'}
 {'event_id': '8655', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8655/', 'title': 'Golf Fang with UOBEX!'}
+{'event_id': '8743', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8743/', 'title': 'Alton Towers with UOBEX!'}
 {'event_id': '8747', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8747/', 'title': 'UOBEX Movie Night + EGM!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
