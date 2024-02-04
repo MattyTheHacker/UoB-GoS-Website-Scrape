@@ -66,7 +66,7 @@
 {'id': '8791', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8791/', 'title': 'Elgar Heartfelt Hampers'}
 {'id': '8793', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8793/', 'title': 'Jarratt Cookie Cubes and Coffee Cups'}
 {'id': '8794', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8794/', 'title': 'sports-night'}
-{'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Ball'}
+{'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
 {'id': '8797', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8797/', 'title': 'Pritchatts Jewellery Making and Brownies'}
 {'id': '8811', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8811/', 'title': 'Refreshers'}
 {'id': '8812', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8812/', 'title': 'Where Volunteering Can Take You'}
