@@ -73,6 +73,7 @@
 {'id': '8813', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8813/', 'title': 'Hall Reps Pick up a Pancake Mix'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '8816', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8816/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Cotteridge Park"}
+{'id': '8822', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8822/', 'title': 'Community Breakfast'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -151,6 +152,7 @@
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
 {'event_id': '8770', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8770/', 'title': 'Bakesoc & Craft Society Collab 7/2/24 1:45-2:45'}
 {'event_id': '8771', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8771/', 'title': 'Bakesoc & Craft Society Collab 7/2/24 2:45-3:45'}
+{'event_id': '8820', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8820/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8792', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8792/', 'title': 'Cupids Corner Cocktail event'}
 {'event_id': '8709', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8709/', 'title': 'Craft Society x Bake Soc'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
