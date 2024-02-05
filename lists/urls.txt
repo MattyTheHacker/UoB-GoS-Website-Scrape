@@ -83,6 +83,7 @@ https://www.guildofstudents.com#ethnicmore
 https://www.guildofstudents.com#filter
 https://www.guildofstudents.com#getintouch
 https://www.guildofstudents.com#instagrammore
+https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#internationalmore
 https://www.guildofstudents.com#jarratthallinfo
 https://www.guildofstudents.com#lgbtqmore
@@ -120,6 +121,7 @@ https://www.guildofstudents.com#navten
 https://www.guildofstudents.com#navthree
 https://www.guildofstudents.com#navtwo
 https://www.guildofstudents.com#newsblogs
+https://www.guildofstudents.com#next-1
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
 https://www.guildofstudents.com#postgraduatemore
@@ -294,6 +296,7 @@ https://www.guildofstudents.com//instagram.com/uobfilsoc
 https://www.guildofstudents.com//instagram.com/uobfolk
 https://www.guildofstudents.com//instagram.com/UoBGhanasoc
 https://www.guildofstudents.com//instagram.com/uobgirlgamers
+https://www.guildofstudents.com//instagram.com/uobgreekcypriot
 https://www.guildofstudents.com//instagram.com/uobhartsoc
 https://www.guildofstudents.com//instagram.com/uobhenna
 https://www.guildofstudents.com//instagram.com/uobhindusoc
@@ -1424,6 +1427,7 @@ https://www.guildofstudents.com/ents/event/8813/
 https://www.guildofstudents.com/ents/event/8815/
 https://www.guildofstudents.com/ents/event/8816/
 https://www.guildofstudents.com/ents/event/8822/
+https://www.guildofstudents.com/ents/event/8824/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
@@ -1504,7 +1508,6 @@ https://www.guildofstudents.com/events/13206/8663/
 https://www.guildofstudents.com/events/13206/8664/
 https://www.guildofstudents.com/events/13206/8673/
 https://www.guildofstudents.com/events/13206/8807/
-https://www.guildofstudents.com/events/20372/8667/
 https://www.guildofstudents.com/events/20372/8818/
 https://www.guildofstudents.com/events/20913/8597/
 https://www.guildofstudents.com/events/20913/8598/
@@ -3242,6 +3245,8 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Charlotte-Minter.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Student-Mentor-Job-Description-and-Person-Specification-Feb-24.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
@@ -3410,7 +3415,6 @@ https://www.guildofstudents.com/studentgroups/societies/38891/
 https://www.guildofstudents.com/studentgroups/societies/39024/
 https://www.guildofstudents.com/studentgroups/societies/39195/
 https://www.guildofstudents.com/studentgroups/societies/39298/
-https://www.guildofstudents.com/studentgroups/societies/40471/
 https://www.guildofstudents.com/studentgroups/societies/40550/
 https://www.guildofstudents.com/studentgroups/societies/40630/
 https://www.guildofstudents.com/studentgroups/societies/40744/
@@ -3512,6 +3516,7 @@ https://www.guildofstudents.com/studentgroups/societies/ubcu/
 https://www.guildofstudents.com/studentgroups/societies/ukrainiansociety/
 https://www.guildofstudents.com/studentgroups/societies/uniboobteam/
 https://www.guildofstudents.com/studentgroups/societies/unicef/
+https://www.guildofstudents.com/studentgroups/societies/uob_greek-cypriot/
 https://www.guildofstudents.com/studentgroups/societies/uobabacus/
 https://www.guildofstudents.com/studentgroups/societies/uobtaiwanese/
 https://www.guildofstudents.com/studentgroups/societies/valefestival/
@@ -3740,6 +3745,7 @@ https://www.guildofstudents.commailto:gmtg@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gospelchoir@guild.bham.ac.uk
 https://www.guildofstudents.commailto:got@guild.bham.ac.uk
+https://www.guildofstudents.commailto:GreekandCypriotSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:greenpartysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk

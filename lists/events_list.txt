@@ -116,7 +116,7 @@
 {'event_id': '8664', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8664/', 'title': 'Speaker Series: Councillor Morriam Jan'}
 {'event_id': '8673', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8673/', 'title': "International Women's Day Ball Afterparty"}
 {'event_id': '8807', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8807/', 'title': 'Summer Celebration | Women in Politics'}
-{'event_id': '8667', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8667/', 'title': 'West Midlands Police Museum Visit'}
+{'event_id': '8667', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8667/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8818', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8818/', 'title': "History society's pub golf"}
 {'event_id': '8597', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8597/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8598', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8598/', 'title': 'Sober Socials Friday Games Night'}
@@ -152,13 +152,13 @@
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
 {'event_id': '8770', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8770/', 'title': 'Bakesoc & Craft Society Collab 7/2/24 1:45-2:45'}
 {'event_id': '8771', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8771/', 'title': 'Bakesoc & Craft Society Collab 7/2/24 2:45-3:45'}
-{'event_id': '8820', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8820/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8792', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8792/', 'title': 'Cupids Corner Cocktail event'}
 {'event_id': '8709', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8709/', 'title': 'Craft Society x Bake Soc'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
 {'event_id': '8799', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8799/', 'title': 'The BNY Mellon Technical Challenge'}
 {'event_id': '8734', 'organisation_id': '6547', 'organisation': 'DCL', 'url': 'https://www.guildofstudents.com/events/6547/8734/', 'title': 'Cali Fair by Dance Club Latino'}
+{'event_id': '8823', 'organisation_id': '6595', 'organisation': 'Education', 'url': 'https://www.guildofstudents.com/events/6595/8823/', 'title': 'Education Society quiz night!'}
 {'event_id': '8645', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8645/', 'title': 'Ruddigore by UBG&S'}
 {'event_id': '8646', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8646/', 'title': 'Ruddigore by UBG&S'}
 {'event_id': '8647', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/8647/', 'title': 'Ruddigore by UBG&S'}
