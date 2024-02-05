@@ -127,6 +127,7 @@ gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
 gospelchoir@guild.bham.ac.uk
 got@guild.bham.ac.uk
+GreekandCypriotSociety@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
