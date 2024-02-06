@@ -1420,13 +1420,13 @@ https://www.guildofstudents.com/ents/event/8793/
 https://www.guildofstudents.com/ents/event/8794/
 https://www.guildofstudents.com/ents/event/8796/
 https://www.guildofstudents.com/ents/event/8797/
-https://www.guildofstudents.com/ents/event/8811/
 https://www.guildofstudents.com/ents/event/8812/
 https://www.guildofstudents.com/ents/event/8813/
 https://www.guildofstudents.com/ents/event/8815/
 https://www.guildofstudents.com/ents/event/8816/
 https://www.guildofstudents.com/ents/event/8822/
 https://www.guildofstudents.com/ents/event/8824/
+https://www.guildofstudents.com/ents/event/8826/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
@@ -1463,6 +1463,7 @@ https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/eventlist/voice/
+https://www.guildofstudents.com/ents/eventlist/welcomepage/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
@@ -1539,6 +1540,7 @@ https://www.guildofstudents.com/events/39125/8762/
 https://www.guildofstudents.com/events/40757/8808/
 https://www.guildofstudents.com/events/41452/8565/
 https://www.guildofstudents.com/events/41452/8814/
+https://www.guildofstudents.com/events/41452/8827/
 https://www.guildofstudents.com/events/41502/8764/
 https://www.guildofstudents.com/events/42040/8798/
 https://www.guildofstudents.com/events/42121/8780/
@@ -3586,6 +3588,7 @@ https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
+https://www.guildofstudents.com/welcome/events/event/8827/
 https://www.guildofstudents.com/welcome/international
 https://www.guildofstudents.com/welcome/newhome
 https://www.guildofstudents.com/welcome/newhome/
