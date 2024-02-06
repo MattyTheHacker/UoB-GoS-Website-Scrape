@@ -1,6 +1,6 @@
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
-{'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Sorry, there was a problem'}
+{'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
 {'id': '8532', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8532/', 'title': "Language Cafe x Valentine's Day"}
 {'id': '8538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8538/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
 {'id': '8540', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8540/', 'title': 'Pole fitness taster for Postgraduates!'}
@@ -31,7 +31,7 @@
 {'id': '8698', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8698/', 'title': 'Bingo'}
 {'id': '8701', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8701/', 'title': 'Refreshers'}
 {'id': '8716', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8716/', 'title': 'Officer Elections 2024: Candidate Briefing'}
-{'id': '8718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8718/', 'title': 'Becoming an Officer: LGBT+ Students Session'}
+{'id': '8718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8718/', 'title': 'Sorry, there was a problem'}
 {'id': '8719', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8719/', 'title': 'Becoming an Officer: Student Reps'}
 {'id': '8721', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8721/', 'title': 'Hall Reps Games Night'}
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
