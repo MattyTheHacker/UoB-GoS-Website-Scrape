@@ -67,13 +67,13 @@
 {'id': '8794', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8794/', 'title': 'sports-night'}
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
 {'id': '8797', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8797/', 'title': 'Pritchatts Jewellery Making and Brownies'}
-{'id': '8811', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8811/', 'title': 'Sorry, there was a problem'}
 {'id': '8812', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8812/', 'title': 'Where Volunteering Can Take You'}
 {'id': '8813', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8813/', 'title': 'Hall Reps Pick up a Pancake Mix'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '8816', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8816/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Cotteridge Park"}
 {'id': '8822', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8822/', 'title': 'Community Breakfast'}
 {'id': '8824', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8824/', 'title': 'Education Committee - Meeting 2'}
+{'id': '8826', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8826/', 'title': 'Valentines Wellbeing Cafe'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -147,6 +147,7 @@
 {'event_id': '8808', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8808/', 'title': 'Paint and Sip'}
 {'event_id': '8565', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8565/', 'title': 'African Dance Session 3'}
 {'event_id': '8814', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8814/', 'title': 'Film Night- Wedding Party'}
+{'event_id': '8827', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8827/', 'title': "Movie Night: Valentine's Edition"}
 {'event_id': '8764', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/8764/', 'title': "Meet n' Play"}
 {'event_id': '8798', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8798/', 'title': 'Henna Workshop'}
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
@@ -185,3 +186,4 @@
 {'event_id': '8639', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8639/', 'title': 'DocSoc Screening'}
 {'event_id': '8640', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8640/', 'title': 'DocSoc Screening'}
 {'event_id': '8641', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8641/', 'title': 'DocSoc Screening'}
+{'event_id': '8827', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/8827/', 'title': "Movie Night: Valentine's Edition"}
