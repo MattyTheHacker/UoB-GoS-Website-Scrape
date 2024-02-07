@@ -71,7 +71,7 @@
 {'id': '8813', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8813/', 'title': 'Hall Reps Pick up a Pancake Mix'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '8816', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8816/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Cotteridge Park"}
-{'id': '8822', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8822/', 'title': 'Community Breakfast'}
+{'id': '8822', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8822/', 'title': 'Sorry, there was a problem'}
 {'id': '8824', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8824/', 'title': 'Education Committee - Meeting 2'}
 {'id': '8826', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8826/', 'title': 'Valentines Wellbeing Cafe'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -136,7 +136,6 @@
 {'event_id': '8809', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8809/', 'title': "A Midsummer's Night Dream"}
 {'event_id': '8810', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8810/', 'title': 'Charity Karaoke'}
 {'event_id': '8750', 'organisation_id': '22478', 'organisation': 'Nursing Society', 'url': 'https://www.guildofstudents.com/events/22478/8750/', 'title': 'NurseSoc x ACMS clinical skills practice'}
-{'event_id': '8704', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/8704/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8755', 'organisation_id': '23631', 'organisation': 'Filipino', 'url': 'https://www.guildofstudents.com/events/23631/8755/', 'title': 'Filsoc Potluck'}
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
