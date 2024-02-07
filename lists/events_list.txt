@@ -131,11 +131,12 @@
 {'event_id': '8743', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8743/', 'title': 'Alton Towers with UOBEX!'}
 {'event_id': '8747', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8747/', 'title': 'UOBEX Movie Night + EGM!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
+{'event_id': '8829', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8829/', 'title': 'Taskmaster Sober Socials x NerdSoc Collab'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
 {'event_id': '8809', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8809/', 'title': "A Midsummer's Night Dream"}
 {'event_id': '8810', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8810/', 'title': 'Charity Karaoke'}
 {'event_id': '8750', 'organisation_id': '22478', 'organisation': 'Nursing Society', 'url': 'https://www.guildofstudents.com/events/22478/8750/', 'title': 'NurseSoc x ACMS clinical skills practice'}
-{'event_id': '8704', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/8704/', 'title': 'Criminology Pub Quiz'}
+{'event_id': '8704', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/8704/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8755', 'organisation_id': '23631', 'organisation': 'Filipino', 'url': 'https://www.guildofstudents.com/events/23631/8755/', 'title': 'Filsoc Potluck'}
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
