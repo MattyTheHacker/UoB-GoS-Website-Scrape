@@ -87,7 +87,6 @@ https://www.guildofstudents.com#instagrammore
 https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#internationalmore
 https://www.guildofstudents.com#jarratthallinfo
-https://www.guildofstudents.com#latest
 https://www.guildofstudents.com#lgbtqmore
 https://www.guildofstudents.com#mapleinfo
 https://www.guildofstudents.com#masoninfo
@@ -129,7 +128,6 @@ https://www.guildofstudents.com#oakleyinfo
 https://www.guildofstudents.com#postgraduatemore
 https://www.guildofstudents.com#presidentmore
 https://www.guildofstudents.com#recommendfriend
-https://www.guildofstudents.com#section1
 https://www.guildofstudents.com#sellyoakcourtinfo
 https://www.guildofstudents.com#shackle-carousel
 https://www.guildofstudents.com#shackletoninfo
@@ -141,7 +139,6 @@ https://www.guildofstudents.com#student-blog-1
 https://www.guildofstudents.com#studiosinfo
 https://www.guildofstudents.com#submission
 https://www.guildofstudents.com#tennisinfo
-https://www.guildofstudents.com#test-group
 https://www.guildofstudents.com#tiktokmore
 https://www.guildofstudents.com#top
 https://www.guildofstudents.com#transmore
@@ -365,7 +362,6 @@ https://www.guildofstudents.com//instagram.com/womeninpoliticsuob
 https://www.guildofstudents.com//instagram.com/yogauob
 https://www.guildofstudents.com//www.guildofstudents.com/
 https://www.guildofstudents.com/7wonderschallenge/
-https://www.guildofstudents.com/about
 https://www.guildofstudents.com/about/
 https://www.guildofstudents.com/about/accessibility/
 https://www.guildofstudents.com/about/companylawmeeting
@@ -1343,16 +1339,13 @@ https://www.guildofstudents.com/blogs/rss/officers-23-24/
 https://www.guildofstudents.com/blogs/rss/studentstaff/
 https://www.guildofstudents.com/community-wardens/cleaner-and-greener/junkbusters/
 https://www.guildofstudents.com/communitywardens/
-https://www.guildofstudents.com/contact
 https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
-https://www.guildofstudents.com/cookies
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
 https://www.guildofstudents.com/elections/nominations/189/
 https://www.guildofstudents.com/elections/posts/189/
 https://www.guildofstudents.com/employability/
-https://www.guildofstudents.com/ents/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8498/
 https://www.guildofstudents.com/ents/event/8503/
@@ -1383,7 +1376,6 @@ https://www.guildofstudents.com/ents/event/8696/
 https://www.guildofstudents.com/ents/event/8697/
 https://www.guildofstudents.com/ents/event/8698/
 https://www.guildofstudents.com/ents/event/8716/
-https://www.guildofstudents.com/ents/event/8719/
 https://www.guildofstudents.com/ents/event/8721/
 https://www.guildofstudents.com/ents/event/8722/
 https://www.guildofstudents.com/ents/event/8728/
@@ -1593,11 +1585,8 @@ https://www.guildofstudents.com/events/7727/8640/
 https://www.guildofstudents.com/events/7727/8641/
 https://www.guildofstudents.com/fab
 https://www.guildofstudents.com/fab/
-https://www.guildofstudents.com/footer/
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
-https://www.guildofstudents.com/frequently-asked-questions
-https://www.guildofstudents.com/gbtest/
 https://www.guildofstudents.com/gear
 https://www.guildofstudents.com/guildadvice
 https://www.guildofstudents.com/guildadvice/
@@ -1605,15 +1594,8 @@ https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/hallreps/#halls
-https://www.guildofstudents.com/health/
-https://www.guildofstudents.com/jobs-at-elevate
-https://www.guildofstudents.com/jobs/
-https://www.guildofstudents.com/jobs/how-to-apply
-https://www.guildofstudents.com/jobs/our-presenter-blogs/blog-post-1
-https://www.guildofstudents.com/joesbar/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/mediasales
-https://www.guildofstudents.com/news
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
@@ -1628,9 +1610,6 @@ https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-F
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
 https://www.guildofstudents.com/news/article/website/What-Is-Time-To-Talk-Day/
-https://www.guildofstudents.com/news/elevate-news/telstra-business-of-the-year
-https://www.guildofstudents.com/news/elevate-news/telstra-business-of-the-year/
-https://www.guildofstudents.com/news/parents/18-apps-a-student-shouldn-t-live-without
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/news/rss/27259/
 https://www.guildofstudents.com/news/rss/27262/
@@ -2566,7 +2545,6 @@ https://www.guildofstudents.com/officerteam/president/
 https://www.guildofstudents.com/officerteam/so/
 https://www.guildofstudents.com/officerteam/wco/
 https://www.guildofstudents.com/officerteam/wins
-https://www.guildofstudents.com/openair/
 https://www.guildofstudents.com/organisation/26488/
 https://www.guildofstudents.com/organisation/33748/
 https://www.guildofstudents.com/organisation/33757/
@@ -3285,8 +3263,6 @@ https://www.guildofstudents.com/pageassets/sustainability/greenimpact/NUS-Survey
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Smart-Action-Plan-2022-23.pdf
 https://www.guildofstudents.com/pageassets/value/joesbar/allergen-menu-0211.pdf
 https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Food-Menu-23-v2.pdf
-https://www.guildofstudents.com/parent-info
-https://www.guildofstudents.com/privacy-policy
 https://www.guildofstudents.com/privacy-policy/
 https://www.guildofstudents.com/privacy-policy/cctv-policy/
 https://www.guildofstudents.com/privacy-policy/data-protection-policy-employees-workers-consultants/
@@ -3311,7 +3287,6 @@ https://www.guildofstudents.com/profile/206647/
 https://www.guildofstudents.com/profile/207410/
 https://www.guildofstudents.com/profile/209792/
 https://www.guildofstudents.com/profile/234454/
-https://www.guildofstudents.com/programs
 https://www.guildofstudents.com/referenda/vote/19/54/
 https://www.guildofstudents.com/referendum
 https://www.guildofstudents.com/referendum/
@@ -3394,13 +3369,11 @@ https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/shop/reviewbasket/
-https://www.guildofstudents.com/site-map
 https://www.guildofstudents.com/sitemap/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/nominations/189/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/jobzone/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
@@ -3615,7 +3588,6 @@ https://www.guildofstudents.com/vacancies/
 https://www.guildofstudents.com/value/joesbar
 https://www.guildofstudents.com/value/joesbar#joesmenu
 https://www.guildofstudents.com/value/joesbar/
-https://www.guildofstudents.com/vote/
 https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
@@ -3647,7 +3619,6 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontrolle
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/\\/about/')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$newslist$rptPages$ctl00$lnkPageNumber','')
-https://www.guildofstudents.comjavascript:__doPostBack('ctl00$newslist$rptPages$ctl01$lnkPageNumber','')
 https://www.guildofstudents.comjavascript:history.back();
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:13thhorror@guild.bham.ac.uk
@@ -3730,7 +3701,6 @@ https://www.guildofstudents.commailto:cocktail@guild.bham.ac.uk
 https://www.guildofstudents.commailto:commercialawarenesssoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:communications@guild.bham.ac.uk
 https://www.guildofstudents.commailto:community@guild.bham.ac.uk
-https://www.guildofstudents.commailto:Community@guild.bham.ac.uk
 https://www.guildofstudents.commailto:communitypantry@guild.bham.ac.uk
 https://www.guildofstudents.commailto:complaints@guild.bham.ac.uk
 https://www.guildofstudents.commailto:conservatives@guild.bham.ac.uk
