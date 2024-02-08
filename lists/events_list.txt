@@ -33,7 +33,7 @@
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
-{'id': '8737', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8737/', 'title': 'Coffee & Clean Up'}
+{'id': '8737', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8737/', 'title': 'Sorry, there was a problem'}
 {'id': '8738', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8738/', 'title': 'Big Selly Litter Pick'}
 {'id': '8739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8739/', 'title': 'Card Making & Cakes'}
 {'id': '8740', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8740/', 'title': 'Canal Clean Up'}
@@ -59,7 +59,7 @@
 {'id': '8786', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8786/', 'title': 'Micro Volunteering Give It A Go: CPR and Basic Life Saving Skills with First Aid Soc'}
 {'id': '8788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8788/', 'title': 'Random Acts Of Kindness Crafts'}
 {'id': '8790', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8790/', 'title': 'Letters For The Elderly'}
-{'id': '8791', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8791/', 'title': 'Elgar Heartfelt Hampers'}
+{'id': '8791', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8791/', 'title': 'Account Login'}
 {'id': '8793', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8793/', 'title': 'Jarratt Cookie Cubes and Coffee Cups'}
 {'id': '8794', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8794/', 'title': 'sports-night'}
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
@@ -135,7 +135,6 @@
 {'event_id': '8603', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8603/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8604', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8604/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8708', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8708/', 'title': 'Sober Socials Laser Tag'}
-{'event_id': '8655', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8655/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8743', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8743/', 'title': 'Alton Towers with UOBEX!'}
 {'event_id': '8747', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8747/', 'title': 'UOBEX Movie Night + EGM!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
@@ -148,13 +147,14 @@
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '8606', 'organisation_id': '35449', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35449/8606/', 'title': 'Teddy Bear Hospital Annual Conference'}
+{'event_id': '8842', 'organisation_id': '35465', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35465/8842/', 'title': 'UoB Orthosoc Orthopaedic Skills Day'}
 {'event_id': '8769', 'organisation_id': '35529', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35529/8769/', 'title': 'Oddballs Bobble Hats'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8746', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8746/', 'title': 'Kotthu & Movie Social!'}
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
 {'event_id': '8808', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8808/', 'title': 'Paint and Sip'}
-{'event_id': '8565', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8565/', 'title': 'Sorry, there was a problem'}
+{'event_id': '8566', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8566/', 'title': 'African Dance Session 4'}
 {'event_id': '8814', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8814/', 'title': 'Film Night- Wedding Party'}
 {'event_id': '8827', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8827/', 'title': "Movie Night: Valentine's Edition"}
 {'event_id': '8764', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/8764/', 'title': "Meet n' Play"}

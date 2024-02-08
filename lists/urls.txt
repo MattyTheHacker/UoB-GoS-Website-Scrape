@@ -45,6 +45,7 @@ https://www.guildofstudents.com#aefsurvey
 https://www.guildofstudents.com#aemore
 https://www.guildofstudents.com#aitkeninfo
 https://www.guildofstudents.com#allstudentvotecomment
+https://www.guildofstudents.com#allyoucaneat
 https://www.guildofstudents.com#apply
 https://www.guildofstudents.com#ashcroftinfo
 https://www.guildofstudents.com#battery-coursel
@@ -1428,6 +1429,8 @@ https://www.guildofstudents.com/ents/event/8838/
 https://www.guildofstudents.com/ents/event/8839/
 https://www.guildofstudents.com/ents/event/8840/
 https://www.guildofstudents.com/ents/event/8841/
+https://www.guildofstudents.com/ents/event/8843/
+https://www.guildofstudents.com/ents/event/8844/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
@@ -3581,6 +3584,7 @@ https://www.guildofstudents.com/surveys/volunteer24/
 https://www.guildofstudents.com/sustainability/gogreenweek/
 https://www.guildofstudents.com/sustainability/green-impact/
 https://www.guildofstudents.com/tac/
+https://www.guildofstudents.com/tac/fooddrink/
 https://www.guildofstudents.com/vacancies/
 https://www.guildofstudents.com/value/joesbar
 https://www.guildofstudents.com/value/joesbar#joesmenu
