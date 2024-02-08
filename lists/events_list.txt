@@ -136,6 +136,7 @@
 {'event_id': '8708', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8708/', 'title': 'Sober Socials Laser Tag'}
 {'event_id': '8743', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8743/', 'title': 'Alton Towers with UOBEX!'}
 {'event_id': '8747', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8747/', 'title': 'UOBEX Movie Night + EGM!'}
+{'event_id': '8767', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8767/', 'title': 'UOBEX Pub Night!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8829', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8829/', 'title': 'Taskmaster Sober Socials x NerdSoc Collab'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
@@ -149,6 +150,7 @@
 {'event_id': '8842', 'organisation_id': '35465', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35465/8842/', 'title': 'UoB Orthosoc Orthopaedic Skills Day'}
 {'event_id': '8769', 'organisation_id': '35529', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35529/8769/', 'title': 'Oddballs Bobble Hats'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
+{'event_id': '8845', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/8845/', 'title': 'BUDSS Mackenzie Academic Conference 2024'}
 {'event_id': '8746', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8746/', 'title': 'Kotthu & Movie Social!'}
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
