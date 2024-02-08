@@ -82,6 +82,8 @@
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
 {'id': '8840', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8840/', 'title': 'Welfare and Liberation Committee'}
 {'id': '8841', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8841/', 'title': 'Aitken Chocolate Fountain'}
+{'id': '8843', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8843/', 'title': 'Officer Elections: Photo Opportunity'}
+{'id': '8844', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8844/', 'title': 'Officer Elections: Photo Opportunity'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}
