@@ -1526,7 +1526,6 @@ https://www.guildofstudents.com/events/21718/8829/
 https://www.guildofstudents.com/events/22470/8725/
 https://www.guildofstudents.com/events/22470/8809/
 https://www.guildofstudents.com/events/22470/8810/
-https://www.guildofstudents.com/events/22478/8750/
 https://www.guildofstudents.com/events/23631/8755/
 https://www.guildofstudents.com/events/33847/8763/
 https://www.guildofstudents.com/events/34325/7972/
@@ -1564,6 +1563,7 @@ https://www.guildofstudents.com/events/6691/8652/
 https://www.guildofstudents.com/events/6731/8143/
 https://www.guildofstudents.com/events/6739/8547/
 https://www.guildofstudents.com/events/6739/8548/
+https://www.guildofstudents.com/events/6907/8850/
 https://www.guildofstudents.com/events/6995/8703/
 https://www.guildofstudents.com/events/7179/8776/
 https://www.guildofstudents.com/events/7219/8787/
@@ -1600,6 +1600,7 @@ https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-2-Results/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
+https://www.guildofstudents.com/news/article/website/How-to-get-involved-in-volunteering/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
 https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2024/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
@@ -3368,7 +3369,6 @@ https://www.guildofstudents.com/representation/youridea/?tag=Societies
 https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
 https://www.guildofstudents.com/sellyexpress/
-https://www.guildofstudents.com/shop/reviewbasket/
 https://www.guildofstudents.com/sitemap/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
@@ -3394,7 +3394,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/234454/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/referenda/vote/19/54/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/shop/reviewbasket/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/

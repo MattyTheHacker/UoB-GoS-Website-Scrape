@@ -6,18 +6,17 @@
 {'id': '8540', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8540/', 'title': 'Pole fitness taster for Postgraduates!'}
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
-{'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Sorry, there was a problem'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
 {'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'Sports Night'}
 {'id': '8678', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8678/', 'title': 'Mathsoc Spring Ball'}
 {'id': '8682', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8682/', 'title': 'Quiz'}
 {'id': '8683', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8683/', 'title': 'Quiz'}
-{'id': '8684', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8684/', 'title': 'Quiz'}
-{'id': '8685', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8685/', 'title': 'Quiz'}
-{'id': '8686', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8686/', 'title': 'Quiz'}
-{'id': '8687', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8687/', 'title': 'Quiz'}
-{'id': '8688', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8688/', 'title': 'Quiz'}
-{'id': '8689', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8689/', 'title': 'Quiz'}
+{'id': '8684', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8684/', 'title': 'Big Quiz'}
+{'id': '8685', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8685/', 'title': 'Big Quiz'}
+{'id': '8686', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8686/', 'title': 'Big Quiz'}
+{'id': '8687', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8687/', 'title': 'Big Quiz'}
+{'id': '8688', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8688/', 'title': 'Big Quiz'}
+{'id': '8689', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8689/', 'title': 'Big Quiz'}
 {'id': '8691', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8691/', 'title': 'Bingo'}
 {'id': '8692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8692/', 'title': 'Bingo'}
 {'id': '8693', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8693/', 'title': 'Bingo'}
@@ -134,7 +133,7 @@
 {'event_id': '8603', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8603/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8604', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8604/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8708', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8708/', 'title': 'Sober Socials Laser Tag'}
-{'event_id': '8743', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8743/', 'title': 'Alton Towers with UOBEX!'}
+{'event_id': '8743', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8743/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8747', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8747/', 'title': 'UOBEX Movie Night + EGM!'}
 {'event_id': '8767', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8767/', 'title': 'UOBEX Pub Night!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
