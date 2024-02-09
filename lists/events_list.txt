@@ -6,7 +6,6 @@
 {'id': '8540', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8540/', 'title': 'Pole fitness taster for Postgraduates!'}
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
-{'id': '8582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8582/', 'title': 'Sorry, there was a problem'}
 {'id': '8585', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8585/', 'title': 'Yoga'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
 {'id': '8675', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8675/', 'title': 'Sports Night'}
@@ -81,6 +80,7 @@
 {'id': '8841', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8841/', 'title': 'Aitken Chocolate Fountain'}
 {'id': '8843', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8843/', 'title': 'Officer Elections: Photo Opportunity'}
 {'id': '8844', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8844/', 'title': 'Officer Elections: Photo Opportunity'}
+{'id': '8849', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8849/', 'title': 'Micro Volunteering Give It A Go: Student Action For Refugees Making Campaign Posters'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -156,13 +156,13 @@
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
 {'event_id': '8808', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8808/', 'title': 'Paint and Sip'}
 {'event_id': '8566', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8566/', 'title': 'African Dance Session 4'}
-{'event_id': '8814', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8814/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8827', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8827/', 'title': "Movie Night: Valentine's Edition"}
 {'event_id': '8764', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/8764/', 'title': "Meet n' Play"}
 {'event_id': '8798', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8798/', 'title': 'Henna Workshop'}
 {'event_id': '8846', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8846/', 'title': 'Valentines x Henna Candles'}
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
 {'event_id': '8819', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8819/', 'title': 'Game night'}
+{'event_id': '8817', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8817/', 'title': 'BALADS BALL 2024'}
 {'event_id': '8792', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8792/', 'title': 'Cupids Corner Cocktail event'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
@@ -198,4 +198,3 @@
 {'event_id': '8639', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8639/', 'title': 'DocSoc Screening'}
 {'event_id': '8640', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8640/', 'title': 'DocSoc Screening'}
 {'event_id': '8641', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8641/', 'title': 'DocSoc Screening'}
-{'event_id': '8827', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/8827/', 'title': "Movie Night: Valentine's Edition"}
