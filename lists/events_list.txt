@@ -160,6 +160,7 @@
 {'event_id': '8846', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8846/', 'title': 'Valentines x Henna Candles'}
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
 {'event_id': '8819', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8819/', 'title': 'Game night'}
+{'event_id': '8766', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/8766/', 'title': 'A LOVE AFFAIR IN GOTHAM CITY - TAKE ME OUT BIRMINGHAM'}
 {'event_id': '8820', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8820/', 'title': 'Bakesoc & Public Speaking Society collab 14/2/24 - Brownies 5:30-7'}
 {'event_id': '8821', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8821/', 'title': 'Bakesoc & Public Speaking Society collab 14/2/24 - Brownies 7-8:30'}
 {'event_id': '8817', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8817/', 'title': 'BALADS BALL 2024'}
