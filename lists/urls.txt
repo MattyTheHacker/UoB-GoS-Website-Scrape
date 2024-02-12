@@ -1341,6 +1341,8 @@ https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Amy-Student-M
 https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Community-Wardens/
 https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Fatima-Hall-Rep/
 https://www.guildofstudents.com/blogs/blog/studentstaff/2024/02/12/Being-a-Student-Mentor-by-Rianna/
+https://www.guildofstudents.com/blogs/blog/studentstaff/2024/02/12/Student-Staff-Testimonials-Anudheep/
+https://www.guildofstudents.com/blogs/blog/studentstaff/2024/02/12/Student-Staff-Testimonials-Emily-and-Ana/
 https://www.guildofstudents.com/blogs/rss/officers-23-24/
 https://www.guildofstudents.com/blogs/rss/studentstaff/
 https://www.guildofstudents.com/community-wardens/cleaner-and-greener/junkbusters/
@@ -1557,6 +1559,7 @@ https://www.guildofstudents.com/events/6187/8817/
 https://www.guildofstudents.com/events/6339/8757/
 https://www.guildofstudents.com/events/6371/8800/
 https://www.guildofstudents.com/events/6475/8792/
+https://www.guildofstudents.com/events/6523/8710/
 https://www.guildofstudents.com/events/6531/8499/
 https://www.guildofstudents.com/events/6531/8510/
 https://www.guildofstudents.com/events/6547/8734/
@@ -2587,6 +2590,8 @@ https://www.guildofstudents.com/organisation/43193/
 https://www.guildofstudents.com/organisation/43203/
 https://www.guildofstudents.com/organisation/43214/
 https://www.guildofstudents.com/organisation/43329/
+https://www.guildofstudents.com/organisation/43412/
+https://www.guildofstudents.com/organisation/43422/
 https://www.guildofstudents.com/organisation/7751/
 https://www.guildofstudents.com/organisation/8649/
 https://www.guildofstudents.com/organisation/9220/
@@ -3645,6 +3650,7 @@ https://www.guildofstudents.commailto:afro-dance@guild.bham.ac.uk
 https://www.guildofstudents.commailto:afropologysoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ahlulbayt@guild.bham.ac.uk
 https://www.guildofstudents.commailto:AlternativeHipHopSociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:amateurradiosociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:amnesty@guild.bham.ac.uk
 https://www.guildofstudents.commailto:anime@guild.bham.ac.uk
 https://www.guildofstudents.commailto:arabsoc@guild.bham.ac.uk
@@ -3830,6 +3836,7 @@ https://www.guildofstudents.commailto:marketing.birmingham@uk.elsa.org
 https://www.guildofstudents.commailto:marketingsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:masocbham@gmail.com
 https://www.guildofstudents.commailto:mathsoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:mealprepsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:mediasales@guild.bham.ac.uk
 https://www.guildofstudents.commailto:mentorwelfare@guild.bham.ac.uk
 https://www.guildofstudents.commailto:metal@guild.bham.ac.uk

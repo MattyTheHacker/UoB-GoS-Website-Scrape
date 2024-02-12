@@ -30,7 +30,6 @@
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
-{'id': '8738', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8738/', 'title': 'Sorry, there was a problem'}
 {'id': '8739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8739/', 'title': 'Card Making & Cakes'}
 {'id': '8740', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8740/', 'title': 'Canal Clean Up'}
 {'id': '8741', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8741/', 'title': 'Birdhouse Painting Party'}
@@ -62,7 +61,6 @@
 {'id': '8813', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8813/', 'title': 'Hall Reps Pick up a Pancake Mix'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '8816', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8816/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Cotteridge Park"}
-{'id': '8824', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8824/', 'title': 'Sorry, there was a problem'}
 {'id': '8826', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8826/', 'title': 'Valentines Wellbeing Cafe'}
 {'id': '8830', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8830/', 'title': "Shackleton Valentine's Cupcake Decorating"}
 {'id': '8831', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8831/', 'title': 'Battery Park Caught the Love Mug'}
@@ -180,6 +178,7 @@
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
+{'event_id': '8854', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8854/', 'title': 'Annual Dinner'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8787', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8787/', 'title': 'Psychology Pottery Painting'}
 {'event_id': '8705', 'organisation_id': '7283', 'organisation': 'Saudi', 'url': 'https://www.guildofstudents.com/events/7283/8705/', 'title': 'Saudi Founding Day'}
