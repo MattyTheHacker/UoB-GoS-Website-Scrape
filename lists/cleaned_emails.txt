@@ -10,6 +10,7 @@ afro-dance@guild.bham.ac.uk
 afropologysoc@guild.bham.ac.uk
 ahlulbayt@guild.bham.ac.uk
 AlternativeHipHopSociety@guild.bham.ac.uk
+amateurradiosociety@guild.bham.ac.uk
 amnesty@guild.bham.ac.uk
 anime@guild.bham.ac.uk
 arabsoc@guild.bham.ac.uk
@@ -194,6 +195,7 @@ marketing.birmingham@uk.elsa.org
 marketingsociety@guild.bham.ac.uk
 masocbham@gmail.com
 mathsoc@guild.bham.ac.uk
+mealprepsociety@guild.bham.ac.uk
 mediasales@guild.bham.ac.uk
 mentorwelfare@guild.bham.ac.uk
 metal@guild.bham.ac.uk
