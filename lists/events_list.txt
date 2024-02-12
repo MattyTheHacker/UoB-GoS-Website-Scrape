@@ -48,7 +48,7 @@
 {'id': '8775', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8775/', 'title': 'Lunar New Year Celebration'}
 {'id': '8778', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8778/', 'title': 'Elgar Tea Party'}
 {'id': '8779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8779/', 'title': 'Tennis Court Cacti and Cookies'}
-{'id': '8782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8782/', 'title': 'Micro Volunteering Give It A Go: Valentines Card Making with UNICEF'}
+{'id': '8782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8782/', 'title': 'Sorry, there was a problem'}
 {'id': '8783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8783/', 'title': 'Micro Volunteering Give It A Go: Campus Litter Pick with Amnesty'}
 {'id': '8784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8784/', 'title': 'Micro Volunteering Give It A Go: Bracelet Making with UoB Beat'}
 {'id': '8785', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8785/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Grow With Joe"}
@@ -63,7 +63,7 @@
 {'id': '8813', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8813/', 'title': 'Hall Reps Pick up a Pancake Mix'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '8816', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8816/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Cotteridge Park"}
-{'id': '8824', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8824/', 'title': 'Education Committee - Meeting 2'}
+{'id': '8824', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8824/', 'title': 'Sorry, there was a problem'}
 {'id': '8826', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8826/', 'title': 'Valentines Wellbeing Cafe'}
 {'id': '8830', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8830/', 'title': "Shackleton Valentine's Cupcake Decorating"}
 {'id': '8831', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8831/', 'title': 'Battery Park Caught the Love Mug'}
@@ -166,6 +166,7 @@
 {'event_id': '8821', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8821/', 'title': 'Bakesoc & Public Speaking Society collab 14/2/24 - Brownies 7-8:30'}
 {'event_id': '8817', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8817/', 'title': 'BALADS BALL 2024'}
 {'event_id': '8757', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8757/', 'title': 'AJAM Transport Voucher'}
+{'event_id': '8800', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8800/', 'title': 'BUDS Squad Showcase'}
 {'event_id': '8792', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/8792/', 'title': 'Cupids Corner Cocktail event'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
