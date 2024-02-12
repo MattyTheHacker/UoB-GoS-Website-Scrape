@@ -9,6 +9,7 @@ http://www.guildofstudents.com/mediasales/
 http://www.guildofstudents.com/privacy-policy/studentprivacypolicynotice/
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
 http://www.guildofstudents.com/studentgroups
+http://www.guildofstudents.com/studentmentors
 http://www.guildofstudents.com/studentstaff
 http://www.guildofstudents.com/support/guildadvice/
 http://www.guildofstudents.com/sustainability/gogreenweek
@@ -1339,6 +1340,7 @@ https://www.guildofstudents.com/blogs/blog/studentstaff/
 https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Amy-Student-Mentor/
 https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Community-Wardens/
 https://www.guildofstudents.com/blogs/blog/studentstaff/2022/02/03/Fatima-Hall-Rep/
+https://www.guildofstudents.com/blogs/blog/studentstaff/2024/02/12/Being-a-Student-Mentor-by-Rianna/
 https://www.guildofstudents.com/blogs/rss/officers-23-24/
 https://www.guildofstudents.com/blogs/rss/studentstaff/
 https://www.guildofstudents.com/community-wardens/cleaner-and-greener/junkbusters/
@@ -1382,7 +1384,6 @@ https://www.guildofstudents.com/ents/event/8721/
 https://www.guildofstudents.com/ents/event/8722/
 https://www.guildofstudents.com/ents/event/8728/
 https://www.guildofstudents.com/ents/event/8729/
-https://www.guildofstudents.com/ents/event/8738/
 https://www.guildofstudents.com/ents/event/8739/
 https://www.guildofstudents.com/ents/event/8740/
 https://www.guildofstudents.com/ents/event/8741/
@@ -1414,7 +1415,6 @@ https://www.guildofstudents.com/ents/event/8812/
 https://www.guildofstudents.com/ents/event/8813/
 https://www.guildofstudents.com/ents/event/8815/
 https://www.guildofstudents.com/ents/event/8816/
-https://www.guildofstudents.com/ents/event/8824/
 https://www.guildofstudents.com/ents/event/8826/
 https://www.guildofstudents.com/ents/event/8830/
 https://www.guildofstudents.com/ents/event/8831/
@@ -1570,6 +1570,7 @@ https://www.guildofstudents.com/events/6739/8547/
 https://www.guildofstudents.com/events/6739/8548/
 https://www.guildofstudents.com/events/6907/8850/
 https://www.guildofstudents.com/events/6995/8703/
+https://www.guildofstudents.com/events/7067/8854/
 https://www.guildofstudents.com/events/7179/8776/
 https://www.guildofstudents.com/events/7219/8787/
 https://www.guildofstudents.com/events/7283/8705/

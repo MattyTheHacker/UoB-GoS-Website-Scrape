@@ -30,7 +30,7 @@
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
-{'id': '8738', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8738/', 'title': 'Big Selly Litter Pick'}
+{'id': '8738', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8738/', 'title': 'Sorry, there was a problem'}
 {'id': '8739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8739/', 'title': 'Card Making & Cakes'}
 {'id': '8740', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8740/', 'title': 'Canal Clean Up'}
 {'id': '8741', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8741/', 'title': 'Birdhouse Painting Party'}
@@ -48,7 +48,6 @@
 {'id': '8775', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8775/', 'title': 'Lunar New Year Celebration'}
 {'id': '8778', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8778/', 'title': 'Elgar Tea Party'}
 {'id': '8779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8779/', 'title': 'Tennis Court Cacti and Cookies'}
-{'id': '8782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8782/', 'title': 'Sorry, there was a problem'}
 {'id': '8783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8783/', 'title': 'Micro Volunteering Give It A Go: Campus Litter Pick with Amnesty'}
 {'id': '8784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8784/', 'title': 'Micro Volunteering Give It A Go: Bracelet Making with UoB Beat'}
 {'id': '8785', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8785/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Grow With Joe"}
