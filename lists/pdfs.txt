@@ -83,6 +83,8 @@ https://www.guildofstudents.com/pageassets/footer/resourcespublications/Voluntee
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/Zero-Tolerance-Policy(1).pdf
 https://www.guildofstudents.com/pageassets/referendum/GOG-Minutes-3.10.23.pdf
 https://www.guildofstudents.com/pageassets/referendum/Referendum-Regulations-23-24.pdf
+https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Award-Criteria.pdf
+https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Criteria-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/All-Student-Vote-Campaigning-Guidance-2324.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Guild-Bye-Laws-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Student-Access-to-Healthcare-Action-Group-Meeting-18.01.24.pdf
@@ -545,6 +547,9 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Bar-Assistant-Feb-24-Job-Description-and-Person-Specification.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Catering-Feb-24-JD.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Reception-Assistant-Feb-24-Job-Description.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Student-Mentor-Job-Description-and-Person-Specification-Feb-24.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf

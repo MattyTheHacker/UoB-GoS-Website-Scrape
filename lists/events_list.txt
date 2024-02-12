@@ -80,6 +80,7 @@
 {'id': '8843', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8843/', 'title': 'Officer Elections: Photo Opportunity'}
 {'id': '8844', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8844/', 'title': 'Officer Elections: Photo Opportunity'}
 {'id': '8849', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8849/', 'title': 'Micro Volunteering Give It A Go: Student Action For Refugees Making Campaign Posters'}
+{'id': '8853', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8853/', 'title': 'Black Voices: Tell It Like It Is'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}

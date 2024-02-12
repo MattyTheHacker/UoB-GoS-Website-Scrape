@@ -123,6 +123,8 @@ https://www.guildofstudents.com#navthree
 https://www.guildofstudents.com#navtwo
 https://www.guildofstudents.com#newsblogs
 https://www.guildofstudents.com#next-1
+https://www.guildofstudents.com#nino-1
+https://www.guildofstudents.com#nominatenow
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
 https://www.guildofstudents.com#postgraduatemore
@@ -1554,6 +1556,7 @@ https://www.guildofstudents.com/events/6179/8820/
 https://www.guildofstudents.com/events/6179/8821/
 https://www.guildofstudents.com/events/6187/8817/
 https://www.guildofstudents.com/events/6339/8757/
+https://www.guildofstudents.com/events/6371/8800/
 https://www.guildofstudents.com/events/6475/8792/
 https://www.guildofstudents.com/events/6531/8499/
 https://www.guildofstudents.com/events/6531/8510/
@@ -2782,6 +2785,8 @@ https://www.guildofstudents.com/pageassets/footer/resourcespublications/Zero-Tol
 https://www.guildofstudents.com/pageassets/referendum/GOG-Minutes-3.10.23.pdf
 https://www.guildofstudents.com/pageassets/referendum/Referendum-2023-Complaints-Form.docx
 https://www.guildofstudents.com/pageassets/referendum/Referendum-Regulations-23-24.pdf
+https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Award-Criteria.pdf
+https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Criteria-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/All-Student-Vote-Campaigning-Guidance-2324.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Guild-Bye-Laws-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Student-Access-to-Healthcare-Action-Group-Meeting-18.01.24.pdf
@@ -3254,6 +3259,9 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Bar-Assistant-Feb-24-Job-Description-and-Person-Specification.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Catering-Feb-24-JD.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Reception-Assistant-Feb-24-Job-Description.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Student-Mentor-Job-Description-and-Person-Specification-Feb-24.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
@@ -3294,6 +3302,7 @@ https://www.guildofstudents.com/profile/234454/
 https://www.guildofstudents.com/referenda/vote/19/54/
 https://www.guildofstudents.com/referendum
 https://www.guildofstudents.com/referendum/
+https://www.guildofstudents.com/repawards
 https://www.guildofstudents.com/representation
 https://www.guildofstudents.com/representation/
 https://www.guildofstudents.com/representation/allstudentmeeting/
