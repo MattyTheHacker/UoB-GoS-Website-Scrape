@@ -2,8 +2,6 @@
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
 {'id': '8532', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8532/', 'title': "Language Cafe x Valentine's Day"}
-{'id': '8538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8538/', 'title': 'Sorry, there was a problem'}
-{'id': '8540', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8540/', 'title': 'Sorry, there was a problem'}
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
