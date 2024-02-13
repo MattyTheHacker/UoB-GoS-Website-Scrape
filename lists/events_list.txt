@@ -30,7 +30,7 @@
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
-{'id': '8739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8739/', 'title': 'Card Making & Cakes'}
+{'id': '8739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8739/', 'title': 'Sorry, there was a problem'}
 {'id': '8740', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8740/', 'title': 'Canal Clean Up'}
 {'id': '8741', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8741/', 'title': 'Birdhouse Painting Party'}
 {'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
@@ -54,7 +54,7 @@
 {'id': '8788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8788/', 'title': 'Random Acts Of Kindness Crafts'}
 {'id': '8790', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8790/', 'title': 'Letters For The Elderly'}
 {'id': '8793', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8793/', 'title': 'Jarratt Cookie Cubes and Coffee Cups'}
-{'id': '8794', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8794/', 'title': 'sports-night'}
+{'id': '8794', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8794/', 'title': 'Sports Night'}
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
 {'id': '8797', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8797/', 'title': 'Pritchatts Jewellery Making and Brownies'}
 {'id': '8812', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8812/', 'title': 'Where Volunteering Can Take You'}
