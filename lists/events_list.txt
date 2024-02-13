@@ -2,7 +2,7 @@
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Biosoc 2024 ball'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
 {'id': '8532', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8532/', 'title': "Language Cafe x Valentine's Day"}
-{'id': '8538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8538/', 'title': 'Officer Elections 2024: Manifestos/Written Statement Training'}
+{'id': '8538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8538/', 'title': 'Sorry, there was a problem'}
 {'id': '8540', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8540/', 'title': 'Pole fitness taster for Postgraduates!'}
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
@@ -30,7 +30,6 @@
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
 {'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
-{'id': '8739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8739/', 'title': 'Account Login'}
 {'id': '8740', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8740/', 'title': 'Canal Clean Up'}
 {'id': '8741', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8741/', 'title': 'Birdhouse Painting Party'}
 {'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
@@ -57,7 +56,7 @@
 {'id': '8794', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8794/', 'title': 'Sports Night'}
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
 {'id': '8797', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8797/', 'title': 'Pritchatts Jewellery Making and Brownies'}
-{'id': '8812', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8812/', 'title': 'Where Volunteering Can Take You'}
+{'id': '8812', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8812/', 'title': 'Sorry, there was a problem'}
 {'id': '8813', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8813/', 'title': 'Hall Reps Pick up a Pancake Mix'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '8816', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8816/', 'title': "Micro Volunteering Give It A Go: Conservation Volunteers' Cotteridge Park"}
@@ -78,6 +77,7 @@
 {'id': '8844', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8844/', 'title': 'Officer Elections 2024: Photo Opportunity'}
 {'id': '8849', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8849/', 'title': 'Micro Volunteering Give It A Go: Student Action For Refugees Making Campaign Posters'}
 {'id': '8853', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8853/', 'title': 'Black Voices: Tell It Like It Is'}
+{'id': '8862', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8862/', 'title': 'Oak Brook Park: Pizza & Paint By Numbers'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}
