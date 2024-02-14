@@ -62,7 +62,7 @@
 {'id': '8831', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8831/', 'title': 'Battery Park Caught the Love Mug'}
 {'id': '8832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8832/', 'title': "Chamberlain Galentine's Pancakes"}
 {'id': '8833', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8833/', 'title': "Maple Bank Valentine's Bouquets"}
-{'id': '8834', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8834/', 'title': 'Community Breakfast'}
+{'id': '8834', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8834/', 'title': 'Sorry, there was a problem'}
 {'id': '8835', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8835/', 'title': 'Community Breakfast'}
 {'id': '8836', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8836/', 'title': 'Community Breakfast'}
 {'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Community Breakfast'}
@@ -181,6 +181,7 @@
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8787', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8787/', 'title': 'Psychology Pottery Painting'}
 {'event_id': '8705', 'organisation_id': '7283', 'organisation': 'Saudi', 'url': 'https://www.guildofstudents.com/events/7283/8705/', 'title': 'Saudi Founding Day'}
+{'event_id': '8867', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8867/', 'title': 'Valentines Day Stall'}
 {'event_id': '8669', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8669/', 'title': 'Elan Valley coach trip'}
 {'event_id': '8670', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8670/', 'title': 'Lake District weekend trip'}
 {'event_id': '8671', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8671/', 'title': 'Shropshire Day Hike'}
