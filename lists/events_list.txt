@@ -42,7 +42,6 @@
 {'id': '8775', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8775/', 'title': 'Lunar New Year Celebration'}
 {'id': '8778', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8778/', 'title': 'Elgar Tea Party'}
 {'id': '8779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8779/', 'title': 'Tennis Court Cacti and Cookies'}
-{'id': '8786', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8786/', 'title': 'Sorry, there was a problem'}
 {'id': '8788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8788/', 'title': 'Random Acts Of Kindness Crafts'}
 {'id': '8790', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8790/', 'title': 'Letters For The Elderly'}
 {'id': '8793', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8793/', 'title': 'Jarratt Cookie Cubes and Coffee Cups'}
