@@ -29,7 +29,7 @@
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
 {'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
 {'id': '8744', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8744/', 'title': 'Reclaim the Night: Banner Making'}
-{'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Student Volunteering Week Celebration!'}
+{'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Postponed - Student Volunteering Week Celebration'}
 {'id': '8748', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8748/', 'title': 'Bournbrook Film Bingo'}
 {'id': '8749', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8749/', 'title': 'Mason Post-it Note Café'}
 {'id': '8753', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8753/', 'title': 'BUDS FREE Street/Commercial Class'}
@@ -124,7 +124,6 @@
 {'event_id': '8604', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8604/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8708', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8708/', 'title': 'Sober Socials Laser Tag'}
 {'event_id': '8743', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8743/', 'title': 'Alton Towers with UOBEX!'}
-{'event_id': '8747', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8747/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8767', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8767/', 'title': 'UOBEX Pub Night!'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8829', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8829/', 'title': 'Taskmaster Sober Socials x NerdSoc Collab'}
@@ -155,6 +154,7 @@
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
 {'event_id': '8819', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8819/', 'title': 'Game night'}
 {'event_id': '8817', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8817/', 'title': 'BALADS BALL 2024'}
+{'event_id': '8877', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8877/', 'title': 'Dares Night'}
 {'event_id': '8757', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8757/', 'title': 'AJAM Transport Voucher'}
 {'event_id': '8800', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8800/', 'title': 'BUDS Squad Showcase'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
@@ -172,6 +172,7 @@
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8854', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8854/', 'title': 'Annual Dinner'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
+{'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
 {'event_id': '8787', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8787/', 'title': 'Psychology Pottery Painting'}
 {'event_id': '8705', 'organisation_id': '7283', 'organisation': 'Saudi', 'url': 'https://www.guildofstudents.com/events/7283/8705/', 'title': 'Saudi Founding Day'}
 {'event_id': '8867', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8867/', 'title': 'Valentines Day Stall'}
