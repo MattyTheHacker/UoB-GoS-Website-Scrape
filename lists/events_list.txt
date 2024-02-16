@@ -29,7 +29,7 @@
 {'id': '8729', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8729/', 'title': 'Officer Elections 2024: Public Speaking'}
 {'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
 {'id': '8744', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8744/', 'title': 'Reclaim the Night: Banner Making'}
-{'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Postponed - Student Volunteering Week Celebration'}
+{'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Sorry, there was a problem'}
 {'id': '8748', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8748/', 'title': 'Bournbrook Film Bingo'}
 {'id': '8749', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8749/', 'title': 'Mason Post-it Note Café'}
 {'id': '8753', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8753/', 'title': 'BUDS FREE Street/Commercial Class'}
@@ -172,11 +172,6 @@
 {'event_id': '8650', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8650/', 'title': 'Seasons of Love Showcase - 8th March 7:30pm'}
 {'event_id': '8651', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8651/', 'title': 'Seasons of Love Showcase - 9th March 7:30pm'}
 {'event_id': '8652', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8652/', 'title': 'Seasons of Love Showcase - 9th March 2:30pm'}
-{'event_id': '8802', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8802/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8803', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8803/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8804', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8804/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8805', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8805/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8806', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8806/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
