@@ -78,6 +78,7 @@ https://www.guildofstudents.com#demo
 https://www.guildofstudents.com#disabledmore
 https://www.guildofstudents.com#educationmore
 https://www.guildofstudents.com#electiondocs
+https://www.guildofstudents.com#electionevents
 https://www.guildofstudents.com#elgarinfo
 https://www.guildofstudents.com#ethicsmore
 https://www.guildofstudents.com#ethnicmore
@@ -129,7 +130,6 @@ https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
 https://www.guildofstudents.com#postgraduatemore
 https://www.guildofstudents.com#presidentmore
-https://www.guildofstudents.com#recommendfriend
 https://www.guildofstudents.com#sellyoakcourtinfo
 https://www.guildofstudents.com#shackle-carousel
 https://www.guildofstudents.com#shackletoninfo
@@ -1351,7 +1351,6 @@ https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
-https://www.guildofstudents.com/elections/nominations/189/
 https://www.guildofstudents.com/elections/posts/189/
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/8377/
@@ -1565,11 +1564,6 @@ https://www.guildofstudents.com/events/6691/8649/
 https://www.guildofstudents.com/events/6691/8650/
 https://www.guildofstudents.com/events/6691/8651/
 https://www.guildofstudents.com/events/6691/8652/
-https://www.guildofstudents.com/events/6691/8802/
-https://www.guildofstudents.com/events/6691/8803/
-https://www.guildofstudents.com/events/6691/8804/
-https://www.guildofstudents.com/events/6691/8805/
-https://www.guildofstudents.com/events/6691/8806/
 https://www.guildofstudents.com/events/6739/8547/
 https://www.guildofstudents.com/events/6739/8548/
 https://www.guildofstudents.com/events/6907/8850/
@@ -2767,6 +2761,7 @@ https://www.guildofstudents.com/pageassets/elections/Elections-Complaints-Proced
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Disabled-Students-Guidance-Plain-Text-Version.pdf
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Elections-2023-Complaints-Form.docx
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Elections-Regulations-2023-24.pdf
+https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Guild-of-Students-Bye-Law-8.pdf
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Photo-Upload-Guide.pdf
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Useful-Information-About-the-Guild-For-Your-Written-Statement-Campaign.pptx
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Written-Statement-Manifesto-Training.pptx
@@ -3391,13 +3386,11 @@ https://www.guildofstudents.com/representation/youridea/?tag=Postgraduate
 https://www.guildofstudents.com/representation/youridea/?tag=Societies
 https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
-https://www.guildofstudents.com/resourcehandler/5aba1df8-8c50-49be-b886-78ce83bf5f87/
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sitemap/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/nominations/189/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
