@@ -1518,7 +1518,6 @@ https://www.guildofstudents.com/events/20913/8603/
 https://www.guildofstudents.com/events/20913/8604/
 https://www.guildofstudents.com/events/20913/8708/
 https://www.guildofstudents.com/events/20937/8743/
-https://www.guildofstudents.com/events/20937/8747/
 https://www.guildofstudents.com/events/20937/8767/
 https://www.guildofstudents.com/events/21718/8724/
 https://www.guildofstudents.com/events/21718/8829/
@@ -1549,6 +1548,7 @@ https://www.guildofstudents.com/events/42040/8846/
 https://www.guildofstudents.com/events/42121/8780/
 https://www.guildofstudents.com/events/43138/8819/
 https://www.guildofstudents.com/events/6187/8817/
+https://www.guildofstudents.com/events/6251/8877/
 https://www.guildofstudents.com/events/6339/8757/
 https://www.guildofstudents.com/events/6371/8800/
 https://www.guildofstudents.com/events/6531/8499/
@@ -1566,6 +1566,7 @@ https://www.guildofstudents.com/events/6907/8856/
 https://www.guildofstudents.com/events/6995/8703/
 https://www.guildofstudents.com/events/7067/8854/
 https://www.guildofstudents.com/events/7179/8776/
+https://www.guildofstudents.com/events/7195/8873/
 https://www.guildofstudents.com/events/7219/8787/
 https://www.guildofstudents.com/events/7283/8705/
 https://www.guildofstudents.com/events/7475/8867/
@@ -1601,7 +1602,6 @@ https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-2-Results/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
-https://www.guildofstudents.com/news/article/website/How-to-get-involved-in-volunteering/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
 https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2024/
 https://www.guildofstudents.com/news/article/website/Notice-of-Election-Results/
