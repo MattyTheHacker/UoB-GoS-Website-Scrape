@@ -179,7 +179,6 @@
 {'event_id': '8854', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8854/', 'title': 'Annual Dinner'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
-{'event_id': '8787', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8787/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8705', 'organisation_id': '7283', 'organisation': 'Saudi', 'url': 'https://www.guildofstudents.com/events/7283/8705/', 'title': 'Saudi Founding Day'}
 {'event_id': '8886', 'organisation_id': '7459', 'organisation': 'Turkish', 'url': 'https://www.guildofstudents.com/events/7459/8886/', 'title': 'Turkish Movie Night'}
 {'event_id': '8867', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8867/', 'title': 'Valentines Day Stall'}
