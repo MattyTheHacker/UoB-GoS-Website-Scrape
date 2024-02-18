@@ -171,6 +171,11 @@
 {'event_id': '8650', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8650/', 'title': 'Seasons of Love Showcase - 8th March 7:30pm'}
 {'event_id': '8651', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8651/', 'title': 'Seasons of Love Showcase - 9th March 7:30pm'}
 {'event_id': '8652', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8652/', 'title': 'Seasons of Love Showcase - 9th March 2:30pm'}
+{'event_id': '8802', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8802/', 'title': 'Footloose - 21st March 7:30pm'}
+{'event_id': '8803', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8803/', 'title': 'Footloose - 22nd March 7:30pm'}
+{'event_id': '8804', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8804/', 'title': 'Footloose - 23rd March 2:30pm'}
+{'event_id': '8805', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8805/', 'title': 'Footloose - 23rd March 7:30pm'}
+{'event_id': '8806', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8806/', 'title': 'Footloose - 24th March 7:30pm'}
 {'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
