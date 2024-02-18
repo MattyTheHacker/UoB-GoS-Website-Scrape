@@ -48,7 +48,6 @@
 {'id': '8797', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8797/', 'title': 'Pritchatts Jewellery Making and Brownies'}
 {'id': '8813', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8813/', 'title': 'Hall Reps Pick up a Pancake Mix'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
-{'id': '8816', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8816/', 'title': 'Sorry, there was a problem'}
 {'id': '8830', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8830/', 'title': "Shackleton Valentine's Cupcake Decorating"}
 {'id': '8831', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8831/', 'title': 'Battery Park Caught the Love Mug'}
 {'id': '8832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8832/', 'title': "Chamberlain Galentine's Pancakes"}
@@ -162,6 +161,11 @@
 {'event_id': '8877', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8877/', 'title': 'Dares Night'}
 {'event_id': '8757', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8757/', 'title': 'AJAM Transport Voucher'}
 {'event_id': '8800', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8800/', 'title': 'BUDS Squad Showcase'}
+{'event_id': '8892', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8892/', 'title': 'BUDS Show: Renaissance – Wednesday Evening'}
+{'event_id': '8893', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8893/', 'title': 'BUDS Show: Renaissance – Thursday Evening'}
+{'event_id': '8894', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8894/', 'title': 'BUDS Show: Renaissance – Friday Evening'}
+{'event_id': '8895', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8895/', 'title': 'BUDS Show: Renaissance – Saturday Evening'}
+{'event_id': '8896', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8896/', 'title': 'BUDS Show: Renaissance – Saturday Matinee'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
 {'event_id': '8889', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8889/', 'title': 'SloLAN'}
@@ -193,6 +197,7 @@
 {'event_id': '8672', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8672/', 'title': 'Hay on Wye coach trip'}
 {'event_id': '8735', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8735/', 'title': 'Reserves- Brecon'}
 {'event_id': '8761', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8761/', 'title': 'Reserves - Lake District Trip'}
+{'event_id': '8891', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8891/', 'title': 'Snowdonia weekend trip'}
 {'event_id': '8524', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8524/', 'title': 'DocSoc Screening'}
 {'event_id': '8525', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8525/', 'title': 'DocSoc Screening'}
 {'event_id': '8526', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8526/', 'title': 'DocSoc Screening'}
