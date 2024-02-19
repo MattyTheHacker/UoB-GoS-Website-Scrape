@@ -1,6 +1,7 @@
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8498/
 https://www.guildofstudents.com/ents/event/8503/
+https://www.guildofstudents.com/ents/event/8505/
 https://www.guildofstudents.com/ents/event/8553/
 https://www.guildofstudents.com/ents/event/8555/
 https://www.guildofstudents.com/ents/event/8591/
@@ -64,6 +65,8 @@ https://www.guildofstudents.com/ents/event/8844/
 https://www.guildofstudents.com/ents/event/8853/
 https://www.guildofstudents.com/ents/event/8862/
 https://www.guildofstudents.com/ents/event/8866/
+https://www.guildofstudents.com/ents/event/8868/
+https://www.guildofstudents.com/ents/event/8869/
 https://www.guildofstudents.com/ents/event/8870/
 https://www.guildofstudents.com/ents/event/8871/
 https://www.guildofstudents.com/ents/event/8872/
@@ -190,6 +193,7 @@ https://www.guildofstudents.com/events/6995/8703/
 https://www.guildofstudents.com/events/7067/8854/
 https://www.guildofstudents.com/events/7179/8776/
 https://www.guildofstudents.com/events/7195/8873/
+https://www.guildofstudents.com/events/7219/8789/
 https://www.guildofstudents.com/events/7283/8705/
 https://www.guildofstudents.com/events/7459/8886/
 https://www.guildofstudents.com/events/7475/8867/
