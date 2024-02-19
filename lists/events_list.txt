@@ -1,6 +1,7 @@
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Easter Ball'}
 {'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
+{'id': '8505', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8505/', 'title': 'Officer Elections 2024: Candidate Question Time'}
 {'id': '8553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8553/', 'title': 'Reclaim The Night'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
@@ -64,6 +65,8 @@
 {'id': '8853', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8853/', 'title': 'Black Voices: Tell It Like It Is'}
 {'id': '8862', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8862/', 'title': 'Oak Brook Park: Pizza & Paint By Numbers'}
 {'id': '8866', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8866/', 'title': 'Shackleton Cookies and Collage'}
+{'id': '8868', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8868/', 'title': 'Officer Elections 2024: Banner Making'}
+{'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
 {'id': '8870', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8870/', 'title': 'Community Coffee Morning'}
 {'id': '8871', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8871/', 'title': 'Coffee & Clean Up'}
 {'id': '8872', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8872/', 'title': 'Wellbeing Cafe'}
@@ -190,6 +193,7 @@
 {'event_id': '8854', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8854/', 'title': 'Annual Dinner'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
+{'event_id': '8789', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8789/', 'title': 'Mental Health First Aid Training'}
 {'event_id': '8705', 'organisation_id': '7283', 'organisation': 'Saudi', 'url': 'https://www.guildofstudents.com/events/7283/8705/', 'title': 'Saudi Founding Day'}
 {'event_id': '8886', 'organisation_id': '7459', 'organisation': 'Turkish', 'url': 'https://www.guildofstudents.com/events/7459/8886/', 'title': 'Turkish Movie Night'}
 {'event_id': '8867', 'organisation_id': '7475', 'organisation': 'UNICEF on campus', 'url': 'https://www.guildofstudents.com/events/7475/8867/', 'title': 'Valentines Day Stall'}
