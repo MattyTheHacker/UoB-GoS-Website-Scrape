@@ -120,6 +120,7 @@ folk@guild.bham.ac.uk
 footnotes@guild.bham.ac.uk
 friendsinternational@guild.bham.ac.uk
 fringe@guild.bham.ac.uk
+fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
