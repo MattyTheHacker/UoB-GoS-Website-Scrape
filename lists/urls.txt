@@ -1564,7 +1564,6 @@ https://www.guildofstudents.com/events/6371/8894/
 https://www.guildofstudents.com/events/6371/8895/
 https://www.guildofstudents.com/events/6371/8896/
 https://www.guildofstudents.com/events/6523/8666/
-https://www.guildofstudents.com/events/6523/8711/
 https://www.guildofstudents.com/events/6531/8499/
 https://www.guildofstudents.com/events/6531/8510/
 https://www.guildofstudents.com/events/6531/8889/
@@ -1634,6 +1633,7 @@ https://www.guildofstudents.com/news/article/website/Study/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
+https://www.guildofstudents.com/news/article/website/Trans-Solidarity-Statement/
 https://www.guildofstudents.com/news/article/website/What-Is-Time-To-Talk-Day/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/news/rss/27259/
@@ -3783,6 +3783,7 @@ https://www.guildofstudents.commailto:folk@guild.bham.ac.uk
 https://www.guildofstudents.commailto:footnotes@guild.bham.ac.uk
 https://www.guildofstudents.commailto:friendsinternational@guild.bham.ac.uk
 https://www.guildofstudents.commailto:fringe@guild.bham.ac.uk
+https://www.guildofstudents.commailto:fto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
