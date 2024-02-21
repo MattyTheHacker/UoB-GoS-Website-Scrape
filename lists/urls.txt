@@ -1506,6 +1506,7 @@ https://www.guildofstudents.com/events/10948/8635/
 https://www.guildofstudents.com/events/10948/8636/
 https://www.guildofstudents.com/events/10948/8637/
 https://www.guildofstudents.com/events/10948/8638/
+https://www.guildofstudents.com/events/10948/8915/
 https://www.guildofstudents.com/events/12167/8572/
 https://www.guildofstudents.com/events/12167/8573/
 https://www.guildofstudents.com/events/12167/8574/
@@ -1579,7 +1580,6 @@ https://www.guildofstudents.com/events/6371/8894/
 https://www.guildofstudents.com/events/6371/8895/
 https://www.guildofstudents.com/events/6371/8896/
 https://www.guildofstudents.com/events/6467/8848/
-https://www.guildofstudents.com/events/6523/8666/
 https://www.guildofstudents.com/events/6523/8711/
 https://www.guildofstudents.com/events/6531/8499/
 https://www.guildofstudents.com/events/6531/8510/
@@ -1641,6 +1641,7 @@ https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-2-Results/
+https://www.guildofstudents.com/news/article/website/Announcing-Your-Rep-of-the-Months/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
 https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2024/
@@ -3644,6 +3645,7 @@ https://www.guildofstudents.com/support/studentmentors/
 https://www.guildofstudents.com/support/studentmentors/contact/
 https://www.guildofstudents.com/support/studentmentors/who-are-student-mentors/
 https://www.guildofstudents.com/support/welcome-to-support/
+https://www.guildofstudents.com/surveys/182/
 https://www.guildofstudents.com/surveys/245/
 https://www.guildofstudents.com/sustainability/gogreenweek/
 https://www.guildofstudents.com/sustainability/green-impact/
