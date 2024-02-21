@@ -1445,6 +1445,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
+https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
 https://www.guildofstudents.com/ents/eventlist/blackvoices/
 https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
@@ -1514,6 +1515,7 @@ https://www.guildofstudents.com/events/12167/8577/
 https://www.guildofstudents.com/events/12167/8578/
 https://www.guildofstudents.com/events/12167/8579/
 https://www.guildofstudents.com/events/12167/8580/
+https://www.guildofstudents.com/events/12492/8913/
 https://www.guildofstudents.com/events/13206/8483/
 https://www.guildofstudents.com/events/13206/8661/
 https://www.guildofstudents.com/events/13206/8662/
@@ -1610,6 +1612,8 @@ https://www.guildofstudents.com/events/7523/8672/
 https://www.guildofstudents.com/events/7523/8735/
 https://www.guildofstudents.com/events/7523/8761/
 https://www.guildofstudents.com/events/7523/8891/
+https://www.guildofstudents.com/events/7523/8911/
+https://www.guildofstudents.com/events/7523/8912/
 https://www.guildofstudents.com/events/7727/8524/
 https://www.guildofstudents.com/events/7727/8525/
 https://www.guildofstudents.com/events/7727/8526/
