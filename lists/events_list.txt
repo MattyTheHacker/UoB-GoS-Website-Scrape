@@ -53,7 +53,7 @@
 {'id': '8831', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8831/', 'title': 'Battery Park Caught the Love Mug'}
 {'id': '8832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8832/', 'title': "Chamberlain Galentine's Pancakes"}
 {'id': '8833', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8833/', 'title': "Maple Bank Valentine's Bouquets"}
-{'id': '8835', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8835/', 'title': 'Community Breakfast'}
+{'id': '8835', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8835/', 'title': 'Sorry, there was a problem'}
 {'id': '8836', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8836/', 'title': 'Community Breakfast'}
 {'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Community Breakfast'}
 {'id': '8838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8838/', 'title': 'Community Breakfast'}
@@ -195,7 +195,6 @@
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
 {'event_id': '8888', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8888/', 'title': "Valentines Cupid's K-Quiz Night"}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
-{'event_id': '8854', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8854/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
 {'event_id': '8789', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8789/', 'title': 'Mental Health First Aid Training'}

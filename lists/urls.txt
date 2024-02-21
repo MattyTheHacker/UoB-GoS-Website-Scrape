@@ -1416,7 +1416,6 @@ https://www.guildofstudents.com/ents/event/8830/
 https://www.guildofstudents.com/ents/event/8831/
 https://www.guildofstudents.com/ents/event/8832/
 https://www.guildofstudents.com/ents/event/8833/
-https://www.guildofstudents.com/ents/event/8835/
 https://www.guildofstudents.com/ents/event/8836/
 https://www.guildofstudents.com/ents/event/8837/
 https://www.guildofstudents.com/ents/event/8838/
@@ -1563,6 +1562,7 @@ https://www.guildofstudents.com/events/41452/8827/
 https://www.guildofstudents.com/events/41502/8764/
 https://www.guildofstudents.com/events/42040/8798/
 https://www.guildofstudents.com/events/42040/8846/
+https://www.guildofstudents.com/events/42040/8910/
 https://www.guildofstudents.com/events/42121/8780/
 https://www.guildofstudents.com/events/42121/8901/
 https://www.guildofstudents.com/events/43138/8819/
@@ -2799,7 +2799,6 @@ https://www.guildofstudents.com/pageassets/elections/Elections-Complaints-Proced
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Disabled-Students-Guidance-Plain-Text-Version.pdf
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Elections-2023-Complaints-Form.docx
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Elections-Regulations-2023-24.pdf
-https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Guild-of-Students-Bye-Law-8.pdf
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Photo-Upload-Guide.pdf
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Useful-Information-About-the-Guild-For-Your-Written-Statement-Campaign.pptx
 https://www.guildofstudents.com/pageassets/elections/guild-elections-jan-24-Written-Statement-Manifesto-Training.pptx
@@ -3259,6 +3258,9 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Presiden
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/President-Trustee-Board-Action-Plan.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Scrutiny-Panel-2022_23-Meeting-1-Session-1-Minutes-FINAL.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Scrutiny-Panel-2022_23-Meeting-1-Session-2-Minutes-FINAL.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Scrutiny-Panel-Day-1-Collated-Minutes.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Scrutiny-Panel-Day-2-Collated-Minutes.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Scrutiny-Panel-Day-3-Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Scrutiny-Panel-Meeting-1-Agenda.docx
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Scrutiny-Panel-Meeting-1-FTO-Session-Agenda.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Scrutiny-Panel-Meeting-1-PTO-Session-Agenda.pdf
@@ -3426,6 +3428,7 @@ https://www.guildofstudents.com/representation/youridea/?tag=Postgraduate
 https://www.guildofstudents.com/representation/youridea/?tag=Societies
 https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
+https://www.guildofstudents.com/resourcehandler/5aba1df8-8c50-49be-b886-78ce83bf5f87/
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
