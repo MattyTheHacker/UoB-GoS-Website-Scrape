@@ -62,7 +62,7 @@
 {'id': '8843', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8843/', 'title': 'Officer Elections 2024: Photo Opportunity'}
 {'id': '8844', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8844/', 'title': 'Officer Elections 2024: Photo Opportunity'}
 {'id': '8853', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8853/', 'title': 'Black Voices: Tell It Like It Is'}
-{'id': '8862', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8862/', 'title': 'Oak Brook Park: Pizza & Paint By Numbers'}
+{'id': '8862', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8862/', 'title': 'Sorry, there was a problem'}
 {'id': '8866', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8866/', 'title': 'Shackleton Cookies and Collage'}
 {'id': '8868', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8868/', 'title': 'Officer Elections 2024: Banner Making'}
 {'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
@@ -103,6 +103,7 @@
 {'event_id': '8636', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8636/', 'title': 'Thursday 3-5 SPARRING SESSION'}
 {'event_id': '8637', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8637/', 'title': 'Thursday 3-5 SPARRING SESSION'}
 {'event_id': '8638', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8638/', 'title': 'Thursday 3-5 SPARRING SESSION'}
+{'event_id': '8915', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8915/', 'title': 'LEEDS KICKBOXING COMPETITION'}
 {'event_id': '8572', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8572/', 'title': 'Film Night'}
 {'event_id': '8573', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8573/', 'title': 'Coffee Social'}
 {'event_id': '8574', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8574/', 'title': 'Coffee Social'}
@@ -176,7 +177,6 @@
 {'event_id': '8895', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8895/', 'title': 'BUDS Show: Renaissance – Saturday Evening'}
 {'event_id': '8896', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8896/', 'title': 'BUDS Show: Renaissance – Saturday Matinee'}
 {'event_id': '8848', 'organisation_id': '6467', 'organisation': 'Civil Engineering', 'url': 'https://www.guildofstudents.com/events/6467/8848/', 'title': 'CivSoc One Great George Street Visit'}
-{'event_id': '8666', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8666/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8711', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8711/', 'title': 'Craft Society Sip n Paint'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
