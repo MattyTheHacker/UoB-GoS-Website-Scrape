@@ -1571,7 +1571,6 @@ https://www.guildofstudents.com/events/42121/8780/
 https://www.guildofstudents.com/events/42121/8901/
 https://www.guildofstudents.com/events/43138/8819/
 https://www.guildofstudents.com/events/43138/8916/
-https://www.guildofstudents.com/events/6187/8817/
 https://www.guildofstudents.com/events/6251/8877/
 https://www.guildofstudents.com/events/6339/8757/
 https://www.guildofstudents.com/events/6339/8900/
@@ -3353,6 +3352,7 @@ https://www.guildofstudents.com/profile/197769/
 https://www.guildofstudents.com/profile/206647/
 https://www.guildofstudents.com/profile/207410/
 https://www.guildofstudents.com/profile/209792/
+https://www.guildofstudents.com/profile/219808/
 https://www.guildofstudents.com/profile/234454/
 https://www.guildofstudents.com/referenda/vote/19/54/
 https://www.guildofstudents.com/referendum
@@ -3466,6 +3466,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/206647/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/207410/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/209792/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/219808/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/234454/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/referenda/vote/19/54/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
