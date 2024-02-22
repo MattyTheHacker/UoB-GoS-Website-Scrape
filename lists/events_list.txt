@@ -170,7 +170,6 @@
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Nacho night'}
 {'event_id': '8819', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8819/', 'title': 'Game night'}
 {'event_id': '8916', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8916/', 'title': 'Quiz night'}
-{'event_id': '8817', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8817/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8877', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8877/', 'title': 'Dares Night'}
 {'event_id': '8757', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8757/', 'title': 'AJAM Transport Voucher'}
 {'event_id': '8900', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8900/', 'title': 'Extreme Sports Ball 2024'}
