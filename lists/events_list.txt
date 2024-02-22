@@ -62,7 +62,6 @@
 {'id': '8843', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8843/', 'title': 'Officer Elections 2024: Photo Opportunity'}
 {'id': '8844', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8844/', 'title': 'Officer Elections 2024: Photo Opportunity'}
 {'id': '8853', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8853/', 'title': 'Black Voices: Tell It Like It Is'}
-{'id': '8862', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8862/', 'title': 'Sorry, there was a problem'}
 {'id': '8866', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8866/', 'title': 'Shackleton Cookies and Collage'}
 {'id': '8868', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8868/', 'title': 'Officer Elections 2024: Banner Making'}
 {'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
@@ -114,6 +113,7 @@
 {'event_id': '8579', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8579/', 'title': 'Coffee Social'}
 {'event_id': '8580', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8580/', 'title': 'Trip to Bletchley Park'}
 {'event_id': '8913', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8913/', 'title': 'Summer retreat'}
+{'event_id': '8852', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8852/', 'title': 'ASC watch War Room'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8661', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8661/', 'title': 'Speaker Series: Gina Dutton'}
 {'event_id': '8662', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8662/', 'title': 'Speaker Series: Councillor Hannah Chapman and Councillor Zoe Leventhal'}
@@ -157,7 +157,7 @@
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
 {'event_id': '8808', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8808/', 'title': 'Paint and Sip'}
-{'event_id': '8566', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8566/', 'title': 'African Dance Session 4'}
+{'event_id': '8566', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8566/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8827', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8827/', 'title': "Movie Night: Valentine's Edition"}
 {'event_id': '8764', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/8764/', 'title': "Meet n' Play"}
 {'event_id': '8798', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8798/', 'title': 'Henna Workshop'}
@@ -166,6 +166,7 @@
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Nacho night'}
 {'event_id': '8819', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8819/', 'title': 'Game night'}
+{'event_id': '8916', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8916/', 'title': 'Quiz night'}
 {'event_id': '8817', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/8817/', 'title': 'BALADS BALL 2024'}
 {'event_id': '8877', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8877/', 'title': 'Dares Night'}
 {'event_id': '8757', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8757/', 'title': 'AJAM Transport Voucher'}
