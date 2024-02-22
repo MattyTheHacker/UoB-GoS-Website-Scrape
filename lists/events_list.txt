@@ -146,6 +146,7 @@
 {'event_id': '8865', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8865/', 'title': 'Cinderella and the Fairy Tale Ball'}
 {'event_id': '8874', 'organisation_id': '22877', 'organisation': 'Mixed Martial Arts', 'url': 'https://www.guildofstudents.com/events/22877/8874/', 'title': 'UoB MMA Fight Night 2024'}
 {'event_id': '8851', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/8851/', 'title': 'Lane 7 Freshers Social'}
+{'event_id': '8917', 'organisation_id': '25595', 'organisation': 'Ghanaian', 'url': 'https://www.guildofstudents.com/events/25595/8917/', 'title': 'Ghana Independence Ball'}
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '8885', 'organisation_id': '35209', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35209/8885/', 'title': 'Trans Healthcare Talk with TransActual'}
@@ -157,7 +158,7 @@
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
 {'event_id': '8808', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8808/', 'title': 'Paint and Sip'}
-{'event_id': '8566', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8566/', 'title': 'Sorry, there was a problem'}
+{'event_id': '8567', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8567/', 'title': 'African Dance Session 5'}
 {'event_id': '8827', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8827/', 'title': "Movie Night: Valentine's Edition"}
 {'event_id': '8764', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/8764/', 'title': "Meet n' Play"}
 {'event_id': '8798', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8798/', 'title': 'Henna Workshop'}
