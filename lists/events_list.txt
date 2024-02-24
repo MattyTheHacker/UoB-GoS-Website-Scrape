@@ -122,7 +122,6 @@
 {'event_id': '8664', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8664/', 'title': 'Speaker Series: Councillor Morriam Jan'}
 {'event_id': '8673', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8673/', 'title': "International Women's Day Ball Afterparty"}
 {'event_id': '8807', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8807/', 'title': 'Summer Celebration | Women in Politics'}
-{'event_id': '8828', 'organisation_id': '13463', 'organisation': 'Beat', 'url': 'https://www.guildofstudents.com/events/13463/8828/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8907', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8907/', 'title': 'Trip to the Thinktank!'}
 {'event_id': '8908', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8908/', 'title': 'Dress up bar crawl'}
 {'event_id': '8597', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8597/', 'title': 'Sober Socials Friday Games Night'}
@@ -167,7 +166,6 @@
 {'event_id': '8780', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8780/', 'title': 'Lunar New Year Spring Roll and Lantern Making'}
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Games Night'}
 {'event_id': '8819', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8819/', 'title': 'Game night'}
-{'event_id': '8916', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8916/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8898', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8898/', 'title': 'Bakesoc & Italian Society Collab 28/2/24 - Lemon cookies 5:30-7'}
 {'event_id': '8899', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8899/', 'title': 'Bakesoc & Italian Society Collab 28/2/24 - Lemon cookies 7-8:30'}
 {'event_id': '8877', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8877/', 'title': 'Dares Night'}
@@ -175,7 +173,6 @@
 {'event_id': '8900', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8900/', 'title': 'Extreme Sports Ball 2024'}
 {'event_id': '8923', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8923/', 'title': 'Kings Round IV'}
 {'event_id': '8920', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/8920/', 'title': 'FUSION Newquay Trip - KCL'}
-{'event_id': '8800', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8800/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8892', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8892/', 'title': 'BUDS Show: Renaissance – Wednesday Evening'}
 {'event_id': '8893', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8893/', 'title': 'BUDS Show: Renaissance – Thursday Evening'}
 {'event_id': '8894', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8894/', 'title': 'BUDS Show: Renaissance – Friday Evening'}
@@ -228,4 +225,3 @@
 {'event_id': '8639', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8639/', 'title': 'DocSoc Screening'}
 {'event_id': '8640', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8640/', 'title': 'DocSoc Screening'}
 {'event_id': '8641', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8641/', 'title': 'DocSoc Screening'}
-{'event_id': '8828', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/8828/', 'title': 'Sorry, there was a problem'}
