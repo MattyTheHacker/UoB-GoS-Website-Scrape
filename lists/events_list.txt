@@ -202,6 +202,7 @@
 {'event_id': '8921', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8921/', 'title': 'Korea Society Karoake Night'}
 {'event_id': '8922', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8922/', 'title': 'Korea Society Pork Belly Day'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
+{'event_id': '8928', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8928/', 'title': 'Low House MAM Trip'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
 {'event_id': '8789', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8789/', 'title': 'Mental Health First Aid Training'}
