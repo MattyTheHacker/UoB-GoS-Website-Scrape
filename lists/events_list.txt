@@ -24,7 +24,7 @@
 {'id': '8698', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8698/', 'title': 'Bingo'}
 {'id': '8721', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8721/', 'title': 'Hall Reps Games Night'}
 {'id': '8722', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8722/', 'title': 'Hall Reps Lunar New Year Celebration'}
-{'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Officer Elections 2024: Campaign Training'}
+{'id': '8728', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8728/', 'title': 'Sorry, there was a problem'}
 {'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
 {'id': '8748', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8748/', 'title': 'Bournbrook Film Bingo'}
 {'id': '8749', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8749/', 'title': 'Mason Post-it Note Café'}
@@ -123,7 +123,7 @@
 {'event_id': '8673', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8673/', 'title': "International Women's Day Ball Afterparty"}
 {'event_id': '8807', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8807/', 'title': 'Summer Celebration | Women in Politics'}
 {'event_id': '8907', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8907/', 'title': 'Trip to the Thinktank!'}
-{'event_id': '8908', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8908/', 'title': 'Dress up bar crawl'}
+{'event_id': '8908', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/8908/', 'title': 'Horrible histories dress up bar crawl'}
 {'event_id': '8597', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8597/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8598', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8598/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8599', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8599/', 'title': 'Sober Socials Friday Games Night'}
@@ -228,3 +228,4 @@
 {'event_id': '8640', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8640/', 'title': 'DocSoc Screening'}
 {'event_id': '8641', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8641/', 'title': 'DocSoc Screening'}
 {'event_id': '8934', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/8934/', 'title': 'UoB Public Speaking Competition 2024'}
+{'event_id': '8935', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/8935/', 'title': 'Modern Languages Society Bowling – Thursday 14th March 2024'}
