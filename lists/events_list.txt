@@ -74,7 +74,7 @@
 {'id': '8918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8918/', 'title': 'Homeware and Haribo'}
 {'id': '8919', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8919/', 'title': 'All-You-Can-Eat Pizza'}
 {'id': '8925', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8925/', 'title': 'Aitken: Mason Jar Décor and Muffins Galore'}
-{'id': '8926', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8926/', 'title': 'Mason Laser Tag'}
+{'id': '8926', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8926/', 'title': 'Sorry, there was a problem'}
 {'id': '8927', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8927/', 'title': 'Battery Park: Leap In For Leap Year!'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
