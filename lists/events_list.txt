@@ -74,7 +74,6 @@
 {'id': '8918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8918/', 'title': 'Homeware and Haribo'}
 {'id': '8919', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8919/', 'title': 'All-You-Can-Eat Pizza'}
 {'id': '8925', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8925/', 'title': 'Aitken: Mason Jar Décor and Muffins Galore'}
-{'id': '8926', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8926/', 'title': 'Sorry, there was a problem'}
 {'id': '8927', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8927/', 'title': 'Battery Park: Leap In For Leap Year!'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -156,6 +155,7 @@
 {'event_id': '8746', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8746/', 'title': 'Kotthu & Movie Social!'}
 {'event_id': '8644', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8644/', 'title': "Valentine's Hide and Seek"}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
+{'event_id': '8941', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8941/', 'title': 'Canadian Conference Event'}
 {'event_id': '8808', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/8808/', 'title': 'Paint and Sip'}
 {'event_id': '8567', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8567/', 'title': 'African Dance Session 5'}
 {'event_id': '8827', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8827/', 'title': "Movie Night: Valentine's Edition"}
