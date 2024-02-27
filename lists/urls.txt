@@ -7,10 +7,12 @@ http://www.guildofstudents.com/guildadvice
 http://www.guildofstudents.com/marksoutoftenancy
 http://www.guildofstudents.com/mediasales/
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
+http://www.guildofstudents.com/representation/youridea/
 http://www.guildofstudents.com/studentgroups
 http://www.guildofstudents.com/studentmentors
 http://www.guildofstudents.com/studentstaff
 http://www.guildofstudents.com/support/guildadvice/
+http://www.guildofstudents.com/surveys/252/
 http://www.guildofstudents.com/sustainability/gogreenweek
 http://www.guildofstudents.com/welcome
 https://www.guildofstudents.com
@@ -1649,6 +1651,7 @@ https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-2-Results/
 https://www.guildofstudents.com/news/article/website/Announcing-Your-Rep-of-the-Months/
+https://www.guildofstudents.com/news/article/website/ASV-3-Democracy-Update/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
 https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2024/
