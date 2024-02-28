@@ -48,7 +48,6 @@
 {'id': '8831', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8831/', 'title': 'Battery Park Caught the Love Mug'}
 {'id': '8832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8832/', 'title': "Chamberlain Galentine's Pancakes"}
 {'id': '8833', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8833/', 'title': "Maple Bank Valentine's Bouquets"}
-{'id': '8836', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8836/', 'title': 'Sorry, there was a problem'}
 {'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Community Breakfast'}
 {'id': '8838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8838/', 'title': 'Community Breakfast'}
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
