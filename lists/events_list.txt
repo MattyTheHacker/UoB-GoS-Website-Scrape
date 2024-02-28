@@ -72,7 +72,7 @@
 {'id': '8904', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8904/', 'title': 'Black Voices: Tell It Like It Is'}
 {'id': '8918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8918/', 'title': 'Homeware and Haribo'}
 {'id': '8919', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8919/', 'title': 'Sorry, there was a problem'}
-{'id': '8925', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8925/', 'title': 'Aitken: Mason Jar Décor and Muffins Galore'}
+{'id': '8925', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8925/', 'title': 'Sorry, there was a problem'}
 {'id': '8927', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8927/', 'title': 'Battery Park: Leap In For Leap Year!'}
 {'id': '8945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8945/', 'title': 'How to apply for grant!'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
