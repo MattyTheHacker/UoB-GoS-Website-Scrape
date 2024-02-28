@@ -71,9 +71,10 @@
 {'id': '8884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8884/', 'title': 'Sports Night'}
 {'id': '8904', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8904/', 'title': 'Black Voices: Tell It Like It Is'}
 {'id': '8918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8918/', 'title': 'Homeware and Haribo'}
-{'id': '8919', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8919/', 'title': 'All-You-Can-Eat Pizza'}
+{'id': '8919', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8919/', 'title': 'Sorry, there was a problem'}
 {'id': '8925', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8925/', 'title': 'Aitken: Mason Jar Décor and Muffins Galore'}
 {'id': '8927', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8927/', 'title': 'Battery Park: Leap In For Leap Year!'}
+{'id': '8945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8945/', 'title': 'How to apply for grant!'}
 {'event_id': '8609', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8609/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8610/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8611/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -143,7 +144,6 @@
 {'event_id': '8865', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8865/', 'title': 'Cinderella and the Fairy Tale Ball'}
 {'event_id': '8874', 'organisation_id': '22877', 'organisation': 'Mixed Martial Arts', 'url': 'https://www.guildofstudents.com/events/22877/8874/', 'title': 'UoB MMA Fight Night 2024'}
 {'event_id': '8851', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/8851/', 'title': 'Lane 7 Freshers Social'}
-{'event_id': '8917', 'organisation_id': '25595', 'organisation': 'Ghanaian', 'url': 'https://www.guildofstudents.com/events/25595/8917/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '8763', 'organisation_id': '33847', 'organisation': 'ABACUS', 'url': 'https://www.guildofstudents.com/events/33847/8763/', 'title': 'Take Me Out'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
