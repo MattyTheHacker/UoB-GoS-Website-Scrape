@@ -1,6 +1,6 @@
 {'id': '8377', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8377/', 'title': 'Nursing society ball'}
 {'id': '8498', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8498/', 'title': 'Easter Ball'}
-{'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Education Q&A with Prof. Deborah Longworth,  Pro-Vice-Chancellor (Education)'}
+{'id': '8503', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8503/', 'title': 'Sorry, there was a problem'}
 {'id': '8505', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8505/', 'title': 'Officer Elections 2024: Candidate Question Time'}
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
 {'id': '8591', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8591/', 'title': 'Guild Awards 2024'}
