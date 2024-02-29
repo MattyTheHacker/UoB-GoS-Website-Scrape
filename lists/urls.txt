@@ -1329,7 +1329,6 @@ https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
 https://www.guildofstudents.com/asset/Job/124/Student-Groups-Coordinator-Feb-24-Job-Description.docx.pdf
 https://www.guildofstudents.com/asset/News/6016/AE-By-Election-Candidate-Budget-Information-2023.pdf
-https://www.guildofstudents.com/asset/News/6016/ASV-2-January-2023-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-By-Elections-2023-Results-Tables.pdf
 https://www.guildofstudents.com/asset/News/6016/Elections-Regulations-2023-24-Officer-Elections-24.pdf
 https://www.guildofstudents.com/asset/News/6016/Guild-of-Students-Bye-Law-8-Officer-Elections-24.pdf
@@ -1435,6 +1434,7 @@ https://www.guildofstudents.com/ents/event/8904/
 https://www.guildofstudents.com/ents/event/8918/
 https://www.guildofstudents.com/ents/event/8927/
 https://www.guildofstudents.com/ents/event/8945/
+https://www.guildofstudents.com/ents/event/8946/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=2&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
@@ -1451,6 +1451,7 @@ https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/electionqs/
 https://www.guildofstudents.com/ents/eventlist/elections/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
+https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
@@ -1464,6 +1465,7 @@ https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
+https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
@@ -1510,7 +1512,6 @@ https://www.guildofstudents.com/events/12167/8577/
 https://www.guildofstudents.com/events/12167/8578/
 https://www.guildofstudents.com/events/12167/8579/
 https://www.guildofstudents.com/events/12167/8580/
-https://www.guildofstudents.com/events/12492/8913/
 https://www.guildofstudents.com/events/12508/8852/
 https://www.guildofstudents.com/events/13206/8483/
 https://www.guildofstudents.com/events/13206/8661/
@@ -1544,6 +1545,7 @@ https://www.guildofstudents.com/events/22526/8865/
 https://www.guildofstudents.com/events/22877/8874/
 https://www.guildofstudents.com/events/23447/8851/
 https://www.guildofstudents.com/events/25611/8943/
+https://www.guildofstudents.com/events/26553/8947/
 https://www.guildofstudents.com/events/33847/8763/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35209/8885/
@@ -1567,8 +1569,6 @@ https://www.guildofstudents.com/events/42121/8780/
 https://www.guildofstudents.com/events/42121/8901/
 https://www.guildofstudents.com/events/43138/8819/
 https://www.guildofstudents.com/events/43138/8916/
-https://www.guildofstudents.com/events/6179/8898/
-https://www.guildofstudents.com/events/6179/8899/
 https://www.guildofstudents.com/events/6251/8877/
 https://www.guildofstudents.com/events/6339/8757/
 https://www.guildofstudents.com/events/6339/8900/
@@ -1645,7 +1645,6 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
-https://www.guildofstudents.com/news/article/website/All-Student-Vote-2-Results/
 https://www.guildofstudents.com/news/article/website/Announcing-Your-Rep-of-the-Months/
 https://www.guildofstudents.com/news/article/website/ASV-3-Democracy-Update/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
@@ -1659,7 +1658,6 @@ https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-F
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
 https://www.guildofstudents.com/news/article/website/Trans-Solidarity-Statement/
-https://www.guildofstudents.com/news/article/website/What-Is-Time-To-Talk-Day/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/noton/
 https://www.guildofstudents.com/nusextra/

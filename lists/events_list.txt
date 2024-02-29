@@ -109,7 +109,7 @@
 {'event_id': '8578', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8578/', 'title': 'Coffee Social'}
 {'event_id': '8579', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8579/', 'title': 'Coffee Social'}
 {'event_id': '8580', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8580/', 'title': 'Trip to Bletchley Park'}
-{'event_id': '8913', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8913/', 'title': 'Summer retreat'}
+{'event_id': '8913', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8913/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8852', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8852/', 'title': 'ASC watch War Room'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8661', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8661/', 'title': 'Speaker Series: Gina Dutton'}
@@ -179,7 +179,6 @@
 {'event_id': '8895', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8895/', 'title': 'BUDS Show: Renaissance – Saturday Evening'}
 {'event_id': '8896', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8896/', 'title': 'BUDS Show: Renaissance – Saturday Matinee'}
 {'event_id': '8848', 'organisation_id': '6467', 'organisation': 'Civil Engineering', 'url': 'https://www.guildofstudents.com/events/6467/8848/', 'title': 'CivSoc One Great George Street Visit'}
-{'event_id': '8711', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8711/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8499', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8499/', 'title': 'CSS x oSTEM Go To Bletchley Park'}
 {'event_id': '8510', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8510/', 'title': 'CSS EGM'}
 {'event_id': '8889', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8889/', 'title': 'SloLAN'}
@@ -200,7 +199,6 @@
 {'event_id': '8937', 'organisation_id': '6851', 'organisation': 'Islamic', 'url': 'https://www.guildofstudents.com/events/6851/8937/', 'title': 'Community Iftar'}
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
 {'event_id': '8888', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8888/', 'title': "Valentines Cupid's K-Quiz Night"}
-{'event_id': '8921', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8921/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8922', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8922/', 'title': 'Korea Society Pork Belly Day'}
 {'event_id': '8703', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/8703/', 'title': 'BIRMINGHAM MNIGHT 2024'}
 {'event_id': '8928', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8928/', 'title': 'Low House MAM Trip'}
