@@ -29,7 +29,7 @@
 {'id': '8749', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8749/', 'title': 'Mason Post-it Note Café'}
 {'id': '8753', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8753/', 'title': 'BUDS FREE Street/Commercial Class'}
 {'id': '8754', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8754/', 'title': 'FREE latin dance class with DCL'}
-{'id': '8768', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8768/', 'title': 'Housemate Finder'}
+{'id': '8768', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8768/', 'title': 'Sorry, there was a problem'}
 {'id': '8772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8772/', 'title': 'Pritchatts Grammys Quiz Night'}
 {'id': '8773', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8773/', 'title': 'Pass It Forward - Collection'}
 {'id': '8774', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8774/', 'title': 'Hall Reps Games Night'}
@@ -71,7 +71,6 @@
 {'id': '8884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8884/', 'title': 'Sports Night'}
 {'id': '8904', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8904/', 'title': 'Black Voices: Tell It Like It Is'}
 {'id': '8918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8918/', 'title': 'Homeware and Haribo'}
-{'id': '8927', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8927/', 'title': 'Sorry, there was a problem'}
 {'id': '8945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8945/', 'title': 'How to apply for grant!'}
 {'id': '8946', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8946/', 'title': "St Patrick's FAB"}
 {'id': '8948', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8948/', 'title': 'Chamberlain Bath Bombs and Bon Bons'}
