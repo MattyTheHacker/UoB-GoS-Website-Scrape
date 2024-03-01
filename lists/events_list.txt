@@ -39,6 +39,7 @@
 {'id': '8950', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8950/', 'title': 'Mason Meal Deal'}
 {'id': '8951', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8951/', 'title': 'Jarratt Lego Pot Plants'}
 {'id': '8952', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8952/', 'title': 'Give It A Go: Bookmark Making'}
+{'id': '8953', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8953/', 'title': 'Student Manifesto Creation'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -58,6 +59,8 @@
 {'event_id': '8577', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8577/', 'title': 'Coffee Social'}
 {'event_id': '8578', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8578/', 'title': 'Coffee Social'}
 {'event_id': '8579', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8579/', 'title': 'Coffee Social'}
+{'event_id': '8913', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8913/', 'title': 'Summer retreat'}
+{'event_id': '8954', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8954/', 'title': 'Summer Yoga Retreat Deposit'}
 {'event_id': '8852', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8852/', 'title': 'ASC watch War Room'}
 {'event_id': '8483', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8483/', 'title': "International Women's Day Ball"}
 {'event_id': '8664', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8664/', 'title': 'Speaker Series: Councillor Morriam Jan'}
@@ -95,6 +98,9 @@
 {'event_id': '8910', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8910/', 'title': 'Henna x Tote Bags'}
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Games Night'}
 {'event_id': '8916', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8916/', 'title': 'Quiz night'}
+{'event_id': '8929', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8929/', 'title': 'Ukrainian society collab - painting'}
+{'event_id': '8930', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8930/', 'title': 'Nauryz - kazakh traditional games'}
+{'event_id': '8931', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8931/', 'title': 'Movie night'}
 {'event_id': '8877', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/8877/', 'title': 'Dares Night'}
 {'event_id': '8900', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8900/', 'title': 'Extreme Sports Ball 2024'}
 {'event_id': '8923', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8923/', 'title': 'Kings Round IV'}
@@ -127,6 +133,9 @@
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
 {'event_id': '8789', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8789/', 'title': 'Mental Health First Aid Training'}
 {'event_id': '8886', 'organisation_id': '7459', 'organisation': 'Turkish', 'url': 'https://www.guildofstudents.com/events/7459/8886/', 'title': 'Turkish Movie Night'}
+{'event_id': '8855', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8855/', 'title': 'Flowers For Jamie- Night 1'}
+{'event_id': '8860', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8860/', 'title': 'Flowers For Jamie- Night 2'}
+{'event_id': '8861', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8861/', 'title': 'Flowers For Jamie- Night 3'}
 {'event_id': '8735', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8735/', 'title': 'Reserves- Brecon'}
 {'event_id': '8891', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8891/', 'title': 'Snowdonia weekend trip'}
 {'event_id': '8911', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8911/', 'title': 'Wasely Hills Day Walk'}
