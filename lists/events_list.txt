@@ -21,7 +21,7 @@
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
 {'id': '8868', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8868/', 'title': 'Officer Elections 2024: Banner Making'}
 {'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
-{'id': '8870', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8870/', 'title': 'Community Coffee Morning'}
+{'id': '8870', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8870/', 'title': 'Sorry, there was a problem'}
 {'id': '8871', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8871/', 'title': 'Coffee & Clean Up'}
 {'id': '8872', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8872/', 'title': 'Wellbeing Cafe'}
 {'id': '8879', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8879/', 'title': 'Sports Night'}
@@ -38,6 +38,7 @@
 {'id': '8949', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8949/', 'title': 'Oak Brook Park: Jungle In A Jar'}
 {'id': '8950', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8950/', 'title': 'Mason Meal Deal'}
 {'id': '8951', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8951/', 'title': 'Jarratt Lego Pot Plants'}
+{'id': '8952', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8952/', 'title': 'Give It A Go: Bookmark Making'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
