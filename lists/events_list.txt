@@ -39,6 +39,7 @@
 {'id': '8951', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8951/', 'title': 'Jarratt Lego Pot Plants'}
 {'id': '8952', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8952/', 'title': 'Give It A Go: Bookmark Making'}
 {'id': '8953', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8953/', 'title': 'Student Manifesto Creation'}
+{'id': '8957', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8957/', 'title': 'Gospel Choir Competition Contributions'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -54,6 +55,7 @@
 {'event_id': '8637', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8637/', 'title': 'Thursday 3-5 SPARRING SESSION'}
 {'event_id': '8638', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8638/', 'title': 'Thursday 3-5 SPARRING SESSION'}
 {'event_id': '8915', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8915/', 'title': 'LEEDS KICKBOXING COMPETITION'}
+{'event_id': '8958', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/8958/', 'title': 'LANS Merch!'}
 {'event_id': '8576', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8576/', 'title': 'Coffee Social'}
 {'event_id': '8577', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8577/', 'title': 'Coffee Social'}
 {'event_id': '8578', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8578/', 'title': 'Coffee Social'}
@@ -79,7 +81,7 @@
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
 {'event_id': '8809', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8809/', 'title': "A Midsummer's Night Dream"}
 {'event_id': '8810', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8810/', 'title': 'Charity Karaoke'}
-{'event_id': '8863', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8863/', 'title': 'Cinderella and the Fairy Tale Ball'}
+{'event_id': '8863', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8863/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8864', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8864/', 'title': 'Cinderella and the Fairy Tale Ball'}
 {'event_id': '8865', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/8865/', 'title': 'Cinderella and the Fairy Tale Ball'}
 {'event_id': '8874', 'organisation_id': '22877', 'organisation': 'Mixed Martial Arts', 'url': 'https://www.guildofstudents.com/events/22877/8874/', 'title': 'UoB MMA Fight Night 2024'}
