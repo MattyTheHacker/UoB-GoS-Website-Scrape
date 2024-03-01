@@ -147,7 +147,6 @@ https://www.guildofstudents.com#spinneyinfo
 https://www.guildofstudents.com#sportsmore
 https://www.guildofstudents.com#student-blog-1
 https://www.guildofstudents.com#studiosinfo
-https://www.guildofstudents.com#submission
 https://www.guildofstudents.com#tennisinfo
 https://www.guildofstudents.com#tiktokmore
 https://www.guildofstudents.com#top
@@ -1400,6 +1399,7 @@ https://www.guildofstudents.com/ents/event/8950/
 https://www.guildofstudents.com/ents/event/8951/
 https://www.guildofstudents.com/ents/event/8952/
 https://www.guildofstudents.com/ents/event/8953/
+https://www.guildofstudents.com/ents/event/8957/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
@@ -1419,7 +1419,6 @@ https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
-https://www.guildofstudents.com/ents/eventlist/giveitago/
 https://www.guildofstudents.com/ents/eventlist/guildawards/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
@@ -1453,6 +1452,7 @@ https://www.guildofstudents.com/events/10948/8636/
 https://www.guildofstudents.com/events/10948/8637/
 https://www.guildofstudents.com/events/10948/8638/
 https://www.guildofstudents.com/events/10948/8915/
+https://www.guildofstudents.com/events/11302/8958/
 https://www.guildofstudents.com/events/12167/8576/
 https://www.guildofstudents.com/events/12167/8577/
 https://www.guildofstudents.com/events/12167/8578/
@@ -2321,8 +2321,6 @@ https://www.guildofstudents.com/pageassets/studentstaff/Reception-Assistant-Feb-
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
-https://www.guildofstudents.com/pageassets/support/guildadvice/hardshipfund/Guild-Hardship-Fund-Application-23.pdf
-https://www.guildofstudents.com/pageassets/support/guildadvice/hardshipfund/Guild-Hardship-Fund-Application.pdf
 https://www.guildofstudents.com/pageassets/support/studentmentors/who-are-student-mentors/Student-Mentors-Trolling-Advice.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Ethical-and-Environmental-Policy-2023.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Key-negative-environmental-impacts-2022.23.pdf
@@ -2840,7 +2838,6 @@ https://www.guildofstudents.commailto:GreekandCypriotSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:greenpartysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
-https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF Application
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hennasociety@guild.bham.ac.uk
