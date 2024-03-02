@@ -10,7 +10,6 @@ https://www.guildofstudents.commailto:afro-dance@guild.bham.ac.uk
 https://www.guildofstudents.commailto:afropologysoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ahlulbayt@guild.bham.ac.uk
 https://www.guildofstudents.commailto:AlternativeHipHopSociety@guild.bham.ac.uk
-https://www.guildofstudents.commailto:amateurradiosociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:amnesty@guild.bham.ac.uk
 https://www.guildofstudents.commailto:anime@guild.bham.ac.uk
 https://www.guildofstudents.commailto:arabsoc@guild.bham.ac.uk
@@ -289,6 +288,7 @@ https://www.guildofstudents.commailto:tss@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ttgaming@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tuitionscheme@guild.bham.ac.uk
 https://www.guildofstudents.commailto:turkish@guild.bham.ac.uk
+https://www.guildofstudents.commailto:ubars@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ubcu@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ubmc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ukrainiansociety@guild.bham.ac.uk
