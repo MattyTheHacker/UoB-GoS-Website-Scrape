@@ -41,6 +41,16 @@
 {'id': '8953', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8953/', 'title': 'Student Manifesto Creation'}
 {'id': '8955', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8955/', 'title': 'Housemate Finder'}
 {'id': '8957', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8957/', 'title': 'Gospel Choir Competition Contributions'}
+{'id': '8961', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8961/', 'title': 'Scrutiny Panel - Education Officer'}
+{'id': '8962', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8962/', 'title': "Scrutiny Panel - LGBTQ+ Students' Officer"}
+{'id': '8963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8963/', 'title': 'Scrutiny Panel - Postgraduate Officer'}
+{'id': '8964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8964/', 'title': 'Scrutiny Panel - International Officer'}
+{'id': '8965', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8965/', 'title': 'Scrutiny Panel - Welfare and Community Officer'}
+{'id': '8966', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8966/', 'title': "Scrutiny Panel - Disabled Students' Officer"}
+{'id': '8967', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8967/', 'title': "Scrutiny Panel - Trans and Non-Binary Students' Officer"}
+{'id': '8968', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8968/', 'title': 'Scrutiny Panel - Sports Officer'}
+{'id': '8969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8969/', 'title': 'Scrutiny Panel - Ethical and Environmental Officer'}
+{'id': '8970', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8970/', 'title': 'Scrutiny Panel - Activities and Employability Officer'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -130,7 +140,7 @@
 {'event_id': '8928', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8928/', 'title': 'Low House MAM Trip'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
-{'event_id': '8789', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8789/', 'title': 'Mental Health First Aid Training'}
+{'event_id': '8789', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8789/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8855', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8855/', 'title': 'Flowers For Jamie- Night 1'}
 {'event_id': '8860', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8860/', 'title': 'Flowers For Jamie- Night 2'}
 {'event_id': '8861', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8861/', 'title': 'Flowers For Jamie- Night 3'}

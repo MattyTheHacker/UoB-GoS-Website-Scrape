@@ -1643,7 +1643,6 @@ https://www.guildofstudents.com/events/6907/8922/
 https://www.guildofstudents.com/events/7067/8928/
 https://www.guildofstudents.com/events/7179/8776/
 https://www.guildofstudents.com/events/7195/8873/
-https://www.guildofstudents.com/events/7219/8789/
 https://www.guildofstudents.com/events/7515/8855/
 https://www.guildofstudents.com/events/7515/8860/
 https://www.guildofstudents.com/events/7515/8861/
@@ -1677,6 +1676,12 @@ https://www.guildofstudents.com/is-teaching-right-for-me
 https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2829/
 https://www.guildofstudents.com/login/
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fimarep%2f
 https://www.guildofstudents.com/mailinglist/signup/name
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/moneymatters
@@ -2317,6 +2322,7 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Activiti
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Activities-Employability-Officer-Amie-Raphael.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Activities-Employability-Officer-Report(1).pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Activities-Employability-Officer-Report.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/AEO-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/AEO-Report-Nov-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/April-Scrutiny-Panel-Feedback-Questions.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Campaigns-Officer(1).pdf
@@ -2588,6 +2594,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officert
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/president/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/so/new/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/officerteam/wco/new/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/141656/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/154514/
@@ -2610,6 +2617,11 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/234454/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bucv/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/islamic/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/talkinghands/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/complaints/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/imarep/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
