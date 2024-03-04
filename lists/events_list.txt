@@ -19,7 +19,7 @@
 {'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Community Breakfast'}
 {'id': '8838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8838/', 'title': 'Community Breakfast'}
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
-{'id': '8868', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8868/', 'title': 'Officer Elections 2024: Banner Making'}
+{'id': '8868', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8868/', 'title': 'Sorry, there was a problem'}
 {'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
 {'id': '8871', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8871/', 'title': 'Coffee & Clean Up'}
 {'id': '8872', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8872/', 'title': 'Wellbeing Cafe'}
@@ -38,7 +38,7 @@
 {'id': '8950', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8950/', 'title': 'Mason Meal Deal'}
 {'id': '8951', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8951/', 'title': 'Jarratt Lego Pot Plants'}
 {'id': '8952', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8952/', 'title': 'Give It A Go: Bookmark Making'}
-{'id': '8953', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8953/', 'title': 'Student Manifesto Creation'}
+{'id': '8953', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8953/', 'title': 'Sorry, there was a problem'}
 {'id': '8955', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8955/', 'title': 'Housemate Finder'}
 {'id': '8957', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8957/', 'title': 'Gospel Choir Competition Contributions'}
 {'id': '8961', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8961/', 'title': 'Scrutiny Panel - Education Officer'}
@@ -140,7 +140,6 @@
 {'event_id': '8928', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8928/', 'title': 'Low House MAM Trip'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
-{'event_id': '8789', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/8789/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8855', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8855/', 'title': 'Flowers For Jamie- Night 1'}
 {'event_id': '8860', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8860/', 'title': 'Flowers For Jamie- Night 2'}
 {'event_id': '8861', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8861/', 'title': 'Flowers For Jamie- Night 3'}

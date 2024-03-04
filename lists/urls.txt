@@ -1500,7 +1500,6 @@ https://www.guildofstudents.com/ents/event/8949/
 https://www.guildofstudents.com/ents/event/8950/
 https://www.guildofstudents.com/ents/event/8951/
 https://www.guildofstudents.com/ents/event/8952/
-https://www.guildofstudents.com/ents/event/8953/
 https://www.guildofstudents.com/ents/event/8955/
 https://www.guildofstudents.com/ents/event/8957/
 https://www.guildofstudents.com/ents/event/8961/
@@ -1677,11 +1676,13 @@ https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2829/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fimarep%2f
+https://www.guildofstudents.com/login/?redirect=%2fsurveys%2f252%2f
 https://www.guildofstudents.com/mailinglist/signup/name
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/moneymatters
@@ -2617,6 +2618,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/234454/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/giveitago/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bucv/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/islamic/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/talkinghands/
@@ -2624,6 +2626,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentr
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/imarep/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/surveys/252/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot
