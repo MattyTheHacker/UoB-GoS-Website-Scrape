@@ -38,7 +38,6 @@
 {'id': '8950', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8950/', 'title': 'Mason Meal Deal'}
 {'id': '8951', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8951/', 'title': 'Jarratt Lego Pot Plants'}
 {'id': '8952', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8952/', 'title': 'Give It A Go: Bookmark Making'}
-{'id': '8953', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8953/', 'title': 'Sorry, there was a problem'}
 {'id': '8955', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8955/', 'title': 'Housemate Finder'}
 {'id': '8957', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8957/', 'title': 'Gospel Choir Competition Contributions'}
 {'id': '8961', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8961/', 'title': 'Scrutiny Panel - Education Officer'}
