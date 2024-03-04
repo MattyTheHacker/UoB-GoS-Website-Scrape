@@ -19,7 +19,6 @@
 {'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Community Breakfast'}
 {'id': '8838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8838/', 'title': 'Community Breakfast'}
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
-{'id': '8868', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8868/', 'title': 'Sorry, there was a problem'}
 {'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
 {'id': '8871', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8871/', 'title': 'Coffee & Clean Up'}
 {'id': '8872', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8872/', 'title': 'Wellbeing Cafe'}
@@ -50,6 +49,7 @@
 {'id': '8968', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8968/', 'title': 'Scrutiny Panel - Sports Officer'}
 {'id': '8969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8969/', 'title': 'Scrutiny Panel - Ethical and Environmental Officer'}
 {'id': '8970', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8970/', 'title': 'Scrutiny Panel - Activities and Employability Officer'}
+{'id': '8974', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8974/', 'title': 'Wellbeing Fairy'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -136,9 +136,10 @@
 {'event_id': '8937', 'organisation_id': '6851', 'organisation': 'Islamic', 'url': 'https://www.guildofstudents.com/events/6851/8937/', 'title': 'Community Iftar'}
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
 {'event_id': '8922', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8922/', 'title': 'Korea Society Pork Belly Day'}
-{'event_id': '8928', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8928/', 'title': 'Low House MAM Trip'}
+{'event_id': '8928', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/8928/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
+{'event_id': '8973', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/8973/', 'title': 'Coalition of Chaos - POLSOC'}
 {'event_id': '8855', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8855/', 'title': 'Flowers For Jamie- Night 1'}
 {'event_id': '8860', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8860/', 'title': 'Flowers For Jamie- Night 2'}
 {'event_id': '8861', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/8861/', 'title': 'Flowers For Jamie- Night 3'}
