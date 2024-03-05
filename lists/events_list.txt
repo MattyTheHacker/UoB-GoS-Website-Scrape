@@ -50,6 +50,7 @@
 {'id': '8969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8969/', 'title': 'Scrutiny Panel - Ethical and Environmental Officer'}
 {'id': '8970', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8970/', 'title': 'Scrutiny Panel - Activities and Employability Officer'}
 {'id': '8974', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8974/', 'title': 'Wellbeing Fairy'}
+{'id': '8976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8976/', 'title': 'Black Voices: Women’s Day Watch Party'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
