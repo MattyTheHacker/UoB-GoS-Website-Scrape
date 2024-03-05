@@ -2962,7 +2962,6 @@ https://www.guildofstudents.com/ents/eventlist/blackvoices/
 https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
-https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/electionqs/
@@ -3095,6 +3094,7 @@ https://www.guildofstudents.com/events/7523/8912/
 https://www.guildofstudents.com/events/7523/8932/
 https://www.guildofstudents.com/events/7523/8959/
 https://www.guildofstudents.com/events/7523/8960/
+https://www.guildofstudents.com/events/7523/8981/
 https://www.guildofstudents.com/events/7727/8528/
 https://www.guildofstudents.com/events/7727/8639/
 https://www.guildofstudents.com/events/7727/8640/
