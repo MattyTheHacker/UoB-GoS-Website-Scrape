@@ -2953,6 +2953,7 @@ https://www.guildofstudents.com/ents/event/8969/
 https://www.guildofstudents.com/ents/event/8970/
 https://www.guildofstudents.com/ents/event/8974/
 https://www.guildofstudents.com/ents/event/8976/
+https://www.guildofstudents.com/ents/event/8977/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
@@ -6551,7 +6552,6 @@ https://www.guildofstudents.commailto:womensofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:worklink@contacts.bham.ac.uk
 https://www.guildofstudents.commailto:writersbloc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:yoga@guild.bham.ac.uk
-https://www.guildofstudents.commailtostudentreps@guild.bham.ac.uk
 https://www.guildofstudents.comtel:0121 41 58950
 https://www.guildofstudents.comtel:0121 415 856
 https://www.guildofstudents.comtel:0121 415 8912
