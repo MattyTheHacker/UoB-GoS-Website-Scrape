@@ -16,7 +16,7 @@
 {'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
-{'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Sorry, there was a problem'}
+{'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Account Login'}
 {'id': '8838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8838/', 'title': 'Community Breakfast'}
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
 {'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
@@ -66,7 +66,7 @@
 {'event_id': '8636', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8636/', 'title': 'Thursday 3-5 SPARRING SESSION'}
 {'event_id': '8637', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8637/', 'title': 'Thursday 3-5 SPARRING SESSION'}
 {'event_id': '8638', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8638/', 'title': 'Thursday 3-5 SPARRING SESSION'}
-{'event_id': '8915', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8915/', 'title': 'LEEDS KICKBOXING COMPETITION'}
+{'event_id': '8915', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8915/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8958', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/8958/', 'title': 'LANS Merch!'}
 {'event_id': '8576', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8576/', 'title': 'Coffee Social'}
 {'event_id': '8577', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8577/', 'title': 'Coffee Social'}
@@ -109,7 +109,7 @@
 {'event_id': '8567', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8567/', 'title': 'African Dance Session 5'}
 {'event_id': '8910', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8910/', 'title': 'Henna x Tote Bags'}
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Games Night'}
-{'event_id': '8916', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8916/', 'title': 'Quiz night'}
+{'event_id': '8916', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8916/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8929', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8929/', 'title': 'Ukrainian society collab - painting'}
 {'event_id': '8930', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8930/', 'title': 'Nauryz - kazakh traditional games'}
 {'event_id': '8931', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8931/', 'title': 'Movie night'}
