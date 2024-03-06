@@ -16,7 +16,7 @@
 {'id': '8742', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8742/', 'title': 'Sports memberships'}
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
-{'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Community Breakfast'}
+{'id': '8837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8837/', 'title': 'Sorry, there was a problem'}
 {'id': '8838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8838/', 'title': 'Community Breakfast'}
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
 {'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
@@ -153,6 +153,7 @@
 {'event_id': '8932', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8932/', 'title': 'Reserves- Hay on Wye'}
 {'event_id': '8959', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8959/', 'title': 'Reserves- Snowdonia'}
 {'event_id': '8960', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8960/', 'title': 'Glencoe Deposit Payment'}
+{'event_id': '8981', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/8981/', 'title': 'Glencoe Final Payment'}
 {'event_id': '8528', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8528/', 'title': 'DocSoc Screening'}
 {'event_id': '8639', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8639/', 'title': 'DocSoc Screening'}
 {'event_id': '8640', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/8640/', 'title': 'DocSoc Screening'}
