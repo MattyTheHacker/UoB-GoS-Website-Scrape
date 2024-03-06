@@ -2981,7 +2981,6 @@ https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/refreshers/
-https://www.guildofstudents.com/ents/eventlist/scrutinypanel/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
@@ -3042,6 +3041,7 @@ https://www.guildofstudents.com/events/26553/8947/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35209/8885/
 https://www.guildofstudents.com/events/35779/7484/
+https://www.guildofstudents.com/events/35779/8986/
 https://www.guildofstudents.com/events/39125/8762/
 https://www.guildofstudents.com/events/39181/8941/
 https://www.guildofstudents.com/events/39181/8978/
@@ -3052,7 +3052,6 @@ https://www.guildofstudents.com/events/42040/8910/
 https://www.guildofstudents.com/events/42121/8901/
 https://www.guildofstudents.com/events/43138/8929/
 https://www.guildofstudents.com/events/43138/8930/
-https://www.guildofstudents.com/events/43138/8931/
 https://www.guildofstudents.com/events/6339/8900/
 https://www.guildofstudents.com/events/6339/8923/
 https://www.guildofstudents.com/events/6347/8920/

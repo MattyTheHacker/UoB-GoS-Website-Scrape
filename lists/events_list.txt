@@ -29,7 +29,6 @@
 {'id': '8883', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8883/', 'title': 'Sports Night'}
 {'id': '8884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8884/', 'title': 'Sports Night'}
 {'id': '8904', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8904/', 'title': 'Black Voices: Tell It Like It Is'}
-{'id': '8918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8918/', 'title': 'Sorry, there was a problem'}
 {'id': '8945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8945/', 'title': 'How to apply for grant!'}
 {'id': '8946', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8946/', 'title': "St Patrick's FAB"}
 {'id': '8948', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8948/', 'title': 'Chamberlain Bath Bombs and Bon Bons'}
@@ -54,6 +53,7 @@
 {'id': '8977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8977/', 'title': 'Oak Brook Jungle in a Jar'}
 {'id': '8982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8982/', 'title': 'St Patricks Planting Party'}
 {'id': '8985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8985/', 'title': 'Language Cafe'}
+{'id': '8987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8987/', 'title': 'University Mental Health Day - Wellbeing Cafe'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -122,7 +122,6 @@
 {'event_id': '8894', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8894/', 'title': 'BUDS Show: Renaissance – Friday Evening'}
 {'event_id': '8895', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8895/', 'title': 'BUDS Show: Renaissance – Saturday Evening'}
 {'event_id': '8896', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8896/', 'title': 'BUDS Show: Renaissance – Saturday Matinee'}
-{'event_id': '8712', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8712/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8889', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8889/', 'title': 'SloLAN'}
 {'event_id': '8924', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8924/', 'title': 'Interview Hacks with Bank of America'}
 {'event_id': '8983', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8983/', 'title': 'Economics and Marketing Society Summer Ball'}
