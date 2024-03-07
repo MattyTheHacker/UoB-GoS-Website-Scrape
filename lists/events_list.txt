@@ -19,7 +19,6 @@
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '8838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8838/', 'title': 'Community Breakfast'}
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
-{'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Sorry, there was a problem'}
 {'id': '8871', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8871/', 'title': 'Coffee & Clean Up'}
 {'id': '8879', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8879/', 'title': 'Sports Night'}
 {'id': '8880', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8880/', 'title': 'Sports Night'}
@@ -92,7 +91,7 @@
 {'event_id': '8603', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8603/', 'title': 'Sober Socials Friday Games Night'}
 {'event_id': '8604', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/8604/', 'title': 'Sober Socials and Nerd Soc Taskmaster Collab!'}
 {'event_id': '8743', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8743/', 'title': 'Alton Towers with UOBEX!'}
-{'event_id': '8847', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8847/', 'title': 'UOBEX Easter Treasure Hunt!'}
+{'event_id': '8847', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/8847/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8724', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8724/', 'title': 'InterSociety Quiz 2024!'}
 {'event_id': '8829', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/8829/', 'title': 'Taskmaster Sober Socials x NerdSoc Collab'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
@@ -107,6 +106,7 @@
 {'event_id': '8885', 'organisation_id': '35209', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35209/8885/', 'title': 'Trans Healthcare Talk with TransActual'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8986', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/8986/', 'title': 'BUDSS Take Me Out!'}
+{'event_id': '8996', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8996/', 'title': 'Ravana Cup Cricket Tournament'}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
 {'event_id': '8941', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8941/', 'title': 'Canadian Conference Event'}
 {'event_id': '8978', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8978/', 'title': 'Social Event'}
