@@ -97,6 +97,7 @@
 {'event_id': '8874', 'organisation_id': '22877', 'organisation': 'Mixed Martial Arts', 'url': 'https://www.guildofstudents.com/events/22877/8874/', 'title': 'UoB MMA Fight Night 2024'}
 {'event_id': '8851', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/8851/', 'title': 'Lane 7 Freshers Social'}
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
+{'event_id': '8988', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8988/', 'title': 'Marketing Society x EconSoc Ball'}
 {'event_id': '8947', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/8947/', 'title': 'ELSA Birmingham Vagabond Networking Event "Whine and Wine"'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '8885', 'organisation_id': '35209', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35209/8885/', 'title': 'Trans Healthcare Talk with TransActual'}
@@ -112,6 +113,7 @@
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Games Night'}
 {'event_id': '8929', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8929/', 'title': 'Ukrainian society collab - painting'}
 {'event_id': '8930', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8930/', 'title': 'Nauryz - kazakh traditional games'}
+{'event_id': '8890', 'organisation_id': '43309', 'organisation': 'Model United Nations', 'url': 'https://www.guildofstudents.com/events/43309/8890/', 'title': 'NOTTSMUN 2024'}
 {'event_id': '8900', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8900/', 'title': 'Extreme Sports Ball 2024'}
 {'event_id': '8923', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8923/', 'title': 'Kings Round IV'}
 {'event_id': '8920', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/8920/', 'title': 'FUSION Newquay Trip - KCL'}
