@@ -21,7 +21,6 @@
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
 {'id': '8869', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8869/', 'title': 'Officer Elections 2024: Banner Making'}
 {'id': '8871', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8871/', 'title': 'Coffee & Clean Up'}
-{'id': '8872', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8872/', 'title': 'Sorry, there was a problem'}
 {'id': '8879', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8879/', 'title': 'Sports Night'}
 {'id': '8880', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8880/', 'title': 'Sports Night'}
 {'id': '8881', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8881/', 'title': 'Sports Night'}
