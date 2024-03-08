@@ -27,10 +27,9 @@
 {'id': '8883', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8883/', 'title': 'Sports Night'}
 {'id': '8884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8884/', 'title': 'Sports Night'}
 {'id': '8904', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8904/', 'title': 'Black Voices: Tell It Like It Is'}
-{'id': '8945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8945/', 'title': 'Sorry, there was a problem'}
 {'id': '8946', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8946/', 'title': "St Patrick's FAB"}
 {'id': '8948', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8948/', 'title': 'Chamberlain Bath Bombs and Bon Bons'}
-{'id': '8949', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8949/', 'title': 'Oak Brook Park: Jungle In A Jar'}
+{'id': '8949', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8949/', 'title': 'Sorry, there was a problem'}
 {'id': '8950', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8950/', 'title': 'Mason Meal Deal'}
 {'id': '8951', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8951/', 'title': 'Jarratt Lego Pot Plants'}
 {'id': '8952', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8952/', 'title': 'Give It A Go: Bookmark Making'}
@@ -76,7 +75,6 @@
 {'event_id': '8578', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8578/', 'title': 'Coffee Social'}
 {'event_id': '8579', 'organisation_id': '12167', 'organisation': 'oSTEM', 'url': 'https://www.guildofstudents.com/events/12167/8579/', 'title': 'Coffee Social'}
 {'event_id': '8913', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8913/', 'title': 'Summer retreat'}
-{'event_id': '8954', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8954/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8852', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8852/', 'title': 'ASC watch War Room'}
 {'event_id': '8940', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8940/', 'title': 'ASC Agape Feast'}
 {'event_id': '8997', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8997/', 'title': '2024 Wellbeing Retreat'}
@@ -100,6 +98,7 @@
 {'event_id': '8851', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/8851/', 'title': 'Lane 7 Freshers Social'}
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '8988', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8988/', 'title': 'Marketing Society x EconSoc Ball'}
+{'event_id': '8998', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8998/', 'title': 'Responsible Marketing for a Start-up'}
 {'event_id': '8947', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/8947/', 'title': 'ELSA Birmingham Vagabond Networking Event "Whine and Wine"'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '8885', 'organisation_id': '35209', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35209/8885/', 'title': 'Trans Healthcare Talk with TransActual'}
@@ -114,7 +113,6 @@
 {'event_id': '8567', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8567/', 'title': 'African Dance Session 5'}
 {'event_id': '8910', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8910/', 'title': 'Henna x Tote Bags'}
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Games Night'}
-{'event_id': '8929', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8929/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8930', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8930/', 'title': 'Nauryz - kazakh traditional games'}
 {'event_id': '8890', 'organisation_id': '43309', 'organisation': 'Model United Nations', 'url': 'https://www.guildofstudents.com/events/43309/8890/', 'title': 'NOTTSMUN 2024'}
 {'event_id': '8971', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/8971/', 'title': 'Bakesoc 13/3/24 - Cinnamon Swirls and Cheese & Olive Pastries 5:30-7'}
