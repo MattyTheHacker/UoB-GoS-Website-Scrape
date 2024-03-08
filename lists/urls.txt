@@ -58,6 +58,7 @@ https://www.guildofstudents.com#accordpres1-1
 https://www.guildofstudents.com#accordpres2-1
 https://www.guildofstudents.com#accordpres3-1
 https://www.guildofstudents.com#accordpres4-1
+https://www.guildofstudents.com#accordroledescriptions-1
 https://www.guildofstudents.com#accordsport1-1
 https://www.guildofstudents.com#accordsports2-1
 https://www.guildofstudents.com#accordsports3-1
@@ -106,7 +107,6 @@ https://www.guildofstudents.com#ctl00_Main_tvPages_SkipLink
 https://www.guildofstudents.com#demo
 https://www.guildofstudents.com#disabledmore
 https://www.guildofstudents.com#educationmore
-https://www.guildofstudents.com#electionevents
 https://www.guildofstudents.com#elgarinfo
 https://www.guildofstudents.com#ethicsmore
 https://www.guildofstudents.com#ethnicmore
@@ -159,6 +159,7 @@ https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
 https://www.guildofstudents.com#postgraduatemore
 https://www.guildofstudents.com#presidentmore
+https://www.guildofstudents.com#questiontime
 https://www.guildofstudents.com#sellyoakcourtinfo
 https://www.guildofstudents.com#shackle-carousel
 https://www.guildofstudents.com#shackletoninfo
@@ -3075,6 +3076,8 @@ https://www.guildofstudents.com/events/42121/8901/
 https://www.guildofstudents.com/events/43138/8929/
 https://www.guildofstudents.com/events/43138/8930/
 https://www.guildofstudents.com/events/43309/8890/
+https://www.guildofstudents.com/events/6179/8971/
+https://www.guildofstudents.com/events/6179/8972/
 https://www.guildofstudents.com/events/6339/8900/
 https://www.guildofstudents.com/events/6339/8923/
 https://www.guildofstudents.com/events/6347/8920/
