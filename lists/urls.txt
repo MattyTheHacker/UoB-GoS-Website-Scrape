@@ -2947,7 +2947,6 @@ https://www.guildofstudents.com/ents/event/8882/
 https://www.guildofstudents.com/ents/event/8883/
 https://www.guildofstudents.com/ents/event/8884/
 https://www.guildofstudents.com/ents/event/8904/
-https://www.guildofstudents.com/ents/event/8945/
 https://www.guildofstudents.com/ents/event/8946/
 https://www.guildofstudents.com/ents/event/8948/
 https://www.guildofstudents.com/ents/event/8949/
@@ -3007,7 +3006,6 @@ https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
-https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/travel/
 https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/rss/0/subtree/
@@ -3034,7 +3032,6 @@ https://www.guildofstudents.com/events/12167/8577/
 https://www.guildofstudents.com/events/12167/8578/
 https://www.guildofstudents.com/events/12167/8579/
 https://www.guildofstudents.com/events/12492/8913/
-https://www.guildofstudents.com/events/12492/8954/
 https://www.guildofstudents.com/events/12508/8852/
 https://www.guildofstudents.com/events/12508/8940/
 https://www.guildofstudents.com/events/12508/8997/
@@ -3059,6 +3056,7 @@ https://www.guildofstudents.com/events/23447/8851/
 https://www.guildofstudents.com/events/240316-get-into-teaching-west-midlands-event/apply
 https://www.guildofstudents.com/events/25611/8943/
 https://www.guildofstudents.com/events/26488/8988/
+https://www.guildofstudents.com/events/26488/8998/
 https://www.guildofstudents.com/events/26553/8947/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35209/8885/
@@ -3073,7 +3071,6 @@ https://www.guildofstudents.com/events/41191/8939/
 https://www.guildofstudents.com/events/41452/8567/
 https://www.guildofstudents.com/events/42040/8910/
 https://www.guildofstudents.com/events/42121/8901/
-https://www.guildofstudents.com/events/43138/8929/
 https://www.guildofstudents.com/events/43138/8930/
 https://www.guildofstudents.com/events/43309/8890/
 https://www.guildofstudents.com/events/6179/8971/
@@ -3998,6 +3995,7 @@ https://www.guildofstudents.com/profile/165247/
 https://www.guildofstudents.com/profile/165254/
 https://www.guildofstudents.com/profile/165454/
 https://www.guildofstudents.com/profile/165461/
+https://www.guildofstudents.com/profile/165463/
 https://www.guildofstudents.com/profile/165466/
 https://www.guildofstudents.com/profile/165597/
 https://www.guildofstudents.com/profile/165667/
@@ -5102,6 +5100,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/165254/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/165454/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/165461/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/165463/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/165466/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/165597/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/165667/
@@ -6055,6 +6054,7 @@ https://www.guildofstudents.com/studentgroups/giveitago/
 https://www.guildofstudents.com/studentgroups/running-a-group/committee-elections/
 https://www.guildofstudents.com/studentgroups/saveasociety/
 https://www.guildofstudents.com/studentgroups/searchgroups/
+https://www.guildofstudents.com/studentgroups/societies/26524/
 https://www.guildofstudents.com/studentgroups/societies/26533/
 https://www.guildofstudents.com/studentgroups/societies/34418/
 https://www.guildofstudents.com/studentgroups/societies/35802/
@@ -6491,6 +6491,7 @@ https://www.guildofstudents.commailto:poker@guild.bham.ac.uk
 https://www.guildofstudents.commailto:pokesoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:polefitness@guild.bham.ac.uk
 https://www.guildofstudents.commailto:politics@guild.bham.ac.uk
+https://www.guildofstudents.commailto:portuguesesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:postgraduate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:pottersoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:powerlifting@guild.bham.ac.uk
