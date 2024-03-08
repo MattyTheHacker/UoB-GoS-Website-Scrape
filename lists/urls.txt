@@ -2949,7 +2949,6 @@ https://www.guildofstudents.com/ents/event/8884/
 https://www.guildofstudents.com/ents/event/8904/
 https://www.guildofstudents.com/ents/event/8946/
 https://www.guildofstudents.com/ents/event/8948/
-https://www.guildofstudents.com/ents/event/8949/
 https://www.guildofstudents.com/ents/event/8950/
 https://www.guildofstudents.com/ents/event/8951/
 https://www.guildofstudents.com/ents/event/8952/
@@ -6083,6 +6082,7 @@ https://www.guildofstudents.com/studentgroups/societies/43309/
 https://www.guildofstudents.com/studentgroups/societies/43319/
 https://www.guildofstudents.com/studentgroups/societies/50852/
 https://www.guildofstudents.com/studentgroups/societies/50872/
+https://www.guildofstudents.com/studentgroups/societies/50892/
 https://www.guildofstudents.com/studentgroups/societies/9334/
 https://www.guildofstudents.com/studentgroups/societies/africanandcaribbean/
 https://www.guildofstudents.com/studentgroups/societies/ahlulbayt/
@@ -6557,6 +6557,7 @@ https://www.guildofstudents.commailto:tcu@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tea@guild.bham.ac.uk
 https://www.guildofstudents.commailto:teamup@guild.bham.ac.uk
 https://www.guildofstudents.commailto:TeluguSociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:the93clubsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:transofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tss@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ttgaming@guild.bham.ac.uk

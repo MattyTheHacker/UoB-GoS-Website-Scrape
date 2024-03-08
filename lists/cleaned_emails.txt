@@ -45,8 +45,10 @@ breastcancer@guild.bham.ac.uk
 brummarxists@gmail.com
 brumski@guild.bham.ac.uk
 brumsurf@guild.bham.ac.uk
+brumtechsociety@guild.bham.ac.uk
 bucv@guild.bham.ac.uk
 buddhist@guild.bham.ac.uk
+burmesesociety@guild.bham.ac.uk
 burnarts@guild.bham.ac.uk
 burndeputystationmanager@guild.bham.ac.uk
 burneditor@guild.bham.ac.uk
@@ -78,6 +80,7 @@ commercialawarenesssoc@guild.bham.ac.uk
 communications@guild.bham.ac.uk
 community@guild.bham.ac.uk
 communitypantry@guild.bham.ac.uk
+commutersociety@guild.bham.ac.uk
 complaints@guild.bham.ac.uk
 conservatives@guild.bham.ac.uk
 craft@guild.bham.ac.uk
@@ -118,6 +121,7 @@ firstlove@guild.bham.ac.uk
 folk@guild.bham.ac.uk
 footnotes@guild.bham.ac.uk
 friendsinternational@guild.bham.ac.uk
+friendsofpalestine@guild.bham.ac.uk
 fringe@guild.bham.ac.uk
 fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
@@ -215,6 +219,7 @@ NIUOB@guild.bham.ac.uk
 noton@guild.bham.ac.uk
 nuclearandmaterialssociety@guild.bham.ac.uk
 nursing@guild.bham.ac.uk
+openmicsociety@guild.bham.ac.uk
 ostem@guild.bham.ac.uk
 pakistan-soc@guild.bham.ac.uk
 panto@guild.bham.ac.uk
@@ -268,6 +273,7 @@ sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
 staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
+starwarssociety@guild.bham.ac.uk
 Strategicconsulting@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
 studentgroups@guild.bham.ac.uk
