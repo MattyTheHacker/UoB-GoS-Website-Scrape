@@ -130,10 +130,10 @@
 {'event_id': '9000', 'organisation_id': '6539', 'organisation': 'DAMSA', 'url': 'https://www.guildofstudents.com/events/6539/9000/', 'title': 'SANDAM Hoodies Sale'}
 {'event_id': '8983', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8983/', 'title': 'Economics and Marketing Society Summer Ball'}
 {'event_id': '8903', 'organisation_id': '6595', 'organisation': 'Education', 'url': 'https://www.guildofstudents.com/events/6595/8903/', 'title': 'Pottery painting with EdSoc'}
-{'event_id': '8649', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8649/', 'title': 'Seasons of Love Showcase - 7th March 7:30pm'}
-{'event_id': '8650', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8650/', 'title': 'Seasons of Love Showcase - 8th March 7:30pm'}
-{'event_id': '8651', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8651/', 'title': 'Seasons of Love Showcase - 9th March 7:30pm'}
-{'event_id': '8652', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8652/', 'title': 'Seasons of Love Showcase - 9th March 2:30pm'}
+{'event_id': '8649', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8649/', 'title': 'Sorry, there was a problem'}
+{'event_id': '8650', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8650/', 'title': 'Sorry, there was a problem'}
+{'event_id': '8651', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8651/', 'title': 'Sorry, there was a problem'}
+{'event_id': '8652', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8652/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8802', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8802/', 'title': 'Footloose - 21st March 7:30pm'}
 {'event_id': '8803', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8803/', 'title': 'Footloose - 22nd March 7:30pm'}
 {'event_id': '8804', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8804/', 'title': 'Footloose - 23rd March 2:30pm'}
