@@ -21,9 +21,11 @@ https://www.guildofstudents.com#aboutguild-1
 https://www.guildofstudents.com#accord-1
 https://www.guildofstudents.com#accord-2223
 https://www.guildofstudents.com#accord-2324
+https://www.guildofstudents.com#accord-dem
 https://www.guildofstudents.com#accord10-1
 https://www.guildofstudents.com#accord12-1
 https://www.guildofstudents.com#accord2-1
+https://www.guildofstudents.com#accord2-col
 https://www.guildofstudents.com#accord3-1
 https://www.guildofstudents.com#accord4-1
 https://www.guildofstudents.com#accord5-1
@@ -107,11 +109,14 @@ https://www.guildofstudents.com#ctl00_Main_tvPages_SkipLink
 https://www.guildofstudents.com#demo
 https://www.guildofstudents.com#disabledmore
 https://www.guildofstudents.com#educationmore
+https://www.guildofstudents.com#electiondocs
 https://www.guildofstudents.com#elgarinfo
 https://www.guildofstudents.com#ethicsmore
 https://www.guildofstudents.com#ethnicmore
 https://www.guildofstudents.com#filter
 https://www.guildofstudents.com#getintouch
+https://www.guildofstudents.com#incentives
+https://www.guildofstudents.com#incentivesterms
 https://www.guildofstudents.com#instagrammore
 https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#internationalmore
@@ -2915,6 +2920,8 @@ https://www.guildofstudents.com/elections/posts/189/#8606
 https://www.guildofstudents.com/elections/posts/189/#8607
 https://www.guildofstudents.com/elections/posts/189/#8608
 https://www.guildofstudents.com/elections/ron/
+https://www.guildofstudents.com/elections/vote/189/
+https://www.guildofstudents.com/elections/votingstats
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8498/
@@ -3052,6 +3059,7 @@ https://www.guildofstudents.com/events/23447/8851/
 https://www.guildofstudents.com/events/25611/8943/
 https://www.guildofstudents.com/events/26488/8988/
 https://www.guildofstudents.com/events/26488/8998/
+https://www.guildofstudents.com/events/26488/9003/
 https://www.guildofstudents.com/events/26553/8947/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35209/8885/
@@ -3127,6 +3135,7 @@ https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/login/
+https://www.guildofstudents.com/login/?redirect=%2felections%2fvote%2f189%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fcivsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
@@ -5019,6 +5028,7 @@ https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/vote/189/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/civsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
