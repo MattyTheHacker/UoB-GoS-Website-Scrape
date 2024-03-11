@@ -98,6 +98,7 @@
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '8988', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8988/', 'title': 'Marketing Society x EconSoc Ball'}
 {'event_id': '8998', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8998/', 'title': 'Responsible Marketing for a Start-up'}
+{'event_id': '9003', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/9003/', 'title': 'Kickstart your Career at Mars Inc.'}
 {'event_id': '8947', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/8947/', 'title': 'ELSA Birmingham Vagabond Networking Event "Whine and Wine"'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '8885', 'organisation_id': '35209', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35209/8885/', 'title': 'Trans Healthcare Talk with TransActual'}
