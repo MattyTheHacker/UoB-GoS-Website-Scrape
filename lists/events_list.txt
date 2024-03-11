@@ -53,6 +53,7 @@
 {'id': '8993', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8993/', 'title': 'Pritchatts Park Pi Day'}
 {'id': '8994', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8994/', 'title': 'Give It A Go: Yoga - Afternoon Retreat'}
 {'id': '8995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8995/', 'title': 'Give It A Go: Board Game Night'}
+{'id': '9004', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9004/', 'title': 'Coalition of Chaos'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -110,6 +111,7 @@
 {'event_id': '8941', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8941/', 'title': 'Canadian Conference Event'}
 {'event_id': '8978', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8978/', 'title': 'Social Event'}
 {'event_id': '8979', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8979/', 'title': 'Sports Night'}
+{'event_id': '8909', 'organisation_id': '41079', 'organisation': 'Green Party', 'url': 'https://www.guildofstudents.com/events/41079/8909/', 'title': 'Coalition of Chaos (Greens)'}
 {'event_id': '8939', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/8939/', 'title': 'Karaoke Night (part 2!)'}
 {'event_id': '8567', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8567/', 'title': 'African Dance Session 5'}
 {'event_id': '8910', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8910/', 'title': 'Henna x Tote Bags'}
