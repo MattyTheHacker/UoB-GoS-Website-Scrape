@@ -45,7 +45,7 @@
 {'id': '8974', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8974/', 'title': 'Wellbeing Fairy'}
 {'id': '8976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8976/', 'title': 'Black Voices: Women’s Day Watch Party'}
 {'id': '8977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8977/', 'title': 'Oak Brook Jungle in a Jar'}
-{'id': '8982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8982/', 'title': 'St Patricks Planting Party'}
+{'id': '8982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8982/', 'title': 'Sorry, there was a problem'}
 {'id': '8985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8985/', 'title': 'Language Cafe'}
 {'id': '8987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8987/', 'title': 'University Mental Health Day - Wellbeing Cafe'}
 {'id': '8992', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8992/', 'title': 'Tennis Courts Steak Sandwiches and Board Games'}
@@ -130,9 +130,8 @@
 {'event_id': '8893', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8893/', 'title': 'BUDS Show: Renaissance – Thursday Evening'}
 {'event_id': '8894', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8894/', 'title': 'BUDS Show: Renaissance – Friday Evening'}
 {'event_id': '8895', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8895/', 'title': 'BUDS Show: Renaissance – Saturday Evening'}
-{'event_id': '8896', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8896/', 'title': 'BUDS Show: Renaissance – Saturday Matinee'}
 {'event_id': '9012', 'organisation_id': '6467', 'organisation': 'Civil Engineering', 'url': 'https://www.guildofstudents.com/events/6467/9012/', 'title': 'Annual General Meeting 2024'}
-{'event_id': '8902', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8902/', 'title': 'Craft Society - Candle Painting + AGM'}
+{'event_id': '8902', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8902/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8760', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8760/', 'title': 'CSS Ball 2024'}
 {'event_id': '8889', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8889/', 'title': 'SloLAN'}
 {'event_id': '8924', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8924/', 'title': 'Interview Hacks with Bank of America'}
@@ -150,6 +149,7 @@
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
 {'event_id': '8922', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8922/', 'title': 'Korea Society Pork Belly Day'}
 {'event_id': '8980', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8980/', 'title': 'Ddeokbeokgi Making Session'}
+{'event_id': '9013', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9013/', 'title': 'Ropeworks'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
 {'event_id': '8973', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/8973/', 'title': 'Coalition of Chaos - POLSOC'}
