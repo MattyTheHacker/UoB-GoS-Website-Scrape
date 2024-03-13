@@ -2974,7 +2974,6 @@ https://www.guildofstudents.com/ents/event/8970/
 https://www.guildofstudents.com/ents/event/8974/
 https://www.guildofstudents.com/ents/event/8976/
 https://www.guildofstudents.com/ents/event/8977/
-https://www.guildofstudents.com/ents/event/8982/
 https://www.guildofstudents.com/ents/event/8985/
 https://www.guildofstudents.com/ents/event/8987/
 https://www.guildofstudents.com/ents/event/8992/
@@ -3097,7 +3096,6 @@ https://www.guildofstudents.com/events/6371/8893/
 https://www.guildofstudents.com/events/6371/8894/
 https://www.guildofstudents.com/events/6371/8895/
 https://www.guildofstudents.com/events/6467/9012/
-https://www.guildofstudents.com/events/6523/8902/
 https://www.guildofstudents.com/events/6531/8760/
 https://www.guildofstudents.com/events/6531/8889/
 https://www.guildofstudents.com/events/6531/8924/
@@ -3152,6 +3150,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fcivsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2feducation%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fheaducate%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
@@ -6051,6 +6050,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/represen
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/giveitago/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bucv/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/headucate/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/islamic/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/talkinghands/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/complaints/
