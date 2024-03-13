@@ -3146,13 +3146,17 @@ https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2felections%2fvote%2f189%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbenchball%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fcivsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2feducation%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2flarp%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpowerlifting%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fheaducate%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fwomeninpolitics%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fimarep%2f
 https://www.guildofstudents.com/login/?redirect=%2fsurveys%2f252%2f
@@ -5042,8 +5046,11 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/me
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/vote/189/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/benchball/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/civsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/education/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/larp/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/powerlifting/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/106849/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/111544/
@@ -6053,6 +6060,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentg
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/headucate/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/islamic/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/talkinghands/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/womeninpolitics/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/complaints/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/imarep/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/

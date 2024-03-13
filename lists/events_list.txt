@@ -45,7 +45,6 @@
 {'id': '8974', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8974/', 'title': 'Wellbeing Fairy'}
 {'id': '8976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8976/', 'title': 'Black Voices: Women’s Day Watch Party'}
 {'id': '8977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8977/', 'title': 'Oak Brook Jungle in a Jar'}
-{'id': '8982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8982/', 'title': 'Sorry, there was a problem'}
 {'id': '8985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8985/', 'title': 'Language Cafe'}
 {'id': '8987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8987/', 'title': 'University Mental Health Day - Wellbeing Cafe'}
 {'id': '8992', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8992/', 'title': 'Tennis Courts Steak Sandwiches and Board Games'}
@@ -131,7 +130,6 @@
 {'event_id': '8894', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8894/', 'title': 'BUDS Show: Renaissance – Friday Evening'}
 {'event_id': '8895', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/8895/', 'title': 'BUDS Show: Renaissance – Saturday Evening'}
 {'event_id': '9012', 'organisation_id': '6467', 'organisation': 'Civil Engineering', 'url': 'https://www.guildofstudents.com/events/6467/9012/', 'title': 'Annual General Meeting 2024'}
-{'event_id': '8902', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/8902/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8760', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8760/', 'title': 'CSS Ball 2024'}
 {'event_id': '8889', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8889/', 'title': 'SloLAN'}
 {'event_id': '8924', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8924/', 'title': 'Interview Hacks with Bank of America'}
