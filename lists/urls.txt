@@ -112,14 +112,11 @@ https://www.guildofstudents.com#ctl00_Main_tvPages_SkipLink
 https://www.guildofstudents.com#demo
 https://www.guildofstudents.com#disabledmore
 https://www.guildofstudents.com#educationmore
-https://www.guildofstudents.com#electiondocs
 https://www.guildofstudents.com#elgarinfo
 https://www.guildofstudents.com#ethicsmore
 https://www.guildofstudents.com#ethnicmore
 https://www.guildofstudents.com#filter
 https://www.guildofstudents.com#getintouch
-https://www.guildofstudents.com#incentives
-https://www.guildofstudents.com#incentivesterms
 https://www.guildofstudents.com#instagrammore
 https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#internationalmore
@@ -166,7 +163,6 @@ https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
 https://www.guildofstudents.com#postgraduatemore
 https://www.guildofstudents.com#presidentmore
-https://www.guildofstudents.com#questiontime
 https://www.guildofstudents.com#sellyoakcourtinfo
 https://www.guildofstudents.com#shackle-carousel
 https://www.guildofstudents.com#shackletoninfo
@@ -2826,6 +2822,7 @@ https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
 https://www.guildofstudents.com/elections/candidates/189/
+https://www.guildofstudents.com/elections/incentivestcs
 https://www.guildofstudents.com/elections/manifesto/14650/
 https://www.guildofstudents.com/elections/manifesto/14652/
 https://www.guildofstudents.com/elections/manifesto/14658/
@@ -2923,9 +2920,9 @@ https://www.guildofstudents.com/elections/posts/189/#8605
 https://www.guildofstudents.com/elections/posts/189/#8606
 https://www.guildofstudents.com/elections/posts/189/#8607
 https://www.guildofstudents.com/elections/posts/189/#8608
+https://www.guildofstudents.com/elections/results/189/
 https://www.guildofstudents.com/elections/ron/
-https://www.guildofstudents.com/elections/vote/189/
-https://www.guildofstudents.com/elections/votingstats
+https://www.guildofstudents.com/elections/votingstats/
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8498/
@@ -2947,7 +2944,6 @@ https://www.guildofstudents.com/ents/event/8745/
 https://www.guildofstudents.com/ents/event/8796/
 https://www.guildofstudents.com/ents/event/8815/
 https://www.guildofstudents.com/ents/event/8839/
-https://www.guildofstudents.com/ents/event/8871/
 https://www.guildofstudents.com/ents/event/8879/
 https://www.guildofstudents.com/ents/event/8880/
 https://www.guildofstudents.com/ents/event/8882/
@@ -3134,7 +3130,6 @@ https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/login/
-https://www.guildofstudents.com/login/?redirect=%2felections%2fvote%2f189%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbenchball%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fcivsoc%2f
@@ -3142,6 +3137,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2feducation%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2flarp%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpowerlifting%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbsfl%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fheaducate%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
@@ -5034,7 +5030,6 @@ https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/elections/vote/189/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/benchball/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/civsoc/
@@ -6046,6 +6041,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/giveitago/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bsfl/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bucv/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/headucate/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/islamic/
@@ -6264,6 +6260,7 @@ https://www.guildofstudents.com/welcome/support#officers
 https://www.guildofstudents.com/welcome/support#unisupport
 https://www.guildofstudents.com/welcome/support/
 https://www.guildofstudents.com/welcome/undergraduate
+https://www.guildofstudents.comfb://profile/100063771213362/
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl15$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl21$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl31$filterList','')

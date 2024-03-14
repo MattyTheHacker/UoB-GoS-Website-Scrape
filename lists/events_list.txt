@@ -45,7 +45,7 @@
 {'id': '8977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8977/', 'title': 'Oak Brook Jungle in a Jar'}
 {'id': '8985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8985/', 'title': 'Language Cafe'}
 {'id': '8992', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8992/', 'title': 'Tennis Courts Steak Sandwiches and Board Games'}
-{'id': '8993', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8993/', 'title': 'Pritchatts Park Pi Day'}
+{'id': '8993', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8993/', 'title': 'Sorry, there was a problem'}
 {'id': '8994', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8994/', 'title': 'Give It A Go: Yoga - Afternoon Retreat'}
 {'id': '8995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8995/', 'title': 'Give It A Go: Board Game Night'}
 {'id': '9004', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9004/', 'title': 'Coalition of Chaos'}
