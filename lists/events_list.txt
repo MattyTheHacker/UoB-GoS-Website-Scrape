@@ -18,7 +18,6 @@
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
-{'id': '8871', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8871/', 'title': 'Account Login'}
 {'id': '8879', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8879/', 'title': 'Sports Night'}
 {'id': '8880', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8880/', 'title': 'Sports Night'}
 {'id': '8882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8882/', 'title': 'Sports Night End of Term'}
@@ -44,7 +43,7 @@
 {'id': '8976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8976/', 'title': 'Black Voices: Women’s Day Watch Party'}
 {'id': '8977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8977/', 'title': 'Oak Brook Jungle in a Jar'}
 {'id': '8985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8985/', 'title': 'Language Cafe'}
-{'id': '8992', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8992/', 'title': 'Tennis Courts Steak Sandwiches and Board Games'}
+{'id': '8992', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8992/', 'title': 'Sorry, there was a problem'}
 {'id': '8993', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8993/', 'title': 'Sorry, there was a problem'}
 {'id': '8994', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8994/', 'title': 'Give It A Go: Yoga - Afternoon Retreat'}
 {'id': '8995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8995/', 'title': 'Give It A Go: Board Game Night'}

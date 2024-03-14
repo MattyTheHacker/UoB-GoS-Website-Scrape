@@ -2970,7 +2970,6 @@ https://www.guildofstudents.com/ents/event/8976/
 https://www.guildofstudents.com/ents/event/8977/
 https://www.guildofstudents.com/ents/event/8985/
 https://www.guildofstudents.com/ents/event/8992/
-https://www.guildofstudents.com/ents/event/8993/
 https://www.guildofstudents.com/ents/event/8994/
 https://www.guildofstudents.com/ents/event/8995/
 https://www.guildofstudents.com/ents/event/9004/
@@ -3086,6 +3085,7 @@ https://www.guildofstudents.com/events/6531/8760/
 https://www.guildofstudents.com/events/6531/8889/
 https://www.guildofstudents.com/events/6531/8924/
 https://www.guildofstudents.com/events/6539/9000/
+https://www.guildofstudents.com/events/6547/9015/
 https://www.guildofstudents.com/events/6587/8983/
 https://www.guildofstudents.com/events/6595/8903/
 https://www.guildofstudents.com/events/6691/8802/
@@ -6260,7 +6260,6 @@ https://www.guildofstudents.com/welcome/support#officers
 https://www.guildofstudents.com/welcome/support#unisupport
 https://www.guildofstudents.com/welcome/support/
 https://www.guildofstudents.com/welcome/undergraduate
-https://www.guildofstudents.comfb://profile/100063771213362/
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl15$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl21$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$ctl31$filterList','')
@@ -6369,7 +6368,6 @@ https://www.guildofstudents.commailto:disabledofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:djs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:doctorwho@guild.bham.ac.uk
 https://www.guildofstudents.commailto:dogsoc@guild.bham.ac.uk
-https://www.guildofstudents.commailto:dpo@guild.bham.ac.uk
 https://www.guildofstudents.commailto:E.Badger@guild.bham.ac.uk
 https://www.guildofstudents.commailto:eastafrican@guild.bham.ac.uk
 https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
@@ -6600,3 +6598,4 @@ https://www.guildofstudents.comtel:0121 415 8912
 https://www.guildofstudents.comtel:0121 415 9990
 https://www.guildofstudents.comtel:01216754806
 https://www.guildofstudents.comtel:03031231113
+https://www.guildofstudents.comvnd.youtube://www.youtube.com/watch?v=DrV4SioS4zg&v=DrV4SioS4zg
