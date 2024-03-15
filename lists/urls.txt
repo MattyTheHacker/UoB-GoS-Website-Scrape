@@ -2947,8 +2947,6 @@ https://www.guildofstudents.com/ents/event/8839/
 https://www.guildofstudents.com/ents/event/8879/
 https://www.guildofstudents.com/ents/event/8880/
 https://www.guildofstudents.com/ents/event/8882/
-https://www.guildofstudents.com/ents/event/8883/
-https://www.guildofstudents.com/ents/event/8884/
 https://www.guildofstudents.com/ents/event/8904/
 https://www.guildofstudents.com/ents/event/8946/
 https://www.guildofstudents.com/ents/event/8948/
@@ -3069,7 +3067,6 @@ https://www.guildofstudents.com/events/41191/8939/
 https://www.guildofstudents.com/events/41452/8568/
 https://www.guildofstudents.com/events/42040/8910/
 https://www.guildofstudents.com/events/42121/8901/
-https://www.guildofstudents.com/events/43138/8930/
 https://www.guildofstudents.com/events/43309/8890/
 https://www.guildofstudents.com/events/43329/9006/
 https://www.guildofstudents.com/events/6339/8900/
@@ -3386,7 +3383,6 @@ https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/Trustee-Role-Description-and-Person-Spec.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf
 https://www.guildofstudents.com/pageassets/advertising/Media-Pack-2023-24.pdf
-https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2023.pdf
 https://www.guildofstudents.com/pageassets/blackvoices/Black-Voices-Manifesto-1022.pdf
 https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Guild-Bye-Laws.pdf
 https://www.guildofstudents.com/pageassets/elections/autumn-elections-Zero-Tolerance-Policy-2023.pdf
