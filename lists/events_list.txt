@@ -43,10 +43,9 @@
 {'id': '8976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8976/', 'title': 'Black Voices: Women’s Day Watch Party'}
 {'id': '8977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8977/', 'title': 'Oak Brook Jungle in a Jar'}
 {'id': '8985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8985/', 'title': 'Language Cafe'}
-{'id': '8992', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8992/', 'title': 'Sorry, there was a problem'}
 {'id': '8994', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8994/', 'title': 'Give It A Go: Yoga - Afternoon Retreat'}
 {'id': '8995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8995/', 'title': 'Give It A Go: Board Game Night'}
-{'id': '9004', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9004/', 'title': 'Coalition of Chaos'}
+{'id': '9004', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9004/', 'title': 'Sorry, there was a problem'}
 {'id': '9009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9009/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9010', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9010/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9011', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9011/', 'title': 'Easter Egg-stravaganza'}
@@ -140,6 +139,7 @@
 {'event_id': '8922', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8922/', 'title': 'Korea Society Pork Belly Day'}
 {'event_id': '8980', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8980/', 'title': 'Ddeokbeokgi Making Session'}
 {'event_id': '9013', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9013/', 'title': 'Ropeworks'}
+{'event_id': '9016', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9016/', 'title': 'Sportland 2024'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
 {'event_id': '8873', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/8873/', 'title': 'UoB Pole Gala Competition'}
 {'event_id': '8973', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/8973/', 'title': 'Coalition of Chaos - POLSOC'}
