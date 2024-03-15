@@ -3064,6 +3064,7 @@ https://www.guildofstudents.com/events/39125/9002/
 https://www.guildofstudents.com/events/39181/8941/
 https://www.guildofstudents.com/events/39181/8978/
 https://www.guildofstudents.com/events/39181/8979/
+https://www.guildofstudents.com/events/39633/8989/
 https://www.guildofstudents.com/events/41191/8939/
 https://www.guildofstudents.com/events/41452/8568/
 https://www.guildofstudents.com/events/42040/8910/
@@ -3079,6 +3080,7 @@ https://www.guildofstudents.com/events/6371/8893/
 https://www.guildofstudents.com/events/6371/8894/
 https://www.guildofstudents.com/events/6371/8895/
 https://www.guildofstudents.com/events/6467/9012/
+https://www.guildofstudents.com/events/6499/9001/
 https://www.guildofstudents.com/events/6531/8760/
 https://www.guildofstudents.com/events/6531/8889/
 https://www.guildofstudents.com/events/6531/8924/
@@ -3132,13 +3134,11 @@ https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbenchball%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fcivsoc%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2feducation%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fhookersandstitchers%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2flarp%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpowerlifting%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
-https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbsfl%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
-https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fheaducate%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fwomeninpolitics%2f
@@ -3385,6 +3385,7 @@ https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/3.-External-Trustee-Role-Description-oct23.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/Trustee-Role-Description-and-Person-Spec.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/useful-documents/Articles-of-Association-October-2015.pdf
+https://www.guildofstudents.com/pageassets/advertising/Media-Pack-2023-24.pdf
 https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2023.pdf
 https://www.guildofstudents.com/pageassets/blackvoices/Black-Voices-Manifesto-1022.pdf
 https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Guild-Bye-Laws.pdf
@@ -5032,7 +5033,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/benchball/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/civsoc/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/education/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/hookersandstitchers/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/larp/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/powerlifting/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
@@ -6040,9 +6041,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/giveitago/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bsfl/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bucv/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/headucate/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/islamic/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/talkinghands/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/womeninpolitics/
@@ -6597,4 +6596,3 @@ https://www.guildofstudents.comtel:0121 415 8912
 https://www.guildofstudents.comtel:0121 415 9990
 https://www.guildofstudents.comtel:01216754806
 https://www.guildofstudents.comtel:03031231113
-https://www.guildofstudents.comvnd.youtube://www.youtube.com/watch?v=DrV4SioS4zg&v=DrV4SioS4zg

@@ -21,8 +21,8 @@
 {'id': '8879', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8879/', 'title': 'Sports Night'}
 {'id': '8880', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8880/', 'title': 'Sports Night'}
 {'id': '8882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8882/', 'title': 'Sports Night End of Term'}
-{'id': '8883', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8883/', 'title': 'Sports Night'}
-{'id': '8884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8884/', 'title': 'Sports Night'}
+{'id': '8883', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8883/', 'title': 'Sorry, there was a problem'}
+{'id': '8884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8884/', 'title': 'Sorry, there was a problem'}
 {'id': '8904', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8904/', 'title': 'Black Voices: Tell It Like It Is'}
 {'id': '8946', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8946/', 'title': "St Patrick's FAB"}
 {'id': '8948', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8948/', 'title': 'Chamberlain Bath Bombs and Bon Bons'}
@@ -45,7 +45,6 @@
 {'id': '8985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8985/', 'title': 'Language Cafe'}
 {'id': '8994', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8994/', 'title': 'Give It A Go: Yoga - Afternoon Retreat'}
 {'id': '8995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8995/', 'title': 'Give It A Go: Board Game Night'}
-{'id': '9004', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9004/', 'title': 'Sorry, there was a problem'}
 {'id': '9009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9009/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9010', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9010/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9011', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9011/', 'title': 'Easter Egg-stravaganza'}
@@ -109,7 +108,7 @@
 {'event_id': '8568', 'organisation_id': '41452', 'organisation': 'African Dance', 'url': 'https://www.guildofstudents.com/events/41452/8568/', 'title': 'African Dance Session 6'}
 {'event_id': '8910', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/8910/', 'title': 'Henna x Tote Bags'}
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Games Night'}
-{'event_id': '8930', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8930/', 'title': 'Nauryz - kazakh traditional games'}
+{'event_id': '8930', 'organisation_id': '43138', 'organisation': 'Kazakh Society', 'url': 'https://www.guildofstudents.com/events/43138/8930/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8890', 'organisation_id': '43309', 'organisation': 'Model United Nations', 'url': 'https://www.guildofstudents.com/events/43309/8890/', 'title': 'NOTTSMUN 2024'}
 {'event_id': '9006', 'organisation_id': '43329', 'organisation': '13th Horror', 'url': 'https://www.guildofstudents.com/events/43329/9006/', 'title': 'First Meeting: Horror Trivia and Welcome'}
 {'event_id': '8900', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8900/', 'title': 'Extreme Sports Ball 2024'}
