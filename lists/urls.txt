@@ -122,6 +122,7 @@ https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#internationalmore
 https://www.guildofstudents.com#jarratthallinfo
 https://www.guildofstudents.com#lgbtqmore
+https://www.guildofstudents.com#livestream
 https://www.guildofstudents.com#mapleinfo
 https://www.guildofstudents.com#masoninfo
 https://www.guildofstudents.com#mediapack
@@ -2972,6 +2973,9 @@ https://www.guildofstudents.com/ents/event/8995/
 https://www.guildofstudents.com/ents/event/9009/
 https://www.guildofstudents.com/ents/event/9010/
 https://www.guildofstudents.com/ents/event/9011/
+https://www.guildofstudents.com/ents/event/9019/
+https://www.guildofstudents.com/ents/event/9020/
+https://www.guildofstudents.com/ents/event/9021/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
@@ -3161,6 +3165,7 @@ https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-F
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
 https://www.guildofstudents.com/news/article/website/Trans-Solidarity-Statement/
+https://www.guildofstudents.com/news/article/website/Valefest-Guild-of-Students-Statement/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/noton/
 https://www.guildofstudents.com/nusextra/
