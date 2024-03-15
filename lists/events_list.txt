@@ -46,6 +46,9 @@
 {'id': '9009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9009/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9010', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9010/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9011', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9011/', 'title': 'Easter Egg-stravaganza'}
+{'id': '9019', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9019/', 'title': 'International & Postgraduate Spring Party'}
+{'id': '9020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9020/', 'title': 'Shackleton Eggcellent Easter Fun'}
+{'id': '9021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9021/', 'title': "Oak Brook Park: St Patrick's Day"}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
