@@ -138,7 +138,7 @@
 {'event_id': '8806', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8806/', 'title': 'Footloose - 24th March 7:30pm'}
 {'event_id': '8547', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8547/', 'title': 'Sangeeta Cultural Showcase'}
 {'event_id': '8548', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/8548/', 'title': 'Holi 2024'}
-{'event_id': '8937', 'organisation_id': '6851', 'organisation': 'Islamic', 'url': 'https://www.guildofstudents.com/events/6851/8937/', 'title': 'Community Iftar'}
+{'event_id': '8937', 'organisation_id': '6851', 'organisation': 'Islamic', 'url': 'https://www.guildofstudents.com/events/6851/8937/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
 {'event_id': '8922', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8922/', 'title': 'Korea Society Pork Belly Day'}
 {'event_id': '8980', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8980/', 'title': 'Ddeokbeokgi Making Session'}
