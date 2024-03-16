@@ -1,4 +1,3 @@
- https://www.guildofstudents.com/elections/
 http://www.guildofstudents.com
 http://www.guildofstudents.com/
 http://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
@@ -2795,8 +2794,6 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
-https://www.guildofstudents.com/asset/News/6016/Elections-Regulations-2023-24-Officer-Elections-24.pdf
-https://www.guildofstudents.com/asset/News/6016/Guild-of-Students-Bye-Law-8-Officer-Elections-24.pdf
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
 https://www.guildofstudents.com/assets//site_resources/Guild-of-Students-Byelaws.pdf
 https://www.guildofstudents.com/blackvoices/
@@ -3159,7 +3156,6 @@ https://www.guildofstudents.com/news/article/website/ASV-3-Democracy-Update/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/Full-Time-Officer-Candidate-QA-Responses/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
-https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2024/
 https://www.guildofstudents.com/news/article/website/Overcoming-loneliness-at-University/
 https://www.guildofstudents.com/news/article/website/Part-Time-Officer-Candidate-QA-Responses/
 https://www.guildofstudents.com/news/article/website/Repurposing-Old-Clothes-for-a-Stylish-Tomorrow/
