@@ -46,7 +46,7 @@
 {'id': '9010', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9010/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9011', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9011/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9019', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9019/', 'title': 'International & Postgraduate Spring Party'}
-{'id': '9020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9020/', 'title': 'Shackleton Eggcellent Easter Fun'}
+{'id': '9020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9020/', 'title': 'Sorry, there was a problem'}
 {'id': '9021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9021/', 'title': "Oak Brook Park: St Patrick's Day"}
 {'id': '9022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9022/', 'title': 'Elgar Court: Ostara'}
 {'id': '9023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9023/', 'title': 'Jarratt Hall: Ori-Gourmet'}
