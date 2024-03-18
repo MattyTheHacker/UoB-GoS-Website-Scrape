@@ -51,6 +51,7 @@
 {'id': '9022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9022/', 'title': 'Elgar Court: Ostara'}
 {'id': '9023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9023/', 'title': 'Jarratt Hall: Ori-Gourmet'}
 {'id': '9024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9024/', 'title': 'Battery Park: Build A Bear-kery'}
+{'id': '9026', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9026/', 'title': 'How to run a successful election!'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -112,6 +113,7 @@
 {'event_id': '8901', 'organisation_id': '42121', 'organisation': 'International Film & Cuisine', 'url': 'https://www.guildofstudents.com/events/42121/8901/', 'title': 'Latin Movie and Games Night'}
 {'event_id': '8890', 'organisation_id': '43309', 'organisation': 'Model United Nations', 'url': 'https://www.guildofstudents.com/events/43309/8890/', 'title': 'NOTTSMUN 2024'}
 {'event_id': '9006', 'organisation_id': '43329', 'organisation': '13th Horror', 'url': 'https://www.guildofstudents.com/events/43329/9006/', 'title': 'First Meeting: Horror Trivia and Welcome'}
+{'event_id': '9025', 'organisation_id': '43329', 'organisation': '13th Horror', 'url': 'https://www.guildofstudents.com/events/43329/9025/', 'title': 'Paint My Nightmare: 13th Horror Soc x Art Soc Collab'}
 {'event_id': '8900', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8900/', 'title': 'Extreme Sports Ball 2024'}
 {'event_id': '8923', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/8923/', 'title': 'Kings Round IV'}
 {'event_id': '8920', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/8920/', 'title': 'FUSION Newquay Trip - KCL'}
