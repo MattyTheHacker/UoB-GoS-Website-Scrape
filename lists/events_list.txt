@@ -104,7 +104,6 @@
 {'event_id': '8996', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8996/', 'title': 'Ravana Cup Cricket Tournament'}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
 {'event_id': '9002', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/9002/', 'title': 'Hide and Seek for Children with Cancer UK'}
-{'event_id': '8941', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8941/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8978', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8978/', 'title': 'Social Event'}
 {'event_id': '8979', 'organisation_id': '39181', 'organisation': 'Canadian Society', 'url': 'https://www.guildofstudents.com/events/39181/8979/', 'title': 'Sports Night'}
 {'event_id': '8989', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/8989/', 'title': 'Hookers and Stitchers tote bags on sale!'}
