@@ -78,6 +78,7 @@ https://www.guildofstudents.com#ashcroftinfo
 https://www.guildofstudents.com#battery-coursel
 https://www.guildofstudents.com#batteryparkinfo
 https://www.guildofstudents.com#bookaslot
+https://www.guildofstudents.com#boostyourburger
 https://www.guildofstudents.com#bournbrookinfo
 https://www.guildofstudents.com#carouselevents
 https://www.guildofstudents.com#carouseleventsxs
@@ -2975,6 +2976,7 @@ https://www.guildofstudents.com/ents/event/9021/
 https://www.guildofstudents.com/ents/event/9022/
 https://www.guildofstudents.com/ents/event/9023/
 https://www.guildofstudents.com/ents/event/9024/
+https://www.guildofstudents.com/ents/event/9026/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
@@ -3066,6 +3068,7 @@ https://www.guildofstudents.com/events/42040/8910/
 https://www.guildofstudents.com/events/42121/8901/
 https://www.guildofstudents.com/events/43309/8890/
 https://www.guildofstudents.com/events/43329/9006/
+https://www.guildofstudents.com/events/43329/9025/
 https://www.guildofstudents.com/events/6339/8900/
 https://www.guildofstudents.com/events/6339/8923/
 https://www.guildofstudents.com/events/6347/8920/
