@@ -47,7 +47,7 @@
 {'id': '9011', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9011/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9019', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9019/', 'title': 'International & Postgraduate Spring Party'}
 {'id': '9021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9021/', 'title': "Oak Brook Park: St Patrick's Day"}
-{'id': '9022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9022/', 'title': 'Elgar Court: Ostara'}
+{'id': '9022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9022/', 'title': 'Sorry, there was a problem'}
 {'id': '9023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9023/', 'title': 'Jarratt Hall: Ori-Gourmet'}
 {'id': '9024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9024/', 'title': 'Battery Park: Build A Bear-kery'}
 {'id': '9026', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9026/', 'title': 'How to run a successful election!'}
@@ -127,7 +127,6 @@
 {'event_id': '8889', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8889/', 'title': 'SloLAN'}
 {'event_id': '8924', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8924/', 'title': 'Interview Hacks with Bank of America'}
 {'event_id': '9000', 'organisation_id': '6539', 'organisation': 'DAMSA', 'url': 'https://www.guildofstudents.com/events/6539/9000/', 'title': 'SANDAM Hoodies Sale'}
-{'event_id': '9015', 'organisation_id': '6547', 'organisation': 'DCL', 'url': 'https://www.guildofstudents.com/events/6547/9015/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8983', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8983/', 'title': 'Economics and Marketing Society Summer Ball'}
 {'event_id': '8903', 'organisation_id': '6595', 'organisation': 'Education', 'url': 'https://www.guildofstudents.com/events/6595/8903/', 'title': 'Pottery painting with EdSoc'}
 {'event_id': '8802', 'organisation_id': '6691', 'organisation': 'GMTG', 'url': 'https://www.guildofstudents.com/events/6691/8802/', 'title': 'Footloose - 21st March 7:30pm'}
