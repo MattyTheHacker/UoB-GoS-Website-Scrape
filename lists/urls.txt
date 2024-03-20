@@ -3023,6 +3023,7 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f4
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbsfl%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fchinesechristians%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fdamsa%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fheaducate%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fstudentexchange%2f
@@ -5936,6 +5937,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentg
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bsfl/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bucv/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/chinesechristians/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/damsa/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/headucate/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/islamic/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/studentexchange/
