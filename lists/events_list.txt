@@ -17,7 +17,7 @@
 {'id': '8745', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8745/', 'title': 'Student Volunteering Week Celebration'}
 {'id': '8796', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8796/', 'title': 'Spring Ball'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
-{'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Community Breakfast'}
+{'id': '8839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8839/', 'title': 'Account Login'}
 {'id': '8879', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8879/', 'title': 'Sports Night'}
 {'id': '8880', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8880/', 'title': 'Sports Night'}
 {'id': '8882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8882/', 'title': 'Sports Night End of Term'}
@@ -47,7 +47,6 @@
 {'id': '9011', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9011/', 'title': 'Easter Egg-stravaganza'}
 {'id': '9019', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9019/', 'title': 'International & Postgraduate Spring Party'}
 {'id': '9021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9021/', 'title': "Oak Brook Park: St Patrick's Day"}
-{'id': '9022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9022/', 'title': 'Sorry, there was a problem'}
 {'id': '9023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9023/', 'title': 'Jarratt Hall: Ori-Gourmet'}
 {'id': '9024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9024/', 'title': 'Battery Park: Build A Bear-kery'}
 {'id': '9026', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9026/', 'title': 'How to run a successful election!'}
