@@ -48,9 +48,10 @@
 {'id': '9021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9021/', 'title': "Oak Brook Park: St Patrick's Day"}
 {'id': '9023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9023/', 'title': 'Jarratt Hall: Ori-Gourmet'}
 {'id': '9024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9024/', 'title': 'Battery Park: Build A Bear-kery'}
-{'id': '9026', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9026/', 'title': 'How to run a successful election!'}
+{'id': '9026', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9026/', 'title': 'Sorry, there was a problem'}
 {'id': '9034', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9034/', 'title': 'Mayoral Elections: Candidate Hustings Event'}
 {'id': '9035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9035/', 'title': 'Pharmsoc ball'}
+{'id': '9036', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9036/', 'title': 'ELAL Summer Ball 2024'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
