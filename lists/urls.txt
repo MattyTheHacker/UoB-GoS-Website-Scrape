@@ -2860,6 +2860,7 @@ https://www.guildofstudents.com/ents/event/9023/
 https://www.guildofstudents.com/ents/event/9024/
 https://www.guildofstudents.com/ents/event/9026/
 https://www.guildofstudents.com/ents/event/9034/
+https://www.guildofstudents.com/ents/event/9035/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
@@ -2969,8 +2970,6 @@ https://www.guildofstudents.com/events/6739/8548/
 https://www.guildofstudents.com/events/6907/8850/
 https://www.guildofstudents.com/events/6907/8922/
 https://www.guildofstudents.com/events/6907/8980/
-https://www.guildofstudents.com/events/6995/9031/
-https://www.guildofstudents.com/events/6995/9033/
 https://www.guildofstudents.com/events/7067/9013/
 https://www.guildofstudents.com/events/7067/9016/
 https://www.guildofstudents.com/events/7179/8776/
@@ -3047,6 +3046,7 @@ https://www.guildofstudents.com/news/article/website/Study/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
+https://www.guildofstudents.com/news/article/website/Take-Part-in-the-Mayoral-Elections/
 https://www.guildofstudents.com/news/article/website/Trans-Solidarity-Statement/
 https://www.guildofstudents.com/news/article/website/Valefest-Guild-of-Students-Statement/
 https://www.guildofstudents.com/news/rss/0/subtree/
@@ -3613,6 +3613,7 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-1
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-1-November-2023-Full-Results.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-2-January-2023-Full-Results.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-2-March-2023-Full-Results.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-3-Democracy-Update-Feb-24.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-3-May-2022-Full-Results.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/ASV-3-May-2023-Full-Results.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Autumn-By-Elections-2023-Results-Tables.pdf
@@ -3634,9 +3635,13 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/FINAL
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/FINAL-Scrutiny-Panel-Meeting-2-Session-2-Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/FINAL-WL-Committee-Meeting-2-Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Gender-Neutral-Toilets-Action-Group-08.12.23.pdf
-https://www.guildofstudents.com/pageassets/representation/democracyminutes/Guild-Election-Complaints-Log-2023.24.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Guild-education-committee-Minutes-12.02.2024.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Guild-Election-Complaints-Log-2023.24.xlsx
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Hidden-Course-Costs-Action-Group-Meeting-18.01.24.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Housing-Action-Group-Meeting-18.01.24.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/MDX-Minutes-04.10.23.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/MDX-Minutes-23.08.23.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Officer-Elections-2024-Results-Tables.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny-Panel-2022_23-Meeting-1-Session-1-Minutes-FINAL.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny-Panel-2022_23-Meeting-1-Session-2-Minutes-FINAL.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny-Panel-Meeting-2-Session-1-Minutes.pdf
@@ -3649,6 +3654,7 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrut
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny-Panel-Meeting-4-Session-2-Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny_Panel_Meeting_1_FTO_Session_Minutes.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Scrutiny_Panel_Meeting_1_PTO_Session_Minutes.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Student-Access-to-Healthcare-Action-Group-Meeting-18.01.24.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/TEF-Action-Group-Meeting-24.10.23.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/V2-Welfare-and-Liberation-2023-meeting-minutes-1-Complete.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Welfare-and-Liberation-Committee-17.11.2022.pdf
