@@ -2858,7 +2858,7 @@ https://www.guildofstudents.com/ents/event/9019/
 https://www.guildofstudents.com/ents/event/9021/
 https://www.guildofstudents.com/ents/event/9023/
 https://www.guildofstudents.com/ents/event/9024/
-https://www.guildofstudents.com/ents/event/9026/
+https://www.guildofstudents.com/ents/event/9034
 https://www.guildofstudents.com/ents/event/9034/
 https://www.guildofstudents.com/ents/event/9035/
 https://www.guildofstudents.com/ents/event/9036/
@@ -3003,6 +3003,7 @@ https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/login/
+https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f9034%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f40835%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f41191%2f
@@ -4920,6 +4921,7 @@ https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/ents/event/9034/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/40835/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/41191/

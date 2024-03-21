@@ -48,7 +48,6 @@ https://www.guildofstudents.com/ents/event/9019/
 https://www.guildofstudents.com/ents/event/9021/
 https://www.guildofstudents.com/ents/event/9023/
 https://www.guildofstudents.com/ents/event/9024/
-https://www.guildofstudents.com/ents/event/9026/
 https://www.guildofstudents.com/ents/event/9034/
 https://www.guildofstudents.com/ents/event/9035/
 https://www.guildofstudents.com/ents/event/9036/
@@ -157,3 +156,4 @@ https://www.guildofstudents.com/events/7727/8640/
 https://www.guildofstudents.com/events/7727/8641/
 https://www.guildofstudents.com/events/8649/8934/
 https://www.guildofstudents.com/events/9220/8935/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/ents/event/9034/
