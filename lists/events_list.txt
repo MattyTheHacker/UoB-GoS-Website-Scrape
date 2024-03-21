@@ -97,7 +97,7 @@
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '8885', 'organisation_id': '35209', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35209/8885/', 'title': 'Trans Healthcare Talk with TransActual'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
-{'event_id': '8986', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/8986/', 'title': 'BUDSS Take Me Out!'}
+{'event_id': '8986', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/8986/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8996', 'organisation_id': '38868', 'organisation': 'Sri Lankan Society', 'url': 'https://www.guildofstudents.com/events/38868/8996/', 'title': 'Ravana Cup Cricket Tournament'}
 {'event_id': '8762', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/8762/', 'title': 'Hide and Seek Film Night'}
 {'event_id': '9002', 'organisation_id': '39125', 'organisation': 'Hide and Seek Society', 'url': 'https://www.guildofstudents.com/events/39125/9002/', 'title': 'Hide and Seek for Children with Cancer UK'}
@@ -136,6 +136,7 @@
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
 {'event_id': '8922', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8922/', 'title': 'Korea Society Pork Belly Day'}
 {'event_id': '8980', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8980/', 'title': 'Ddeokbeokgi Making Session'}
+{'event_id': '9031', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/9031/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9013', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9013/', 'title': 'Ropeworks'}
 {'event_id': '9016', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9016/', 'title': 'Sportland 2024'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
