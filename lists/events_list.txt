@@ -50,6 +50,7 @@
 {'id': '9024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9024/', 'title': 'Battery Park: Build A Bear-kery'}
 {'id': '9026', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9026/', 'title': 'How to run a successful election!'}
 {'id': '9034', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9034/', 'title': 'Mayoral Elections: Candidate Hustings Event'}
+{'id': '9035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9035/', 'title': 'Pharmsoc ball'}
 {'event_id': '8613', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8613/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8614', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8614/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8615', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8615/', 'title': 'Tuesday 3-5 Kickboxing Session'}
@@ -134,8 +135,6 @@
 {'event_id': '8850', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8850/', 'title': 'Korea Society Badminton Social'}
 {'event_id': '8922', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8922/', 'title': 'Korea Society Pork Belly Day'}
 {'event_id': '8980', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/8980/', 'title': 'Ddeokbeokgi Making Session'}
-{'event_id': '9031', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/9031/', 'title': 'Sorry, there was a problem'}
-{'event_id': '9033', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/9033/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9013', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9013/', 'title': 'Ropeworks'}
 {'event_id': '9016', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9016/', 'title': 'Sportland 2024'}
 {'event_id': '8776', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/8776/', 'title': 'Philosophy Ball 2024'}
