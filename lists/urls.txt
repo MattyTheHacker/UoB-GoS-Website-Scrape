@@ -2809,7 +2809,6 @@ https://www.guildofstudents.com/elections/
 https://www.guildofstudents.com/elections/incentivestcs
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/8377/
-https://www.guildofstudents.com/ents/event/8498/
 https://www.guildofstudents.com/ents/event/8503/
 https://www.guildofstudents.com/ents/event/8505/
 https://www.guildofstudents.com/ents/event/8555/
@@ -2825,7 +2824,6 @@ https://www.guildofstudents.com/ents/event/8697/
 https://www.guildofstudents.com/ents/event/8698/
 https://www.guildofstudents.com/ents/event/8742/
 https://www.guildofstudents.com/ents/event/8745/
-https://www.guildofstudents.com/ents/event/8796/
 https://www.guildofstudents.com/ents/event/8815/
 https://www.guildofstudents.com/ents/event/8879/
 https://www.guildofstudents.com/ents/event/8880/
@@ -2941,7 +2939,6 @@ https://www.guildofstudents.com/events/39125/9002/
 https://www.guildofstudents.com/events/39181/8978/
 https://www.guildofstudents.com/events/39181/8979/
 https://www.guildofstudents.com/events/39633/8989/
-https://www.guildofstudents.com/events/41191/8939/
 https://www.guildofstudents.com/events/42040/8910/
 https://www.guildofstudents.com/events/42121/8901/
 https://www.guildofstudents.com/events/43309/8890/
