@@ -2974,7 +2974,6 @@ https://www.guildofstudents.com/events/7067/9016/
 https://www.guildofstudents.com/events/7179/8776/
 https://www.guildofstudents.com/events/7211/8973/
 https://www.guildofstudents.com/events/7211/9027/
-https://www.guildofstudents.com/events/7515/8860/
 https://www.guildofstudents.com/events/7515/8861/
 https://www.guildofstudents.com/events/7523/8891/
 https://www.guildofstudents.com/events/7523/8911/
@@ -6186,7 +6185,6 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$newslist$rptPages$ctl00$lnkPageNumber','')
-https://www.guildofstudents.comjavascript:void(0)
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:13thhorror@guild.bham.ac.uk
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
