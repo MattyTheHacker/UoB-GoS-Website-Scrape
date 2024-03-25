@@ -2860,6 +2860,8 @@ https://www.guildofstudents.com/ents/event/9034
 https://www.guildofstudents.com/ents/event/9034/
 https://www.guildofstudents.com/ents/event/9035/
 https://www.guildofstudents.com/ents/event/9036/
+https://www.guildofstudents.com/ents/event/9049/
+https://www.guildofstudents.com/ents/event/9050/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
@@ -2868,10 +2870,12 @@ https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
+https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/electionqs/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
+https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
@@ -2956,11 +2960,6 @@ https://www.guildofstudents.com/events/6531/8924/
 https://www.guildofstudents.com/events/6539/9000/
 https://www.guildofstudents.com/events/6587/8983/
 https://www.guildofstudents.com/events/6595/8903/
-https://www.guildofstudents.com/events/6691/8802/
-https://www.guildofstudents.com/events/6691/8803/
-https://www.guildofstudents.com/events/6691/8804/
-https://www.guildofstudents.com/events/6691/8805/
-https://www.guildofstudents.com/events/6691/8806/
 https://www.guildofstudents.com/events/6739/8547/
 https://www.guildofstudents.com/events/6739/8548/
 https://www.guildofstudents.com/events/6907/8850/
@@ -6234,6 +6233,7 @@ https://www.guildofstudents.commailto:brumsurf@guild.bham.ac.uk
 https://www.guildofstudents.commailto:brumtechsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bucv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:buddhist@guild.bham.ac.uk
+https://www.guildofstudents.commailto:buds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:burmesesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:burnarts@guild.bham.ac.uk
 https://www.guildofstudents.commailto:burndeputystationmanager@guild.bham.ac.uk
