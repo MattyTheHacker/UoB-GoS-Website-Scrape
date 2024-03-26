@@ -347,6 +347,7 @@ https://www.guildofstudents.com//instagram.com/uobmflsoc
 https://www.guildofstudents.com//instagram.com/uobmiddlearth
 https://www.guildofstudents.com//instagram.com/uobnavigators
 https://www.guildofstudents.com//instagram.com/uobnepsoc
+https://www.guildofstudents.com//instagram.com/uobopenmic
 https://www.guildofstudents.com//instagram.com/uobpantosoc
 https://www.guildofstudents.com//instagram.com/uobpasta
 https://www.guildofstudents.com//instagram.com/uobphilosophysoc
@@ -2870,13 +2871,11 @@ https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/discussion/
-https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/electionqs/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
-https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
@@ -3010,6 +3009,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2flarp%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmathsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpokesoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpowerlifting%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f41025%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f43138%2f
@@ -4950,6 +4950,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisa
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/mathsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/pokesoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/powerlifting/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/tea/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/106849/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/111544/
