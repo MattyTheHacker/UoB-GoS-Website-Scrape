@@ -3824,6 +3824,7 @@ https://www.guildofstudents.com/privacy-policy/
 https://www.guildofstudents.com/privacy-policy/cctv-policy/
 https://www.guildofstudents.com/privacy-policy/data-protection-policy-employees-workers-consultants/
 https://www.guildofstudents.com/privacy-policy/data-security-policy/
+https://www.guildofstudents.com/privacy-policy/studentgroupsprivacynotice/
 https://www.guildofstudents.com/privacy-policy/studentprivacypolicynotice/
 https://www.guildofstudents.com/privacy-policy/videosurveillancesystemspolicy/
 https://www.guildofstudents.com/profile/
@@ -4924,6 +4925,8 @@ https://www.guildofstudents.com/representation/youridea/?tag=Societies
 https://www.guildofstudents.com/representation/youridea/?tag=University
 https://www.guildofstudents.com/representation/youridea/?tag=welfare
 https://www.guildofstudents.com/resourcehandler/5aba1df8-8c50-49be-b886-78ce83bf5f87/
+https://www.guildofstudents.com/resourcehandler/5eead6b3-2191-4b31-ae9c-3354100f4777/
+https://www.guildofstudents.com/resourcehandler/abd2ee03-adae-4cff-a6b5-6a0f86069f26/
 https://www.guildofstudents.com/resourcehandler/ef64a1ae-6f04-4df9-9034-738ee2ac5d98/
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
