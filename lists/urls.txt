@@ -2888,7 +2888,6 @@ https://www.guildofstudents.com/moneymatters
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
-https://www.guildofstudents.com/news/article/website/Announcing-Your-Rep-of-the-Months/
 https://www.guildofstudents.com/news/article/website/ASV-3-Democracy-Update/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/Guild-Easter-Closure-Dates/
@@ -2902,7 +2901,6 @@ https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-F
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
 https://www.guildofstudents.com/news/article/website/Take-Part-in-the-Mayoral-Elections/
-https://www.guildofstudents.com/news/article/website/Trans-Solidarity-Statement/
 https://www.guildofstudents.com/news/article/website/Valefest-Guild-of-Students-Statement/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/noton/
@@ -6154,7 +6152,6 @@ https://www.guildofstudents.commailto:footnotes@guild.bham.ac.uk
 https://www.guildofstudents.commailto:friendsinternational@guild.bham.ac.uk
 https://www.guildofstudents.commailto:friendsofpalestine@guild.bham.ac.uk
 https://www.guildofstudents.commailto:fringe@guild.bham.ac.uk
-https://www.guildofstudents.commailto:fto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
