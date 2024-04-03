@@ -24,6 +24,8 @@
 {'event_id': '9040', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9040/', 'title': 'Bad Batch Season 3 Episode 13 Virtual Screening'}
 {'event_id': '9041', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9041/', 'title': 'Bad Batch Season 3 Episode 14 Virtual Screening'}
 {'event_id': '9042', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9042/', 'title': 'Bad Batch Season 3 Final Episode Virtual Screening'}
+{'event_id': '9057', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9057/', 'title': 'The Mandalorian Season 1 Screening'}
+{'event_id': '9058', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9058/', 'title': 'Kenobi  Series Screening'}
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '8988', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8988/', 'title': 'Marketing Society x EconSoc Ball'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
