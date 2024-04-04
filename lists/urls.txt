@@ -2804,6 +2804,7 @@ https://www.guildofstudents.com/ents/event/9052/
 https://www.guildofstudents.com/ents/event/9059/
 https://www.guildofstudents.com/ents/event/9060/
 https://www.guildofstudents.com/ents/event/9061/
+https://www.guildofstudents.com/ents/event/9062/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -3462,11 +3463,14 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activ
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-03-12-21.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-07-09-22.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-07-12-22.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-07.02.24.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-11-01-23.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-13-07-22.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-16-12-21.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-18-11-22.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-18.01.24.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-minutes-200122.pdf
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-21.02.24.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-minutes-22-10-2021.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-24-03-22.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Activities-Committee-Minutes-28-10-22.pdf
