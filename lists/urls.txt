@@ -2758,7 +2758,6 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
-https://www.guildofstudents.com/asset/Job/124/Communications-Marketing-Manager-Job-Description-February-2024.pdf
 https://www.guildofstudents.com/asset/Job/124/Executive-Assistant-Job-Description-March-2024.pdf
 https://www.guildofstudents.com/asset/Job/124/Student-Voice-Coordinator-Postgraduate-and-International-Job-Description.pdf
 https://www.guildofstudents.com/asset/News/6016/Guild-Elections-Processes-for-the-Calculation-of-Results.pdf
@@ -2802,6 +2801,8 @@ https://www.guildofstudents.com/ents/event/9036/
 https://www.guildofstudents.com/ents/event/9050/
 https://www.guildofstudents.com/ents/event/9051/
 https://www.guildofstudents.com/ents/event/9052/
+https://www.guildofstudents.com/ents/event/9059/
+https://www.guildofstudents.com/ents/event/9060/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -2869,7 +2870,6 @@ https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/jobs/browse/
-https://www.guildofstudents.com/jobs/vacancy/2831/
 https://www.guildofstudents.com/jobs/vacancy/2832/
 https://www.guildofstudents.com/jobs/vacancy/2833/
 https://www.guildofstudents.com/login/
@@ -2894,9 +2894,11 @@ https://www.guildofstudents.com/news/article/website/Former-Postgrad-Rodhans-Top
 https://www.guildofstudents.com/news/article/website/Guild-Easter-Closure-Dates/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
 https://www.guildofstudents.com/news/article/website/Meet-Our-February-Reps-of-the-Month/
+https://www.guildofstudents.com/news/article/website/Mentors-Amy-and-Amber-on-Supporting-Your-Flatmates-during-Assessment-Period/
 https://www.guildofstudents.com/news/article/website/Officer-Elections-2024-Full-Results/
 https://www.guildofstudents.com/news/article/website/Overcoming-loneliness-at-University/
 https://www.guildofstudents.com/news/article/website/Repurposing-Old-Clothes-for-a-Stylish-Tomorrow/
+https://www.guildofstudents.com/news/article/website/Student-Ellas-Self-Care-Tips/
 https://www.guildofstudents.com/news/article/website/Study-Tips-from-Second-Year-Student-Mentors/
 https://www.guildofstudents.com/news/article/website/Study/
 https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-Findings-and-Areas-of-Focus/
