@@ -11,6 +11,8 @@
 {'id': '9050', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9050/', 'title': 'Sports Ball 2024'}
 {'id': '9051', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9051/', 'title': 'Easter Crafts'}
 {'id': '9052', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9052/', 'title': 'Desi FAB'}
+{'id': '9059', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9059/', 'title': 'Study and a Snack'}
+{'id': '9060', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9060/', 'title': 'Self Defence Class (ALL STUDENTS)'}
 {'event_id': '8617', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8617/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8628', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8628/', 'title': 'Friday 4-6 Kickboxing Session'}
 {'event_id': '8958', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/8958/', 'title': 'LANS Merch!'}
