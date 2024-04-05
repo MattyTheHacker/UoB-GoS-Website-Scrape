@@ -15,7 +15,13 @@
 {'id': '9060', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9060/', 'title': 'Self Defence Class (ALL STUDENTS)'}
 {'id': '9061', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9061/', 'title': 'How to.... talk about skills, and develop a handover!'}
 {'id': '9062', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9062/', 'title': "Chair's Network"}
+{'id': '9063', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9063/', 'title': 'Test'}
 {'id': '9064', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9064/', 'title': 'Self Defence Class (ALL STUDENTS)'}
+{'id': '9065', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9065/', 'title': 'Self Defence Class (FEMALE AND NON BINARY STUDENTS)'}
+{'id': '9066', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9066/', 'title': 'Coffee and Clean Up'}
+{'id': '9067', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9067/', 'title': 'Yoga'}
+{'id': '9068', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9068/', 'title': 'Yoga'}
+{'id': '9069', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9069/', 'title': 'Yoga'}
 {'event_id': '8617', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8617/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8628', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8628/', 'title': 'Friday 4-6 Kickboxing Session'}
 {'event_id': '8958', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/8958/', 'title': 'LANS Merch!'}
