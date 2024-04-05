@@ -6,12 +6,10 @@ http://www.guildofstudents.com/guildadvice
 http://www.guildofstudents.com/marksoutoftenancy
 http://www.guildofstudents.com/mediasales/
 http://www.guildofstudents.com/representation/committee-minutes/officer-question-time-minutes/
-http://www.guildofstudents.com/representation/youridea/
 http://www.guildofstudents.com/studentgroups
 http://www.guildofstudents.com/studentmentors
 http://www.guildofstudents.com/studentstaff
 http://www.guildofstudents.com/support/guildadvice/
-http://www.guildofstudents.com/surveys/252/
 http://www.guildofstudents.com/sustainability/gogreenweek
 http://www.guildofstudents.com/welcome
 https://www.guildofstudents.com
@@ -2840,7 +2838,6 @@ https://www.guildofstudents.com/events/12492/8913/
 https://www.guildofstudents.com/events/12508/8997/
 https://www.guildofstudents.com/events/13206/8807/
 https://www.guildofstudents.com/events/22470/8725/
-https://www.guildofstudents.com/events/23397/9038/
 https://www.guildofstudents.com/events/23397/9039/
 https://www.guildofstudents.com/events/23397/9040/
 https://www.guildofstudents.com/events/23397/9041/
@@ -2886,13 +2883,11 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fi
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fimarep%2f
-https://www.guildofstudents.com/login/?redirect=%2fsurveys%2f252%2f
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/moneymatters
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
-https://www.guildofstudents.com/news/article/website/ASV-3-Democracy-Update/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/Former-Postgrad-Rodhans-Top-Study-Spaces/
 https://www.guildofstudents.com/news/article/website/Guild-Easter-Closure-Dates/
@@ -4698,7 +4693,6 @@ https://www.guildofstudents.com/repawards
 https://www.guildofstudents.com/representation
 https://www.guildofstudents.com/representation/
 https://www.guildofstudents.com/representation/allstudentmeeting/
-https://www.guildofstudents.com/representation/allstudentvote/
 https://www.guildofstudents.com/representation/campaigns/campaign-history/
 https://www.guildofstudents.com/representation/campaigns/current-campaigns/
 https://www.guildofstudents.com/representation/campaigns/useful-documents/
@@ -5818,7 +5812,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentr
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/imarep/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/surveys/252/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot

@@ -23,7 +23,7 @@
 {'event_id': '8997', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8997/', 'title': '2024 Wellbeing Retreat'}
 {'event_id': '8807', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/8807/', 'title': 'Summer Celebration | Women in Politics'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
-{'event_id': '9038', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9038/', 'title': 'Bad Batch Season 3 Episodes 10&11 Virtual Screening'}
+{'event_id': '9038', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9038/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9039', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9039/', 'title': 'Bad Batch Season 3 Episode 12 Virtual Screening'}
 {'event_id': '9040', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9040/', 'title': 'Bad Batch Season 3 Episode 13 Virtual Screening'}
 {'event_id': '9041', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9041/', 'title': 'Bad Batch Season 3 Episode 14 Virtual Screening'}
