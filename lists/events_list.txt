@@ -42,6 +42,7 @@
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8989', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/8989/', 'title': 'Hookers and Stitchers tote bags on sale!'}
+{'event_id': '9071', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/9071/', 'title': 'Mahavir Jayanti in London!'}
 {'event_id': '8914', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/8914/', 'title': 'AstroSoc Annual Dinner'}
 {'event_id': '9005', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/9005/', 'title': 'Fuerteventura 2K24'}
 {'event_id': '9012', 'organisation_id': '6467', 'organisation': 'Civil Engineering', 'url': 'https://www.guildofstudents.com/events/6467/9012/', 'title': 'Annual General Meeting 2024'}
