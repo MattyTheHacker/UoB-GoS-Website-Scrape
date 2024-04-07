@@ -37,12 +37,13 @@
 {'event_id': '9058', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9058/', 'title': 'Kenobi  Series Screening'}
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '9070', 'organisation_id': '26067', 'organisation': 'RailSoc', 'url': 'https://www.guildofstudents.com/events/26067/9070/', 'title': 'Chasewater Railway Driving Experience Day'}
+{'event_id': '9072', 'organisation_id': '26067', 'organisation': 'RailSoc', 'url': 'https://www.guildofstudents.com/events/26067/9072/', 'title': 'Hornsey Depot Visit'}
 {'event_id': '8988', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8988/', 'title': 'Marketing Society x EconSoc Ball'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '8989', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/8989/', 'title': 'Hookers and Stitchers tote bags on sale!'}
 {'event_id': '9071', 'organisation_id': '40757', 'organisation': 'Jain Society', 'url': 'https://www.guildofstudents.com/events/40757/9071/', 'title': 'Mahavir Jayanti in London!'}
-{'event_id': '8914', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/8914/', 'title': 'AstroSoc Annual Dinner'}
+{'event_id': '8914', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/8914/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9005', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/9005/', 'title': 'Fuerteventura 2K24'}
 {'event_id': '9012', 'organisation_id': '6467', 'organisation': 'Civil Engineering', 'url': 'https://www.guildofstudents.com/events/6467/9012/', 'title': 'Annual General Meeting 2024'}
 {'event_id': '8760', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/8760/', 'title': 'CSS Ball 2024'}
