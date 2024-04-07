@@ -15,7 +15,7 @@
 {'id': '9060', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9060/', 'title': 'Self Defence Class (ALL STUDENTS)'}
 {'id': '9061', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9061/', 'title': 'How to.... talk about skills, and develop a handover!'}
 {'id': '9062', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9062/', 'title': "Chair's Network"}
-{'id': '9063', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9063/', 'title': 'Test'}
+{'id': '9063', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9063/', 'title': 'Sorry, there was a problem'}
 {'id': '9064', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9064/', 'title': 'Self Defence Class (ALL STUDENTS)'}
 {'id': '9065', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9065/', 'title': 'Self Defence Class (FEMALE AND NON BINARY STUDENTS)'}
 {'id': '9066', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9066/', 'title': 'Coffee and Clean Up'}
