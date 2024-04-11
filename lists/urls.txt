@@ -2821,6 +2821,7 @@ https://www.guildofstudents.com/ents/event/9081/
 https://www.guildofstudents.com/ents/event/9082/
 https://www.guildofstudents.com/ents/event/9083/
 https://www.guildofstudents.com/ents/event/9084/
+https://www.guildofstudents.com/ents/event/9086/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -2931,6 +2932,7 @@ https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-y
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
 https://www.guildofstudents.com/news/article/website/Take-Part-in-the-Mayoral-Elections/
 https://www.guildofstudents.com/news/article/website/Valefest-Guild-of-Students-Statement/
+https://www.guildofstudents.com/news/article/website/What-Is-Time-To-Talk-Day/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/noton/
 https://www.guildofstudents.com/nusextra/
