@@ -2756,7 +2756,6 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
-https://www.guildofstudents.com/asset/Job/124/Executive-Assistant-Job-Description-March-2024.pdf
 https://www.guildofstudents.com/asset/Job/124/Student-Voice-Coordinator-Postgraduate-and-International-Job-Description.pdf
 https://www.guildofstudents.com/asset/News/6016/Guild-Elections-Processes-for-the-Calculation-of-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Officer-Elections-2024-Candidate-Budgets.pdf
@@ -2822,6 +2821,7 @@ https://www.guildofstudents.com/ents/event/9082/
 https://www.guildofstudents.com/ents/event/9083/
 https://www.guildofstudents.com/ents/event/9084/
 https://www.guildofstudents.com/ents/event/9086/
+https://www.guildofstudents.com/ents/event/9088/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -2869,6 +2869,7 @@ https://www.guildofstudents.com/events/23397/9042/
 https://www.guildofstudents.com/events/23397/9057/
 https://www.guildofstudents.com/events/23397/9058/
 https://www.guildofstudents.com/events/25611/8943/
+https://www.guildofstudents.com/events/25675/9074/
 https://www.guildofstudents.com/events/26067/9070/
 https://www.guildofstudents.com/events/26067/9072/
 https://www.guildofstudents.com/events/26488/8988/
@@ -2899,7 +2900,6 @@ https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2832/
-https://www.guildofstudents.com/jobs/vacancy/2833/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f9034%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
