@@ -2801,7 +2801,6 @@ https://www.guildofstudents.com/ents/event/9035/
 https://www.guildofstudents.com/ents/event/9036/
 https://www.guildofstudents.com/ents/event/9050/
 https://www.guildofstudents.com/ents/event/9051/
-https://www.guildofstudents.com/ents/event/9052/
 https://www.guildofstudents.com/ents/event/9059/
 https://www.guildofstudents.com/ents/event/9060/
 https://www.guildofstudents.com/ents/event/9061/
@@ -2830,7 +2829,6 @@ https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
-https://www.guildofstudents.com/ents/eventlist/blackvoices/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/destress/
@@ -2838,7 +2836,6 @@ https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/electionqs/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
-https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
