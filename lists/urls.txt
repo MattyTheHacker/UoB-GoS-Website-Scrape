@@ -4012,7 +4012,6 @@ https://www.guildofstudents.com/profile/199136/
 https://www.guildofstudents.com/profile/199619/
 https://www.guildofstudents.com/profile/199633/
 https://www.guildofstudents.com/profile/199690/
-https://www.guildofstudents.com/profile/199877/
 https://www.guildofstudents.com/profile/200005/
 https://www.guildofstudents.com/profile/200016/
 https://www.guildofstudents.com/profile/200026/
@@ -5129,7 +5128,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/199619/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/199633/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/199690/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/199877/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/200005/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/200016/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/200026/
