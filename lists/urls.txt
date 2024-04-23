@@ -2783,6 +2783,7 @@ https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/contact-us/feedback
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
+https://www.guildofstudents.com/elections/groups
 https://www.guildofstudents.com/elections/incentivestcs
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/8377/
@@ -2849,6 +2850,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
+https://www.guildofstudents.com/ents/eventlist/debate/
 https://www.guildofstudents.com/ents/eventlist/destress/
 https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
@@ -2890,7 +2892,6 @@ https://www.guildofstudents.com/events/20937/9055/
 https://www.guildofstudents.com/events/22470/8725/
 https://www.guildofstudents.com/events/23397/9041/
 https://www.guildofstudents.com/events/23397/9042/
-https://www.guildofstudents.com/events/23397/9057/
 https://www.guildofstudents.com/events/23397/9058/
 https://www.guildofstudents.com/events/25611/8943/
 https://www.guildofstudents.com/events/25675/9073/
@@ -2918,6 +2919,8 @@ https://www.guildofstudents.com/events/7211/9027/
 https://www.guildofstudents.com/events/7219/9107/
 https://www.guildofstudents.com/events/7427/8594/
 https://www.guildofstudents.com/events/7572/7689/
+https://www.guildofstudents.com/events/7727/9123/
+https://www.guildofstudents.com/events/7727/9125/
 https://www.guildofstudents.com/events/9220/9087/
 https://www.guildofstudents.com/fab
 https://www.guildofstudents.com/fab/
@@ -5937,6 +5940,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentr
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/elections/groups
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/jobs/browse/

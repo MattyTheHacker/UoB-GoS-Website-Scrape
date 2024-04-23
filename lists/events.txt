@@ -68,7 +68,6 @@ https://www.guildofstudents.com/events/20937/9055/
 https://www.guildofstudents.com/events/22470/8725/
 https://www.guildofstudents.com/events/23397/9041/
 https://www.guildofstudents.com/events/23397/9042/
-https://www.guildofstudents.com/events/23397/9057/
 https://www.guildofstudents.com/events/23397/9058/
 https://www.guildofstudents.com/events/25611/8943/
 https://www.guildofstudents.com/events/25675/9073/
@@ -96,5 +95,7 @@ https://www.guildofstudents.com/events/7211/9027/
 https://www.guildofstudents.com/events/7219/9107/
 https://www.guildofstudents.com/events/7427/8594/
 https://www.guildofstudents.com/events/7572/7689/
+https://www.guildofstudents.com/events/7727/9123/
+https://www.guildofstudents.com/events/7727/9125/
 https://www.guildofstudents.com/events/9220/9087/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/ents/event/9034/
