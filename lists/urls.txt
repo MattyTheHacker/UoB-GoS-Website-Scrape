@@ -2793,9 +2793,7 @@ https://www.guildofstudents.com/ents/event/8678/
 https://www.guildofstudents.com/ents/event/8742/
 https://www.guildofstudents.com/ents/event/8745/
 https://www.guildofstudents.com/ents/event/8815/
-https://www.guildofstudents.com/ents/event/9028/
 https://www.guildofstudents.com/ents/event/9034
-https://www.guildofstudents.com/ents/event/9034/
 https://www.guildofstudents.com/ents/event/9035/
 https://www.guildofstudents.com/ents/event/9036/
 https://www.guildofstudents.com/ents/event/9050/
@@ -2942,7 +2940,6 @@ https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2834/
 https://www.guildofstudents.com/login/
-https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f9034%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f26488%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f38754%2f
