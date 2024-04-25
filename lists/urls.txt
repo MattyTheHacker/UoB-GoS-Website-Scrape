@@ -2892,6 +2892,9 @@ https://www.guildofstudents.com/ents/event/9129/
 https://www.guildofstudents.com/ents/event/9130/
 https://www.guildofstudents.com/ents/event/9131/
 https://www.guildofstudents.com/ents/event/9132/
+https://www.guildofstudents.com/ents/event/9135/
+https://www.guildofstudents.com/ents/event/9136/
+https://www.guildofstudents.com/ents/event/9137/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -2903,6 +2906,7 @@ https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/electionqs/
 https://www.guildofstudents.com/ents/eventlist/Employabilty/
+https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
@@ -6014,6 +6018,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/72954/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/89667/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/98810/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/allstudentvote/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/campaigns/eu-voter/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
