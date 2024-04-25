@@ -2989,6 +2989,7 @@ https://www.guildofstudents.com/fab/
 https://www.guildofstudents.com/footer/
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
+https://www.guildofstudents.com/gbtest/
 https://www.guildofstudents.com/gear
 https://www.guildofstudents.com/groups/
 https://www.guildofstudents.com/guildadvice
@@ -2999,12 +3000,14 @@ https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/haydock/
 https://www.guildofstudents.com/haydock/events-tickets/flat-season-opener/
 https://www.guildofstudents.com/haydock/membership-and-offers/annual/
+https://www.guildofstudents.com/health/
 https://www.guildofstudents.com/huntingdon/
 https://www.guildofstudents.com/huntingdon/events-tickets/go-racing/
 https://www.guildofstudents.com/huntingdon/membership-and-offers/annual/
 https://www.guildofstudents.com/jobs/
 https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2834/
+https://www.guildofstudents.com/joesbar/
 https://www.guildofstudents.com/kempton/
 https://www.guildofstudents.com/kempton/membership-and-offers/annual/
 https://www.guildofstudents.com/live/
@@ -3100,6 +3103,7 @@ https://www.guildofstudents.com/officerteam/so/new/
 https://www.guildofstudents.com/officerteam/wco/
 https://www.guildofstudents.com/officerteam/wco/new/
 https://www.guildofstudents.com/officerteam/wins
+https://www.guildofstudents.com/openair/
 https://www.guildofstudents.com/organisation/26488/
 https://www.guildofstudents.com/organisation/33748/
 https://www.guildofstudents.com/organisation/33757/
@@ -6256,7 +6260,6 @@ https://www.guildofstudents.com/warwick/
 https://www.guildofstudents.com/warwick/events-tickets/mollys-ollys-raceday/
 https://www.guildofstudents.com/warwick/membership-and-offers/annual/
 https://www.guildofstudents.com/welcome
-https://www.guildofstudents.com/welcome/
 https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events#wristband
@@ -6371,6 +6374,7 @@ https://www.guildofstudents.commailto:cocktail@guild.bham.ac.uk
 https://www.guildofstudents.commailto:commercialawarenesssoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:communications@guild.bham.ac.uk
 https://www.guildofstudents.commailto:community@guild.bham.ac.uk
+https://www.guildofstudents.commailto:Community@guild.bham.ac.uk
 https://www.guildofstudents.commailto:communitypantry@guild.bham.ac.uk
 https://www.guildofstudents.commailto:commutersociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:complaints@guild.bham.ac.uk
