@@ -127,7 +127,6 @@ https://www.guildofstudents.com#navtwo
 https://www.guildofstudents.com#newsblogs
 https://www.guildofstudents.com#next-1
 https://www.guildofstudents.com#nino-1
-https://www.guildofstudents.com#nominatenow
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
 https://www.guildofstudents.com#officerteam
@@ -2899,6 +2898,9 @@ https://www.guildofstudents.com/ents/event/9135/
 https://www.guildofstudents.com/ents/event/9136/
 https://www.guildofstudents.com/ents/event/9137/
 https://www.guildofstudents.com/ents/event/9138/
+https://www.guildofstudents.com/ents/event/9139/
+https://www.guildofstudents.com/ents/event/9140/
+https://www.guildofstudents.com/ents/event/9142/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -3350,8 +3352,6 @@ https://www.guildofstudents.com/pageassets/footer/resourcespublications/Zero-Tol
 https://www.guildofstudents.com/pageassets/referendum/GOG-Minutes-3.10.23.pdf
 https://www.guildofstudents.com/pageassets/referendum/Referendum-2023-Complaints-Form.docx
 https://www.guildofstudents.com/pageassets/referendum/Referendum-Regulations-23-24.pdf
-https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Award-Criteria.pdf
-https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Criteria-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/All-Student-Vote-Campaigning-Guidance(1).pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Anti-Fascism-Policy.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Anti-Racism-and-Anti-Fascism-Action-Group-2-Minutes-19.04.24.pdf
@@ -4883,7 +4883,6 @@ https://www.guildofstudents.com/profile/98810/
 https://www.guildofstudents.com/referendum
 https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/register/
-https://www.guildofstudents.com/repawards
 https://www.guildofstudents.com/representation
 https://www.guildofstudents.com/representation/
 https://www.guildofstudents.com/representation/allstudentmeeting/
