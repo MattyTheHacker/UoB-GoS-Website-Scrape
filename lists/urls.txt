@@ -85,6 +85,7 @@ https://www.guildofstudents.com#elgarinfo
 https://www.guildofstudents.com#filter
 https://www.guildofstudents.com#getintouch
 https://www.guildofstudents.com#instagrammore
+https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#jarratthallinfo
 https://www.guildofstudents.com#main-content
 https://www.guildofstudents.com#mapleinfo
@@ -121,6 +122,8 @@ https://www.guildofstudents.com#navten
 https://www.guildofstudents.com#navthree
 https://www.guildofstudents.com#navtwo
 https://www.guildofstudents.com#newsblogs
+https://www.guildofstudents.com#next-1
+https://www.guildofstudents.com#nino-1
 https://www.guildofstudents.com#nominatenow
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
@@ -2854,8 +2857,6 @@ https://www.guildofstudents.com/ents/event/9077/
 https://www.guildofstudents.com/ents/event/9078/
 https://www.guildofstudents.com/ents/event/9079/
 https://www.guildofstudents.com/ents/event/9080/
-https://www.guildofstudents.com/ents/event/9081/
-https://www.guildofstudents.com/ents/event/9082/
 https://www.guildofstudents.com/ents/event/9083/
 https://www.guildofstudents.com/ents/event/9084/
 https://www.guildofstudents.com/ents/event/9088/
@@ -2952,7 +2953,6 @@ https://www.guildofstudents.com/events/13206/8807/
 https://www.guildofstudents.com/events/20937/9047/
 https://www.guildofstudents.com/events/20937/9055/
 https://www.guildofstudents.com/events/22470/8725/
-https://www.guildofstudents.com/events/23397/9041/
 https://www.guildofstudents.com/events/23397/9042/
 https://www.guildofstudents.com/events/23397/9058/
 https://www.guildofstudents.com/events/25611/8943/
@@ -3004,13 +3004,13 @@ https://www.guildofstudents.com/haydock/events-tickets/flat-season-opener/
 https://www.guildofstudents.com/haydock/membership-and-offers/annual/
 https://www.guildofstudents.com/health/
 https://www.guildofstudents.com/huntingdon/
-https://www.guildofstudents.com/huntingdon/events-tickets/go-racing/
 https://www.guildofstudents.com/huntingdon/membership-and-offers/annual/
 https://www.guildofstudents.com/jobs/
 https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2834/
 https://www.guildofstudents.com/joesbar/
 https://www.guildofstudents.com/kempton/
+https://www.guildofstudents.com/kempton/events-tickets/awt-floodlit-racing-15/
 https://www.guildofstudents.com/kempton/membership-and-offers/annual/
 https://www.guildofstudents.com/live/
 https://www.guildofstudents.com/login/
@@ -3081,6 +3081,7 @@ https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/newsletter/
 https://www.guildofstudents.com/noton/
 https://www.guildofstudents.com/nottingham/
+https://www.guildofstudents.com/nottingham/events-tickets/afternoon-racing-2/
 https://www.guildofstudents.com/nottingham/membership-and-offers/season-ticket/
 https://www.guildofstudents.com/nusextra/
 https://www.guildofstudents.com/officerteam
@@ -3844,6 +3845,8 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Charlotte-Minter.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Hall-Rep-Job-Description-2024.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
@@ -6260,7 +6263,6 @@ https://www.guildofstudents.com/venues/what-we-do/
 https://www.guildofstudents.com/venues/whats-on/
 https://www.guildofstudents.com/vote/
 https://www.guildofstudents.com/warwick/
-https://www.guildofstudents.com/warwick/events-tickets/mollys-ollys-raceday/
 https://www.guildofstudents.com/warwick/membership-and-offers/annual/
 https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
