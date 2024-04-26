@@ -94,6 +94,7 @@ https://www.guildofstudents.com#main-content
 https://www.guildofstudents.com#mapleinfo
 https://www.guildofstudents.com#masoninfo
 https://www.guildofstudents.com#mediapack
+https://www.guildofstudents.com#megamay
 https://www.guildofstudents.com#metalworksinfo
 https://www.guildofstudents.com#navalice
 https://www.guildofstudents.com#navamira
@@ -2901,6 +2902,9 @@ https://www.guildofstudents.com/ents/event/9138/
 https://www.guildofstudents.com/ents/event/9139/
 https://www.guildofstudents.com/ents/event/9140/
 https://www.guildofstudents.com/ents/event/9142/
+https://www.guildofstudents.com/ents/event/9143/
+https://www.guildofstudents.com/ents/event/9144/
+https://www.guildofstudents.com/ents/event/9145/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -2927,6 +2931,7 @@ https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
+https://www.guildofstudents.com/ents/eventlist/studentreps/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
