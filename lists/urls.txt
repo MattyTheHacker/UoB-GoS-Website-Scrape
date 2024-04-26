@@ -40,9 +40,12 @@ https://www.guildofstudents.com#accorddeposit6-1
 https://www.guildofstudents.com#accorddeposit7-1
 https://www.guildofstudents.com#accorddeposit8-1
 https://www.guildofstudents.com#accorddeposit9-1
+https://www.guildofstudents.com#accordobc-1
 https://www.guildofstudents.com#accordtrainingsupport-1
 https://www.guildofstudents.com#aefsurvey
 https://www.guildofstudents.com#aitkeninfo
+https://www.guildofstudents.com#allstudentvote
+https://www.guildofstudents.com#allstudentvotecomment
 https://www.guildofstudents.com#allyoucaneat
 https://www.guildofstudents.com#ashcroftinfo
 https://www.guildofstudents.com#battery-coursel
@@ -2895,6 +2898,7 @@ https://www.guildofstudents.com/ents/event/9132/
 https://www.guildofstudents.com/ents/event/9135/
 https://www.guildofstudents.com/ents/event/9136/
 https://www.guildofstudents.com/ents/event/9137/
+https://www.guildofstudents.com/ents/event/9138/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -3031,6 +3035,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmathsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fostem%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fphilosophy%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fuobhideandseek%2f
+https://www.guildofstudents.com/login/?redirect=%2frepresentation%2fallstudentvote%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f41025%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbeat%2f
@@ -3347,6 +3352,12 @@ https://www.guildofstudents.com/pageassets/referendum/Referendum-2023-Complaints
 https://www.guildofstudents.com/pageassets/referendum/Referendum-Regulations-23-24.pdf
 https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Award-Criteria.pdf
 https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Criteria-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/All-Student-Vote-Campaigning-Guidance(1).pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/Anti-Fascism-Policy.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/Anti-Racism-and-Anti-Fascism-Action-Group-2-Minutes-19.04.24.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/Anti-Racism-and-Anti-Fascism-Action-Group-Minutes-08.04.24.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/Refugee-Action-Group-Minutes-08.04.24.pdf
+https://www.guildofstudents.com/pageassets/representation/allstudentvote/Refugee-Reach-Empowering-Higher-Education-Equality-Policy.pdf
 https://www.guildofstudents.com/pageassets/representation/campaigns/useful-documents/1.Campaigns-Pot-Request-Form.docx
 https://www.guildofstudents.com/pageassets/representation/campaigns/useful-documents/Beliefs-and-Commitments-May-2019.pdf
 https://www.guildofstudents.com/pageassets/representation/campaigns/useful-documents/Campaigns-Pot-Request-form-Accessible-Coloured.docx
@@ -3415,6 +3426,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.02.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.03.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.03.22.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.04.24.docx
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.06.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.08.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.11.21.pdf
@@ -6043,6 +6055,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentr
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/whatrepsdo/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/value/impact-report/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/elections/groups
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot
