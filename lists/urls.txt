@@ -2817,6 +2817,7 @@ https://www.guildofstudents.com/cheltenham-festival/
 https://www.guildofstudents.com/cheltenham-festival/dining-and-hospitality/
 https://www.guildofstudents.com/cheltenham-festival/dining-and-hospitality/restaurant-packages/core-on-course/
 https://www.guildofstudents.com/cheltenham/
+https://www.guildofstudents.com/cheltenham/events-tickets/race-night/
 https://www.guildofstudents.com/cheltenham/membership-and-offers/annual/
 https://www.guildofstudents.com/cheltenham/membership-and-offers/junior-jumpers/
 https://www.guildofstudents.com/cheltenham/membership-and-offers/racehorse-ownership/
@@ -2859,8 +2860,6 @@ https://www.guildofstudents.com/ents/event/9077/
 https://www.guildofstudents.com/ents/event/9078/
 https://www.guildofstudents.com/ents/event/9079/
 https://www.guildofstudents.com/ents/event/9080/
-https://www.guildofstudents.com/ents/event/9083/
-https://www.guildofstudents.com/ents/event/9084/
 https://www.guildofstudents.com/ents/event/9088/
 https://www.guildofstudents.com/ents/event/9089/
 https://www.guildofstudents.com/ents/event/9093/
@@ -2904,6 +2903,7 @@ https://www.guildofstudents.com/ents/event/9142/
 https://www.guildofstudents.com/ents/event/9143/
 https://www.guildofstudents.com/ents/event/9144/
 https://www.guildofstudents.com/ents/event/9145/
+https://www.guildofstudents.com/ents/event/9146/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -4998,7 +4998,6 @@ https://www.guildofstudents.com/resourcehandler/abd2ee03-adae-4cff-a6b5-6a0f8606
 https://www.guildofstudents.com/resourcehandler/ef64a1ae-6f04-4df9-9034-738ee2ac5d98/
 https://www.guildofstudents.com/sandown/
 https://www.guildofstudents.com/sandown/events-tickets/jump-finale/
-https://www.guildofstudents.com/sandown/events-tickets/spring-celebration/
 https://www.guildofstudents.com/sandown/membership-and-offers/annual/
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
