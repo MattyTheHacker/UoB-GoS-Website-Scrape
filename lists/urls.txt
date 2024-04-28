@@ -3016,7 +3016,6 @@ https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2834/
 https://www.guildofstudents.com/joesbar/
 https://www.guildofstudents.com/kempton/
-https://www.guildofstudents.com/kempton/events-tickets/afternoon-jump-racing-1/
 https://www.guildofstudents.com/kempton/events-tickets/awt-floodlit-racing-15/
 https://www.guildofstudents.com/kempton/membership-and-offers/annual/
 https://www.guildofstudents.com/live/
@@ -6241,6 +6240,7 @@ https://www.guildofstudents.com/venues/what-we-do/
 https://www.guildofstudents.com/venues/whats-on/
 https://www.guildofstudents.com/vote/
 https://www.guildofstudents.com/warwick/
+https://www.guildofstudents.com/warwick/events-tickets/kids-carnival-day/
 https://www.guildofstudents.com/warwick/membership-and-offers/annual/
 https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
