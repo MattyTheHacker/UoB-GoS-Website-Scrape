@@ -6206,6 +6206,7 @@ https://www.guildofstudents.com/sustainability/gogreenweek/
 https://www.guildofstudents.com/sustainability/green-impact/
 https://www.guildofstudents.com/tac/
 https://www.guildofstudents.com/tac/fooddrink/
+https://www.guildofstudents.com/tac/valefest/
 https://www.guildofstudents.com/terms-and-conditions/
 https://www.guildofstudents.com/the-experience/betting/
 https://www.guildofstudents.com/the-experience/dining-hospitality/
@@ -6415,6 +6416,8 @@ https://www.guildofstudents.commailto:GreekandCypriotSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:greenpartysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk.
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hennasociety@guild.bham.ac.uk
