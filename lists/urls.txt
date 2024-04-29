@@ -2872,6 +2872,7 @@ https://www.guildofstudents.com/ents/event/9100/
 https://www.guildofstudents.com/ents/event/9101/
 https://www.guildofstudents.com/ents/event/9102/
 https://www.guildofstudents.com/ents/event/9105/
+https://www.guildofstudents.com/ents/event/9106/
 https://www.guildofstudents.com/ents/event/9108/
 https://www.guildofstudents.com/ents/event/9109/
 https://www.guildofstudents.com/ents/event/9110/
@@ -3031,6 +3032,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fhookersandstit
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2flassoc%2f
 https://www.guildofstudents.com/login/?redirect=%2frepresentation%2fallstudentvote%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f41025%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbeat%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fblood%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
@@ -3845,7 +3847,10 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/CM-Assistant-Job-Description-.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Hall-Rep-Job-Description-2024.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Student-Photographer-and-Videographer-Job-Description.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Technical-Services-Assistant-JD.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
@@ -6009,6 +6014,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/represen
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/representation/guildcouncil/pastmeetingpaperwork/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/giveitago/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/41025/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/beat/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/blood/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bucv/
