@@ -2911,9 +2911,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/destress/
-https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
-https://www.guildofstudents.com/ents/eventlist/electionqs/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
@@ -2987,6 +2985,7 @@ https://www.guildofstudents.com/events/26067/9072/
 https://www.guildofstudents.com/events/26488/8988/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35779/7484/
+https://www.guildofstudents.com/events/35779/9151/
 https://www.guildofstudents.com/events/43329/9090/
 https://www.guildofstudents.com/events/50882/9091/
 https://www.guildofstudents.com/events/6347/9005/
@@ -3033,6 +3032,7 @@ https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2834/
 https://www.guildofstudents.com/joesbar/
 https://www.guildofstudents.com/kempton/
+https://www.guildofstudents.com/kempton/events-tickets/afternoon-jump-racing-1/
 https://www.guildofstudents.com/kempton/events-tickets/awt-floodlit-racing-15/
 https://www.guildofstudents.com/kempton/membership-and-offers/annual/
 https://www.guildofstudents.com/live/
@@ -6262,7 +6262,6 @@ https://www.guildofstudents.com/venues/what-we-do/
 https://www.guildofstudents.com/venues/whats-on/
 https://www.guildofstudents.com/vote/
 https://www.guildofstudents.com/warwick/
-https://www.guildofstudents.com/warwick/events-tickets/kids-carnival-day/
 https://www.guildofstudents.com/warwick/membership-and-offers/annual/
 https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
