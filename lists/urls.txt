@@ -3036,6 +3036,7 @@ https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2834/
 https://www.guildofstudents.com/joesbar/
 https://www.guildofstudents.com/kempton/
+https://www.guildofstudents.com/kempton/events-tickets/afternoon-jump-racing-1/
 https://www.guildofstudents.com/kempton/events-tickets/awt-floodlit-racing-15/
 https://www.guildofstudents.com/kempton/membership-and-offers/annual/
 https://www.guildofstudents.com/live/
@@ -4116,6 +4117,7 @@ https://www.guildofstudents.com/profile/189256/
 https://www.guildofstudents.com/profile/189381/
 https://www.guildofstudents.com/profile/189388/
 https://www.guildofstudents.com/profile/189466/
+https://www.guildofstudents.com/profile/189472/
 https://www.guildofstudents.com/profile/189561/
 https://www.guildofstudents.com/profile/189592/
 https://www.guildofstudents.com/profile/189667/
@@ -4403,6 +4405,7 @@ https://www.guildofstudents.com/profile/221257/
 https://www.guildofstudents.com/profile/221271/
 https://www.guildofstudents.com/profile/221278/
 https://www.guildofstudents.com/profile/221531/
+https://www.guildofstudents.com/profile/221550/
 https://www.guildofstudents.com/profile/221617/
 https://www.guildofstudents.com/profile/221629/
 https://www.guildofstudents.com/profile/221671/
@@ -5255,6 +5258,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/189381/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/189388/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/189466/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/189472/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/189561/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/189592/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/189667/
@@ -5542,6 +5546,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/221271/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/221278/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/221531/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/221550/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/221617/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/221629/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/221671/
@@ -6273,7 +6278,6 @@ https://www.guildofstudents.com/venues/what-we-do/
 https://www.guildofstudents.com/venues/whats-on/
 https://www.guildofstudents.com/vote/
 https://www.guildofstudents.com/warwick/
-https://www.guildofstudents.com/warwick/events-tickets/kids-carnival-day/
 https://www.guildofstudents.com/warwick/membership-and-offers/annual/
 https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
