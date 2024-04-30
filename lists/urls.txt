@@ -2784,6 +2784,7 @@ https://www.guildofstudents.com/account/register/Students/
 https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/account/rewards4racing/
 https://www.guildofstudents.com/advertclick/115/
+https://www.guildofstudents.com/advertclick/116/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/aintree/
 https://www.guildofstudents.com/allstudentvote
@@ -2975,6 +2976,7 @@ https://www.guildofstudents.com/events/20937/9055/
 https://www.guildofstudents.com/events/21718/9147/
 https://www.guildofstudents.com/events/22470/8725/
 https://www.guildofstudents.com/events/23397/9042/
+https://www.guildofstudents.com/events/240511-get-into-teaching-west-midlands-event/apply
 https://www.guildofstudents.com/events/25611/8943/
 https://www.guildofstudents.com/events/25675/9073/
 https://www.guildofstudents.com/events/25675/9074/
@@ -3012,6 +3014,7 @@ https://www.guildofstudents.com/fab/
 https://www.guildofstudents.com/footer/
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
+https://www.guildofstudents.com/funding-and-support
 https://www.guildofstudents.com/gbtest/
 https://www.guildofstudents.com/gear
 https://www.guildofstudents.com/groups/
@@ -3023,14 +3026,16 @@ https://www.guildofstudents.com/hallreps/
 https://www.guildofstudents.com/haydock/
 https://www.guildofstudents.com/haydock/membership-and-offers/annual/
 https://www.guildofstudents.com/health/
+https://www.guildofstudents.com/help-and-support
+https://www.guildofstudents.com/how-to-apply-for-teacher-training
 https://www.guildofstudents.com/huntingdon/
 https://www.guildofstudents.com/huntingdon/membership-and-offers/annual/
+https://www.guildofstudents.com/is-teaching-right-for-me
 https://www.guildofstudents.com/jobs/
 https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2834/
 https://www.guildofstudents.com/joesbar/
 https://www.guildofstudents.com/kempton/
-https://www.guildofstudents.com/kempton/events-tickets/afternoon-jump-racing-1/
 https://www.guildofstudents.com/kempton/events-tickets/awt-floodlit-racing-15/
 https://www.guildofstudents.com/kempton/membership-and-offers/annual/
 https://www.guildofstudents.com/live/
@@ -3040,7 +3045,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2f38754%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2felalsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ffilmsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fhookersandstitchers%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2flassoc%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fwayfarers%2f
 https://www.guildofstudents.com/login/?redirect=%2frepresentation%2fallstudentvote%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f41025%2f
@@ -3055,6 +3060,7 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fimarep%2f
 https://www.guildofstudents.com/login/?ReturnUrl=/account/
 https://www.guildofstudents.com/logout/
+https://www.guildofstudents.com/mailinglist/signup/name
 https://www.guildofstudents.com/marketrasen/
 https://www.guildofstudents.com/marketrasen/membership-and-offers/annual/
 https://www.guildofstudents.com/mediasales
@@ -3083,6 +3089,7 @@ https://www.guildofstudents.com/news/article/website/Take-Part-in-the-Mayoral-El
 https://www.guildofstudents.com/news/article/website/What-Is-Time-To-Talk-Day/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/newsletter/
+https://www.guildofstudents.com/non-uk-teachers
 https://www.guildofstudents.com/noton/
 https://www.guildofstudents.com/nottingham/
 https://www.guildofstudents.com/nottingham/events-tickets/afternoon-racing-2/
@@ -4878,6 +4885,7 @@ https://www.guildofstudents.com/profile/238956/
 https://www.guildofstudents.com/profile/239181/
 https://www.guildofstudents.com/profile/239314/
 https://www.guildofstudents.com/profile/240377/
+https://www.guildofstudents.com/profile/37270/
 https://www.guildofstudents.com/profile/50184/
 https://www.guildofstudents.com/profile/68085/
 https://www.guildofstudents.com/profile/72954/
@@ -4997,6 +5005,7 @@ https://www.guildofstudents.com/resourcehandler/abd2ee03-adae-4cff-a6b5-6a0f8606
 https://www.guildofstudents.com/resourcehandler/ef64a1ae-6f04-4df9-9034-738ee2ac5d98/
 https://www.guildofstudents.com/sandown/
 https://www.guildofstudents.com/sandown/membership-and-offers/annual/
+https://www.guildofstudents.com/search
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
@@ -5017,7 +5026,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisa
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/elalsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/filmsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/hookersandstitchers/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/lassoc/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/wayfarers/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/106849/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/111544/
@@ -6015,6 +6024,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/239181/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/239314/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/240377/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/37270/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/50184/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/68085/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/72954/
@@ -6046,6 +6056,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://w
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/jobs/browse/
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/studentgroups/running-a-group/committee-elections/
 https://www.guildofstudents.com/staff/
+https://www.guildofstudents.com/steps-to-become-a-teacher
 https://www.guildofstudents.com/studentgroups
 https://www.guildofstudents.com/studentgroups/
 https://www.guildofstudents.com/studentgroups/giveitago/
@@ -6243,6 +6254,7 @@ https://www.guildofstudents.com/the-racing/racing-explained/
 https://www.guildofstudents.com/the-racing/racing-news/
 https://www.guildofstudents.com/the-racing/racing-tv/
 https://www.guildofstudents.com/totum/
+https://www.guildofstudents.com/train-to-be-a-teacher
 https://www.guildofstudents.com/vacancies/
 https://www.guildofstudents.com/value/
 https://www.guildofstudents.com/value/impact-report/
@@ -6261,6 +6273,7 @@ https://www.guildofstudents.com/venues/what-we-do/
 https://www.guildofstudents.com/venues/whats-on/
 https://www.guildofstudents.com/vote/
 https://www.guildofstudents.com/warwick/
+https://www.guildofstudents.com/warwick/events-tickets/kids-carnival-day/
 https://www.guildofstudents.com/warwick/membership-and-offers/annual/
 https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
@@ -6293,6 +6306,7 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$newslist$rptPages$ctl00$lnkPageNumber','')
+https://www.guildofstudents.comjavascript:void(0)
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:13thhorror@guild.bham.ac.uk
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
