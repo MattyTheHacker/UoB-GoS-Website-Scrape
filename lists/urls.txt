@@ -2904,6 +2904,11 @@ https://www.guildofstudents.com/ents/event/9143/
 https://www.guildofstudents.com/ents/event/9144/
 https://www.guildofstudents.com/ents/event/9145/
 https://www.guildofstudents.com/ents/event/9146/
+https://www.guildofstudents.com/ents/event/9168/
+https://www.guildofstudents.com/ents/event/9169/
+https://www.guildofstudents.com/ents/event/9170/
+https://www.guildofstudents.com/ents/event/9171/
+https://www.guildofstudents.com/ents/event/9172/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -4645,6 +4650,7 @@ https://www.guildofstudents.com/profile/226946/
 https://www.guildofstudents.com/profile/226962/
 https://www.guildofstudents.com/profile/226987/
 https://www.guildofstudents.com/profile/227056/
+https://www.guildofstudents.com/profile/227060/
 https://www.guildofstudents.com/profile/227074/
 https://www.guildofstudents.com/profile/227096/
 https://www.guildofstudents.com/profile/227140/
@@ -4900,6 +4906,7 @@ https://www.guildofstudents.com/register/
 https://www.guildofstudents.com/representation
 https://www.guildofstudents.com/representation/
 https://www.guildofstudents.com/representation/allstudentmeeting/
+https://www.guildofstudents.com/representation/allstudentvote/votingstats/
 https://www.guildofstudents.com/representation/campaigns/campaign-history/
 https://www.guildofstudents.com/representation/campaigns/current-campaigns/
 https://www.guildofstudents.com/representation/campaigns/useful-documents/
@@ -5786,6 +5793,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/226962/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/226987/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/227056/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/227060/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/227074/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/227096/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/227140/
@@ -6114,7 +6122,6 @@ https://www.guildofstudents.com/studentgroups/societies/cdf/
 https://www.guildofstudents.com/studentgroups/societies/chasingzero/
 https://www.guildofstudents.com/studentgroups/societies/chinese/
 https://www.guildofstudents.com/studentgroups/societies/chinesechristians/
-https://www.guildofstudents.com/studentgroups/societies/churchcentral/
 https://www.guildofstudents.com/studentgroups/societies/conservativefuture/
 https://www.guildofstudents.com/studentgroups/societies/damsa/
 https://www.guildofstudents.com/studentgroups/societies/debating/
@@ -6389,7 +6396,6 @@ https://www.guildofstudents.commailto:chasingzero@guild.bham.ac.uk
 https://www.guildofstudents.commailto:chess-club@guild.bham.ac.uk
 https://www.guildofstudents.commailto:chinese-soc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:chinesechristians@guild.bham.ac.uk
-https://www.guildofstudents.commailto:churchcentral@guild.bham.ac.uk
 https://www.guildofstudents.commailto:civsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:cocktail@guild.bham.ac.uk
 https://www.guildofstudents.commailto:commercialawarenesssoc@guild.bham.ac.uk
