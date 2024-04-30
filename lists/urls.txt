@@ -2837,7 +2837,6 @@ https://www.guildofstudents.com/ents/
 https://www.guildofstudents.com/ents/event/8377/
 https://www.guildofstudents.com/ents/event/8503/
 https://www.guildofstudents.com/ents/event/8555/
-https://www.guildofstudents.com/ents/event/8678/
 https://www.guildofstudents.com/ents/event/8742/
 https://www.guildofstudents.com/ents/event/8745/
 https://www.guildofstudents.com/ents/event/8815/
@@ -2976,7 +2975,6 @@ https://www.guildofstudents.com/events/20937/9055/
 https://www.guildofstudents.com/events/21718/9147/
 https://www.guildofstudents.com/events/22470/8725/
 https://www.guildofstudents.com/events/23397/9042/
-https://www.guildofstudents.com/events/23397/9058/
 https://www.guildofstudents.com/events/25611/8943/
 https://www.guildofstudents.com/events/25675/9073/
 https://www.guildofstudents.com/events/25675/9074/
@@ -3068,7 +3066,6 @@ https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/Former-Postgrad-Rodhans-Top-Study-Spaces/
-https://www.guildofstudents.com/news/article/website/Guild-Easter-Closure-Dates/
 https://www.guildofstudents.com/news/article/website/Guild-President-Amira-elected-NUS-UK-President-2024-2026/
 https://www.guildofstudents.com/news/article/website/How-to-look-after-your-mental-health-and-wellbeing-during-the-assessment-and-exam-period/
 https://www.guildofstudents.com/news/article/website/Meet-Our-February-Reps-of-the-Month/
@@ -3083,7 +3080,6 @@ https://www.guildofstudents.com/news/article/website/Sustainability-Survey-Key-F
 https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-your-Guild/
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
 https://www.guildofstudents.com/news/article/website/Take-Part-in-the-Mayoral-Elections/
-https://www.guildofstudents.com/news/article/website/Valefest-Guild-of-Students-Statement/
 https://www.guildofstudents.com/news/article/website/What-Is-Time-To-Talk-Day/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/newsletter/
@@ -3427,7 +3423,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.02.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.03.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.03.22.pdf
-https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.04.24.docx
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.04.24.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.06.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.08.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-08.11.21.pdf
@@ -3480,6 +3476,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-14.12.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.02.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.03.21.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.04.24.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.05.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.06.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-15.08.23.pdf
@@ -3526,6 +3523,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/full
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-22.02.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-22.02.22.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-22.03.21.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-22.04.24.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-22.05.23-v3.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-22.06.20.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/full-time-officer-minutes/FTOG-Minutes-22.08.22.pdf
@@ -3861,6 +3859,7 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-O
 https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/CM-Assistant-Job-Description-.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Hall-Rep-Job-Description-2024.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Steward-job-description.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Student-Photographer-and-Videographer-Job-Description.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Technical-Services-Assistant-JD.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
@@ -4976,6 +4975,8 @@ https://www.guildofstudents.com/representation/youridea/?idea=529#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=529#idea529
 https://www.guildofstudents.com/representation/youridea/?idea=531#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=531#idea531
+https://www.guildofstudents.com/representation/youridea/?idea=532#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=532#idea532
 https://www.guildofstudents.com/representation/youridea/?idea=533#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=533#idea533
 https://www.guildofstudents.com/representation/youridea/?tag=Academic
