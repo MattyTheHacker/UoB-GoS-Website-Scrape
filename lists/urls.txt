@@ -2909,6 +2909,7 @@ https://www.guildofstudents.com/ents/event/9169/
 https://www.guildofstudents.com/ents/event/9170/
 https://www.guildofstudents.com/ents/event/9171/
 https://www.guildofstudents.com/ents/event/9172/
+https://www.guildofstudents.com/ents/event/9173/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
@@ -3041,7 +3042,6 @@ https://www.guildofstudents.com/jobs/browse/
 https://www.guildofstudents.com/jobs/vacancy/2834/
 https://www.guildofstudents.com/joesbar/
 https://www.guildofstudents.com/kempton/
-https://www.guildofstudents.com/kempton/events-tickets/afternoon-jump-racing-1/
 https://www.guildofstudents.com/kempton/events-tickets/awt-floodlit-racing-15/
 https://www.guildofstudents.com/kempton/membership-and-offers/annual/
 https://www.guildofstudents.com/live/
@@ -3051,6 +3051,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2f38754%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2felalsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ffilmsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fhookersandstitchers%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fwayfarers%2f
 https://www.guildofstudents.com/login/?redirect=%2frepresentation%2fallstudentvote%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
@@ -5036,6 +5037,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisa
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/elalsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/filmsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/hookersandstitchers/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/nerdfighters/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/wayfarers/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/106849/
@@ -6285,6 +6287,7 @@ https://www.guildofstudents.com/venues/what-we-do/
 https://www.guildofstudents.com/venues/whats-on/
 https://www.guildofstudents.com/vote/
 https://www.guildofstudents.com/warwick/
+https://www.guildofstudents.com/warwick/events-tickets/kids-carnival-day/
 https://www.guildofstudents.com/warwick/membership-and-offers/annual/
 https://www.guildofstudents.com/welcome
 https://www.guildofstudents.com/welcome/events
