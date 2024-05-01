@@ -2867,7 +2867,6 @@ https://www.guildofstudents.com/ents/event/9099/
 https://www.guildofstudents.com/ents/event/9100/
 https://www.guildofstudents.com/ents/event/9101/
 https://www.guildofstudents.com/ents/event/9106/
-https://www.guildofstudents.com/ents/event/9108/
 https://www.guildofstudents.com/ents/event/9109/
 https://www.guildofstudents.com/ents/event/9110/
 https://www.guildofstudents.com/ents/event/9111/
@@ -2891,6 +2890,7 @@ https://www.guildofstudents.com/ents/event/9136/
 https://www.guildofstudents.com/ents/event/9137/
 https://www.guildofstudents.com/ents/event/9138/
 https://www.guildofstudents.com/ents/event/9139/
+https://www.guildofstudents.com/ents/event/9141/
 https://www.guildofstudents.com/ents/event/9142/
 https://www.guildofstudents.com/ents/event/9143/
 https://www.guildofstudents.com/ents/event/9144/
@@ -3025,7 +3025,6 @@ https://www.guildofstudents.com/kempton/membership-and-offers/annual/
 https://www.guildofstudents.com/live/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2f38754%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2felalsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ffilmsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fhookersandstitchers%2f
@@ -3034,13 +3033,9 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fwayfarers%2f
 https://www.guildofstudents.com/login/?redirect=%2frepresentation%2fallstudentvote%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f41025%2f
-https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbeat%2f
-https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fblood%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
-https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fewb%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
-https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2funiboobteam%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fimarep%2f
 https://www.guildofstudents.com/login/?ReturnUrl=/account/
@@ -4995,7 +4990,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/ents/event/9034/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/jobzone/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/38754/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/elalsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/filmsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/hookersandstitchers/
@@ -6014,13 +6008,9 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/represen
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/staff/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/giveitago/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/41025/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/beat/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/blood/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/bucv/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/ewb/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/islamic/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/talkinghands/
-https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/uniboobteam/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/complaints/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/imarep/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/school-college-senate-reps/
