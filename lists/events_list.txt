@@ -34,7 +34,7 @@
 {'id': '9102', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9102/', 'title': 'Pritchatts Park Cold Cups'}
 {'id': '9105', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9105/', 'title': 'Give It A Go: KCover Dance Class'}
 {'id': '9106', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9106/', 'title': 'Valefest 2024'}
-{'id': '9108', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9108/', 'title': 'Community Breakfast'}
+{'id': '9108', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9108/', 'title': 'Sorry, there was a problem'}
 {'id': '9109', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9109/', 'title': 'Community Breakfast'}
 {'id': '9110', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9110/', 'title': 'Community Breakfast'}
 {'id': '9111', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9111/', 'title': 'Community Breakfast'}
@@ -60,7 +60,6 @@
 {'id': '9137', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9137/', 'title': 'Chamberlain May the Force LEGO'}
 {'id': '9138', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9138/', 'title': 'Jarratt April Showers'}
 {'id': '9139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9139/', 'title': 'Joe’s Boost Your Burger Offer'}
-{'id': '9140', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9140/', 'title': 'Sorry, there was a problem'}
 {'id': '9142', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9142/', 'title': 'Joe’s Summer Sessions Cocktails'}
 {'id': '9143', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9143/', 'title': 'Language Picnic'}
 {'id': '9144', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9144/', 'title': 'Postgraduate and International Summer Party'}
@@ -71,6 +70,7 @@
 {'id': '9170', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9170/', 'title': 'Junkbusters'}
 {'id': '9171', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9171/', 'title': 'Junkbusters'}
 {'id': '9172', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9172/', 'title': 'Junkbusters'}
+{'id': '9173', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9173/', 'title': 'Selly Fete'}
 {'event_id': '8617', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8617/', 'title': 'Tuesday 3-5 Kickboxing Session'}
 {'event_id': '8628', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/8628/', 'title': 'Friday 4-6 Kickboxing Session'}
 {'event_id': '9152', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9152/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
@@ -127,4 +127,3 @@
 {'event_id': '9123', 'organisation_id': '7727', 'organisation': 'Doctor Who', 'url': 'https://www.guildofstudents.com/events/7727/9123/', 'title': 'DocSoc EGM'}
 {'event_id': '9150', 'organisation_id': '8468', 'organisation': 'University of Birmingham Guild of Students - Student Voice Department', 'url': 'https://www.guildofstudents.com/events/8468/9150/', 'title': 'Guild Education Committee'}
 {'event_id': '9087', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/9087/', 'title': 'MFL Soc Ball (30th May 2024)'}
-{'id': 'ents', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/ents/event/9034/', 'title': 'Server Error'}
