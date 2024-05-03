@@ -12,15 +12,13 @@
 {'id': '9064', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9064/', 'title': 'Self Defence Class (ALL STUDENTS)'}
 {'id': '9065', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9065/', 'title': 'Self Defence Class (FEMALE AND NON BINARY STUDENTS)'}
 {'id': '9066', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9066/', 'title': 'Coffee and Clean Up'}
-{'id': '9067', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9067/', 'title': 'Yoga'}
+{'id': '9067', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9067/', 'title': 'Sorry, there was a problem'}
 {'id': '9068', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9068/', 'title': 'Yoga'}
 {'id': '9069', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9069/', 'title': 'Yoga'}
 {'id': '9076', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9076/', 'title': 'Give It A Go: Pride Banner Making and Crafts'}
 {'id': '9077', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9077/', 'title': 'Give It A Go: Mindfulness Workshop'}
 {'id': '9078', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9078/', 'title': 'Committee Training Conference 2024'}
 {'id': '9079', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9079/', 'title': 'Spring Fling'}
-{'id': '9097', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9097/', 'title': 'Account Login'}
-{'id': '9098', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9098/', 'title': 'Account Login'}
 {'id': '9099', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9099/', 'title': 'Sports Night - End of Exams'}
 {'id': '9100', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9100/', 'title': 'Sports Night - End of year party'}
 {'id': '9101', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9101/', 'title': 'Sports Night & Sports Ball Afterparty'}
@@ -58,6 +56,8 @@
 {'id': '9179', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9179/', 'title': 'Moving out? FREE Ice-cream & moving box'}
 {'id': '9180', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9180/', 'title': 'Bournbrook Goes Floral'}
 {'id': '9187', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9187/', 'title': 'Open Mic Night  - Audience'}
+{'id': '9191', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9191/', 'title': 'MDS Breakfast'}
+{'id': '9192', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9192/', 'title': 'MDS Breakfast'}
 {'event_id': '9153', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9153/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9154', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9154/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9155', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9155/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
@@ -97,6 +97,7 @@
 {'event_id': '9027', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/9027/', 'title': 'POLSOC ball 2024'}
 {'event_id': '9107', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/9107/', 'title': 'The Psychology Ball 2024'}
 {'event_id': '9148', 'organisation_id': '7443', 'organisation': '3Bugs Fringe Theatre Society', 'url': 'https://www.guildofstudents.com/events/7443/9148/', 'title': 'Guild Drama Summer Ball'}
+{'event_id': '9194', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/9194/', 'title': 'Lake District Weekend Trip'}
 {'event_id': '7689', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/7689/', 'title': "Joe's Big Quiz"}
 {'event_id': '9150', 'organisation_id': '8468', 'organisation': 'University of Birmingham Guild of Students - Student Voice Department', 'url': 'https://www.guildofstudents.com/events/8468/9150/', 'title': 'Guild Education Committee'}
 {'event_id': '9087', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/9087/', 'title': 'MFL Soc Ball (30th May 2024)'}
