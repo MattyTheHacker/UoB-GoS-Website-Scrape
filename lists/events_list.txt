@@ -54,7 +54,7 @@
 {'id': '9173', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9173/', 'title': 'Selly Fete'}
 {'id': '9179', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9179/', 'title': 'Moving out? FREE Ice-cream & moving box'}
 {'id': '9180', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9180/', 'title': 'Bournbrook Goes Floral'}
-{'id': '9187', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9187/', 'title': 'Open Mic Night  - Audience'}
+{'id': '9187', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9187/', 'title': 'Sorry, there was a problem'}
 {'id': '9191', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9191/', 'title': 'MDS Breakfast'}
 {'id': '9192', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9192/', 'title': 'MDS Breakfast'}
 {'event_id': '9153', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9153/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
