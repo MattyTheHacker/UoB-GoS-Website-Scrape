@@ -29,7 +29,6 @@
 {'id': '9114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9114/', 'title': 'Community Breakfast'}
 {'id': '9115', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9115/', 'title': 'Community Breakfast'}
 {'id': '9119', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9119/', 'title': 'Metalworks Lego Animals'}
-{'id': '9120', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9120/', 'title': 'Shackleton Paint by Numbers'}
 {'id': '9122', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9122/', 'title': 'Wellbeing Fairy'}
 {'id': '9127', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9127/', 'title': "Joe's Big Quiz"}
 {'id': '9128', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9128/', 'title': "Joe's Big Quiz"}
@@ -38,13 +37,11 @@
 {'id': '9132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9132/', 'title': 'Blooming Bottles'}
 {'id': '9135', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9135/', 'title': 'FAB - End of Exam'}
 {'id': '9136', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9136/', 'title': 'FAB - End of Year'}
-{'id': '9137', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9137/', 'title': 'Chamberlain May the Force LEGO'}
 {'id': '9139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9139/', 'title': 'Joe’s Boost Your Burger Offer'}
 {'id': '9141', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9141/', 'title': 'Joe’s Mega May offers'}
 {'id': '9142', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9142/', 'title': 'Joe’s Summer Sessions Cocktails'}
 {'id': '9143', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9143/', 'title': 'Language Picnic'}
 {'id': '9144', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9144/', 'title': 'Postgraduate and International Summer Party'}
-{'id': '9146', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9146/', 'title': 'Open Mic Night - Auditions'}
 {'id': '9168', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9168/', 'title': 'Junkbusters'}
 {'id': '9169', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9169/', 'title': 'Junkbusters'}
 {'id': '9170', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9170/', 'title': 'Junkbusters'}
@@ -53,7 +50,6 @@
 {'id': '9173', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9173/', 'title': 'Selly Fete'}
 {'id': '9179', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9179/', 'title': 'Moving out? FREE Ice-cream & moving box'}
 {'id': '9180', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9180/', 'title': 'Bournbrook Goes Floral'}
-{'id': '9187', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9187/', 'title': 'Sorry, there was a problem'}
 {'id': '9191', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9191/', 'title': 'MDS Breakfast'}
 {'id': '9192', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9192/', 'title': 'MDS Breakfast'}
 {'event_id': '9153', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9153/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
@@ -62,7 +58,6 @@
 {'event_id': '9156', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9156/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9157', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9157/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9158', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9158/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
-{'event_id': '9159', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9159/', 'title': 'Friday Kickboxing Sessions 4-6pm'}
 {'event_id': '9160', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9160/', 'title': 'Friday Kickboxing Sessions 4-6pm'}
 {'event_id': '9161', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9161/', 'title': 'Friday Kickboxing Sessions 4-6pm'}
 {'event_id': '9162', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9162/', 'title': 'Friday Kickboxing Sessions 4-6pm'}
