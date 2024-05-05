@@ -16,7 +16,6 @@
 {'id': '9076', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9076/', 'title': 'Give It A Go: Pride Banner Making and Crafts'}
 {'id': '9077', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9077/', 'title': 'Give It A Go: Mindfulness Workshop'}
 {'id': '9078', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9078/', 'title': 'Committee Training Conference 2024'}
-{'id': '9079', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9079/', 'title': 'Spring Fling'}
 {'id': '9099', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9099/', 'title': 'Sports Night - End of Exams'}
 {'id': '9100', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9100/', 'title': 'Sports Night - End of year party'}
 {'id': '9101', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9101/', 'title': 'Sports Night & Sports Ball Afterparty'}
