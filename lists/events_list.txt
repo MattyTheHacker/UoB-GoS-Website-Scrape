@@ -74,7 +74,6 @@
 {'event_id': '9047', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/9047/', 'title': 'Student Exchange Farewell Party!'}
 {'event_id': '9147', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/9147/', 'title': 'Board Game Cafe Trip!'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
-{'event_id': '9196', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9196/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9197', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9197/', 'title': 'The Mandalorian Season 1 Screening'}
 {'event_id': '9198', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9198/', 'title': 'The Clone Wars Screening'}
 {'event_id': '9199', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9199/', 'title': 'Kenobi Series Screening'}
