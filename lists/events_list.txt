@@ -83,7 +83,6 @@
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '9151', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/9151/', 'title': 'BUDSS sports festival'}
-{'event_id': '9005', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/9005/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9133', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/9133/', 'title': 'BURN BALL AND AWARDS'}
 {'event_id': '9056', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/9056/', 'title': 'CathSoc Ball 2024'}
 {'event_id': '8983', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8983/', 'title': 'Economics and Marketing Society Summer Ball'}
