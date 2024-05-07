@@ -4009,6 +4009,7 @@ https://www.guildofstudents.com/profile/191355/
 https://www.guildofstudents.com/profile/191493/
 https://www.guildofstudents.com/profile/191505/
 https://www.guildofstudents.com/profile/191560/
+https://www.guildofstudents.com/profile/191842/
 https://www.guildofstudents.com/profile/191959/
 https://www.guildofstudents.com/profile/192120/
 https://www.guildofstudents.com/profile/192307/
@@ -4863,6 +4864,14 @@ https://www.guildofstudents.com/representation/youridea/?idea=532#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=532#idea532
 https://www.guildofstudents.com/representation/youridea/?idea=533#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=533#idea533
+https://www.guildofstudents.com/representation/youridea/?idea=534#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=534#idea534
+https://www.guildofstudents.com/representation/youridea/?idea=535#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=535#idea535
+https://www.guildofstudents.com/representation/youridea/?idea=536#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=536#idea536
+https://www.guildofstudents.com/representation/youridea/?idea=538#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=538#idea538
 https://www.guildofstudents.com/representation/youridea/?tag=Academic
 https://www.guildofstudents.com/representation/youridea/?tag=Community
 https://www.guildofstudents.com/representation/youridea/?tag=Democracy
@@ -5138,6 +5147,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/191493/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/191505/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/191560/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/191842/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/191959/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/192120/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/profile/192307/
