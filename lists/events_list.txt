@@ -52,6 +52,7 @@
 {'id': '9195', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9195/', 'title': 'Moving out? FREE Ice-cream & moving box'}
 {'id': '9202', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9202/', 'title': 'Breakfast and Mindfulness'}
 {'id': '9203', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9203/', 'title': 'Breakfast and Mindfulness'}
+{'id': '9205', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9205/', 'title': 'Battery Park De-stress Fest'}
 {'event_id': '9154', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9154/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9155', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9155/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9156', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9156/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
