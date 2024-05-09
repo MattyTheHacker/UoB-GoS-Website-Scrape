@@ -9,7 +9,7 @@
 {'id': '9050', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9050/', 'title': 'Sports Ball 2024'}
 {'id': '9059', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9059/', 'title': 'Study and a Snack'}
 {'id': '9065', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9065/', 'title': 'Self Defence Class (FEMALE AND NON BINARY STUDENTS)'}
-{'id': '9066', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9066/', 'title': 'Coffee and Clean Up'}
+{'id': '9066', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9066/', 'title': 'Sorry, there was a problem'}
 {'id': '9068', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9068/', 'title': 'Yoga'}
 {'id': '9069', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9069/', 'title': 'Yoga'}
 {'id': '9076', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9076/', 'title': 'Give It A Go: Pride Banner Making and Crafts'}
