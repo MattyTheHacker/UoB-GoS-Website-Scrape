@@ -2848,12 +2848,14 @@ https://www.guildofstudents.com/ents/event/9195/
 https://www.guildofstudents.com/ents/event/9202/
 https://www.guildofstudents.com/ents/event/9203/
 https://www.guildofstudents.com/ents/event/9205/
+https://www.guildofstudents.com/ents/event/9209/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/destress/
+https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
