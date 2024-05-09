@@ -2806,7 +2806,6 @@ https://www.guildofstudents.com/ents/event/9036/
 https://www.guildofstudents.com/ents/event/9050/
 https://www.guildofstudents.com/ents/event/9059/
 https://www.guildofstudents.com/ents/event/9065/
-https://www.guildofstudents.com/ents/event/9066/
 https://www.guildofstudents.com/ents/event/9068/
 https://www.guildofstudents.com/ents/event/9069/
 https://www.guildofstudents.com/ents/event/9076/
@@ -2959,6 +2958,7 @@ https://www.guildofstudents.com/mailinglist/signup/name
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
+https://www.guildofstudents.com/news/article/website/A-Statement-from-your-Full-Time-Officer-Team-regarding-the-Encampment-on-the-Green-Heart/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/Former-Postgrad-Rodhans-Top-Study-Spaces/
