@@ -2804,9 +2804,7 @@ https://www.guildofstudents.com/ents/event/9028/
 https://www.guildofstudents.com/ents/event/9035/
 https://www.guildofstudents.com/ents/event/9036/
 https://www.guildofstudents.com/ents/event/9050/
-https://www.guildofstudents.com/ents/event/9059/
 https://www.guildofstudents.com/ents/event/9065/
-https://www.guildofstudents.com/ents/event/9068/
 https://www.guildofstudents.com/ents/event/9069/
 https://www.guildofstudents.com/ents/event/9076/
 https://www.guildofstudents.com/ents/event/9077/
@@ -2942,6 +2940,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2f34409%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f39107%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f41452%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fcocktail%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgot%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fhookersandstitchers%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2flumsoc%2f
@@ -4901,6 +4900,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisa
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/39107/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/41452/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/cocktail/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/got/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/hookersandstitchers/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/lumsoc/
