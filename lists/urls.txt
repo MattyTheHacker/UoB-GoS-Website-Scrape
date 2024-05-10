@@ -2821,8 +2821,6 @@ https://www.guildofstudents.com/ents/event/9112/
 https://www.guildofstudents.com/ents/event/9113/
 https://www.guildofstudents.com/ents/event/9114/
 https://www.guildofstudents.com/ents/event/9115/
-https://www.guildofstudents.com/ents/event/9122/
-https://www.guildofstudents.com/ents/event/9127/
 https://www.guildofstudents.com/ents/event/9128/
 https://www.guildofstudents.com/ents/event/9129/
 https://www.guildofstudents.com/ents/event/9130/
@@ -2844,7 +2842,6 @@ https://www.guildofstudents.com/ents/event/9179/
 https://www.guildofstudents.com/ents/event/9191/
 https://www.guildofstudents.com/ents/event/9192/
 https://www.guildofstudents.com/ents/event/9195/
-https://www.guildofstudents.com/ents/event/9202/
 https://www.guildofstudents.com/ents/event/9203/
 https://www.guildofstudents.com/ents/event/9205/
 https://www.guildofstudents.com/ents/event/9209/
@@ -2914,7 +2911,6 @@ https://www.guildofstudents.com/events/25675/9073/
 https://www.guildofstudents.com/events/26488/8988/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35779/7484/
-https://www.guildofstudents.com/events/35779/9151/
 https://www.guildofstudents.com/events/6387/9133/
 https://www.guildofstudents.com/events/6419/9056/
 https://www.guildofstudents.com/events/6587/8983/
@@ -2942,8 +2938,13 @@ https://www.guildofstudents.com/help-and-support
 https://www.guildofstudents.com/how-to-apply-for-teacher-training
 https://www.guildofstudents.com/is-teaching-right-for-me
 https://www.guildofstudents.com/login/
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2f34409%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2f39107%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2f41452%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgot%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fhookersandstitchers%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2flumsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpottersoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f
@@ -4897,8 +4898,13 @@ https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/contact-us/feedback/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/34409/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/39107/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/41452/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/got/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/hookersandstitchers/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/lumsoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/nerdfighters/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/pottersoc/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/tea/
