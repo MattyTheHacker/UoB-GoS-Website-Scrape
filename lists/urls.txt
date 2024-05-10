@@ -2845,6 +2845,7 @@ https://www.guildofstudents.com/ents/event/9195/
 https://www.guildofstudents.com/ents/event/9203/
 https://www.guildofstudents.com/ents/event/9205/
 https://www.guildofstudents.com/ents/event/9209/
+https://www.guildofstudents.com/ents/event/9211/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
@@ -3741,7 +3742,6 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/CM-Assistant-Job-Description-.pdf
-https://www.guildofstudents.com/pageassets/studentstaff/Hall-Rep-Job-Description-2024.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Steward-job-description.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Student-Photographer-and-Videographer-Job-Description.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Technical-Services-Assistant-JD.pdf
