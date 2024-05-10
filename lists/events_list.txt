@@ -24,8 +24,6 @@
 {'id': '9113', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9113/', 'title': 'Community Breakfast'}
 {'id': '9114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9114/', 'title': 'Community Breakfast'}
 {'id': '9115', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9115/', 'title': 'Community Breakfast'}
-{'id': '9122', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9122/', 'title': 'Sorry, there was a problem'}
-{'id': '9127', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9127/', 'title': "Joe's Big Quiz"}
 {'id': '9128', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9128/', 'title': "Joe's Big Quiz"}
 {'id': '9129', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9129/', 'title': "Joe's Big Quiz"}
 {'id': '9130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9130/', 'title': "Joe's Big Quiz"}
@@ -47,7 +45,6 @@
 {'id': '9191', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9191/', 'title': 'MDS Breakfast'}
 {'id': '9192', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9192/', 'title': 'MDS Breakfast'}
 {'id': '9195', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9195/', 'title': 'Moving out? FREE Ice-cream & moving box'}
-{'id': '9202', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9202/', 'title': 'Sorry, there was a problem'}
 {'id': '9203', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9203/', 'title': 'Breakfast and Mindfulness'}
 {'id': '9205', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9205/', 'title': 'Battery Park De-stress Fest'}
 {'id': '9209', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9209/', 'title': 'Welfare and Liberation Committee'}
@@ -84,7 +81,6 @@
 {'event_id': '8988', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8988/', 'title': 'Marketing Society x EconSoc Ball'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
-{'event_id': '9151', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/9151/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9133', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/9133/', 'title': 'BURN BALL AND AWARDS'}
 {'event_id': '9056', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/9056/', 'title': 'CathSoc Ball 2024'}
 {'event_id': '8983', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8983/', 'title': 'Economics and Marketing Society Summer Ball'}
