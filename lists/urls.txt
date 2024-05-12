@@ -90,7 +90,6 @@ https://www.guildofstudents.com#getintouch
 https://www.guildofstudents.com#instagrammore
 https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#jarratthallinfo
-https://www.guildofstudents.com#main-content
 https://www.guildofstudents.com#mapleinfo
 https://www.guildofstudents.com#masoninfo
 https://www.guildofstudents.com#mediapack
@@ -2761,7 +2760,6 @@ https://www.guildofstudents.com/accommodation/sellyoak/
 https://www.guildofstudents.com/accommodation/thevale/
 https://www.guildofstudents.com/account/register/guest/
 https://www.guildofstudents.com/account/resetpassword/
-https://www.guildofstudents.com/advertclick/116/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
@@ -2903,7 +2901,6 @@ https://www.guildofstudents.com/events/22526/9178/
 https://www.guildofstudents.com/events/23397/9197/
 https://www.guildofstudents.com/events/23397/9198/
 https://www.guildofstudents.com/events/23397/9199/
-https://www.guildofstudents.com/events/240511-get-into-teaching-west-midlands-event/apply
 https://www.guildofstudents.com/events/25611/8943/
 https://www.guildofstudents.com/events/25675/9073/
 https://www.guildofstudents.com/events/26488/8988/
@@ -2923,16 +2920,12 @@ https://www.guildofstudents.com/fab
 https://www.guildofstudents.com/fab/
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
-https://www.guildofstudents.com/funding-and-support
 https://www.guildofstudents.com/gear
 https://www.guildofstudents.com/guildadvice
 https://www.guildofstudents.com/guildadvice/
 https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/hallreps
 https://www.guildofstudents.com/hallreps/
-https://www.guildofstudents.com/help-and-support
-https://www.guildofstudents.com/how-to-apply-for-teacher-training
-https://www.guildofstudents.com/is-teaching-right-for-me
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f33838%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f34409%2f
@@ -2957,7 +2950,6 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fi
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fimarep%2f
-https://www.guildofstudents.com/mailinglist/signup/name
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
@@ -2980,7 +2972,6 @@ https://www.guildofstudents.com/news/article/website/Sustainability-Updates-at-y
 https://www.guildofstudents.com/news/article/website/Tackling-waste-together-crews-collect-rubbish-mattresses-sofas-and-a-table/
 https://www.guildofstudents.com/news/article/website/What-Is-Time-To-Talk-Day/
 https://www.guildofstudents.com/news/rss/0/subtree/
-https://www.guildofstudents.com/non-uk-teachers
 https://www.guildofstudents.com/noton/
 https://www.guildofstudents.com/nusextra/
 https://www.guildofstudents.com/officerteam
@@ -4894,7 +4885,6 @@ https://www.guildofstudents.com/resourcehandler/5aba1df8-8c50-49be-b886-78ce83bf
 https://www.guildofstudents.com/resourcehandler/5eead6b3-2191-4b31-ae9c-3354100f4777/
 https://www.guildofstudents.com/resourcehandler/abd2ee03-adae-4cff-a6b5-6a0f86069f26/
 https://www.guildofstudents.com/resourcehandler/ef64a1ae-6f04-4df9-9034-738ee2ac5d98/
-https://www.guildofstudents.com/search
 https://www.guildofstudents.com/sellyexpress/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/about/memberships/externalapplication/reapply/
@@ -5943,7 +5933,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://w
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/studentgroups/running-a-group/committee-elections/
 https://www.guildofstudents.com/staff/
-https://www.guildofstudents.com/steps-to-become-a-teacher
 https://www.guildofstudents.com/studentgroups
 https://www.guildofstudents.com/studentgroups/
 https://www.guildofstudents.com/studentgroups/giveitago/
@@ -6121,7 +6110,6 @@ https://www.guildofstudents.com/sustainability/green-impact/
 https://www.guildofstudents.com/tac/
 https://www.guildofstudents.com/tac/fooddrink/
 https://www.guildofstudents.com/tac/valefest/
-https://www.guildofstudents.com/train-to-be-a-teacher
 https://www.guildofstudents.com/vacancies/
 https://www.guildofstudents.com/value/joesbar
 https://www.guildofstudents.com/value/joesbar#joesmenu
@@ -6155,7 +6143,6 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$newslist$rptPages$ctl00$lnkPageNumber','')
-https://www.guildofstudents.comjavascript:void(0)
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:13thhorror@guild.bham.ac.uk
 https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
