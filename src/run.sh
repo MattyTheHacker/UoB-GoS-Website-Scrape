@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # cd to correct directory
-cd /home/pi/Documents/UoB-GoS-Website-Scrape/src/
+cd /home/cogs/Documents/UoB-GoS-Website-Scrape/src/
 
 # pull any changes from github
 git pull
