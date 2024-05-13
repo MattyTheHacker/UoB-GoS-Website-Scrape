@@ -47,6 +47,7 @@
 {'id': '9205', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9205/', 'title': 'Battery Park De-stress Fest'}
 {'id': '9209', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9209/', 'title': 'Welfare and Liberation Committee'}
 {'id': '9211', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9211/', 'title': 'Home Away From Home Roast'}
+{'id': '9215', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9215/', 'title': 'Account Login'}
 {'event_id': '9154', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9154/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9155', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9155/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9156', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9156/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
@@ -71,7 +72,6 @@
 {'event_id': '9176', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9176/', 'title': 'Jack and the Beanstalk: The Panto!'}
 {'event_id': '9177', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9177/', 'title': 'Jack and the Beanstalk: The Panto!'}
 {'event_id': '9178', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9178/', 'title': 'Jack and the Beanstalk: The Panto - Relaxed Performance!'}
-{'event_id': '9197', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9197/', 'title': 'The Mandalorian Season 1 Screening'}
 {'event_id': '9198', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9198/', 'title': 'The Clone Wars Screening'}
 {'event_id': '9199', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9199/', 'title': 'Kenobi Series Screening'}
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
@@ -81,6 +81,7 @@
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '9133', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/9133/', 'title': 'BURN BALL AND AWARDS'}
 {'event_id': '9056', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/9056/', 'title': 'CathSoc Ball 2024'}
+{'event_id': '9200', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/9200/', 'title': 'CSS BBQ'}
 {'event_id': '8983', 'organisation_id': '6587', 'organisation': 'EconSoc', 'url': 'https://www.guildofstudents.com/events/6587/8983/', 'title': 'Economics and Marketing Society Summer Ball'}
 {'event_id': '9188', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/9188/', 'title': 'Unauditioned Showcase 7th June 7:30pm'}
 {'event_id': '9189', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/9189/', 'title': 'Unauditioned Showcase 8th June 7:30pm'}
