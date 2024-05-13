@@ -47,7 +47,6 @@
 {'id': '9205', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9205/', 'title': 'Battery Park De-stress Fest'}
 {'id': '9209', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9209/', 'title': 'Welfare and Liberation Committee'}
 {'id': '9211', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9211/', 'title': 'Home Away From Home Roast'}
-{'id': '9215', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9215/', 'title': 'Account Login'}
 {'event_id': '9154', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9154/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9155', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9155/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9156', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9156/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
