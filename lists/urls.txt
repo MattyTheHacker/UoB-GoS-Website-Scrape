@@ -2763,6 +2763,7 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
+https://www.guildofstudents.com/asset/News/6016/ASV-4-April-2024-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Guild-Elections-Processes-for-the-Calculation-of-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Officer-Elections-2024-Candidate-Budgets.pdf
 https://www.guildofstudents.com/asset/News/6016/Officer-Elections-2024-Results-Tables.pdf
@@ -2820,7 +2821,6 @@ https://www.guildofstudents.com/ents/event/9115/
 https://www.guildofstudents.com/ents/event/9128/
 https://www.guildofstudents.com/ents/event/9129/
 https://www.guildofstudents.com/ents/event/9130/
-https://www.guildofstudents.com/ents/event/9132/
 https://www.guildofstudents.com/ents/event/9135/
 https://www.guildofstudents.com/ents/event/9136/
 https://www.guildofstudents.com/ents/event/9139/
@@ -2835,13 +2835,12 @@ https://www.guildofstudents.com/ents/event/9171/
 https://www.guildofstudents.com/ents/event/9172/
 https://www.guildofstudents.com/ents/event/9173/
 https://www.guildofstudents.com/ents/event/9179/
-https://www.guildofstudents.com/ents/event/9191/
 https://www.guildofstudents.com/ents/event/9192/
 https://www.guildofstudents.com/ents/event/9195/
 https://www.guildofstudents.com/ents/event/9203/
 https://www.guildofstudents.com/ents/event/9205/
 https://www.guildofstudents.com/ents/event/9209/
-https://www.guildofstudents.com/ents/event/9211/
+https://www.guildofstudents.com/ents/event/9220/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2024
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2024
@@ -2905,6 +2904,7 @@ https://www.guildofstudents.com/events/25675/9073/
 https://www.guildofstudents.com/events/26488/8988/
 https://www.guildofstudents.com/events/34325/7972/
 https://www.guildofstudents.com/events/35779/7484/
+https://www.guildofstudents.com/events/6347/9005/
 https://www.guildofstudents.com/events/6387/9133/
 https://www.guildofstudents.com/events/6419/9056/
 https://www.guildofstudents.com/events/6531/9200/
@@ -2914,6 +2914,7 @@ https://www.guildofstudents.com/events/6691/9189/
 https://www.guildofstudents.com/events/7067/9149/
 https://www.guildofstudents.com/events/7179/8776/
 https://www.guildofstudents.com/events/7219/9107/
+https://www.guildofstudents.com/events/7235/9217/
 https://www.guildofstudents.com/events/7443/9148/
 https://www.guildofstudents.com/events/7523/9194/
 https://www.guildofstudents.com/events/7572/7689/
@@ -2934,6 +2935,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2f33838%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f34409%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f39107%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2f39365%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f40488%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f40820%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f41191%2f
@@ -2982,6 +2984,7 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fp
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fsatnav%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fsaudi%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fsocialist%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fstudentexchange%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftamil%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fukrainiansociety%2f
@@ -2989,6 +2992,7 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fu
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2funicef%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fuobabacus%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fvegesoc%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fwelsh%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fwomensassociation%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fcomplaints%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fimarep%2f
@@ -2997,6 +3001,7 @@ https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Ways-to-Shop-Sustainably/
 https://www.guildofstudents.com/news/article/website/A-Statement-from-your-Full-Time-Officer-Team-regarding-the-Encampment-on-the-Green-Heart/
 https://www.guildofstudents.com/news/article/website/A-Student-Mentors-Experience-of-Extenuating-Circumstances/
+https://www.guildofstudents.com/news/article/website/All-Student-Vote-4-Results/
 https://www.guildofstudents.com/news/article/website/Company-Law-Meeting-Results/
 https://www.guildofstudents.com/news/article/website/Former-Postgrad-Rodhans-Top-Study-Spaces/
 https://www.guildofstudents.com/news/article/website/Guild-President-Amira-elected-NUS-UK-President-2024-2026/
@@ -3785,9 +3790,10 @@ https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-En
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
 https://www.guildofstudents.com/pageassets/support/studentmentors/who-are-student-mentors/Student-Mentors-Trolling-Advice.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Ethical-and-Environmental-Policy-2023.pdf
-https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Key-negative-environmental-impacts-2022.23.pdf
-https://www.guildofstudents.com/pageassets/sustainability/greenimpact/NUS-Survey-Results-2023.pdf
-https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Smart-Action-Plan-2022-23.pdf
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Fairtrade-accreditation-Action-Plan-2024.pdf
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Green-Impact-Action-Plan2024.pdf
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Hazaar-End-of-Term-Report.pdf
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Key-negative-environmental-impacts-2023.24.pdf
 https://www.guildofstudents.com/pageassets/value/joesbar/allergen-menu-04-24.pdf
 https://www.guildofstudents.com/pageassets/value/joesbar/Joes-Bar-Food-Menu-23-v2.pdf
 https://www.guildofstudents.com/privacy-policy/
@@ -4812,6 +4818,7 @@ https://www.guildofstudents.com/referendum/
 https://www.guildofstudents.com/representation
 https://www.guildofstudents.com/representation/
 https://www.guildofstudents.com/representation/allstudentmeeting/
+https://www.guildofstudents.com/representation/allstudentvote/
 https://www.guildofstudents.com/representation/allstudentvote/votingstats/
 https://www.guildofstudents.com/representation/campaigns/campaign-history/
 https://www.guildofstudents.com/representation/campaigns/current-campaigns/
@@ -4936,6 +4943,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisa
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/34409/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/35779/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/39107/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/39365/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/40488/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/40820/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/organisation/41191/
@@ -5996,6 +6004,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentg
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/satnav/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/saudi/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/socialist/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/studentexchange/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/talkinghands/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/tamil/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/ukrainiansociety/
@@ -6003,6 +6012,7 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentg
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/unicef/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/uobabacus/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/vegesoc/
+https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/welsh/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentgroups/societies/womensassociation/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/complaints/
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=/studentreps/imarep/
