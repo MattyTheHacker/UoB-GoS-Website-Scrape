@@ -16,7 +16,6 @@
 {'id': '9100', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9100/', 'title': 'Sports Night - End of year party'}
 {'id': '9101', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9101/', 'title': 'Sports Night & Sports Ball Afterparty'}
 {'id': '9106', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9106/', 'title': 'Valefest 2024'}
-{'id': '9110', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9110/', 'title': 'Account Login'}
 {'id': '9111', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9111/', 'title': 'Community Breakfast'}
 {'id': '9112', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9112/', 'title': 'Community Breakfast'}
 {'id': '9113', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9113/', 'title': 'Community Breakfast'}
@@ -77,7 +76,6 @@
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '9005', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/9005/', 'title': 'Fuerteventura 2K24'}
 {'event_id': '9133', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/9133/', 'title': 'BURN BALL AND AWARDS'}
-{'event_id': '9056', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/9056/', 'title': 'Account Login'}
 {'event_id': '9218', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/9218/', 'title': 'Summer Cocktail Party - Early Session'}
 {'event_id': '9219', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/9219/', 'title': 'Summer Cocktail Party - Late Session'}
 {'event_id': '9200', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/9200/', 'title': 'CSS BBQ'}
