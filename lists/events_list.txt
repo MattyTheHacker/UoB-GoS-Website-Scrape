@@ -7,7 +7,6 @@
 {'id': '9035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9035/', 'title': "Pharmsoc's End of Year Celebration"}
 {'id': '9036', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9036/', 'title': 'ELAL X DMC Summer Ball 2024'}
 {'id': '9050', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9050/', 'title': 'Sports Ball 2024'}
-{'id': '9069', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9069/', 'title': 'Sorry, there was a problem'}
 {'id': '9076', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9076/', 'title': 'Give It A Go: Pride Banner Making and Crafts'}
 {'id': '9077', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9077/', 'title': 'Give It A Go: Mindfulness Workshop'}
 {'id': '9078', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9078/', 'title': 'Committee Training Conference 2024'}
@@ -20,7 +19,6 @@
 {'id': '9113', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9113/', 'title': 'Community Breakfast'}
 {'id': '9114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9114/', 'title': 'Community Breakfast'}
 {'id': '9115', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9115/', 'title': 'Community Breakfast'}
-{'id': '9128', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9128/', 'title': "Joe's Big Quiz"}
 {'id': '9129', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9129/', 'title': "Joe's Big Quiz"}
 {'id': '9130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9130/', 'title': "Joe's Big Quiz"}
 {'id': '9135', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9135/', 'title': 'FAB - End of Exam'}
@@ -39,7 +37,6 @@
 {'id': '9179', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9179/', 'title': 'Moving out? FREE Ice-cream & moving box'}
 {'id': '9192', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9192/', 'title': 'MDS Breakfast'}
 {'id': '9195', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9195/', 'title': 'Moving out? FREE Ice-cream & moving box'}
-{'id': '9203', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9203/', 'title': 'Breakfast and Mindfulness'}
 {'id': '9205', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9205/', 'title': 'Battery Park De-stress Fest'}
 {'id': '9220', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9220/', 'title': 'Wellbeing Cafe'}
 {'id': '9222', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9222/', 'title': 'Summer Garden Party'}
@@ -60,6 +57,7 @@
 {'event_id': '9185', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9185/', 'title': 'Sober Socials Friday Games Night (University House)'}
 {'event_id': '9186', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9186/', 'title': 'Sober Socials Friday Crafts & Games Night (University House)'}
 {'event_id': '9047', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/9047/', 'title': 'Student Exchange Farewell Party!'}
+{'event_id': '9223', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/9223/', 'title': 'HARTsoc End of Year Social'}
 {'event_id': '9147', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/9147/', 'title': 'Board Game Cafe Trip!'}
 {'event_id': '8725', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/8725/', 'title': 'BEDsoc Ball'}
 {'event_id': '9175', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9175/', 'title': 'Jack and the Beanstalk: The Panto!'}
