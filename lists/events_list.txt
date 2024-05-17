@@ -7,7 +7,7 @@
 {'id': '9035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9035/', 'title': "Pharmsoc's End of Year Celebration"}
 {'id': '9036', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9036/', 'title': 'ELAL X DMC Summer Ball 2024'}
 {'id': '9050', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9050/', 'title': 'Sports Ball 2024'}
-{'id': '9069', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9069/', 'title': 'Yoga'}
+{'id': '9069', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9069/', 'title': 'Sorry, there was a problem'}
 {'id': '9076', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9076/', 'title': 'Give It A Go: Pride Banner Making and Crafts'}
 {'id': '9077', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9077/', 'title': 'Give It A Go: Mindfulness Workshop'}
 {'id': '9078', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9078/', 'title': 'Committee Training Conference 2024'}
@@ -42,6 +42,7 @@
 {'id': '9203', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9203/', 'title': 'Breakfast and Mindfulness'}
 {'id': '9205', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9205/', 'title': 'Battery Park De-stress Fest'}
 {'id': '9220', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9220/', 'title': 'Wellbeing Cafe'}
+{'id': '9222', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9222/', 'title': 'Summer Garden Party'}
 {'event_id': '9155', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9155/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9156', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9156/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9157', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9157/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
