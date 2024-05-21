@@ -61,7 +61,7 @@
 {'event_id': '9176', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9176/', 'title': 'Jack and the Beanstalk: The Panto!'}
 {'event_id': '9177', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9177/', 'title': 'Jack and the Beanstalk: The Panto!'}
 {'event_id': '9178', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9178/', 'title': 'Jack and the Beanstalk: The Panto - Relaxed Performance!'}
-{'event_id': '9198', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9198/', 'title': 'The Clone Wars Screening'}
+{'event_id': '9198', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9198/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9199', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9199/', 'title': 'Kenobi Series Screening'}
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '9073', 'organisation_id': '25675', 'organisation': 'KCover', 'url': 'https://www.guildofstudents.com/events/25675/9073/', 'title': 'Filming Trip at the Beach'}
