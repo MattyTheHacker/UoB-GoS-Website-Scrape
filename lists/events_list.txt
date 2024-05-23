@@ -14,7 +14,7 @@
 {'id': '9100', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9100/', 'title': 'Sports Night - End of year party'}
 {'id': '9101', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9101/', 'title': 'Sports Night & Sports Ball Afterparty'}
 {'id': '9106', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9106/', 'title': 'Valefest 2024'}
-{'id': '9111', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9111/', 'title': 'Community Breakfast'}
+{'id': '9111', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9111/', 'title': 'Account Login'}
 {'id': '9112', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9112/', 'title': 'Community Breakfast'}
 {'id': '9113', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9113/', 'title': 'Community Breakfast'}
 {'id': '9114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9114/', 'title': 'Community Breakfast'}
@@ -34,12 +34,13 @@
 {'id': '9171', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9171/', 'title': 'Junkbusters'}
 {'id': '9172', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9172/', 'title': 'Junkbusters'}
 {'id': '9173', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9173/', 'title': 'Selly Fete'}
-{'id': '9179', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9179/', 'title': 'Moving out? FREE Ice-cream & moving box'}
+{'id': '9179', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9179/', 'title': 'Sorry, there was a problem'}
 {'id': '9192', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9192/', 'title': 'MDS Breakfast'}
-{'id': '9195', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9195/', 'title': 'Moving out? FREE Ice-cream & moving box'}
+{'id': '9195', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9195/', 'title': 'Sorry, there was a problem'}
 {'id': '9220', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9220/', 'title': 'Wellbeing Cafe'}
 {'id': '9222', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9222/', 'title': 'Summer Garden Party'}
 {'id': '9227', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9227/', 'title': 'Oak Brook  Burrito and Pinata'}
+{'id': '9232', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9232/', 'title': 'Open Air Cinema'}
 {'event_id': '9155', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9155/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9156', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9156/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9157', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9157/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
@@ -62,15 +63,16 @@
 {'event_id': '9176', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9176/', 'title': 'Jack and the Beanstalk: The Panto!'}
 {'event_id': '9177', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9177/', 'title': 'Jack and the Beanstalk: The Panto!'}
 {'event_id': '9178', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9178/', 'title': 'Jack and the Beanstalk: The Panto - Relaxed Performance!'}
-{'event_id': '9199', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9199/', 'title': 'Kenobi Series Screening'}
+{'event_id': '9199', 'organisation_id': '23397', 'organisation': 'Star Wars', 'url': 'https://www.guildofstudents.com/events/23397/9199/', 'title': 'Sorry, there was a problem'}
 {'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '9073', 'organisation_id': '25675', 'organisation': 'KCover', 'url': 'https://www.guildofstudents.com/events/25675/9073/', 'title': 'Filming Trip at the Beach'}
 {'event_id': '8988', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8988/', 'title': 'Marketing Society x EconSoc Ball'}
 {'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
-{'event_id': '9228', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/9228/', 'title': 'Sorry, there was a problem'}
+{'event_id': '9213', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/9213/', 'title': 'Cocktail Night'}
 {'event_id': '9226', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/9226/', 'title': 'AstroSoc Bar Crawl'}
 {'event_id': '9005', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/9005/', 'title': 'Fuerteventura 2K24'}
+{'event_id': '9233', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/9233/', 'title': 'Buddhist Centre Day Retreat'}
 {'event_id': '9133', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/9133/', 'title': 'BURN BALL AND AWARDS'}
 {'event_id': '9218', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/9218/', 'title': 'Summer Cocktail Party - Early Session'}
 {'event_id': '9219', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/9219/', 'title': 'Summer Cocktail Party - Late Session'}
