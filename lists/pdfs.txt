@@ -1,4 +1,3 @@
-https://www.guildofstudents.com/asset/Job/124/Student-Voice-Coordinator-Democratic-Engagement-Job-Description.pdf
 https://www.guildofstudents.com/asset/News/6016/ASV-4-April-2024-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Guild-Elections-Processes-for-the-Calculation-of-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Officer-Elections-2024-Candidate-Budgets.pdf
@@ -451,6 +450,7 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Activiti
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Activities-Employability-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/AEO-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/AEO-Report-Nov-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/AEO-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/April-Scrutiny-Panel-Feedback-Questions.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Campaigns-Officer(1).pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Campaigns-Officer-Report(1).pdf
@@ -465,6 +465,7 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Disabled
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Disabled-Students-Officer.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/DSO-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/DSO-Report-Nov-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/DSO-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Education-Officer-Jules-Singh(1).pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Education-Officer-Jules-Singh.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Education-Officer-Report(1).pdf
@@ -477,6 +478,7 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/EEO-Offi
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/EEO-Report-Nov-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/EO-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/EO-Report-Nov-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/EO-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Ethical-Environmental-Officer-Matthew-Griffin.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Ethical-Environmental-Officer-Report(1).pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Ethical-Environmental-Officer-Report.pdf
@@ -496,12 +498,14 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Internat
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/International-Officer.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/IO-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/IO-Report-Nov-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/IO-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Israel-Tamale-Officer-Report-.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Jules-Singh-Scrutiny-Panel.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/LGBTQ-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/LGBTQ-Officer-Sorcha-Hughes.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/LGBTQ-SO-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/LGBTQ-SO-Report-Nov-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/LGBTQ-SO-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/LGBTQ-Students-Officer-Sorcha-Hughes.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/M.Griffin-Scrutiny-Panel-Report-2.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Officer-Report-Charlotte-Minter.pdf
@@ -509,11 +513,13 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/PG-Offic
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/PG-Officer.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/PGO-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/PGO-Report-Nov-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/PGO-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Postgraduate-Officer-Rebecca-Cutler.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Postgraduate-Officer-Report(1).pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Postgraduate-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Postgraduate-Officer.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Pres-Report-Nov-2023.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Pres-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/President-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/President-Report(1).pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/President-Report(2).pdf
@@ -565,6 +571,7 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Trans-No
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Trans-Non-Binary-Students-Officers-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Trans-Nonbinary-Students-Officer-Em-Andress-Alex-Heighton.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/WCO-Officer-Report.pdf
+https://www.guildofstudents.com/pageassets/representation/scrutinypanel/WCO-Report(1).pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/WCO-Report-Nov-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/WCO-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-and-Community-Officer.pdf
