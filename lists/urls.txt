@@ -2881,7 +2881,6 @@ https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
-https://www.guildofstudents.com/events/10948/9157/
 https://www.guildofstudents.com/events/10948/9158/
 https://www.guildofstudents.com/events/10948/9164/
 https://www.guildofstudents.com/events/10948/9165/
@@ -2893,8 +2892,6 @@ https://www.guildofstudents.com/events/22106/9263/
 https://www.guildofstudents.com/events/25675/9073/
 https://www.guildofstudents.com/events/35779/7484/
 https://www.guildofstudents.com/events/35779/9264/
-https://www.guildofstudents.com/events/41191/9213/
-https://www.guildofstudents.com/events/6155/9226/
 https://www.guildofstudents.com/events/6347/9005/
 https://www.guildofstudents.com/events/6643/9221/
 https://www.guildofstudents.com/events/6643/9245/

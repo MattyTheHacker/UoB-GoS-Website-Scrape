@@ -2,7 +2,6 @@
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '9028', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9028/', 'title': 'Grad Ball 2024'}
-{'id': '9035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9035/', 'title': 'Sorry, there was a problem'}
 {'id': '9050', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9050/', 'title': 'Sports Ball 2024'}
 {'id': '9078', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9078/', 'title': 'Committee Training Conference 2024'}
 {'id': '9101', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9101/', 'title': 'Sports Night & Sports Ball Afterparty'}
@@ -23,7 +22,6 @@
 {'id': '9234', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9234/', 'title': 'End of Year Committee Celebration Event'}
 {'id': '9236', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9236/', 'title': 'Activist Conference'}
 {'id': '9238', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9238/', 'title': 'Wellbeing  Cafe'}
-{'id': '9247', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9247/', 'title': 'Sorry, there was a problem'}
 {'id': '9248', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9248/', 'title': 'Selly Litter pick'}
 {'id': '9249', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9249/', 'title': 'Selly Litter pick'}
 {'id': '9250', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9250/', 'title': 'Selly Litter pick'}
@@ -39,27 +37,30 @@
 {'id': '9268', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9268/', 'title': 'Summer Garden Party'}
 {'id': '9269', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9269/', 'title': 'Summer Garden Party'}
 {'id': '9270', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9270/', 'title': 'Summer Garden Party'}
+{'id': '9275', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9275/', 'title': 'Scrutiny Panel - Education Officer'}
+{'id': '9276', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9276/', 'title': 'Scrutiny Panel - Postgraduate Officer'}
+{'id': '9277', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9277/', 'title': 'Scrutiny Panel - Welfare and Community Officer'}
+{'id': '9278', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9278/', 'title': "Scrutiny Panel - Disabled Students' Officer"}
+{'id': '9279', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9279/', 'title': 'Scrutiny Panel - Activities and Employability Officer'}
+{'id': '9280', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9280/', 'title': "Scrutiny Panel - Trans and Non-Binary Students' Officer"}
+{'id': '9281', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9281/', 'title': "Scrutiny Panel - LGBTQ+ Students' Officer"}
+{'id': '9282', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9282/', 'title': 'Scrutiny Panel -  President'}
+{'id': '9283', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9283/', 'title': 'Scrutiny Panel -  International Officer'}
 {'event_id': '9157', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9157/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9158', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9158/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9164', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9164/', 'title': 'Friday Kickboxing Sessions 3.30-5.30pm'}
 {'event_id': '9165', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9165/', 'title': 'Friday Kickboxing Sessions 4-6pm'}
 {'event_id': '8913', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8913/', 'title': 'Summer retreat'}
-{'event_id': '8997', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/8997/', 'title': 'Account Login'}
 {'event_id': '9223', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/9223/', 'title': 'HARTsoc End of Year Social'}
 {'event_id': '9147', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/9147/', 'title': 'Board Game Cafe Trip!'}
 {'event_id': '9224', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/9224/', 'title': 'Bowling @ Hollywood Bowl!'}
 {'event_id': '9263', 'organisation_id': '22106', 'organisation': 'East African', 'url': 'https://www.guildofstudents.com/events/22106/9263/', 'title': 'Cannon Hill Park Social (Sports Day Theme)'}
-{'event_id': '9177', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9177/', 'title': 'Sorry, there was a problem'}
-{'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '9073', 'organisation_id': '25675', 'organisation': 'KCover', 'url': 'https://www.guildofstudents.com/events/25675/9073/', 'title': 'Filming Trip at the Beach'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
 {'event_id': '9264', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/9264/', 'title': 'BUDSS Presents... BUDSSterground Stations @ Stratford Bar Crawl 2024'}
-{'event_id': '9213', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/9213/', 'title': 'Cocktail Night'}
+{'event_id': '9213', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/9213/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9226', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/9226/', 'title': 'AstroSoc Bar Crawl'}
 {'event_id': '9005', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/9005/', 'title': 'Fuerteventura 2K24'}
-{'event_id': '9133', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/9133/', 'title': 'BURN BALL AND AWARDS'}
-{'event_id': '9218', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/9218/', 'title': 'Summer Cocktail Party - Early Session'}
-{'event_id': '9219', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/9219/', 'title': 'Summer Cocktail Party - Late Session'}
 {'event_id': '9221', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9221/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9245', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9245/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9246', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9246/', 'title': 'Birmingham Saturday Night Live'}
