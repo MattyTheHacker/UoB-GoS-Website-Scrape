@@ -2,74 +2,85 @@
 {'id': '8555', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8555/', 'title': 'Sorry, there was a problem'}
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
 {'id': '9028', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9028/', 'title': 'Grad Ball 2024'}
-{'id': '9050', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9050/', 'title': 'Sorry, there was a problem'}
-{'id': '9078', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9078/', 'title': 'Sorry, there was a problem'}
+{'id': '9077', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9077/', 'title': 'Give It A Go: Mindfulness Workshop'}
+{'id': '9100', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9100/', 'title': 'Sports Night - End of year party'}
 {'id': '9101', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9101/', 'title': 'Sports Night & Sports Ball Afterparty'}
-{'id': '9113', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9113/', 'title': 'Sorry, there was a problem'}
-{'id': '9114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9114/', 'title': 'Community Breakfast'}
+{'id': '9114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9114/', 'title': 'Sorry, there was a problem'}
 {'id': '9115', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9115/', 'title': 'Community Breakfast'}
+{'id': '9130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9130/', 'title': "Joe's Big Quiz"}
+{'id': '9136', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9136/', 'title': 'FAB - End of Year'}
 {'id': '9142', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9142/', 'title': 'Joe’s Summer Sessions Cocktails'}
-{'id': '9143', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9143/', 'title': 'Sorry, there was a problem'}
 {'id': '9144', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9144/', 'title': 'Postgraduate and International Summer Party'}
-{'id': '9168', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9168/', 'title': 'Sorry, there was a problem'}
 {'id': '9169', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9169/', 'title': 'Junkbusters'}
 {'id': '9170', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9170/', 'title': 'Junkbusters'}
 {'id': '9171', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9171/', 'title': 'Junkbusters'}
 {'id': '9172', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9172/', 'title': 'Junkbusters'}
-{'id': '9173', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9173/', 'title': 'Sorry, there was a problem'}
-{'id': '9222', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9222/', 'title': 'Summer Garden Party'}
 {'id': '9232', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9232/', 'title': 'Open Air Cinema'}
-{'id': '9234', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9234/', 'title': 'Sorry, there was a problem'}
-{'id': '9236', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9236/', 'title': 'Sorry, there was a problem'}
 {'id': '9238', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9238/', 'title': 'Wellbeing  Cafe'}
-{'id': '9248', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9248/', 'title': 'Selly Litter pick'}
+{'id': '9248', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9248/', 'title': 'Sorry, there was a problem'}
 {'id': '9249', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9249/', 'title': 'Selly Litter pick'}
 {'id': '9250', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9250/', 'title': 'Selly Litter pick'}
 {'id': '9251', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9251/', 'title': 'Selly Litter pick'}
 {'id': '9252', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9252/', 'title': 'Selly Litter pick'}
+{'id': '9253', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9253/', 'title': 'Tennis Court Summer'}
+{'id': '9255', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9255/', 'title': 'Jarratt Prep for Valefest'}
 {'id': '9259', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9259/', 'title': 'Collaborate: Art Wall'}
 {'id': '9260', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9260/', 'title': 'Give It A Go: Rounders'}
 {'id': '9261', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9261/', 'title': 'Give It A Go: Pasta and Pesto Making'}
 {'id': '9262', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9262/', 'title': 'Big Finale'}
-{'id': '9265', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9265/', 'title': 'Summer Garden Party'}
 {'id': '9266', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9266/', 'title': 'Summer Garden Party'}
 {'id': '9267', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9267/', 'title': 'Summer Garden Party'}
 {'id': '9268', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9268/', 'title': 'Summer Garden Party'}
 {'id': '9269', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9269/', 'title': 'Summer Garden Party'}
 {'id': '9270', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9270/', 'title': 'Summer Garden Party'}
-{'id': '9275', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9275/', 'title': 'Scrutiny Panel - Education Officer'}
-{'id': '9276', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9276/', 'title': 'Scrutiny Panel - Postgraduate Officer'}
-{'id': '9277', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9277/', 'title': 'Scrutiny Panel - Welfare and Community Officer'}
-{'id': '9278', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9278/', 'title': "Scrutiny Panel - Disabled Students' Officer"}
+{'id': '9275', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9275/', 'title': 'Sorry, there was a problem'}
+{'id': '9276', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9276/', 'title': 'Sorry, there was a problem'}
+{'id': '9277', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9277/', 'title': 'Sorry, there was a problem'}
+{'id': '9278', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9278/', 'title': 'Sorry, there was a problem'}
 {'id': '9279', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9279/', 'title': 'Scrutiny Panel - Activities and Employability Officer'}
 {'id': '9280', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9280/', 'title': "Scrutiny Panel - Trans and Non-Binary Students' Officer"}
 {'id': '9281', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9281/', 'title': "Scrutiny Panel - LGBTQ+ Students' Officer"}
 {'id': '9282', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9282/', 'title': 'Scrutiny Panel -  President'}
 {'id': '9283', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9283/', 'title': 'Scrutiny Panel -  International Officer'}
+{'event_id': '9156', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9156/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
+{'event_id': '9157', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9157/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9158', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9158/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
+{'event_id': '9163', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9163/', 'title': 'Friday Kickboxing Sessions 3.30-5.30pm'}
 {'event_id': '9164', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9164/', 'title': 'Friday Kickboxing Sessions 3.30-5.30pm'}
 {'event_id': '9165', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9165/', 'title': 'Friday Kickboxing Sessions 4-6pm'}
 {'event_id': '8913', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/8913/', 'title': 'Summer retreat'}
+{'event_id': '9183', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9183/', 'title': 'Sober Socials Friday Games Night (University House)'}
 {'event_id': '9223', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/9223/', 'title': 'HARTsoc End of Year Social'}
 {'event_id': '9147', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/9147/', 'title': 'Board Game Cafe Trip!'}
 {'event_id': '9224', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/9224/', 'title': 'Bowling @ Hollywood Bowl!'}
 {'event_id': '9263', 'organisation_id': '22106', 'organisation': 'East African', 'url': 'https://www.guildofstudents.com/events/22106/9263/', 'title': 'Cannon Hill Park Social (Sports Day Theme)'}
+{'event_id': '8943', 'organisation_id': '25611', 'organisation': 'Pokemon', 'url': 'https://www.guildofstudents.com/events/25611/8943/', 'title': 'Pokémon University Challenge'}
 {'event_id': '9073', 'organisation_id': '25675', 'organisation': 'KCover', 'url': 'https://www.guildofstudents.com/events/25675/9073/', 'title': 'Filming Trip at the Beach'}
+{'event_id': '8988', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/8988/', 'title': 'Marketing Society x EconSoc Ball'}
+{'event_id': '7972', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/7972/', 'title': 'ELAL netball'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch'}
-{'event_id': '9264', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/9264/', 'title': 'BUDSS Presents... BUDSSterground Stations @ Stratford Bar Crawl 2024'}
+{'event_id': '9264', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/9264/', 'title': 'Sorry, there was a problem'}
+{'event_id': '9237', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/9237/', 'title': "Meet n' Play"}
+{'event_id': '9292', 'organisation_id': '41502', 'organisation': 'Virtual Reality', 'url': 'https://www.guildofstudents.com/events/41502/9292/', 'title': "Meet n' Play"}
+{'event_id': '9288', 'organisation_id': '50882', 'organisation': 'Open Mic', 'url': 'https://www.guildofstudents.com/events/50882/9288/', 'title': 'Welcome Week Taster Session'}
+{'event_id': '9226', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/9226/', 'title': 'AstroSoc Bar Crawl'}
 {'event_id': '9005', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/9005/', 'title': 'Fuerteventura 2K24'}
+{'event_id': '9133', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/9133/', 'title': 'BURN BALL AND AWARDS'}
 {'event_id': '9221', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9221/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9245', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9245/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9246', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9246/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9256', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/9256/', 'title': 'The Yeomen of the Guard  -  by UBG&S'}
 {'event_id': '9257', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/9257/', 'title': 'The Yeomen of the Guard  -  by UBG&S'}
 {'event_id': '9258', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/9258/', 'title': 'The Yeomen of the Guard  -  by UBG&S'}
-{'event_id': '9188', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/9188/', 'title': 'Unauditioned Showcase 7th June 7:30pm'}
-{'event_id': '9189', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/9189/', 'title': 'Unauditioned Showcase 8th June 7:30pm'}
+{'event_id': '9188', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/9188/', 'title': 'Sorry, there was a problem'}
+{'event_id': '9189', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/9189/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9149', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9149/', 'title': 'Summer Trip 2024'}
 {'event_id': '9107', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/9107/', 'title': 'The Psychology Ball 2024'}
-{'event_id': '9254', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9254/', 'title': 'STAR Campaign Event at HeyBrew'}
+{'event_id': '9254', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9254/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9148', 'organisation_id': '7443', 'organisation': '3Bugs Fringe Theatre Society', 'url': 'https://www.guildofstudents.com/events/7443/9148/', 'title': 'Guild Drama Summer Ball'}
 {'event_id': '9229', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9229/', 'title': 'Unheritance- Show 1'}
 {'event_id': '9230', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9230/', 'title': 'Unheritance- Show 2'}
 {'event_id': '9231', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9231/', 'title': 'Unheritance- Show 3'}
+{'event_id': '9293', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9293/', 'title': 'Improvabunga! Fringe Preview #1'}
+{'event_id': '9294', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9294/', 'title': 'Improva-BAND-ga!'}
+{'event_id': '9288', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9288/', 'title': 'Welcome Week Taster Session'}
