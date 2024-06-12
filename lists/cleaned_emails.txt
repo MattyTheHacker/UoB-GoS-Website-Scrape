@@ -133,6 +133,7 @@ gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
 gospelchoir@guild.bham.ac.uk
 got@guild.bham.ac.uk
+gradball@guild.bham.ac.uk
 GreekandCypriotSociety@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
@@ -178,7 +179,6 @@ JainSociety@guild.bham.ac.uk
 japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
-jobs@guild.bham.ac.uk
 kase@guild.bham.ac.uk
 kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
@@ -250,6 +250,7 @@ powerlifting@guild.bham.ac.uk
 powersoc@guild.bham.ac.uk
 ppe@guild.bham.ac.uk
 president@guild.bham.ac.uk
+prs@birmingham.gov.uk
 psychologysoc@guild.bham.ac.uk
 publicspeakingsociety@guild.bham.ac.uk
 punjabi@guild.bham.ac.uk
