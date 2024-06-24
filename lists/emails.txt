@@ -179,6 +179,7 @@ https://www.guildofstudents.commailto:JainSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:japan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jewish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jfs@guild.bham.ac.uk
+https://www.guildofstudents.commailto:jobs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kase@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kazakh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
@@ -208,6 +209,7 @@ https://www.guildofstudents.commailto:mathsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:mealprepsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:MechEngSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:mediasales@guild.bham.ac.uk
+https://www.guildofstudents.commailto:mediasales@guild.bham.ac.uk?subject=Welcome Week 2024
 https://www.guildofstudents.commailto:mentorwelfare@guild.bham.ac.uk
 https://www.guildofstudents.commailto:metal@guild.bham.ac.uk
 https://www.guildofstudents.commailto:middleearth@guild.bham.ac.uk
