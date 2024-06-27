@@ -53,9 +53,6 @@
 {'event_id': '9221', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9221/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9245', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9245/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9246', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9246/', 'title': 'Birmingham Saturday Night Live'}
-{'event_id': '9256', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/9256/', 'title': 'Sorry, there was a problem'}
-{'event_id': '9257', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/9257/', 'title': 'Sorry, there was a problem'}
-{'event_id': '9258', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/9258/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9149', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9149/', 'title': 'Summer Trip 2024'}
 {'event_id': '9107', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/9107/', 'title': 'The Psychology Ball 2024'}
 {'event_id': '9293', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9293/', 'title': 'Improvabunga! Fringe Preview #1'}
