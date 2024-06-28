@@ -7,7 +7,7 @@
 {'id': '9130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9130/', 'title': "Joe's Big Quiz"}
 {'id': '9136', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9136/', 'title': 'FAB - End of Year'}
 {'id': '9144', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9144/', 'title': 'Postgraduate and International Summer Party'}
-{'id': '9171', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9171/', 'title': 'Junkbusters'}
+{'id': '9171', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9171/', 'title': 'Sorry, there was a problem'}
 {'id': '9172', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9172/', 'title': 'Junkbusters'}
 {'id': '9232', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9232/', 'title': 'Open Air Cinema'}
 {'id': '9251', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9251/', 'title': 'Selly Litter pick'}
@@ -26,6 +26,7 @@
 {'id': '9305', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9305/', 'title': 'Still Life Trail 1pm Walk'}
 {'id': '9306', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9306/', 'title': 'Still Life Trail 3pm Walk'}
 {'id': '9307', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9307/', 'title': 'Letter Writing Workshop'}
+{'id': '9309', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9309/', 'title': 'Crafternoon Summer Series'}
 {'event_id': '9156', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9156/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9157', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9157/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
 {'event_id': '9158', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9158/', 'title': 'Tuesday Kickboxing Sessions 3-5pm'}
@@ -53,8 +54,11 @@
 {'event_id': '9221', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9221/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9245', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9245/', 'title': 'Birmingham Saturday Night Live'}
 {'event_id': '9246', 'organisation_id': '6643', 'organisation': 'The Birmingham Footnotes Comedy Society', 'url': 'https://www.guildofstudents.com/events/6643/9246/', 'title': 'Birmingham Saturday Night Live'}
+{'event_id': '9312', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9312/', 'title': 'Hindu Society Kho-Kho Taster Session'}
+{'event_id': '9317', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9317/', 'title': "Hindu Society Fresher's Event"}
 {'event_id': '9149', 'organisation_id': '7067', 'organisation': 'Mountaineering', 'url': 'https://www.guildofstudents.com/events/7067/9149/', 'title': 'Summer Trip 2024'}
 {'event_id': '9107', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/9107/', 'title': 'The Psychology Ball 2024'}
 {'event_id': '9293', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9293/', 'title': 'Improvabunga! Fringe Preview #1'}
 {'event_id': '9294', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9294/', 'title': 'Improva-BAND-ga!'}
 {'event_id': '9297', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/9297/', 'title': 'Peak District Camping Trip'}
+{'event_id': '9308', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/9308/', 'title': 'Reserves - Peak District Camping Trip'}
