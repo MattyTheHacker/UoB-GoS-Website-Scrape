@@ -1,13 +1,22 @@
 {'id': '8815', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/8815/', 'title': 'Sports memberships'}
-{'id': '9301', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9301/', 'title': 'Crafternoon Summer Series'}
-{'id': '9302', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9302/', 'title': 'Crafternoon Summer Series'}
 {'id': '9303', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9303/', 'title': 'Crafternoon Summer Series'}
-{'id': '9305', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9305/', 'title': 'Still Life Trail 1pm Walk'}
-{'id': '9306', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9306/', 'title': 'Still Life Trail 3pm Walk'}
-{'id': '9307', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9307/', 'title': 'Letter Writing Workshop'}
 {'id': '9325', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9325/', 'title': 'Welcome Fair 2024 - Day One'}
 {'id': '9326', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9326/', 'title': 'Welcome Fair 2024 - Day Two'}
-{'id': '9370', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9370/', 'title': 'Sorry, there was a problem'}
+{'id': '9328', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9328/', 'title': 'Bingo'}
+{'id': '9340', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9340/', 'title': 'Big Guild Quiz'}
+{'id': '9351', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9351/', 'title': 'Bingo Bonanza'}
+{'id': '9352', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9352/', 'title': 'LGBTQ+ Social + Neon Afterparty'}
+{'id': '9353', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9353/', 'title': 'Big Quiz'}
+{'id': '9356', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9356/', 'title': "Karaoke @ Joe's Bar"}
+{'id': '9357', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9357/', 'title': 'FAB XO Opening Night'}
+{'id': '9358', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9358/', 'title': 'FAB XO Carnival'}
+{'id': '9359', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9359/', 'title': 'Welcome Ball 2024'}
+{'id': '9361', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9361/', 'title': 'Welcome Festival 2024'}
+{'id': '9362', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9362/', 'title': 'Post Grad Student Social'}
+{'id': '9363', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9363/', 'title': 'International Social + Fusion Afterparty'}
+{'id': '9364', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9364/', 'title': 'Welcome Wristband 2024'}
+{'id': '9365', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9365/', 'title': 'Returners Wristband 2024'}
+{'id': '9366', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9366/', 'title': 'Sports Night'}
 {'id': '9371', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9371/', 'title': 'MedSoc Societies Fair 2024'}
 {'id': '9372', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9372/', 'title': 'Societies Fair 2024 Day 1'}
 {'id': '9373', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9373/', 'title': 'Societies Fair 2024 Day 2'}
@@ -73,22 +82,7 @@
 {'event_id': '9324', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/9324/', 'title': 'Astrosoc camping trip to Panwpton farm'}
 {'event_id': '9312', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9312/', 'title': 'Hindu Society Kho-Kho Taster Session'}
 {'event_id': '9317', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9317/', 'title': "Hindu Society Fresher's Event"}
-{'event_id': '9323', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/9323/', 'title': 'Improvabunga Edinburgh Fringe 2024'}
-{'event_id': '9328', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9328/', 'title': 'Bingo'}
-{'event_id': '9340', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9340/', 'title': 'Big Guild Quiz'}
-{'event_id': '9351', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9351/', 'title': 'Bingo Bonanza'}
-{'event_id': '9352', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9352/', 'title': 'LGBTQ+ Social + Neon Afterparty'}
-{'event_id': '9353', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9353/', 'title': 'Big Quiz'}
-{'event_id': '9356', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9356/', 'title': "Karaoke @ Joe's Bar"}
-{'event_id': '9357', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9357/', 'title': 'FAB XO Opening Night'}
-{'event_id': '9358', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9358/', 'title': 'FAB XO Carnival'}
-{'event_id': '9359', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9359/', 'title': 'Welcome Ball 2024'}
-{'event_id': '9361', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9361/', 'title': 'Welcome Festival 2024'}
-{'event_id': '9362', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9362/', 'title': 'Post Grad Student Social'}
-{'event_id': '9363', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9363/', 'title': 'International Social + Fusion Afterparty'}
-{'event_id': '9364', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9364/', 'title': 'Welcome Wristband 2024'}
-{'event_id': '9365', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9365/', 'title': 'Returners Wristband 2024'}
-{'event_id': '9366', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/9366/', 'title': 'Sports Night'}
+{'event_id': '9437', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9437/', 'title': "Siya 2024 - Hindu Society's Diwali Ball"}
 {'event_id': '9325', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9325/', 'title': 'Welcome Fair 2024 - Day One'}
 {'event_id': '9326', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9326/', 'title': 'Welcome Fair 2024 - Day Two'}
 {'event_id': '9328', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9328/', 'title': 'Bingo'}

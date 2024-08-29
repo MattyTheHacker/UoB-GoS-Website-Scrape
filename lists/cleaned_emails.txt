@@ -29,7 +29,6 @@ beams@guild.bham.ac.uk
 beat@guild.bham.ac.uk
 bedsoc@guild.bham.ac.uk
 BeerPong@guild.bham.ac.uk
-bema@guild.bham.ac.uk
 benchball@guild.bham.ac.uk
 bhangra@guild.bham.ac.uk
 BIFS@guild.bham.ac.uk
@@ -90,10 +89,11 @@ doctorwho@guild.bham.ac.uk
 E.Badger@guild.bham.ac.uk
 eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
-editor@redbrick.me
+editor@redbrickonline.co.uk
 education@guild.bham.ac.uk
 elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
+enactus@guild.bham.ac.uk
 enquiries@guild.bham.ac.uk
 enquiries@guildbham.ac.uk
 esports@guild.bham.ac.uk
@@ -131,6 +131,7 @@ historyofart@guild.bham.ac.uk
 homeless@guild.bham.ac.uk
 hongkong@guild.bham.ac.uk
 hookersandstitchers@guild.bham.ac.uk
+hrsociety@guild.bham.ac.uk
 hse@guild.bham.ac.uk
 iceskating@guild.bham.ac.uk
 ics@guild.bham.ac.uk
@@ -155,6 +156,7 @@ JainSociety@guild.bham.ac.uk
 japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
+jobs@guild.bham.ac.uk
 kase@guild.bham.ac.uk
 kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
@@ -208,6 +210,7 @@ philosophy@guild.bham.ac.uk
 photosoc@guild.bham.ac.uk
 Pilates@guild.bham.ac.uk
 planning@guild.bham.ac.uk
+poker@guild.bham.ac.uk
 pokesoc@guild.bham.ac.uk
 polefitness@guild.bham.ac.uk
 politics@guild.bham.ac.uk
