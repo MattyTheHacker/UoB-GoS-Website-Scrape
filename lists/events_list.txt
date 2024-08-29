@@ -7,7 +7,7 @@
 {'id': '9307', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9307/', 'title': 'Letter Writing Workshop'}
 {'id': '9325', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9325/', 'title': 'Welcome Fair 2024 - Day One'}
 {'id': '9326', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9326/', 'title': 'Welcome Fair 2024 - Day Two'}
-{'id': '9370', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9370/', 'title': 'Junkbusters at Jarratt Hall'}
+{'id': '9370', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9370/', 'title': 'Sorry, there was a problem'}
 {'id': '9371', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9371/', 'title': 'MedSoc Societies Fair 2024'}
 {'id': '9372', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9372/', 'title': 'Societies Fair 2024 Day 1'}
 {'id': '9373', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9373/', 'title': 'Societies Fair 2024 Day 2'}
