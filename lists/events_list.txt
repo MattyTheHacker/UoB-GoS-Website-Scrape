@@ -73,6 +73,8 @@
 {'id': '9427', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9427/', 'title': 'Selly on the Beach'}
 {'id': '9454', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9454/', 'title': 'Committee Training Extra!'}
 {'id': '9473', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9473/', 'title': 'Cultural Celebration'}
+{'event_id': '9489', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/9489/', 'title': 'LANS campus league'}
+{'event_id': '9488', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9488/', 'title': 'History Quiz and Social'}
 {'event_id': '9430', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9430/', 'title': 'Give Sobers A Go'}
 {'event_id': '9474', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9474/', 'title': 'Games Nights'}
 {'event_id': '9475', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9475/', 'title': 'Games Nights'}
@@ -98,12 +100,15 @@
 {'event_id': '9471', 'organisation_id': '39107', 'organisation': 'Pilates Society', 'url': 'https://www.guildofstudents.com/events/39107/9471/', 'title': 'Taster Session'}
 {'event_id': '9288', 'organisation_id': '50882', 'organisation': 'Open Mic', 'url': 'https://www.guildofstudents.com/events/50882/9288/', 'title': 'Welcome Week Taster Session'}
 {'event_id': '9375', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9375/', 'title': 'Jaguar Land Rover Guest Speaker'}
+{'event_id': '9490', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9490/', 'title': 'Mechsoc campus league'}
 {'event_id': '9324', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/9324/', 'title': 'Astrosoc camping trip to Panwpton farm'}
+{'event_id': '9492', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/9492/', 'title': 'Biosoc campus league'}
 {'event_id': '9312', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9312/', 'title': 'Hindu Society Kho-Kho Taster Session'}
 {'event_id': '9317', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9317/', 'title': "Hindu Society Fresher's Event"}
 {'event_id': '9437', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9437/', 'title': "Siya 2024 - Hindu Society's Diwali Ball"}
 {'event_id': '9455', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/9455/', 'title': 'Join Birmingham Uni Labour Students at the Society Fair & Meet MP Chris Bloore'}
 {'event_id': '9456', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/9456/', 'title': 'BULS Social at The Goose: Meet & Greet with Chris Bloore MP and Councillor Jamie Scott'}
+{'event_id': '9491', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/9491/', 'title': 'Politics campus league'}
 {'event_id': '9325', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9325/', 'title': 'Welcome Fair 2024 - Day One'}
 {'event_id': '9326', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9326/', 'title': 'Welcome Fair 2024 - Day Two'}
 {'event_id': '9328', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9328/', 'title': 'Bingo'}
