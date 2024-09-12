@@ -98,6 +98,8 @@
 {'event_id': '9462', 'organisation_id': '35802', 'organisation': 'Sudanese Society', 'url': 'https://www.guildofstudents.com/events/35802/9462/', 'title': 'Meet and Greet'}
 {'event_id': '9470', 'organisation_id': '39107', 'organisation': 'Pilates Society', 'url': 'https://www.guildofstudents.com/events/39107/9470/', 'title': 'Taster Session'}
 {'event_id': '9471', 'organisation_id': '39107', 'organisation': 'Pilates Society', 'url': 'https://www.guildofstudents.com/events/39107/9471/', 'title': 'Taster Session'}
+{'event_id': '9494', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/9494/', 'title': 'UoB Darts Taster Session 1'}
+{'event_id': '9495', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/9495/', 'title': 'UoB Darts Taster Session 2'}
 {'event_id': '9288', 'organisation_id': '50882', 'organisation': 'Open Mic', 'url': 'https://www.guildofstudents.com/events/50882/9288/', 'title': 'Welcome Week Taster Session'}
 {'event_id': '9375', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9375/', 'title': 'Jaguar Land Rover Guest Speaker'}
 {'event_id': '9490', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9490/', 'title': 'Mechsoc campus league'}
