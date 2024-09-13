@@ -68,11 +68,15 @@
 {'id': '9420', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9420/', 'title': 'Language Café'}
 {'id': '9422', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9422/', 'title': 'Student Rep Social'}
 {'id': '9423', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9423/', 'title': 'Wellbeing Café'}
+{'id': '9424', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9424/', 'title': 'Committee fleeces'}
 {'id': '9425', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9425/', 'title': 'Plant Pot Painting'}
 {'id': '9426', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9426/', 'title': 'Stay Safe Stall'}
 {'id': '9427', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9427/', 'title': 'Selly on the Beach'}
 {'id': '9454', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9454/', 'title': 'Committee Training Extra!'}
 {'id': '9473', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9473/', 'title': 'Cultural Celebration'}
+{'id': '9525', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9525/', 'title': 'Bellringers Society: Tower tours, demos and have a go yourself'}
+{'id': '9526', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9526/', 'title': 'Bellringers Society: Tower tours, demos and have a go yourself'}
+{'id': '9527', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9527/', 'title': 'Bellringers Society: Tower tours, demos and have a go yourself'}
 {'event_id': '9489', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/9489/', 'title': 'LANS campus league'}
 {'event_id': '9488', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9488/', 'title': 'History Quiz and Social'}
 {'event_id': '9430', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9430/', 'title': 'Give Sobers A Go'}
@@ -96,6 +100,7 @@
 {'event_id': '9469', 'organisation_id': '34985', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/34985/9469/', 'title': 'Taster Session 1'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (Coming Soon)'}
 {'event_id': '9462', 'organisation_id': '35802', 'organisation': 'Sudanese Society', 'url': 'https://www.guildofstudents.com/events/35802/9462/', 'title': 'Meet and Greet'}
+{'event_id': '9529', 'organisation_id': '36117', 'organisation': 'Sitcom Society', 'url': 'https://www.guildofstudents.com/events/36117/9529/', 'title': 'Sitcom society taster session: "The Inbetweeners" and "Friends" with pizza'}
 {'event_id': '9470', 'organisation_id': '39107', 'organisation': 'Pilates Society', 'url': 'https://www.guildofstudents.com/events/39107/9470/', 'title': 'Taster Session'}
 {'event_id': '9471', 'organisation_id': '39107', 'organisation': 'Pilates Society', 'url': 'https://www.guildofstudents.com/events/39107/9471/', 'title': 'Taster Session'}
 {'event_id': '9494', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/9494/', 'title': 'UoB Darts Taster Session 1'}
@@ -110,7 +115,10 @@
 {'event_id': '9437', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/9437/', 'title': "Siya 2024 - Hindu Society's Diwali Ball"}
 {'event_id': '9455', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/9455/', 'title': 'Join Birmingham Uni Labour Students at the Society Fair & Meet MP Chris Bloore'}
 {'event_id': '9456', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/9456/', 'title': 'BULS Social at The Goose: Meet & Greet with Chris Bloore MP and Councillor Jamie Scott'}
+{'event_id': '9528', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/9528/', 'title': 'Philsoc campus league'}
 {'event_id': '9491', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/9491/', 'title': 'Politics campus league'}
+{'event_id': '9523', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/9523/', 'title': 'Wayfarers Lickey Hills Taster Walk'}
+{'event_id': '9524', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/9524/', 'title': 'Wayfarers Great Malvern Taster Walk'}
 {'event_id': '9325', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9325/', 'title': 'Welcome Fair 2024 - Day One'}
 {'event_id': '9326', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9326/', 'title': 'Welcome Fair 2024 - Day Two'}
 {'event_id': '9328', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9328/', 'title': 'Bingo'}

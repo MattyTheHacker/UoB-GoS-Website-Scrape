@@ -132,6 +132,7 @@ https://www.guildofstudents.commailto:history@guild.bham.ac.uk
 https://www.guildofstudents.commailto:historyofart@guild.bham.ac.uk
 https://www.guildofstudents.commailto:homeless@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkong@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hse@guild.bham.ac.uk
@@ -237,6 +238,7 @@ https://www.guildofstudents.commailto:russianspeaking@guild.bham.ac.uk
 https://www.guildofstudents.commailto:safeguarding@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sandam@guild.bham.ac.uk
 https://www.guildofstudents.commailto:saudi@guild.bham.ac.uk
+https://www.guildofstudents.commailto:scriptmurdersociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:shooting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:signlanguage@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sikh@guild.bham.ac.uk

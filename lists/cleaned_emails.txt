@@ -132,6 +132,7 @@ history@guild.bham.ac.uk
 historyofart@guild.bham.ac.uk
 homeless@guild.bham.ac.uk
 hongkong@guild.bham.ac.uk
+hongkongcultural@guild.bham.ac.uk
 hookersandstitchers@guild.bham.ac.uk
 hrsociety@guild.bham.ac.uk
 hse@guild.bham.ac.uk
@@ -237,6 +238,7 @@ russianspeaking@guild.bham.ac.uk
 safeguarding@guild.bham.ac.uk
 sandam@guild.bham.ac.uk
 saudi@guild.bham.ac.uk
+scriptmurdersociety@guild.bham.ac.uk
 shooting@guild.bham.ac.uk
 signlanguage@guild.bham.ac.uk
 sikh@guild.bham.ac.uk
