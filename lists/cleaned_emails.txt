@@ -12,6 +12,7 @@ afropologysoc@guild.bham.ac.uk
 ahlulbayt@guild.bham.ac.uk
 ahmadiyya@guild.bham.ac.uk
 ahmadiyyamuslimsoc@guild.bham.ac.uk
+algosoc@guild.bham.ac.uk
 AlternativeHipHopSociety@guild.bham.ac.uk
 amnesty@guild.bham.ac.uk
 anime@guild.bham.ac.uk
@@ -21,6 +22,7 @@ artsoc@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
 autism@guild.bham.ac.uk
 aviation@guild.bham.ac.uk
+bacas@guild.bham.ac.uk
 badfilm@guild.bham.ac.uk
 bahaisociety@guild.bham.ac.uk
 baking@guild.bham.ac.uk
@@ -106,6 +108,7 @@ filmmakingsociety@guild.bham.ac.uk
 filmsoc@guild.bham.ac.uk
 fintechsociety@guild.bham.ac.uk
 firstlove@guild.bham.ac.uk
+fitnessandwellbeing@guild.bham.ac.uk
 folk@guild.bham.ac.uk
 footnotes@guild.bham.ac.uk
 friendsinternational@guild.bham.ac.uk
@@ -198,6 +201,7 @@ N.Bailey@guild.bham.ac.uk
 navigators@guild.bham.ac.uk
 nepalese@guild.bham.ac.uk
 nerdsoc@guild.bham.ac.uk
+northafrican@guild.bham.ac.uk
 noton@guild.bham.ac.uk
 nuclearandmaterialssociety@guild.bham.ac.uk
 nursing@guild.bham.ac.uk
