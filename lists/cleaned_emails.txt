@@ -118,6 +118,7 @@ fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
+giveitago@guild.bham.ac.uk
 gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
 gospelchoir@guild.bham.ac.uk
@@ -151,9 +152,11 @@ info@ubisoc.co.uk
 international@guild.bham.ac.uk
 internationaldevelopment@guild.bham.ac.uk
 intervol@guild.bham.ac.uk
+investingforwomen@guild.bham.ac.uk
 iraqisociety@guild.bham.ac.uk
 isa@guild.bham.ac.uk
 islamicartsandheritage@gmail.com
+IslamicSportsSoc@guild.bham.ac.uk
 israel@guild.bham.ac.uk
 italian@guild.bham.ac.uk
 J.Lindsay@guild.bham.ac.uk
@@ -162,6 +165,7 @@ JainSociety@guild.bham.ac.uk
 japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
+jobs@guild.bham.ac.uk
 kase@guild.bham.ac.uk
 kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
@@ -216,6 +220,7 @@ philosophy@guild.bham.ac.uk
 photosoc@guild.bham.ac.uk
 Pilates@guild.bham.ac.uk
 planning@guild.bham.ac.uk
+plantsoc@guild.bham.ac.uk
 poker@guild.bham.ac.uk
 pokesoc@guild.bham.ac.uk
 polefitness@guild.bham.ac.uk

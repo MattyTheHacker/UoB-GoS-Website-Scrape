@@ -1,3 +1,4 @@
+https://www.guildofstudents.com/asset/Job/124/Student-Groups-Coordinator-Job-Description.pdf
 https://www.guildofstudents.com/pageassets/about/accessibility/Accessibility-First-Floor-GA-Plan.pdf
 https://www.guildofstudents.com/pageassets/about/accessibility/Accessibility-Ground-Floor-GA-Plan.pdf
 https://www.guildofstudents.com/pageassets/about/accessibility/Accessibility-Lower-Ground-Floor-GA-Plan.pdf
@@ -6,8 +7,6 @@ https://www.guildofstudents.com/pageassets/about/accessibility/Accessibility-Thi
 https://www.guildofstudents.com/pageassets/about/companylawmeeting/Articles-of-Association-January-2024-Tracked.pdf
 https://www.guildofstudents.com/pageassets/about/companylawmeeting/Articles-of-Association-January-2024.pdf
 https://www.guildofstudents.com/pageassets/about/companylawmeeting/Articles-of-Association.pdf
-https://www.guildofstudents.com/pageassets/about/ourhistory/1.7-About-Us-ourhistory-timeline.pdf
-https://www.guildofstudents.com/pageassets/about/ourhistory/Past-Officers-History-Section-of-Website(1).pdf
 https://www.guildofstudents.com/pageassets/about/safeguardingpolicy/Safeguarding-Policy-2023.pdf
 https://www.guildofstudents.com/pageassets/about/strategicplan/Strategic-Plan-Document-Final.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminutes/Agenda-Item-1-TB-Minutes-02.03.20.pdf
@@ -84,6 +83,8 @@ https://www.guildofstudents.com/pageassets/footer/resourcespublications/Voluntee
 https://www.guildofstudents.com/pageassets/footer/resourcespublications/Zero-Tolerance-Policy(1).pdf
 https://www.guildofstudents.com/pageassets/referendum/GOG-Minutes-3.10.23.pdf
 https://www.guildofstudents.com/pageassets/referendum/Referendum-Regulations-23-24.pdf
+https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Award-Criteria.pdf
+https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Criteria-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/All-Student-Vote-Campaigning-Guidance(1).pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Student-Access-to-Healthcare-Action-Group-Meeting-03.06.24.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Student-Access-to-Healthcare-Policy(1).pdf
@@ -604,8 +605,6 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Charlotte-Minter.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
-https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
-https://www.guildofstudents.com/pageassets/studentstaff/Aug-2024-Guild-Advice-Reception-Assistant-Job-Description.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf

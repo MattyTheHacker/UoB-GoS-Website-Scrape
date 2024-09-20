@@ -118,6 +118,7 @@ https://www.guildofstudents.commailto:fto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
+https://www.guildofstudents.commailto:giveitago@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gmtg@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gospelchoir@guild.bham.ac.uk
@@ -151,9 +152,11 @@ https://www.guildofstudents.commailto:info@ubisoc.co.uk
 https://www.guildofstudents.commailto:international@guild.bham.ac.uk
 https://www.guildofstudents.commailto:internationaldevelopment@guild.bham.ac.uk
 https://www.guildofstudents.commailto:intervol@guild.bham.ac.uk
+https://www.guildofstudents.commailto:investingforwomen@guild.bham.ac.uk
 https://www.guildofstudents.commailto:iraqisociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:isa@guild.bham.ac.uk
 https://www.guildofstudents.commailto:islamicartsandheritage@gmail.com
+https://www.guildofstudents.commailto:IslamicSportsSoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:israel@guild.bham.ac.uk
 https://www.guildofstudents.commailto:italian@guild.bham.ac.uk
 https://www.guildofstudents.commailto:J.Lindsay@guild.bham.ac.uk
@@ -162,6 +165,7 @@ https://www.guildofstudents.commailto:JainSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:japan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jewish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jfs@guild.bham.ac.uk
+https://www.guildofstudents.commailto:jobs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kase@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kazakh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
@@ -216,6 +220,7 @@ https://www.guildofstudents.commailto:philosophy@guild.bham.ac.uk
 https://www.guildofstudents.commailto:photosoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:Pilates@guild.bham.ac.uk
 https://www.guildofstudents.commailto:planning@guild.bham.ac.uk
+https://www.guildofstudents.commailto:plantsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:poker@guild.bham.ac.uk
 https://www.guildofstudents.commailto:pokesoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:polefitness@guild.bham.ac.uk
@@ -253,6 +258,7 @@ https://www.guildofstudents.commailto:smallbusinessownerssociety@guild.bham.ac.u
 https://www.guildofstudents.commailto:sobersocials@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sports@guild.bham.ac.uk
 https://www.guildofstudents.commailto:srilankan@guild.bham.ac.uk
+https://www.guildofstudents.commailto:staffing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:staffing@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
 https://www.guildofstudents.commailto:star1@guild.bham.ac.uk
 https://www.guildofstudents.commailto:starwarssociety@guild.bham.ac.uk
