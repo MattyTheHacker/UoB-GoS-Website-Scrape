@@ -99,7 +99,6 @@ elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
 enactus@guild.bham.ac.uk
 enquiries@guild.bham.ac.uk
-enquiries@guildbham.ac.uk
 esports@guild.bham.ac.uk
 euaffairs@guild.bham.ac.uk
 ewb@guild.bham.ac.uk
@@ -114,7 +113,6 @@ footnotes@guild.bham.ac.uk
 friendsinternational@guild.bham.ac.uk
 friendsofpalestine@guild.bham.ac.uk
 fringe@guild.bham.ac.uk
-fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
@@ -248,6 +246,7 @@ safeguarding@guild.bham.ac.uk
 sandam@guild.bham.ac.uk
 saudi@guild.bham.ac.uk
 scriptmurdersociety@guild.bham.ac.uk
+secretpicnic@guild.bham.ac.uk
 shooting@guild.bham.ac.uk
 signlanguage@guild.bham.ac.uk
 sikh@guild.bham.ac.uk
