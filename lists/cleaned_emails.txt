@@ -169,8 +169,8 @@ kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
 KCover@guild.bham.ac.uk
 kickboxing@guild.bham.ac.uk
+kocs@guild.bham.ac.uk
 koreansoc@guild.bham.ac.uk
-l.clark@guild.bham.ac.uk
 labour@guild.bham.ac.uk
 larp@guild.bham.ac.uk
 lassoc@guild.bham.ac.uk
@@ -241,6 +241,7 @@ residencelife@guild.bham.ac.uk
 rollerskate@guild.bham.ac.uk
 roombookings@guild.bham.ac.uk
 roundnetsociety@guild.bham.ac.uk
+rtr@retailtalent.co.uk
 russianspeaking@guild.bham.ac.uk
 safeguarding@guild.bham.ac.uk
 sandam@guild.bham.ac.uk

@@ -169,8 +169,8 @@ https://www.guildofstudents.commailto:kazakh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:KCover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kickboxing@guild.bham.ac.uk
+https://www.guildofstudents.commailto:kocs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:koreansoc@guild.bham.ac.uk
-https://www.guildofstudents.commailto:l.clark@guild.bham.ac.uk?subject=External%20Trustee
 https://www.guildofstudents.commailto:labour@guild.bham.ac.uk
 https://www.guildofstudents.commailto:larp@guild.bham.ac.uk
 https://www.guildofstudents.commailto:lassoc@guild.bham.ac.uk
@@ -241,6 +241,7 @@ https://www.guildofstudents.commailto:residencelife@guild.bham.ac.uk
 https://www.guildofstudents.commailto:rollerskate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:roombookings@guild.bham.ac.uk?subject=Room%20Booking%20Enquiries
 https://www.guildofstudents.commailto:roundnetsociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:rtr@retailtalent.co.uk
 https://www.guildofstudents.commailto:russianspeaking@guild.bham.ac.uk
 https://www.guildofstudents.commailto:safeguarding@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sandam@guild.bham.ac.uk
