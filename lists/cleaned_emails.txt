@@ -42,7 +42,6 @@ blooddonation@guild.bham.ac.uk
 blss@guild.bham.ac.uk
 book@guild.bham.ac.uk
 breastcancer@guild.bham.ac.uk
-brummarxists@gmail.com
 brumski@guild.bham.ac.uk
 brumsurf@guild.bham.ac.uk
 brumtechsociety@guild.bham.ac.uk
@@ -95,6 +94,7 @@ eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
 editor@redbrickonline.co.uk
 education@guild.bham.ac.uk
+EgyptSociety@guild.bham.ac.uk
 elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
 enactus@guild.bham.ac.uk
@@ -137,6 +137,7 @@ hongkong@guild.bham.ac.uk
 hongkongcultural@guild.bham.ac.uk
 hookersandstitchers@guild.bham.ac.uk
 hrsociety@guild.bham.ac.uk
+hrteam@guild.bham.ac.uk
 hse@guild.bham.ac.uk
 iceskating@guild.bham.ac.uk
 ics@guild.bham.ac.uk
@@ -232,8 +233,6 @@ prs@birmingham.gov.uk
 psychologysoc@guild.bham.ac.uk
 publicspeakingsociety@guild.bham.ac.uk
 punjabi@guild.bham.ac.uk
-QueerArtSociety@guild.bham.ac.uk
-queerartsociety@guild.bham.ac.uk
 quiz@guild.bham.ac.uk
 railway@guild.bham.ac.uk
 realale@guild.bham.ac.uk
@@ -241,7 +240,6 @@ residencelife@guild.bham.ac.uk
 rollerskate@guild.bham.ac.uk
 roombookings@guild.bham.ac.uk
 roundnetsociety@guild.bham.ac.uk
-rtr@retailtalent.co.uk
 russianspeaking@guild.bham.ac.uk
 safeguarding@guild.bham.ac.uk
 sandam@guild.bham.ac.uk
@@ -273,13 +271,10 @@ systemsteam@guild.bham.ac.uk
 tamil@guild.bham.ac.uk
 tcu@guild.bham.ac.uk
 tea@guild.bham.ac.uk
-teamup@guild.bham.ac.uk
-TeluguSociety@guild.bham.ac.uk
 the93clubsociety@guild.bham.ac.uk
 transofficer@guild.bham.ac.uk
 tss@guild.bham.ac.uk
 ttgaming@guild.bham.ac.uk
-tuitionscheme@guild.bham.ac.uk
 turkish@guild.bham.ac.uk
 ubars@guild.bham.ac.uk
 ubcu@guild.bham.ac.uk
@@ -288,8 +283,6 @@ ukrainiansociety@guild.bham.ac.uk
 unicef@guild.bham.ac.uk
 uobbengsoc@gmail.com
 uobbesociety@guild.bham.ac.uk
-uobgirlgamers@guild.bham.ac.uk
-uobtaiwanese@gmail.com
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 videogamesociety@guild.bham.ac.uk
@@ -299,7 +292,6 @@ wayfarers@guild.bham.ac.uk
 website@guild.bham.ac.uk
 welfare@guild.bham.ac.uk
 welsh@guild.bham.ac.uk
-womeninfinance@guild.bham.ac.uk
 womeninlaw@guild.bham.ac.uk
 womeninmedicine@guild.bham.ac.uk
 womeninpolitics@guild.bham.ac.uk
