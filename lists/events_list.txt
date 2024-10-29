@@ -56,6 +56,8 @@
 {'id': '9970', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9970/', 'title': 'Halls Scarf Some Cookies'}
 {'id': '9972', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9972/', 'title': 'Halls Scents and Fruits'}
 {'id': '9977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9977/', 'title': 'US Election 2024 Live Screening'}
+{'id': '9997', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9997/', 'title': 'Halls Autumnal Wreaths and Cookie Treats'}
+{'id': '9998', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9998/', 'title': 'Halls Design Your Bag: A Self-Care Workshop!'}
 {'event_id': '9663', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9663/', 'title': 'Tuesday kickboxing session'}
 {'event_id': '9664', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9664/', 'title': 'Tuesday kickboxing session'}
 {'event_id': '9665', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/9665/', 'title': 'Tuesday kickboxing session'}
@@ -184,6 +186,7 @@
 {'event_id': '9828', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9828/', 'title': 'Staff x Student  Meet'}
 {'event_id': '9829', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9829/', 'title': 'MechSoc x CivSoc Halloween Football Match'}
 {'event_id': '9879', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9879/', 'title': 'Revision and Snacks'}
+{'event_id': '9999', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9999/', 'title': 'Pub Crawl!!'}
 {'event_id': '9942', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9942/', 'title': 'House Plant Master Class'}
 {'event_id': '9943', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9943/', 'title': 'Winterborn'}
 {'event_id': '9944', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9944/', 'title': 'Botanical Gardens'}
