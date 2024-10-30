@@ -138,7 +138,7 @@
 {'event_id': '9728', 'organisation_id': '26067', 'organisation': 'RailSoc', 'url': 'https://www.guildofstudents.com/events/26067/9728/', 'title': 'Presentation by Chris Curtis'}
 {'event_id': '9965', 'organisation_id': '26067', 'organisation': 'RailSoc', 'url': 'https://www.guildofstudents.com/events/26067/9965/', 'title': 'GWR Battery Train Trial'}
 {'event_id': '9655', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/9655/', 'title': "Joe's Bar Welcome Social"}
-{'event_id': '9812', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/9812/', 'title': 'Tasmin Lee - Guest Speaker Event'}
+{'event_id': '9812', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/9812/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9892', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/9892/', 'title': 'ELSA Bowling 2024'}
 {'event_id': '9956', 'organisation_id': '35145', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35145/9956/', 'title': "Docs Not Cops x GP Society Talk on 'Safe Surgeries'"}
 {'event_id': '9800', 'organisation_id': '35289', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35289/9800/', 'title': 'Sports night'}
@@ -186,7 +186,7 @@
 {'event_id': '9828', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9828/', 'title': 'Staff x Student  Meet'}
 {'event_id': '9829', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9829/', 'title': 'MechSoc x CivSoc Halloween Football Match'}
 {'event_id': '9879', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9879/', 'title': 'Revision and Snacks'}
-{'event_id': '9999', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9999/', 'title': 'Pub Crawl!!'}
+{'event_id': '9999', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9999/', 'title': 'Pub Crawl⚙️🍹!!'}
 {'event_id': '9942', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9942/', 'title': 'House Plant Master Class'}
 {'event_id': '9943', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9943/', 'title': 'Winterborn'}
 {'event_id': '9944', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9944/', 'title': 'Botanical Gardens'}
