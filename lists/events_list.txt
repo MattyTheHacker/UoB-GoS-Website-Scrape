@@ -101,7 +101,6 @@
 {'event_id': '9988', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/9988/', 'title': 'Sip and Paint'}
 {'event_id': '9736', 'organisation_id': '13463', 'organisation': 'Beat', 'url': 'https://www.guildofstudents.com/events/13463/9736/', 'title': 'Pottery Painting'}
 {'event_id': '9980', 'organisation_id': '13487', 'organisation': 'First Love', 'url': 'https://www.guildofstudents.com/events/13487/9980/', 'title': 'Society Meeting'}
-{'event_id': '9989', 'organisation_id': '18538', 'organisation': 'Bad Film', 'url': 'https://www.guildofstudents.com/events/18538/9989/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9557', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9557/', 'title': 'History campus league'}
 {'event_id': '9609', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9609/', 'title': 'History Football Subs'}
 {'event_id': '9474', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9474/', 'title': 'Games Nights'}
@@ -249,7 +248,6 @@
 {'event_id': '9787', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/9787/', 'title': 'Winter Ball : Masquerade'}
 {'event_id': '9991', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/9991/', 'title': 'Malaysian Society Deepavali Dinner'}
 {'event_id': '9889', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/9889/', 'title': 'MathSoc Winter Soiree'}
-{'event_id': '9895', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/9895/', 'title': 'Mathsoc Halloween HORRORBULL'}
 {'event_id': '9901', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/9901/', 'title': 'Snobs Societies Night/Sports Night'}
 {'event_id': '9653', 'organisation_id': '7051', 'organisation': 'Middle earth', 'url': 'https://www.guildofstudents.com/events/7051/9653/', 'title': 'Board Games'}
 {'event_id': '9769', 'organisation_id': '7051', 'organisation': 'Middle earth', 'url': 'https://www.guildofstudents.com/events/7051/9769/', 'title': 'Quiz with Free Pizza!'}
@@ -289,6 +287,8 @@
 {'event_id': '9835', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/9835/', 'title': 'Wrekin Train Trip'}
 {'event_id': '9920', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/9920/', 'title': 'Cannock Chase Train Trip'}
 {'event_id': '9992', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/9992/', 'title': 'Laser tag!'}
+{'event_id': '10007', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/10007/', 'title': 'FIRST RELEASE MFL Soc x Cocktail Society: Cocktails around the world night'}
+{'event_id': '10008', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/10008/', 'title': 'SECOND RELEASE MFL Soc x Cocktail Society: Cocktails around the world night'}
 {'event_id': '9876', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/9876/', 'title': 'MFL Soc Rock Climbing Social'}
 {'event_id': '9362', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9362/', 'title': 'Post Grad Student Social'}
 {'event_id': '9363', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9363/', 'title': 'International Social + Fusion Afterparty'}
