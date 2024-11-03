@@ -79,11 +79,14 @@
 {'event_id': '9699', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9699/', 'title': 'Sober Socials Murder Mystery Party & Games Night'}
 {'event_id': '10002', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/10002/', 'title': 'Inhumane Bar Crawl'}
 {'event_id': '10009', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/10009/', 'title': 'Winter Formal'}
+{'event_id': '10016', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/10016/', 'title': 'Karaoke Night with ELAL'}
+{'event_id': '10017', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/10017/', 'title': 'INHUMANE Bar Crawl with BEDsoc'}
 {'event_id': '9973', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9973/', 'title': 'Charlie and the Chocolate Panto'}
 {'event_id': '9974', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9974/', 'title': 'Charlie and the Chocolate Panto'}
 {'event_id': '9975', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9975/', 'title': 'Charlie and the Chocolate Panto'}
 {'event_id': '9978', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/9978/', 'title': 'Charlie and the Chocolate Panto'}
 {'event_id': '9854', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/9854/', 'title': 'Alumni Day'}
+{'event_id': '10018', 'organisation_id': '23607', 'organisation': 'LARP', 'url': 'https://www.guildofstudents.com/events/23607/10018/', 'title': 'Bowling Social'}
 {'event_id': '9728', 'organisation_id': '26067', 'organisation': 'RailSoc', 'url': 'https://www.guildofstudents.com/events/26067/9728/', 'title': 'Presentation by Chris Curtis'}
 {'event_id': '9965', 'organisation_id': '26067', 'organisation': 'RailSoc', 'url': 'https://www.guildofstudents.com/events/26067/9965/', 'title': 'GWR Battery Train Trial'}
 {'event_id': '10015', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10015/', 'title': 'Indie Lounge Karaoke with BEDSoc'}
