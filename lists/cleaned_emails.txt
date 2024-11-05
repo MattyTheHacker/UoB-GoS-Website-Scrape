@@ -1,5 +1,5 @@
 13thhorror@guild.bham.ac.uk
-180degreessociety@guild.bham.ac.uk
+180DegreesConsulting@guild.bham.ac.uk
 A.Sheridan@guild.bham.ac.uk
 abacus@guild.bham.ac.uk
 acappella@guild.bham.ac.uk
@@ -164,7 +164,6 @@ JainSociety@guild.bham.ac.uk
 japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
-jobs@guild.bham.ac.uk
 kase@guild.bham.ac.uk
 kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
