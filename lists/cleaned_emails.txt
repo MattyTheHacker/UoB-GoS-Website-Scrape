@@ -123,6 +123,7 @@ gospelchoir@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
+h.aquilina@guild.bham.ac.uk
 hallreps@guild.bham.ac.uk
 hallreps@guild.bham.ac.uk.
 healthandsafety@guild.bham.ac.uk
@@ -255,7 +256,6 @@ smallbusinessownerssociety@guild.bham.ac.uk
 sobersocials@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
-staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 starwarssociety@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
