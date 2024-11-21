@@ -1,6 +1,6 @@
 13thhorror@guild.bham.ac.uk
 180DegreesConsulting@guild.bham.ac.uk
-A.Sheridan@guild.bham.ac.uk
+a.sheridan@guild.bham.ac.uk
 abacus@guild.bham.ac.uk
 acappella@guild.bham.ac.uk
 accounting@guild.bham.ac.uk
@@ -89,7 +89,7 @@ dental@guild.bham.ac.uk
 disabledofficer@guild.bham.ac.uk
 djs@guild.bham.ac.uk
 doctorwho@guild.bham.ac.uk
-E.Badger@guild.bham.ac.uk
+e.badger@guild.bham.ac.uk
 eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
 editor@redbrickonline.co.uk
@@ -159,8 +159,8 @@ islamicartsandheritage@gmail.com
 IslamicSportsSoc@guild.bham.ac.uk
 israel@guild.bham.ac.uk
 italian@guild.bham.ac.uk
-J.Lindsay@guild.bham.ac.uk
-J.Thomas@guild.bham.ac.uk
+j.lindsay@guild.bham.ac.uk
+j.thomas@guild.bham.ac.uk
 JainSociety@guild.bham.ac.uk
 japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
@@ -201,7 +201,7 @@ modernlanguages@guild.bham.ac.uk
 mooting@guild.bham.ac.uk
 muaythaiboxing@guild.bham.ac.uk
 munsociety@guild.bham.ac.uk
-N.Bailey@guild.bham.ac.uk
+n.bailey@guild.bham.ac.uk
 navigators@guild.bham.ac.uk
 nepalese@guild.bham.ac.uk
 nerdsoc@guild.bham.ac.uk

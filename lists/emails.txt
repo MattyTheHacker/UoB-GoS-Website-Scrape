@@ -1,6 +1,6 @@
 https://www.guildofstudents.commailto:13thhorror@guild.bham.ac.uk
 https://www.guildofstudents.commailto:180DegreesConsulting@guild.bham.ac.uk
-https://www.guildofstudents.commailto:A.Sheridan@guild.bham.ac.uk
+https://www.guildofstudents.commailto:a.sheridan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:abacus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:acappella@guild.bham.ac.uk
 https://www.guildofstudents.commailto:accounting@guild.bham.ac.uk
@@ -89,7 +89,7 @@ https://www.guildofstudents.commailto:dental@guild.bham.ac.uk
 https://www.guildofstudents.commailto:disabledofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:djs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:doctorwho@guild.bham.ac.uk
-https://www.guildofstudents.commailto:E.Badger@guild.bham.ac.uk
+https://www.guildofstudents.commailto:e.badger@guild.bham.ac.uk
 https://www.guildofstudents.commailto:eastafrican@guild.bham.ac.uk
 https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:editor@redbrickonline.co.uk
@@ -162,8 +162,8 @@ https://www.guildofstudents.commailto:islamicartsandheritage@gmail.com
 https://www.guildofstudents.commailto:IslamicSportsSoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:israel@guild.bham.ac.uk
 https://www.guildofstudents.commailto:italian@guild.bham.ac.uk
-https://www.guildofstudents.commailto:J.Lindsay@guild.bham.ac.uk
-https://www.guildofstudents.commailto:J.Thomas@guild.bham.ac.uk
+https://www.guildofstudents.commailto:j.lindsay@guild.bham.ac.uk
+https://www.guildofstudents.commailto:j.thomas@guild.bham.ac.uk
 https://www.guildofstudents.commailto:JainSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:japan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jewish@guild.bham.ac.uk
@@ -204,7 +204,7 @@ https://www.guildofstudents.commailto:modernlanguages@guild.bham.ac.uk
 https://www.guildofstudents.commailto:mooting@guild.bham.ac.uk
 https://www.guildofstudents.commailto:muaythaiboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:munsociety@guild.bham.ac.uk
-https://www.guildofstudents.commailto:N.Bailey@guild.bham.ac.uk
+https://www.guildofstudents.commailto:n.bailey@guild.bham.ac.uk
 https://www.guildofstudents.commailto:navigators@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nepalese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:nerdsoc@guild.bham.ac.uk
@@ -242,7 +242,7 @@ https://www.guildofstudents.commailto:railway@guild.bham.ac.uk
 https://www.guildofstudents.commailto:realale@guild.bham.ac.uk
 https://www.guildofstudents.commailto:residencelife@guild.bham.ac.uk
 https://www.guildofstudents.commailto:rollerskate@guild.bham.ac.uk
-https://www.guildofstudents.commailto:roombookings@guild.bham.ac.uk?subject=Room%20Booking%20Enquiries
+https://www.guildofstudents.commailto:roombookings@guild.bham.ac.uk
 https://www.guildofstudents.commailto:roundnetsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:russianspeaking@guild.bham.ac.uk
 https://www.guildofstudents.commailto:safeguarding@guild.bham.ac.uk
