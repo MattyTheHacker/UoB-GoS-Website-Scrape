@@ -2801,15 +2801,12 @@ https://www.guildofstudents.com/elections/votingstats
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/10023/
 https://www.guildofstudents.com/ents/event/10025/
-https://www.guildofstudents.com/ents/event/10047/
-https://www.guildofstudents.com/ents/event/10050/
 https://www.guildofstudents.com/ents/event/10053/
 https://www.guildofstudents.com/ents/event/10079/
 https://www.guildofstudents.com/ents/event/10080/
 https://www.guildofstudents.com/ents/event/10085/
 https://www.guildofstudents.com/ents/event/10088/
 https://www.guildofstudents.com/ents/event/10101/
-https://www.guildofstudents.com/ents/event/10103/
 https://www.guildofstudents.com/ents/event/10114/
 https://www.guildofstudents.com/ents/event/10115/
 https://www.guildofstudents.com/ents/event/10137/
@@ -2819,6 +2816,14 @@ https://www.guildofstudents.com/ents/event/10143/
 https://www.guildofstudents.com/ents/event/10144/
 https://www.guildofstudents.com/ents/event/10146/
 https://www.guildofstudents.com/ents/event/10147/
+https://www.guildofstudents.com/ents/event/10162/
+https://www.guildofstudents.com/ents/event/10163/
+https://www.guildofstudents.com/ents/event/10164/
+https://www.guildofstudents.com/ents/event/10165/
+https://www.guildofstudents.com/ents/event/10166/
+https://www.guildofstudents.com/ents/event/10167/
+https://www.guildofstudents.com/ents/event/10171/
+https://www.guildofstudents.com/ents/event/10178/
 https://www.guildofstudents.com/ents/event/8815/
 https://www.guildofstudents.com/ents/event/9332/
 https://www.guildofstudents.com/ents/event/9333/
@@ -2830,6 +2835,7 @@ https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9500/
 https://www.guildofstudents.com/ents/event/9501/
 https://www.guildofstudents.com/ents/event/9503/
+https://www.guildofstudents.com/ents/event/9504/
 https://www.guildofstudents.com/ents/event/9618/
 https://www.guildofstudents.com/ents/event/9619/
 https://www.guildofstudents.com/ents/event/9620/
@@ -2913,12 +2919,10 @@ https://www.guildofstudents.com/events/12492/9935/
 https://www.guildofstudents.com/events/13206/10034/
 https://www.guildofstudents.com/events/13206/9988/
 https://www.guildofstudents.com/events/13463/10104/
-https://www.guildofstudents.com/events/13487/10133/
 https://www.guildofstudents.com/events/13487/9980/
 https://www.guildofstudents.com/events/13487/9981/
 https://www.guildofstudents.com/events/13487/9982/
 https://www.guildofstudents.com/events/13487/9983/
-https://www.guildofstudents.com/events/18538/10160/
 https://www.guildofstudents.com/events/20372/9557/
 https://www.guildofstudents.com/events/20372/9609/
 https://www.guildofstudents.com/events/20913/9478/
@@ -3063,6 +3067,7 @@ https://www.guildofstudents.com/events/7219/10048/
 https://www.guildofstudents.com/events/7219/9896/
 https://www.guildofstudents.com/events/7299/9817/
 https://www.guildofstudents.com/events/7331/10136/
+https://www.guildofstudents.com/events/7387/10172/
 https://www.guildofstudents.com/events/7387/9572/
 https://www.guildofstudents.com/events/7387/9573/
 https://www.guildofstudents.com/events/7387/9574/
@@ -3113,10 +3118,10 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbenchball%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgmtg%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnursing%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fphilosophy%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpsychology%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2fubvr%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fvegesoc%2f
 https://www.guildofstudents.com/login/?redirect=%2frepresentation%2fallstudentvote%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
@@ -4000,9 +4005,9 @@ https://www.guildofstudents.com/profile/163752/
 https://www.guildofstudents.com/profile/164136/
 https://www.guildofstudents.com/profile/164210/
 https://www.guildofstudents.com/profile/164258/
-https://www.guildofstudents.com/profile/164725/
 https://www.guildofstudents.com/profile/164786/
 https://www.guildofstudents.com/profile/165243/
+https://www.guildofstudents.com/profile/165433/
 https://www.guildofstudents.com/profile/165466/
 https://www.guildofstudents.com/profile/165690/
 https://www.guildofstudents.com/profile/165727/
@@ -4472,6 +4477,7 @@ https://www.guildofstudents.com/profile/228160/
 https://www.guildofstudents.com/profile/228176/
 https://www.guildofstudents.com/profile/228177/
 https://www.guildofstudents.com/profile/228253/
+https://www.guildofstudents.com/profile/228266/
 https://www.guildofstudents.com/profile/228355/
 https://www.guildofstudents.com/profile/228478/
 https://www.guildofstudents.com/profile/228536/
@@ -5058,7 +5064,6 @@ https://www.guildofstudents.com/profile/255553/
 https://www.guildofstudents.com/profile/255567/
 https://www.guildofstudents.com/profile/255579/
 https://www.guildofstudents.com/profile/255584/
-https://www.guildofstudents.com/profile/255666/
 https://www.guildofstudents.com/profile/255691/
 https://www.guildofstudents.com/profile/255713/
 https://www.guildofstudents.com/profile/255737/
@@ -5356,6 +5361,8 @@ https://www.guildofstudents.com/representation/youridea/?idea=523#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=523#idea523
 https://www.guildofstudents.com/representation/youridea/?idea=524#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=524#idea524
+https://www.guildofstudents.com/representation/youridea/?idea=525#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=525#idea525
 https://www.guildofstudents.com/representation/youridea/?idea=526#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=526#idea526
 https://www.guildofstudents.com/representation/youridea/?idea=527#idea-comments
@@ -5364,6 +5371,8 @@ https://www.guildofstudents.com/representation/youridea/?idea=528#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=528#idea528
 https://www.guildofstudents.com/representation/youridea/?idea=529#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=529#idea529
+https://www.guildofstudents.com/representation/youridea/?idea=530#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=530#idea530
 https://www.guildofstudents.com/representation/youridea/?idea=531#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=531#idea531
 https://www.guildofstudents.com/representation/youridea/?idea=532#idea-comments
@@ -5376,6 +5385,8 @@ https://www.guildofstudents.com/representation/youridea/?idea=535#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=535#idea535
 https://www.guildofstudents.com/representation/youridea/?idea=536#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=536#idea536
+https://www.guildofstudents.com/representation/youridea/?idea=537#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=537#idea537
 https://www.guildofstudents.com/representation/youridea/?idea=538#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=538#idea538
 https://www.guildofstudents.com/representation/youridea/?idea=540#idea-comments
@@ -5384,6 +5395,12 @@ https://www.guildofstudents.com/representation/youridea/?idea=541#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=541#idea541
 https://www.guildofstudents.com/representation/youridea/?idea=542#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=542#idea542
+https://www.guildofstudents.com/representation/youridea/?idea=544#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=544#idea544
+https://www.guildofstudents.com/representation/youridea/?idea=545#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=545#idea545
+https://www.guildofstudents.com/representation/youridea/?idea=547#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=547#idea547
 https://www.guildofstudents.com/representation/youridea/?tag=Academic
 https://www.guildofstudents.com/representation/youridea/?tag=Community
 https://www.guildofstudents.com/representation/youridea/?tag=Democracy
@@ -5588,7 +5605,7 @@ https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/daytime#guildevents
 https://www.guildofstudents.com/welcome/events/evening
 https://www.guildofstudents.com/welcome/events/event/9336/
-https://www.guildofstudents.com/welcome/events/event/9347/
+https://www.guildofstudents.com/welcome/events/event/9348/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/
