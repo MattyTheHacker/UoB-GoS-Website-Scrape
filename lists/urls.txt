@@ -152,7 +152,6 @@ https://www.guildofstudents.com#tennisinfo
 https://www.guildofstudents.com#undergraduate-page
 https://www.guildofstudents.com#volunteering-page
 https://www.guildofstudents.com#welcomeevents
-https://www.guildofstudents.com.allofficercarousel
 https://www.guildofstudents.com/
 https://www.guildofstudents.com//instagram.com/3bugsfringe
 https://www.guildofstudents.com//instagram.com/93clubbirmingham
@@ -2770,8 +2769,6 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
-https://www.guildofstudents.com/asset/Job/124/Events-Coordinator-Job-Description-August-2024.pdf
-https://www.guildofstudents.com/asset/Job/124/Student-Voice-and-Representation-Manager-Job-Description-August-2024.pdf
 https://www.guildofstudents.com/asset/News/6016/ASV-1-October-2024-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2024-Budgets.pdf
 https://www.guildofstudents.com/asset/News/6016/Autumn-Elections-2024-Results-Tables.pdf
@@ -2799,7 +2796,6 @@ https://www.guildofstudents.com/elections/groups
 https://www.guildofstudents.com/elections/votingstats
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/10023/
-https://www.guildofstudents.com/ents/event/10025/
 https://www.guildofstudents.com/ents/event/10053/
 https://www.guildofstudents.com/ents/event/10079/
 https://www.guildofstudents.com/ents/event/10080/
@@ -2810,7 +2806,6 @@ https://www.guildofstudents.com/ents/event/10114/
 https://www.guildofstudents.com/ents/event/10115/
 https://www.guildofstudents.com/ents/event/10137/
 https://www.guildofstudents.com/ents/event/10139/
-https://www.guildofstudents.com/ents/event/10140/
 https://www.guildofstudents.com/ents/event/10143/
 https://www.guildofstudents.com/ents/event/10144/
 https://www.guildofstudents.com/ents/event/10146/
@@ -2941,7 +2936,6 @@ https://www.guildofstudents.com/events/20913/9483/
 https://www.guildofstudents.com/events/20913/9484/
 https://www.guildofstudents.com/events/20913/9485/
 https://www.guildofstudents.com/events/20913/9699/
-https://www.guildofstudents.com/events/20937/10127/
 https://www.guildofstudents.com/events/21477/10033/
 https://www.guildofstudents.com/events/21718/10049/
 https://www.guildofstudents.com/events/22106/10084/
@@ -2999,6 +2993,7 @@ https://www.guildofstudents.com/events/52037/9942/
 https://www.guildofstudents.com/events/52037/9943/
 https://www.guildofstudents.com/events/52037/9944/
 https://www.guildofstudents.com/events/52037/9994/
+https://www.guildofstudents.com/events/6043/10213/
 https://www.guildofstudents.com/events/6059/10135/
 https://www.guildofstudents.com/events/6067/10078/
 https://www.guildofstudents.com/events/6067/9955/
@@ -3011,6 +3006,7 @@ https://www.guildofstudents.com/events/6179/9960/
 https://www.guildofstudents.com/events/6179/9961/
 https://www.guildofstudents.com/events/6187/10011/
 https://www.guildofstudents.com/events/6187/10038/
+https://www.guildofstudents.com/events/6187/10204/
 https://www.guildofstudents.com/events/6187/9743/
 https://www.guildofstudents.com/events/6187/9744/
 https://www.guildofstudents.com/events/6187/9745/
@@ -3022,7 +3018,6 @@ https://www.guildofstudents.com/events/6251/10051/
 https://www.guildofstudents.com/events/6251/9492/
 https://www.guildofstudents.com/events/6347/10024/
 https://www.guildofstudents.com/events/6371/10029/
-https://www.guildofstudents.com/events/6371/10134/
 https://www.guildofstudents.com/events/6371/10186/
 https://www.guildofstudents.com/events/6371/10187/
 https://www.guildofstudents.com/events/6371/10188/
@@ -3123,10 +3118,6 @@ https://www.guildofstudents.com/guildadvice/
 https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/guildawards/
 https://www.guildofstudents.com/hallreps/#halls
-https://www.guildofstudents.com/jobs/browse/
-https://www.guildofstudents.com/jobs/vacancy/2850/
-https://www.guildofstudents.com/jobs/vacancy/2852/
-https://www.guildofstudents.com/jobs/vacancy/2861/
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2felections%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
@@ -3168,28 +3159,20 @@ https://www.guildofstudents.com/officerteam
 https://www.guildofstudents.com/officerteam/
 https://www.guildofstudents.com/officerteam/#newsblogs
 https://www.guildofstudents.com/officerteam/aeo/
-https://www.guildofstudents.com/officerteam/aeo/new/
 https://www.guildofstudents.com/officerteam/dso/
 https://www.guildofstudents.com/officerteam/emso/
 https://www.guildofstudents.com/officerteam/eo
 https://www.guildofstudents.com/officerteam/eo/
-https://www.guildofstudents.com/officerteam/eo/new/
 https://www.guildofstudents.com/officerteam/io/
-https://www.guildofstudents.com/officerteam/io/new/
 https://www.guildofstudents.com/officerteam/lgbtq/
 https://www.guildofstudents.com/officerteam/LGBTQ/
-https://www.guildofstudents.com/officerteam/new#pto
 https://www.guildofstudents.com/officerteam/pgo 
 https://www.guildofstudents.com/officerteam/pgo/
-https://www.guildofstudents.com/officerteam/pgo/new/
 https://www.guildofstudents.com/officerteam/president/
-https://www.guildofstudents.com/officerteam/president/new/
 https://www.guildofstudents.com/officerteam/so/
-https://www.guildofstudents.com/officerteam/so/new/
 https://www.guildofstudents.com/officerteam/suso/
 https://www.guildofstudents.com/officerteam/tnbso/
 https://www.guildofstudents.com/officerteam/wco/
-https://www.guildofstudents.com/officerteam/wco/new/
 https://www.guildofstudents.com/officerteam/wo/
 https://www.guildofstudents.com/organisation/26488/
 https://www.guildofstudents.com/organisation/33757/
@@ -4113,6 +4096,7 @@ https://www.guildofstudents.com/profile/187673/
 https://www.guildofstudents.com/profile/187687/
 https://www.guildofstudents.com/profile/188043/
 https://www.guildofstudents.com/profile/188443/
+https://www.guildofstudents.com/profile/188489/
 https://www.guildofstudents.com/profile/188550/
 https://www.guildofstudents.com/profile/188952/
 https://www.guildofstudents.com/profile/189043/
@@ -4927,6 +4911,7 @@ https://www.guildofstudents.com/profile/250586/
 https://www.guildofstudents.com/profile/250588/
 https://www.guildofstudents.com/profile/250593/
 https://www.guildofstudents.com/profile/250647/
+https://www.guildofstudents.com/profile/250653/
 https://www.guildofstudents.com/profile/250678/
 https://www.guildofstudents.com/profile/250734/
 https://www.guildofstudents.com/profile/250742/
@@ -5450,7 +5435,6 @@ https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://w
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/communitypantry#bookaslot
 https://www.guildofstudents.com/sso/login.ashx?idp=BHAM_SHIB&ReturnUrl=https://www.guildofstudents.com/support/studentmentors/who-are-student-mentors/7-wonders-challenge/
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/
-https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=/jobs/browse/
 https://www.guildofstudents.com/sso/login.ashx?ReturnUrl=https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/staff/
 https://www.guildofstudents.com/studentgroups
@@ -5822,7 +5806,6 @@ https://www.guildofstudents.commailto:JainSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:japan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jewish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jfs@guild.bham.ac.uk
-https://www.guildofstudents.commailto:jobs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kase@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kazakh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
@@ -5914,7 +5897,6 @@ https://www.guildofstudents.commailto:smallbusinessownerssociety@guild.bham.ac.u
 https://www.guildofstudents.commailto:sobersocials@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sports@guild.bham.ac.uk
 https://www.guildofstudents.commailto:srilankan@guild.bham.ac.uk
-https://www.guildofstudents.commailto:staffing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:star1@guild.bham.ac.uk
 https://www.guildofstudents.commailto:starwarssociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:studentexchange@guild.bham.ac.uk

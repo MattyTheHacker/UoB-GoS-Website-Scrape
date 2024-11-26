@@ -164,7 +164,6 @@ JainSociety@guild.bham.ac.uk
 japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
-jobs@guild.bham.ac.uk
 kase@guild.bham.ac.uk
 kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
@@ -256,7 +255,6 @@ smallbusinessownerssociety@guild.bham.ac.uk
 sobersocials@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
-staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 starwarssociety@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk

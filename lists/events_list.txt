@@ -1,5 +1,4 @@
 {'id': '10023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10023/', 'title': 'Reclaim The Night'}
-{'id': '10025', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10025/', 'title': 'Fusion Desi Night'}
 {'id': '10053', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10053/', 'title': 'LGBTQ+ Watch Party!'}
 {'id': '10079', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10079/', 'title': 'Sports Night Costume Swap Shop'}
 {'id': '10080', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10080/', 'title': 'Halls Pop Quiz & Pizza'}
@@ -10,7 +9,6 @@
 {'id': '10115', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10115/', 'title': 'Belgrave View - Deck The Halls'}
 {'id': '10137', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10137/', 'title': 'Reclaim the Night: Banner Making'}
 {'id': '10139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10139/', 'title': 'Mindful & Merry'}
-{'id': '10140', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10140/', 'title': 'Halls Paint & Sip'}
 {'id': '10143', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10143/', 'title': 'Halls Gingerbread House Decorating'}
 {'id': '10144', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10144/', 'title': 'Halls Cards & Cakes'}
 {'id': '10146', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10146/', 'title': 'Halls Create Your Own Advent Calendar'}
@@ -104,7 +102,6 @@
 {'event_id': '9484', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9484/', 'title': 'Games Nights'}
 {'event_id': '9485', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9485/', 'title': 'Games Nights'}
 {'event_id': '9699', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/9699/', 'title': 'Sober Socials Murder Mystery Party & Games Night'}
-{'event_id': '10127', 'organisation_id': '20937', 'organisation': 'Student Exchange', 'url': 'https://www.guildofstudents.com/events/20937/10127/', 'title': 'Frankfurt Christmas Market + Ice Skating'}
 {'event_id': '10033', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/10033/', 'title': 'Winter Formal'}
 {'event_id': '10049', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/10049/', 'title': 'NerdSoc ComicCon Trip'}
 {'event_id': '10084', 'organisation_id': '22106', 'organisation': 'East African', 'url': 'https://www.guildofstudents.com/events/22106/10084/', 'title': 'Battle of the EASOCs'}
@@ -162,6 +159,7 @@
 {'event_id': '9943', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9943/', 'title': 'Winterborn'}
 {'event_id': '9944', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9944/', 'title': 'Botanical Gardens'}
 {'event_id': '9994', 'organisation_id': '52037', 'organisation': 'Plant Society', 'url': 'https://www.guildofstudents.com/events/52037/9994/', 'title': 'Writers Block X Birmingham Tree People X Plant Society poetry collab!'}
+{'event_id': '10213', 'organisation_id': '6043', 'organisation': 'A Cappella', 'url': 'https://www.guildofstudents.com/events/6043/10213/', 'title': 'Christmas Gig and Karaoke'}
 {'event_id': '10135', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10135/', 'title': 'Culture Shock'}
 {'event_id': '10078', 'organisation_id': '6067', 'organisation': 'Afropology', 'url': 'https://www.guildofstudents.com/events/6067/10078/', 'title': 'Inhumane Bar Crawl AFROPOLOGY'}
 {'event_id': '9955', 'organisation_id': '6067', 'organisation': 'Afropology', 'url': 'https://www.guildofstudents.com/events/6067/9955/', 'title': "'The Future of the Commonwealth' Film Screening"}
@@ -174,6 +172,7 @@
 {'event_id': '9961', 'organisation_id': '6179', 'organisation': 'Baking', 'url': 'https://www.guildofstudents.com/events/6179/9961/', 'title': 'Baking Society Halloween Bake - 7 - 8:30pm Session'}
 {'event_id': '10011', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/10011/', 'title': 'Leicester Competition'}
 {'event_id': '10038', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/10038/', 'title': 'Warwick Varsity 2024'}
+{'event_id': '10204', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/10204/', 'title': 'Manchester Winter Friendly 2024'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9745', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9745/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
@@ -185,7 +184,6 @@
 {'event_id': '9492', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/9492/', 'title': 'Biosoc campus league'}
 {'event_id': '10024', 'organisation_id': '6347', 'organisation': 'Brumsurf', 'url': 'https://www.guildofstudents.com/events/6347/10024/', 'title': 'Brumsurf November Trip'}
 {'event_id': '10029', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/10029/', 'title': 'BUDS Quiz'}
-{'event_id': '10134', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/10134/', 'title': 'BUDS Winter Charity Ball'}
 {'event_id': '10186', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/10186/', 'title': 'BUDS Kit - Zip Hoodie'}
 {'event_id': '10187', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/10187/', 'title': 'BUDS Kit - Crewneck Sweatshirt'}
 {'event_id': '10188', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/10188/', 'title': 'BUDS Kit - T-Shirt'}
