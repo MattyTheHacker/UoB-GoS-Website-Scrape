@@ -113,6 +113,7 @@ footnotes@guild.bham.ac.uk
 friendsinternational@guild.bham.ac.uk
 friendsofpalestine@guild.bham.ac.uk
 fringe@guild.bham.ac.uk
+fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
@@ -122,7 +123,6 @@ gospelchoir@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
-h.aquilina@guild.bham.ac.uk
 hallreps@guild.bham.ac.uk
 hallreps@guild.bham.ac.uk.
 healthandsafety@guild.bham.ac.uk
@@ -183,6 +183,7 @@ linguist@guild.bham.ac.uk
 links@guild.bham.ac.uk
 liveart@guild.bham.ac.uk
 livemusic@guild.bham.ac.uk
+malayalee@guild.bham.ac.uk
 malaysia@guild.bham.ac.uk
 marketing.birmingham@uk.elsa.org
 marketingsociety@guild.bham.ac.uk
@@ -191,6 +192,7 @@ mathsoc@guild.bham.ac.uk
 mealprepsociety@guild.bham.ac.uk
 MechEngSociety@guild.bham.ac.uk
 mediasales@guild.bham.ac.uk
+medtecsociety@guild.bham.ac.uk
 mentorwelfare@guild.bham.ac.uk
 metal@guild.bham.ac.uk
 middleearth@guild.bham.ac.uk
@@ -253,6 +255,7 @@ sitcom@guild.bham.ac.uk
 skateboarding@guild.bham.ac.uk
 smallbusinessownerssociety@guild.bham.ac.uk
 sobersocials@guild.bham.ac.uk
+somali@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
 star1@guild.bham.ac.uk
@@ -281,9 +284,11 @@ ukrainiansociety@guild.bham.ac.uk
 unicef@guild.bham.ac.uk
 uobbengsoc@gmail.com
 uobbesociety@guild.bham.ac.uk
+uobgirlgamers@guild.bham.ac.uk
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 Venuemanagers@guild.bham.ac.uk
+venuemanagers@guild.bham.ac.uk
 videogamesociety@guild.bham.ac.uk
 vrsoc@guild.bham.ac.uk
 watchthis@guild.bham.ac.uk
@@ -291,6 +296,7 @@ wayfarers@guild.bham.ac.uk
 website@guild.bham.ac.uk
 welfare@guild.bham.ac.uk
 welsh@guild.bham.ac.uk
+womeninfinance@guild.bham.ac.uk
 womeninlaw@guild.bham.ac.uk
 womeninmedicine@guild.bham.ac.uk
 womeninpolitics@guild.bham.ac.uk
