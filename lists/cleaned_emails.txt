@@ -42,6 +42,7 @@ blooddonation@guild.bham.ac.uk
 blss@guild.bham.ac.uk
 book@guild.bham.ac.uk
 breastcancer@guild.bham.ac.uk
+brummarxists@gmail.com
 brumski@guild.bham.ac.uk
 brumsurf@guild.bham.ac.uk
 brumtechsociety@guild.bham.ac.uk
@@ -67,6 +68,7 @@ campaigns@guild.bham.ac.uk
 canadian@guild.bham.ac.uk
 cathsoc@guild.bham.ac.uk
 chasingzero@guild.bham.ac.uk
+cheesesociety@guild.bham.ac.uk
 chess-club@guild.bham.ac.uk
 chinese-soc@guild.bham.ac.uk
 chinesechristians@guild.bham.ac.uk
@@ -117,6 +119,7 @@ fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
+giveitago@guild.bham.ac.uk
 gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
 gospelchoir@guild.bham.ac.uk
@@ -164,6 +167,7 @@ JainSociety@guild.bham.ac.uk
 japan@guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jfs@guild.bham.ac.uk
+jobs@guild.bham.ac.uk
 kase@guild.bham.ac.uk
 kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
@@ -258,6 +262,7 @@ sobersocials@guild.bham.ac.uk
 somali@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 srilankan@guild.bham.ac.uk
+staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 starwarssociety@guild.bham.ac.uk
 studentexchange@guild.bham.ac.uk
@@ -288,7 +293,6 @@ uobgirlgamers@guild.bham.ac.uk
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 Venuemanagers@guild.bham.ac.uk
-venuemanagers@guild.bham.ac.uk
 videogamesociety@guild.bham.ac.uk
 vrsoc@guild.bham.ac.uk
 watchthis@guild.bham.ac.uk
