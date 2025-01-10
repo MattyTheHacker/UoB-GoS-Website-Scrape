@@ -119,7 +119,6 @@ https://www.guildofstudents.commailto:fto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
-https://www.guildofstudents.commailto:giveitago@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gmtg@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gospelchoir@guild.bham.ac.uk
@@ -141,8 +140,6 @@ https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
-https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=External%20Trustee
-https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=Student%20Trustee
 https://www.guildofstudents.commailto:hse@guild.bham.ac.uk
 https://www.guildofstudents.commailto:iceskating@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ics@guild.bham.ac.uk
@@ -295,7 +292,6 @@ https://www.guildofstudents.commailto:uobbesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobgirlgamers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
-https://www.guildofstudents.commailto:Venuemanagers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:videogamesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vrsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:watchthis@guild.bham.ac.uk
