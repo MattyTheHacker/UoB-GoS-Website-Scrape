@@ -119,6 +119,7 @@ https://www.guildofstudents.commailto:fto@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
+https://www.guildofstudents.commailto:gift@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gmtg@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gospelchoir@guild.bham.ac.uk
@@ -166,7 +167,6 @@ https://www.guildofstudents.commailto:JainSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:japan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jewish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jfs@guild.bham.ac.uk
-https://www.guildofstudents.commailto:jobs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kase@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kazakh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
@@ -293,6 +293,7 @@ https://www.guildofstudents.commailto:uobgirlgamers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:videogamesociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:vietnamese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vrsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:watchthis@guild.bham.ac.uk
 https://www.guildofstudents.commailto:wayfarers@guild.bham.ac.uk

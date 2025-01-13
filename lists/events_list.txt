@@ -1,7 +1,7 @@
 {'id': '10228', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10228/', 'title': 'Housing Discussion'}
 {'id': '10256', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10256/', 'title': "Women's Cookies and Crafts Social"}
 {'id': '10259', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10259/', 'title': 'Postgraduate Wellbeing Zone'}
-{'id': '10297', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10297/', 'title': 'Halls Mug Decorating & Snacks'}
+{'id': '10297', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10297/', 'title': 'Sorry, there was a problem'}
 {'id': '10300', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10300/', 'title': 'Halls Oak Brook Park Welcome Back Party'}
 {'id': '10304', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10304/', 'title': 'Halls Hot Chocolate & Mugs Warm Up'}
 {'id': '10310', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10310/', 'title': 'Refreshers Fair - Day 1'}
@@ -87,7 +87,7 @@
 {'event_id': '10296', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/10296/', 'title': '04/04 Friday Kickboxing Session'}
 {'event_id': '9489', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/9489/', 'title': 'LANS campus league'}
 {'event_id': '10347', 'organisation_id': '12540', 'organisation': 'Powerlifting', 'url': 'https://www.guildofstudents.com/events/12540/10347/', 'title': 'Nutritional Seminar'}
-{'event_id': '9984', 'organisation_id': '13487', 'organisation': 'First Love', 'url': 'https://www.guildofstudents.com/events/13487/9984/', 'title': 'Society Meeting'}
+{'event_id': '9984', 'organisation_id': '13487', 'organisation': 'First Love', 'url': 'https://www.guildofstudents.com/events/13487/9984/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9985', 'organisation_id': '13487', 'organisation': 'First Love', 'url': 'https://www.guildofstudents.com/events/13487/9985/', 'title': 'Society Meeting'}
 {'event_id': '9986', 'organisation_id': '13487', 'organisation': 'First Love', 'url': 'https://www.guildofstudents.com/events/13487/9986/', 'title': 'Society Meeting'}
 {'event_id': '9557', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9557/', 'title': 'History campus league'}
