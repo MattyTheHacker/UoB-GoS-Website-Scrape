@@ -119,6 +119,8 @@ fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
+gift@guild.bham.ac.uk
+giveitago@guild.bham.ac.uk
 gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
 gospelchoir@guild.bham.ac.uk
@@ -292,6 +294,7 @@ uobgirlgamers@guild.bham.ac.uk
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 videogamesociety@guild.bham.ac.uk
+vietnamese@guild.bham.ac.uk
 vrsoc@guild.bham.ac.uk
 watchthis@guild.bham.ac.uk
 wayfarers@guild.bham.ac.uk

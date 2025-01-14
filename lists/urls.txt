@@ -166,6 +166,7 @@ https://www.guildofstudents.com#waffle
 https://www.guildofstudents.com#welcomeevents
 https://www.guildofstudents.com#welfaremore
 https://www.guildofstudents.com#womensmore
+https://www.guildofstudents.com.allofficercarousel
 https://www.guildofstudents.com/
 https://www.guildofstudents.com//instagram.com/3bugsfringe
 https://www.guildofstudents.com//instagram.com/93clubbirmingham
@@ -396,6 +397,7 @@ https://www.guildofstudents.com/about/enhancedtranscript/
 https://www.guildofstudents.com/about/impactreport
 https://www.guildofstudents.com/about/impactreport/
 https://www.guildofstudents.com/about/memberships/
+https://www.guildofstudents.com/about/memberships/externalapplication/reapply/
 https://www.guildofstudents.com/about/safeguardingpolicy
 https://www.guildofstudents.com/about/safeguardingpolicy/
 https://www.guildofstudents.com/about/strategicplan/
@@ -2988,6 +2990,9 @@ https://www.guildofstudents.com/events/6715/10355/
 https://www.guildofstudents.com/events/6715/10356/
 https://www.guildofstudents.com/events/6715/10357/
 https://www.guildofstudents.com/events/6715/10419/
+https://www.guildofstudents.com/events/6739/10423/
+https://www.guildofstudents.com/events/6739/10424/
+https://www.guildofstudents.com/events/6963/10422/
 https://www.guildofstudents.com/events/6995/10366/
 https://www.guildofstudents.com/events/7011/10206/
 https://www.guildofstudents.com/events/7011/10349/
@@ -3078,20 +3083,28 @@ https://www.guildofstudents.com/officerteam
 https://www.guildofstudents.com/officerteam/
 https://www.guildofstudents.com/officerteam/#newsblogs
 https://www.guildofstudents.com/officerteam/aeo/
+https://www.guildofstudents.com/officerteam/aeo/new/
 https://www.guildofstudents.com/officerteam/dso/
 https://www.guildofstudents.com/officerteam/emso/
 https://www.guildofstudents.com/officerteam/eo
 https://www.guildofstudents.com/officerteam/eo/
+https://www.guildofstudents.com/officerteam/eo/new/
 https://www.guildofstudents.com/officerteam/io/
+https://www.guildofstudents.com/officerteam/io/new/
 https://www.guildofstudents.com/officerteam/lgbtq/
 https://www.guildofstudents.com/officerteam/LGBTQ/
+https://www.guildofstudents.com/officerteam/new#pto
 https://www.guildofstudents.com/officerteam/pgo 
 https://www.guildofstudents.com/officerteam/pgo/
+https://www.guildofstudents.com/officerteam/pgo/new/
 https://www.guildofstudents.com/officerteam/president/
+https://www.guildofstudents.com/officerteam/president/new/
 https://www.guildofstudents.com/officerteam/so/
+https://www.guildofstudents.com/officerteam/so/new/
 https://www.guildofstudents.com/officerteam/suso/
 https://www.guildofstudents.com/officerteam/tnbso/
 https://www.guildofstudents.com/officerteam/wco/
+https://www.guildofstudents.com/officerteam/wco/new/
 https://www.guildofstudents.com/officerteam/wins
 https://www.guildofstudents.com/officerteam/wins/
 https://www.guildofstudents.com/officerteam/wo/
@@ -4517,6 +4530,7 @@ https://www.guildofstudents.com/profile/232259/
 https://www.guildofstudents.com/profile/232278/
 https://www.guildofstudents.com/profile/232301/
 https://www.guildofstudents.com/profile/232347/
+https://www.guildofstudents.com/profile/232382/
 https://www.guildofstudents.com/profile/232470/
 https://www.guildofstudents.com/profile/232479/
 https://www.guildofstudents.com/profile/232537/
@@ -4622,6 +4636,7 @@ https://www.guildofstudents.com/profile/245773/
 https://www.guildofstudents.com/profile/245838/
 https://www.guildofstudents.com/profile/245979/
 https://www.guildofstudents.com/profile/245983/
+https://www.guildofstudents.com/profile/246060/
 https://www.guildofstudents.com/profile/246090/
 https://www.guildofstudents.com/profile/246140/
 https://www.guildofstudents.com/profile/246159/
@@ -5697,6 +5712,7 @@ https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gift@guild.bham.ac.uk
+https://www.guildofstudents.commailto:giveitago@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gmtg@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gospelchoir@guild.bham.ac.uk
@@ -5744,6 +5760,7 @@ https://www.guildofstudents.commailto:JainSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:japan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jewish@guild.bham.ac.uk
 https://www.guildofstudents.commailto:jfs@guild.bham.ac.uk
+https://www.guildofstudents.commailto:jobs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kase@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kazakh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kcover@guild.bham.ac.uk
