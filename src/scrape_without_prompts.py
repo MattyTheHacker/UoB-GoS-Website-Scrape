@@ -29,6 +29,9 @@ def scrape(site):
             if url is None:
                 print("[ERROR] Url provided is none. This shouldn't happen...")
                 continue
+            if "/sso/" in url:
+                print("[WARN] Skipping SSO url: " + url)
+                continue
             if 'http' in url:
                 # make it so that only urls on the domain are scraped
                 if 'www.guildofstudents.com' in url:
