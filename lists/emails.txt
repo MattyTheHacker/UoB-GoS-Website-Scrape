@@ -131,7 +131,6 @@ https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk.
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hennasociety@guild.bham.ac.uk
-https://www.guildofstudents.commailto:heteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query
 https://www.guildofstudents.commailto:hideandseek@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hindu@guild.bham.ac.uk
 https://www.guildofstudents.commailto:history@guild.bham.ac.uk
@@ -142,6 +141,7 @@ https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
+https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query
 https://www.guildofstudents.commailto:hse@guild.bham.ac.uk
 https://www.guildofstudents.commailto:iceskating@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ics@guild.bham.ac.uk
@@ -280,6 +280,7 @@ https://www.guildofstudents.commailto:tamil@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tcu@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tea@guild.bham.ac.uk
 https://www.guildofstudents.commailto:the93clubsociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:tphsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:transofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tss@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ttgaming@guild.bham.ac.uk
