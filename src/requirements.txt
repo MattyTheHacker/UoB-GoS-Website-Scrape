@@ -1,4 +1,4 @@
-beautifulsoup4==4.12.2
-Requests==2.32.0
+beautifulsoup4
+Requests
 GitPython
 python-dotenv
