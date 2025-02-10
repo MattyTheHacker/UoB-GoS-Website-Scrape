@@ -17,6 +17,7 @@ AlternativeHipHopSociety@guild.bham.ac.uk
 amnesty@guild.bham.ac.uk
 anime@guild.bham.ac.uk
 appeals@contacts.bham.ac.uk
+arabsoc@guild.bham.ac.uk
 article19@guild.bham.ac.uk
 artsoc@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
@@ -181,6 +182,7 @@ lassoc@guild.bham.ac.uk
 latamsociety@guild.bham.ac.uk
 latinodance@guild.bham.ac.uk
 law4nonlaw@guild.bham.ac.uk
+levantinesociety@guild.bham.ac.uk
 lgbtq@guild.bham.ac.uk
 lgbtqofficer@guild.bham.ac.uk
 linguist@guild.bham.ac.uk
@@ -243,7 +245,6 @@ railway@guild.bham.ac.uk
 realale@guild.bham.ac.uk
 residencelife@guild.bham.ac.uk
 rollerskate@guild.bham.ac.uk
-roombookings@guild.bham.ac.uk
 roundnetsociety@guild.bham.ac.uk
 russianspeaking@guild.bham.ac.uk
 safeguarding@guild.bham.ac.uk
