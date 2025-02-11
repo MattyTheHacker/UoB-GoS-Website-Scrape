@@ -4,7 +4,7 @@
 cd /home/cogs/Documents/UoB-GoS-Website-Scrape/src/
 
 # pull any changes from github
-git pull
+git pull -X theirs
 
 # Run the python script
 python scrape_without_prompts.py
