@@ -2867,13 +2867,7 @@ https://www.guildofstudents.com/ents/event/10469/
 https://www.guildofstudents.com/ents/event/10476/
 https://www.guildofstudents.com/ents/event/10503/
 https://www.guildofstudents.com/ents/event/10504/
-https://www.guildofstudents.com/ents/event/10532/
-https://www.guildofstudents.com/ents/event/10533/
-https://www.guildofstudents.com/ents/event/10534/
-https://www.guildofstudents.com/ents/event/10535/
-https://www.guildofstudents.com/ents/event/10536/
 https://www.guildofstudents.com/ents/event/10553/
-https://www.guildofstudents.com/ents/event/10563/
 https://www.guildofstudents.com/ents/event/10565/
 https://www.guildofstudents.com/ents/event/10566/
 https://www.guildofstudents.com/ents/event/10582/
@@ -2890,7 +2884,6 @@ https://www.guildofstudents.com/ents/event/10627/
 https://www.guildofstudents.com/ents/event/10629/
 https://www.guildofstudents.com/ents/event/10633/
 https://www.guildofstudents.com/ents/event/10634/
-https://www.guildofstudents.com/ents/event/10648/
 https://www.guildofstudents.com/ents/event/10660/
 https://www.guildofstudents.com/ents/event/10663/
 https://www.guildofstudents.com/ents/event/10669/
@@ -2913,7 +2906,6 @@ https://www.guildofstudents.com/ents/eventlist/?month=4&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=7&year=2025
-https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/debate/
@@ -2989,6 +2981,7 @@ https://www.guildofstudents.com/events/20372/9609/
 https://www.guildofstudents.com/events/21477/10595/
 https://www.guildofstudents.com/events/21477/10643/
 https://www.guildofstudents.com/events/21693/10583/
+https://www.guildofstudents.com/events/21718/10678/
 https://www.guildofstudents.com/events/22470/10647/
 https://www.guildofstudents.com/events/22526/10644/
 https://www.guildofstudents.com/events/22575/10117/
@@ -3005,7 +2998,6 @@ https://www.guildofstudents.com/events/23447/10107/
 https://www.guildofstudents.com/events/23447/10612/
 https://www.guildofstudents.com/events/25595/10635/
 https://www.guildofstudents.com/events/26067/10573/
-https://www.guildofstudents.com/events/34325/10599/
 https://www.guildofstudents.com/events/35081/10370/
 https://www.guildofstudents.com/events/35297/10386/
 https://www.guildofstudents.com/events/35779/7484/
@@ -3031,7 +3023,6 @@ https://www.guildofstudents.com/events/51180/9490/
 https://www.guildofstudents.com/events/52037/10468/
 https://www.guildofstudents.com/events/52486/10478/
 https://www.guildofstudents.com/events/6123/10666/
-https://www.guildofstudents.com/events/6171/10608/
 https://www.guildofstudents.com/events/6187/10512/
 https://www.guildofstudents.com/events/6187/10615/
 https://www.guildofstudents.com/events/6187/9743/
@@ -3090,6 +3081,7 @@ https://www.guildofstudents.com/events/7067/10520/
 https://www.guildofstudents.com/events/7067/10628/
 https://www.guildofstudents.com/events/7067/10661/
 https://www.guildofstudents.com/events/7067/10664/
+https://www.guildofstudents.com/events/7067/10680/
 https://www.guildofstudents.com/events/7147/10556/
 https://www.guildofstudents.com/events/7147/10596/
 https://www.guildofstudents.com/events/7179/9528/
@@ -3151,7 +3143,6 @@ https://www.guildofstudents.com/keepsafe
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbacas%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpsychology%2f
