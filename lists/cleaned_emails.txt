@@ -23,6 +23,7 @@ artsoc@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
 autism@guild.bham.ac.uk
 aviation@guild.bham.ac.uk
+azerbaijanisociety@guild.bham.ac.uk
 bacas@guild.bham.ac.uk
 badfilm@guild.bham.ac.uk
 bahaisociety@guild.bham.ac.uk
@@ -198,7 +199,6 @@ masocbham@gmail.com
 mathsoc@guild.bham.ac.uk
 mealprepsociety@guild.bham.ac.uk
 MechEngSociety@guild.bham.ac.uk
-mediasales@guild.bham.ac.uk
 medtecsociety@guild.bham.ac.uk
 mentorwelfare@guild.bham.ac.uk
 metal@guild.bham.ac.uk
