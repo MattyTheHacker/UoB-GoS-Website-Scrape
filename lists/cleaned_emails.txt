@@ -126,7 +126,6 @@ gift@guild.bham.ac.uk
 giveitago@guild.bham.ac.uk
 gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
-gospelchoir@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
@@ -277,6 +276,7 @@ sustainabilityofficer@guild.bham.ac.uk
 systemsteam@guild.bham.ac.uk
 tamil@guild.bham.ac.uk
 tcu@guild.bham.ac.uk
+tdsociety@guild.bham.ac.uk
 tea@guild.bham.ac.uk
 the93clubsociety@guild.bham.ac.uk
 tphsociety@guild.bham.ac.uk

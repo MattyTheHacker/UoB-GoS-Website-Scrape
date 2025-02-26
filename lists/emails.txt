@@ -126,7 +126,6 @@ https://www.guildofstudents.commailto:gift@guild.bham.ac.uk
 https://www.guildofstudents.commailto:giveitago@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gmtg@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
-https://www.guildofstudents.commailto:gospelchoir@guild.bham.ac.uk
 https://www.guildofstudents.commailto:greenpartysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
@@ -279,6 +278,7 @@ https://www.guildofstudents.commailto:sustainabilityofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:systemsteam@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tamil@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tcu@guild.bham.ac.uk
+https://www.guildofstudents.commailto:tdsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tea@guild.bham.ac.uk
 https://www.guildofstudents.commailto:the93clubsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:tphsociety@guild.bham.ac.uk
