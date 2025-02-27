@@ -40,8 +40,6 @@
 {'id': '10582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10582/', 'title': "Joe's Comedy Night"}
 {'id': '10588', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10588/', 'title': 'LGBTQ+ Coffee & Board Games Social'}
 {'id': '10589', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10589/', 'title': 'LGBTQ+ History Month Film Night'}
-{'id': '10627', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10627/', 'title': 'Halls Tea and Quiz'}
-{'id': '10633', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10633/', 'title': 'Halls Decorate a T-shirt DIY'}
 {'id': '10641', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10641/', 'title': 'Guild Awards After Party 2025'}
 {'id': '10660', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10660/', 'title': "Halls Snack O'clock"}
 {'id': '10668', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10668/', 'title': 'Officer Elections 2025: Candidate Briefing'}
@@ -76,6 +74,7 @@
 {'id': '10770', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10770/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10771', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10771/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Wellbeing Office Pop Up'}
+{'id': '10773', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10773/', 'title': 'Halls Painting and Pizza'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9452/', 'title': 'The National Museum of Computing'}
@@ -83,6 +82,7 @@
 {'id': '9515', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9515/', 'title': 'Sports Night'}
 {'id': '9516', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9516/', 'title': 'Sports Night'}
 {'id': '9517', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9517/', 'title': 'Sports Night'}
+{'id': '9518', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9518/', 'title': 'Sports Night'}
 {'id': '9788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9788/', 'title': 'Criminology campus league'}
 {'id': '9897', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9897/', 'title': 'Psychology Netball'}
 {'event_id': '10267', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/10267/', 'title': '28/01 Tuesday Kickboxing Session'}
@@ -293,6 +293,7 @@
 {'event_id': '10640', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10640/', 'title': 'Stratford-upon-Avon Train Hike'}
 {'event_id': '10695', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10695/', 'title': 'Cadair Idris Coach Trip'}
 {'event_id': '10742', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10742/', 'title': 'Yorkshire Dales Weekend Trip'}
+{'event_id': '10774', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10774/', 'title': 'Wayfarers Formal'}
 {'event_id': '10399', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10399/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10400', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10400/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10401', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10401/', 'title': 'Public Speaking Society Weekly Session'}
