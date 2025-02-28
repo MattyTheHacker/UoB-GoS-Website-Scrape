@@ -36,6 +36,7 @@
 {'id': '10467', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10467/', 'title': 'Talk to Ravi'}
 {'id': '10469', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10469/', 'title': 'St Patricks FAB XO'}
 {'id': '10476', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10476/', 'title': 'Becoming an Officer: Sustainability Session'}
+{'id': '10502', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10502/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10553', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10553/', 'title': 'Big Guild Quiz'}
 {'id': '10582', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10582/', 'title': "Joe's Comedy Night"}
 {'id': '10588', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10588/', 'title': 'LGBTQ+ Coffee & Board Games Social'}
@@ -56,7 +57,7 @@
 {'id': '10705', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10705/', 'title': 'Halls Shamrock Shenanigans'}
 {'id': '10712', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10712/', 'title': 'Hall Affirmation Mirrors and Chocolate Fountain'}
 {'id': '10714', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10714/', 'title': 'Officer Elections 2025: Public Speaking training'}
-{'id': '10718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10718/', 'title': 'Chaii, Chaat & Chill'}
+{'id': '10718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10718/', 'title': 'Sorry, there was a problem'}
 {'id': '10719', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10719/', 'title': 'Officer Elections 2025: Trustee Eligibility training'}
 {'id': '10720', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10720/', 'title': 'Halls National Puppy Day: Puppy Painting and Cookies!'}
 {'id': '10725', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10725/', 'title': 'Brunch & Be Heard'}

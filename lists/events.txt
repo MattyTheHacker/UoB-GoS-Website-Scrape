@@ -37,6 +37,7 @@ https://www.guildofstudents.com/ents/event/10467/
 https://www.guildofstudents.com/ents/event/10469/
 https://www.guildofstudents.com/ents/event/10476/
 https://www.guildofstudents.com/ents/event/10502/
+https://www.guildofstudents.com/ents/event/10549/
 https://www.guildofstudents.com/ents/event/10553/
 https://www.guildofstudents.com/ents/event/10582/
 https://www.guildofstudents.com/ents/event/10588/
@@ -57,7 +58,6 @@ https://www.guildofstudents.com/ents/event/10704/
 https://www.guildofstudents.com/ents/event/10705/
 https://www.guildofstudents.com/ents/event/10712/
 https://www.guildofstudents.com/ents/event/10714/
-https://www.guildofstudents.com/ents/event/10718/
 https://www.guildofstudents.com/ents/event/10719/
 https://www.guildofstudents.com/ents/event/10720/
 https://www.guildofstudents.com/ents/event/10725/
@@ -76,6 +76,12 @@ https://www.guildofstudents.com/ents/event/10770/
 https://www.guildofstudents.com/ents/event/10771/
 https://www.guildofstudents.com/ents/event/10772/
 https://www.guildofstudents.com/ents/event/10773/
+https://www.guildofstudents.com/ents/event/10776/
+https://www.guildofstudents.com/ents/event/10777/
+https://www.guildofstudents.com/ents/event/10779/
+https://www.guildofstudents.com/ents/event/10782/
+https://www.guildofstudents.com/ents/event/10783/
+https://www.guildofstudents.com/ents/event/10784/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9452/
@@ -261,6 +267,8 @@ https://www.guildofstudents.com/events/7067/10661/
 https://www.guildofstudents.com/events/7067/10664/
 https://www.guildofstudents.com/events/7067/10680/
 https://www.guildofstudents.com/events/7067/10715/
+https://www.guildofstudents.com/events/7067/10778/
+https://www.guildofstudents.com/events/7067/10780/
 https://www.guildofstudents.com/events/7147/10556/
 https://www.guildofstudents.com/events/7179/9528/
 https://www.guildofstudents.com/events/7195/10515/
@@ -316,6 +324,7 @@ https://www.guildofstudents.com/events/8649/10416/
 https://www.guildofstudents.com/events/8649/10417/
 https://www.guildofstudents.com/events/8649/10418/
 https://www.guildofstudents.com/welcome/events/event/10323/
+https://www.guildofstudents.com/welcome/events/event/10335/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/

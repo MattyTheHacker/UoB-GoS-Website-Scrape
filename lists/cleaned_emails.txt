@@ -106,6 +106,7 @@ enactus@guild.bham.ac.uk
 enquiries@guild.bham.ac.uk
 esports@guild.bham.ac.uk
 euaffairs@guild.bham.ac.uk
+events.reslife@guild.bham.ac.uk
 ewb@guild.bham.ac.uk
 filipino@guild.bham.ac.uk
 filmmakingsociety@guild.bham.ac.uk
@@ -129,8 +130,6 @@ gns@guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
-hallreps@guild.bham.ac.uk
-hallreps@guild.bham.ac.uk.
 headucate@guild.bham.ac.uk
 healthandsafety@guild.bham.ac.uk
 hennasociety@guild.bham.ac.uk
@@ -294,6 +293,7 @@ uobbesociety@guild.bham.ac.uk
 uobgirlgamers@guild.bham.ac.uk
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
+vents.reslife@guild.bham.ac.uk
 videogamesociety@guild.bham.ac.uk
 vietnamese@guild.bham.ac.uk
 vrsoc@guild.bham.ac.uk

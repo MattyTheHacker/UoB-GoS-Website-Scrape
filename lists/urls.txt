@@ -2802,7 +2802,6 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
-https://www.guildofstudents.com/asset/News/6016/ASV-2-December-2024-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/ASV-3-February-2025-Full-Results.pdf
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
 https://www.guildofstudents.com/blackvoices/
@@ -2868,6 +2867,7 @@ https://www.guildofstudents.com/ents/event/10467/
 https://www.guildofstudents.com/ents/event/10469/
 https://www.guildofstudents.com/ents/event/10476/
 https://www.guildofstudents.com/ents/event/10502/
+https://www.guildofstudents.com/ents/event/10549/
 https://www.guildofstudents.com/ents/event/10553/
 https://www.guildofstudents.com/ents/event/10582/
 https://www.guildofstudents.com/ents/event/10588/
@@ -2888,7 +2888,6 @@ https://www.guildofstudents.com/ents/event/10704/
 https://www.guildofstudents.com/ents/event/10705/
 https://www.guildofstudents.com/ents/event/10712/
 https://www.guildofstudents.com/ents/event/10714/
-https://www.guildofstudents.com/ents/event/10718/
 https://www.guildofstudents.com/ents/event/10719/
 https://www.guildofstudents.com/ents/event/10720/
 https://www.guildofstudents.com/ents/event/10725/
@@ -2907,6 +2906,12 @@ https://www.guildofstudents.com/ents/event/10770/
 https://www.guildofstudents.com/ents/event/10771/
 https://www.guildofstudents.com/ents/event/10772/
 https://www.guildofstudents.com/ents/event/10773/
+https://www.guildofstudents.com/ents/event/10776/
+https://www.guildofstudents.com/ents/event/10777/
+https://www.guildofstudents.com/ents/event/10779/
+https://www.guildofstudents.com/ents/event/10782/
+https://www.guildofstudents.com/ents/event/10783/
+https://www.guildofstudents.com/ents/event/10784/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9452/
@@ -3131,6 +3136,8 @@ https://www.guildofstudents.com/events/7067/10661/
 https://www.guildofstudents.com/events/7067/10664/
 https://www.guildofstudents.com/events/7067/10680/
 https://www.guildofstudents.com/events/7067/10715/
+https://www.guildofstudents.com/events/7067/10778/
+https://www.guildofstudents.com/events/7067/10780/
 https://www.guildofstudents.com/events/7147/10556/
 https://www.guildofstudents.com/events/7179/9528/
 https://www.guildofstudents.com/events/7195/10515/
@@ -3311,7 +3318,6 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/moneymatters
 https://www.guildofstudents.com/moneymatters/
 https://www.guildofstudents.com/news/
-https://www.guildofstudents.com/news/article/website/All-Student-Vote-Dec-2024-Results/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Three-Results/
 https://www.guildofstudents.com/news/article/website/Ethnic-Minorities-Officer-Armaan-Hussain-withdrawn-from-role/
 https://www.guildofstudents.com/news/article/website/Hopes-Wellbeing-Tips-for-Studying-Over-Winter/
@@ -5942,6 +5948,7 @@ https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/daytime#guildevents
 https://www.guildofstudents.com/welcome/events/evening
 https://www.guildofstudents.com/welcome/events/event/10323/
+https://www.guildofstudents.com/welcome/events/event/10335/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/
@@ -6070,6 +6077,7 @@ https://www.guildofstudents.commailto:enactus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enquiries@guild.bham.ac.uk
 https://www.guildofstudents.commailto:esports@guild.bham.ac.uk
 https://www.guildofstudents.commailto:euaffairs@guild.bham.ac.uk
+https://www.guildofstudents.commailto:events.reslife@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ewb@guild.bham.ac.uk
 https://www.guildofstudents.commailto:filipino@guild.bham.ac.uk
 https://www.guildofstudents.commailto:filmmakingsociety@guild.bham.ac.uk
@@ -6093,8 +6101,6 @@ https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:greenpartysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
-https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk
-https://www.guildofstudents.commailto:hallreps@guild.bham.ac.uk.
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hennasociety@guild.bham.ac.uk
@@ -6260,6 +6266,7 @@ https://www.guildofstudents.commailto:uobbesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobgirlgamers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:vents.reslife@guild.bham.ac.uk
 https://www.guildofstudents.commailto:videogamesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vietnamese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vrsoc@guild.bham.ac.uk
