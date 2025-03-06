@@ -35,8 +35,6 @@
 {'id': '10714', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10714/', 'title': 'Officer Elections 2025: Public Speaking training'}
 {'id': '10719', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10719/', 'title': 'Officer Elections 2025: Trustee Eligibility training'}
 {'id': '10720', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10720/', 'title': 'Halls National Puppy Day: Puppy Painting and Cookies!'}
-{'id': '10725', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10725/', 'title': 'Brunch & Be Heard'}
-{'id': '10726', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10726/', 'title': 'Halls Scavenger Hunt'}
 {'id': '10738', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10738/', 'title': 'Community Breakfast'}
 {'id': '10739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10739/', 'title': 'Community Breakfast'}
 {'id': '10740', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10740/', 'title': 'Community Breakfast'}
@@ -89,6 +87,7 @@
 {'event_id': '10586', 'organisation_id': '11906', 'organisation': 'Welsh', 'url': 'https://www.guildofstudents.com/events/11906/10586/', 'title': 'Edinburgh Trip'}
 {'event_id': '10557', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/10557/', 'title': "International Women's Day Ball"}
 {'event_id': '10638', 'organisation_id': '13471', 'organisation': 'Poker', 'url': 'https://www.guildofstudents.com/events/13471/10638/', 'title': 'Poker CASH Game'}
+{'event_id': '10835', 'organisation_id': '18538', 'organisation': 'Bad Film', 'url': 'https://www.guildofstudents.com/events/18538/10835/', 'title': 'Bad Film Screening'}
 {'event_id': '9557', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9557/', 'title': 'History Netball Subs'}
 {'event_id': '9609', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9609/', 'title': 'History Football Subs'}
 {'event_id': '10756', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/10756/', 'title': 'Games Nights'}
@@ -131,6 +130,8 @@
 {'event_id': '10649', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10649/', 'title': 'MechSoc x UBRobotics - Robotics Speaker Event'}
 {'event_id': '9490', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9490/', 'title': 'Mechsoc Campus League'}
 {'event_id': '10751', 'organisation_id': '52697', 'organisation': 'Think Diversity', 'url': 'https://www.guildofstudents.com/events/52697/10751/', 'title': 'Decolonise & Socialise: A quiz sesh with TD'}
+{'event_id': '10837', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10837/', 'title': 'Arab And ISOC Iftar'}
+{'event_id': '10831', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/10831/', 'title': 'Astronomical Society Annual Dinner'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9745', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9745/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
