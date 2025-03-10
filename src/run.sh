@@ -1,13 +1,15 @@
 #!/bin/bash
 
 # cd to correct directory
-cd /home/cogs/Documents/UoB-GoS-Website-Scrape/src/
+cd "$(dirname "$0")"
 
 # pull any changes from github
-git pull -X theirs
+git fetch --all
+
+git reset --hard origin/main
 
 # Use the venv
-source venv/bin/activate
+source .venv/bin/activate
 
 # Run the python script
 python scrape_without_prompts.py
