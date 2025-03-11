@@ -86,6 +86,7 @@ https://www.guildofstudents.commailto:complaints@guild.bham.ac.uk
 https://www.guildofstudents.commailto:craft@guild.bham.ac.uk
 https://www.guildofstudents.commailto:criminology@guild.bham.ac.uk
 https://www.guildofstudents.commailto:css@guild.bham.ac.uk
+https://www.guildofstudents.commailto:culturalarts@guild.bham.ac.uk
 https://www.guildofstudents.commailto:darts@guild.bham.ac.uk
 https://www.guildofstudents.commailto:dataprotectionofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:debating@guild.bham.ac.uk
@@ -124,6 +125,7 @@ https://www.guildofstudents.commailto:gds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:german@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ghanaian@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gift@guild.bham.ac.uk
+https://www.guildofstudents.commailto:girlcoded@guild.bham.ac.uk
 https://www.guildofstudents.commailto:giveitago@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gmtg@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gns@guild.bham.ac.uk

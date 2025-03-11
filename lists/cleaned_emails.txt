@@ -86,6 +86,7 @@ complaints@guild.bham.ac.uk
 craft@guild.bham.ac.uk
 criminology@guild.bham.ac.uk
 css@guild.bham.ac.uk
+culturalarts@guild.bham.ac.uk
 darts@guild.bham.ac.uk
 dataprotectionofficer@guild.bham.ac.uk
 debating@guild.bham.ac.uk
@@ -124,6 +125,7 @@ gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
 gift@guild.bham.ac.uk
+girlcoded@guild.bham.ac.uk
 giveitago@guild.bham.ac.uk
 gmtg@guild.bham.ac.uk
 gns@guild.bham.ac.uk
