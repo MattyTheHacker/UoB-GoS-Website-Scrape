@@ -151,12 +151,13 @@ https://www.guildofstudents.com#newsblogs
 https://www.guildofstudents.com#nominatenow
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
-https://www.guildofstudents.com#pizzadayoffer
+https://www.guildofstudents.com#pizzadayofferd2
 https://www.guildofstudents.com#pizzapint
 https://www.guildofstudents.com#pizzapitcher
 https://www.guildofstudents.com#postgraduate-page
 https://www.guildofstudents.com#postgraduatemore
 https://www.guildofstudents.com#presidentmore
+https://www.guildofstudents.com#redbullgiveawayoffer
 https://www.guildofstudents.com#representation
 https://www.guildofstudents.com#shackle-carousel
 https://www.guildofstudents.com#shackletoninfo
@@ -2864,11 +2865,9 @@ https://www.guildofstudents.com/ents/event/10674/
 https://www.guildofstudents.com/ents/event/10692
 https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/10692/?code=HALL25
-https://www.guildofstudents.com/ents/event/10697/
 https://www.guildofstudents.com/ents/event/10704/
 https://www.guildofstudents.com/ents/event/10705/
 https://www.guildofstudents.com/ents/event/10720/
-https://www.guildofstudents.com/ents/event/10738/
 https://www.guildofstudents.com/ents/event/10739/
 https://www.guildofstudents.com/ents/event/10740/
 https://www.guildofstudents.com/ents/event/10741/
@@ -2895,11 +2894,13 @@ https://www.guildofstudents.com/ents/event/10848/
 https://www.guildofstudents.com/ents/event/10849/
 https://www.guildofstudents.com/ents/event/10864/
 https://www.guildofstudents.com/ents/event/10872/
+https://www.guildofstudents.com/ents/event/10878/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9452/
 https://www.guildofstudents.com/ents/event/9517/
 https://www.guildofstudents.com/ents/event/9518/
+https://www.guildofstudents.com/ents/event/9519/
 https://www.guildofstudents.com/ents/event/9788/
 https://www.guildofstudents.com/ents/event/9897/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2919,6 +2920,7 @@ https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/GoGreen/
+https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/guildawards/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
@@ -2996,9 +2998,11 @@ https://www.guildofstudents.com/events/23447/10852/
 https://www.guildofstudents.com/events/26553/10795/
 https://www.guildofstudents.com/events/26553/10874/
 https://www.guildofstudents.com/events/33868/10768/
+https://www.guildofstudents.com/events/34325/10210/
 https://www.guildofstudents.com/events/35089/10794/
 https://www.guildofstudents.com/events/35233/10854/
 https://www.guildofstudents.com/events/35257/10749/
+https://www.guildofstudents.com/events/35321/10877/
 https://www.guildofstudents.com/events/35779/7484/
 https://www.guildofstudents.com/events/38929/10842/
 https://www.guildofstudents.com/events/39365/10496/
@@ -3006,7 +3010,6 @@ https://www.guildofstudents.com/events/41191/10836/
 https://www.guildofstudents.com/events/43309/10343/
 https://www.guildofstudents.com/events/43319/10639/
 https://www.guildofstudents.com/events/43329/10727/
-https://www.guildofstudents.com/events/50842/10473/
 https://www.guildofstudents.com/events/51180/10543/
 https://www.guildofstudents.com/events/51180/10544/
 https://www.guildofstudents.com/events/51180/10548/
@@ -3014,6 +3017,7 @@ https://www.guildofstudents.com/events/51180/10649/
 https://www.guildofstudents.com/events/51180/9490/
 https://www.guildofstudents.com/events/52443/10839/
 https://www.guildofstudents.com/events/52697/10751/
+https://www.guildofstudents.com/events/6059/10827/
 https://www.guildofstudents.com/events/6059/10828/
 https://www.guildofstudents.com/events/6123/10837/
 https://www.guildofstudents.com/events/6123/10855/
@@ -3049,6 +3053,7 @@ https://www.guildofstudents.com/events/6371/10860/
 https://www.guildofstudents.com/events/6371/10861/
 https://www.guildofstudents.com/events/6371/10862/
 https://www.guildofstudents.com/events/6371/10863/
+https://www.guildofstudents.com/events/6395/10876/
 https://www.guildofstudents.com/events/6395/9641/
 https://www.guildofstudents.com/events/6523/10791/
 https://www.guildofstudents.com/events/6531/10315/
@@ -3065,7 +3070,6 @@ https://www.guildofstudents.com/events/6691/10702/
 https://www.guildofstudents.com/events/6739/10423/
 https://www.guildofstudents.com/events/6739/10844/
 https://www.guildofstudents.com/events/6803/10499/
-https://www.guildofstudents.com/events/6851/10799/
 https://www.guildofstudents.com/events/6875/10840/
 https://www.guildofstudents.com/events/6907/10748/
 https://www.guildofstudents.com/events/6923/10766/
@@ -3140,10 +3144,10 @@ https://www.guildofstudents.com/login/?redirect=%2felections%2fvote%2f388%2f
 https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f10692%2f
 https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2f8649%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmountaineering%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpolefitness%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10026370%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10063190%2f
@@ -3878,7 +3882,6 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Mi
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Minutes-15.11.22.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Minutes-27.5.23.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Minutes-31.1.23.pdf
-https://www.guildofstudents.com/pageassets/representation/democracyminutes/Complaints-Log-24-25-Published-11.3.25.xlsx
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Consultation-Action-Group-Minutes-8.11.2024.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Conversion-Therapy-Action-Group-Minutes-22.11.2024.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Education-Committee-2022-04-January-Minutes.pdf
