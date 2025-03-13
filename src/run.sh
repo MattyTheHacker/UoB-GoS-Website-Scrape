@@ -9,7 +9,7 @@ git fetch --all
 git reset --hard origin/main
 
 # Use the venv
-source .venv/bin/activate
+source ../venv/bin/activate
 
 # Run the python script
 python scrape_without_prompts.py
