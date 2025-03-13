@@ -1,9 +1,9 @@
-from file_type_utils import *
+from file_type_utils import is_email, is_pdf, is_doc, is_rss, is_image, is_event
 from list_operations_utils import *
 import requests
 
 # we need a method to check if the url is valid and doesn't contain any errors
-def valid_url(url):
+def valid_url(url) -> bool:
     try:
         r = requests.get(url)
         if r.status_code == 200:

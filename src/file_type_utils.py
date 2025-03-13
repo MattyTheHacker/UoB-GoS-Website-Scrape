@@ -1,47 +1,24 @@
-def is_pdf(url):
-    if '.pdf' in url:
-        return True
-    else:
-        return False
+def is_pdf(url) -> bool:
+    return '.pdf' in url
 
 
-def is_email(url):
-    if 'mailto:' in url:
-        return True
-    else:
-        return False
+def is_email(url) -> bool:
+    return 'mailto:' in url
 
 
-def is_doc(url):
-    if '.docx' in url:
-        return True
-    if '.doc' in url:
-        return True
-    if '.ppt' in url:
-        return True
-    if '.pptx' in url:
-        return True
-    else:
-        return False
+def is_doc(url) -> bool:
+    return any(extension in url for extension in ['.doc', '.docx', '.ppt', '.pptx', '.xls', '.xlsx'])
 
 
-def is_rss(url):
-    if 'rss' in url:
-        return True
-    else:
-        return False
+def is_rss(url) -> bool:
+    return 'rss' in url
 
 
-def is_image(url):
-    if '.jpg' in url:
-        return True
-    if '.png' in url:
-        return True
-    else:
-        return False
+def is_image(url) -> bool:
+    return any(extension in url for extension in ['.jpg', '.png', '.jpeg', '.gif'])
 
 
-def is_event(url):
+def is_event(url) -> bool:
     if '/ents/event/' in url:
         end_of_url = url.split('/')[-2]
         if end_of_url.isdigit():
@@ -57,3 +34,5 @@ def is_event(url):
         else:
             print("[ERROR] Invalid event url: " + url)
             return False
+        
+    return False
