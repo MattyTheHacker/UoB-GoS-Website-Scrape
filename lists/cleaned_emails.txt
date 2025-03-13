@@ -178,6 +178,7 @@ KCover@guild.bham.ac.uk
 kickboxing@guild.bham.ac.uk
 kocs@guild.bham.ac.uk
 koreansoc@guild.bham.ac.uk
+kurdsoc@guild.bham.ac.uk
 labour@guild.bham.ac.uk
 larp@guild.bham.ac.uk
 lassoc@guild.bham.ac.uk
@@ -293,6 +294,7 @@ unicef@guild.bham.ac.uk
 uobbengsoc@gmail.com
 uobbesociety@guild.bham.ac.uk
 uobgirlgamers@guild.bham.ac.uk
+uzbeksociety@guild.bham.ac.uk
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 vents.reslife@guild.bham.ac.uk

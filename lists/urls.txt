@@ -151,13 +151,11 @@ https://www.guildofstudents.com#newsblogs
 https://www.guildofstudents.com#nominatenow
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
-https://www.guildofstudents.com#pizzadayofferd2
 https://www.guildofstudents.com#pizzapint
 https://www.guildofstudents.com#pizzapitcher
 https://www.guildofstudents.com#postgraduate-page
 https://www.guildofstudents.com#postgraduatemore
 https://www.guildofstudents.com#presidentmore
-https://www.guildofstudents.com#redbullgiveawayoffer
 https://www.guildofstudents.com#representation
 https://www.guildofstudents.com#shackle-carousel
 https://www.guildofstudents.com#shackletoninfo
@@ -166,7 +164,6 @@ https://www.guildofstudents.com#societies
 https://www.guildofstudents.com#societies-page
 https://www.guildofstudents.com#spinneyinfo
 https://www.guildofstudents.com#sportsmore
-https://www.guildofstudents.com#sportsnightoffer
 https://www.guildofstudents.com#student-blog-1
 https://www.guildofstudents.com#studentgroupoffer
 https://www.guildofstudents.com#studentreps20
@@ -2865,7 +2862,6 @@ https://www.guildofstudents.com/ents/event/10674/
 https://www.guildofstudents.com/ents/event/10692
 https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/10692/?code=HALL25
-https://www.guildofstudents.com/ents/event/10704/
 https://www.guildofstudents.com/ents/event/10705/
 https://www.guildofstudents.com/ents/event/10720/
 https://www.guildofstudents.com/ents/event/10739/
@@ -2895,6 +2891,10 @@ https://www.guildofstudents.com/ents/event/10849/
 https://www.guildofstudents.com/ents/event/10864/
 https://www.guildofstudents.com/ents/event/10872/
 https://www.guildofstudents.com/ents/event/10878/
+https://www.guildofstudents.com/ents/event/10881/
+https://www.guildofstudents.com/ents/event/10882/
+https://www.guildofstudents.com/ents/event/10883/
+https://www.guildofstudents.com/ents/event/10884/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9452/
@@ -2923,6 +2923,7 @@ https://www.guildofstudents.com/ents/eventlist/GoGreen/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/guildawards/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
+https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
@@ -3018,7 +3019,6 @@ https://www.guildofstudents.com/events/51180/9490/
 https://www.guildofstudents.com/events/52443/10839/
 https://www.guildofstudents.com/events/52697/10751/
 https://www.guildofstudents.com/events/6059/10827/
-https://www.guildofstudents.com/events/6059/10828/
 https://www.guildofstudents.com/events/6123/10837/
 https://www.guildofstudents.com/events/6123/10855/
 https://www.guildofstudents.com/events/6155/10831/
@@ -3055,7 +3055,6 @@ https://www.guildofstudents.com/events/6371/10862/
 https://www.guildofstudents.com/events/6371/10863/
 https://www.guildofstudents.com/events/6395/10876/
 https://www.guildofstudents.com/events/6395/9641/
-https://www.guildofstudents.com/events/6523/10791/
 https://www.guildofstudents.com/events/6531/10315/
 https://www.guildofstudents.com/events/6531/10765/
 https://www.guildofstudents.com/events/6691/10655/
@@ -3111,6 +3110,7 @@ https://www.guildofstudents.com/events/7523/10774/
 https://www.guildofstudents.com/events/7523/10807/
 https://www.guildofstudents.com/events/7523/10841/
 https://www.guildofstudents.com/events/7523/10865/
+https://www.guildofstudents.com/events/7523/10885/
 https://www.guildofstudents.com/events/8649/10403/
 https://www.guildofstudents.com/events/8649/10404/
 https://www.guildofstudents.com/events/8649/10405/
@@ -5719,6 +5719,8 @@ https://www.guildofstudents.com/studentgroups/societies/50892/
 https://www.guildofstudents.com/studentgroups/societies/51190/
 https://www.guildofstudents.com/studentgroups/societies/51200/
 https://www.guildofstudents.com/studentgroups/societies/52697/
+https://www.guildofstudents.com/studentgroups/societies/52773/
+https://www.guildofstudents.com/studentgroups/societies/52783/
 https://www.guildofstudents.com/studentgroups/societies/9334/
 https://www.guildofstudents.com/studentgroups/societies/africanandcaribbean/
 https://www.guildofstudents.com/studentgroups/societies/ahlulbayt/
@@ -5874,7 +5876,7 @@ https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/daytime#guildevents
 https://www.guildofstudents.com/welcome/events/evening
 https://www.guildofstudents.com/welcome/events/event/10325/
-https://www.guildofstudents.com/welcome/events/event/10336/
+https://www.guildofstudents.com/welcome/events/event/10337/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/
@@ -6076,6 +6078,7 @@ https://www.guildofstudents.commailto:KCover@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kickboxing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:kocs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:koreansoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:kurdsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:labour@guild.bham.ac.uk
 https://www.guildofstudents.commailto:larp@guild.bham.ac.uk
 https://www.guildofstudents.commailto:lassoc@guild.bham.ac.uk
@@ -6192,6 +6195,7 @@ https://www.guildofstudents.commailto:unicef@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobbengsoc@gmail.com
 https://www.guildofstudents.commailto:uobbesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:uobgirlgamers@guild.bham.ac.uk
+https://www.guildofstudents.commailto:uzbeksociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:valefestival@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vegesoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vents.reslife@guild.bham.ac.uk
