@@ -35,7 +35,6 @@
 {'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10776', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10776/', 'title': 'Halls Having a Ball – Moss Ball Terrarium Making!'}
 {'id': '10777', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10777/', 'title': 'Karaoke, Board Games, and Pizza'}
-{'id': '10779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10779/', 'title': 'Sorry, there was a problem'}
 {'id': '10782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10782/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
@@ -55,6 +54,8 @@
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
 {'id': '10883', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10883/', 'title': 'Postgraduate & Mature Students Housemate Finder'}
 {'id': '10884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10884/', 'title': 'Halls Brownies and Bling'}
+{'id': '10887', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10887/', 'title': 'Selly’s Eco Egg Hunt'}
+{'id': '10889', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10889/', 'title': 'Halls Easter Event: Juices, Jars and Mini Eggs'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9452/', 'title': 'The National Museum of Computing'}
@@ -123,6 +124,7 @@
 {'event_id': '10874', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/10874/', 'title': 'ELSA Social @Vagabond'}
 {'event_id': '10768', 'organisation_id': '33868', 'organisation': 'Birmingham Students for Life', 'url': 'https://www.guildofstudents.com/events/33868/10768/', 'title': 'Fr Calvin Robinson: Discussing the Pro-life Movement.'}
 {'event_id': '10210', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10210/', 'title': 'Netball Membership'}
+{'event_id': '10601', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10601/', 'title': 'Big Guild Quiz'}
 {'event_id': '10794', 'organisation_id': '35089', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35089/10794/', 'title': 'Docs Not Cops Annual Conference'}
 {'event_id': '10854', 'organisation_id': '35233', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35233/10854/', 'title': 'Leadership as a medical student'}
 {'event_id': '10749', 'organisation_id': '35257', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35257/10749/', 'title': 'AGM'}
@@ -142,6 +144,7 @@
 {'event_id': '10839', 'organisation_id': '52443', 'organisation': 'Cheese', 'url': 'https://www.guildofstudents.com/events/52443/10839/', 'title': 'Cheese soc event with industry Professional and cheese tasting'}
 {'event_id': '10751', 'organisation_id': '52697', 'organisation': 'Think Diversity', 'url': 'https://www.guildofstudents.com/events/52697/10751/', 'title': 'Decolonise & Socialise: A quiz sesh with TD'}
 {'event_id': '10827', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10827/', 'title': 'Barbershop Fellowship'}
+{'event_id': '10880', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10880/', 'title': 'Paint and Worship'}
 {'event_id': '10837', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10837/', 'title': 'Arab And ISOC Iftar'}
 {'event_id': '10855', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10855/', 'title': 'Know Your Aqsa'}
 {'event_id': '10831', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/10831/', 'title': 'Astronomical Society Annual Dinner'}
