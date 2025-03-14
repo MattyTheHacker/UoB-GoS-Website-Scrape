@@ -35,7 +35,7 @@
 {'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10776', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10776/', 'title': 'Halls Having a Ball – Moss Ball Terrarium Making!'}
 {'id': '10777', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10777/', 'title': 'Karaoke, Board Games, and Pizza'}
-{'id': '10779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10779/', 'title': 'Halls Letter Decorating and Brownies'}
+{'id': '10779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10779/', 'title': 'Sorry, there was a problem'}
 {'id': '10782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10782/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
