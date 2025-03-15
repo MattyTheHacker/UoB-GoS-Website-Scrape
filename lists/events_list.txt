@@ -29,12 +29,10 @@
 {'id': '10741', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10741/', 'title': 'Community Breakfast'}
 {'id': '10752', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10752/', 'title': 'Big Green Quiz'}
 {'id': '10764', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10764/', 'title': 'Selly Oak Nature Walk'}
-{'id': '10769', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10769/', 'title': 'Sorry, there was a problem'}
 {'id': '10770', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10770/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10771', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10771/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10776', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10776/', 'title': 'Halls Having a Ball – Moss Ball Terrarium Making!'}
-{'id': '10777', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10777/', 'title': 'Sorry, there was a problem'}
 {'id': '10782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10782/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
