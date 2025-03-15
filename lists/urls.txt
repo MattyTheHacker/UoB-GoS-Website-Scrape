@@ -2853,12 +2853,10 @@ https://www.guildofstudents.com/ents/event/10740/
 https://www.guildofstudents.com/ents/event/10741/
 https://www.guildofstudents.com/ents/event/10752/
 https://www.guildofstudents.com/ents/event/10764/
-https://www.guildofstudents.com/ents/event/10769/
 https://www.guildofstudents.com/ents/event/10770/
 https://www.guildofstudents.com/ents/event/10771/
 https://www.guildofstudents.com/ents/event/10772/
 https://www.guildofstudents.com/ents/event/10776/
-https://www.guildofstudents.com/ents/event/10777/
 https://www.guildofstudents.com/ents/event/10782/
 https://www.guildofstudents.com/ents/event/10783/
 https://www.guildofstudents.com/ents/event/10784/
@@ -3863,7 +3861,7 @@ https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Mi
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Minutes-15.11.22.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Minutes-27.5.23.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/CC-Minutes-31.1.23.pdf
-https://www.guildofstudents.com/pageassets/representation/democracyminutes/Complaints-Log-24-25-Published-14.03.25.xlsx
+https://www.guildofstudents.com/pageassets/representation/democracyminutes/Complaints-Log-24-25-Published-15.03.25.xlsx
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Consultation-Action-Group-Minutes-8.11.2024.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Conversion-Therapy-Action-Group-Minutes-22.11.2024.pdf
 https://www.guildofstudents.com/pageassets/representation/democracyminutes/Education-Committee-2022-04-January-Minutes.pdf
