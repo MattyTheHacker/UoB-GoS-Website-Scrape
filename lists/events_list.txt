@@ -212,7 +212,7 @@
 {'event_id': '10624', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/10624/', 'title': 'Mental Health First Aid Training'}
 {'event_id': '10625', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/10625/', 'title': 'Psychology Ball'}
 {'event_id': '10722', 'organisation_id': '7235', 'organisation': 'Redbrick', 'url': 'https://www.guildofstudents.com/events/7235/10722/', 'title': 'Café Chill & Chat'}
-{'event_id': '10354', 'organisation_id': '7299', 'organisation': 'Scouts & Guides', 'url': 'https://www.guildofstudents.com/events/7299/10354/', 'title': 'Big BUSAG Breakfast 2025'}
+{'event_id': '10354', 'organisation_id': '7299', 'organisation': 'Scouts & Guides', 'url': 'https://www.guildofstudents.com/events/7299/10354/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9575', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9575/', 'title': "Women's project volunteering"}
 {'event_id': '9576', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9576/', 'title': "Women's project volunteering"}
 {'event_id': '9577', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9577/', 'title': "Women's project volunteering"}
