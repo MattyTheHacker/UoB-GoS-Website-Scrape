@@ -36,7 +36,7 @@
 {'id': '10782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10782/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
-{'id': '10805', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10805/', 'title': 'Stokestyle Race & Freestyle'}
+{'id': '10805', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10805/', 'title': 'Sorry, there was a problem'}
 {'id': '10806', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10806/', 'title': 'Halls Burrito Bonanza!!'}
 {'id': '10825', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10825/', 'title': 'Halls DIY Jewellery Workshop'}
 {'id': '10832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10832/', 'title': 'Halls Easter Eggstravaganza: Chocolate Fountain and Easter Crafts'}
@@ -107,7 +107,7 @@
 {'event_id': '10787', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10787/', 'title': 'The Peter Pan-to'}
 {'event_id': '10788', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10788/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
 {'event_id': '10789', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10789/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
-{'event_id': '10117', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10117/', 'title': 'Varsity'}
+{'event_id': '10117', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10117/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10242', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10242/', 'title': 'Campus League Netball Semester 2'}
 {'event_id': '10243', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10243/', 'title': 'Campus League Football Semester 2'}
 {'event_id': '10590', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10590/', 'title': 'Comic Relief Charity Tournament'}
@@ -130,7 +130,7 @@
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (October 8th-16th)'}
 {'event_id': '10842', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10842/', 'title': "Sip 'N Paint (Collab w/ Yoga Soc)"}
 {'event_id': '10496', 'organisation_id': '39365', 'organisation': 'UOB Girl Gamers', 'url': 'https://www.guildofstudents.com/events/39365/10496/', 'title': 'Arcade night'}
-{'event_id': '10836', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/10836/', 'title': 'Swiftogeddon Pres'}
+{'event_id': '10836', 'organisation_id': '41191', 'organisation': 'Taylor Swift', 'url': 'https://www.guildofstudents.com/events/41191/10836/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10343', 'organisation_id': '43309', 'organisation': 'Model United Nations', 'url': 'https://www.guildofstudents.com/events/43309/10343/', 'title': 'BrumMUN 2025'}
 {'event_id': '10639', 'organisation_id': '43319', 'organisation': 'EU Affairs', 'url': 'https://www.guildofstudents.com/events/43319/10639/', 'title': 'Trip to Moldova'}
 {'event_id': '10727', 'organisation_id': '43329', 'organisation': '13th Horror', 'url': 'https://www.guildofstudents.com/events/43329/10727/', 'title': 'Special Effects Makeup and Horror with Dan Frye!'}
