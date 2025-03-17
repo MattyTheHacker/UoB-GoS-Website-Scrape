@@ -2841,6 +2841,7 @@ https://www.guildofstudents.com/ents/event/10455/
 https://www.guildofstudents.com/ents/event/10467/
 https://www.guildofstudents.com/ents/event/10469/
 https://www.guildofstudents.com/ents/event/10549/
+https://www.guildofstudents.com/ents/event/10588/
 https://www.guildofstudents.com/ents/event/10641/
 https://www.guildofstudents.com/ents/event/10674/
 https://www.guildofstudents.com/ents/event/10692
@@ -3067,6 +3068,7 @@ https://www.guildofstudents.com/events/7195/10515/
 https://www.guildofstudents.com/events/7195/10516/
 https://www.guildofstudents.com/events/7195/10721/
 https://www.guildofstudents.com/events/7211/10830/
+https://www.guildofstudents.com/events/7211/10897/
 https://www.guildofstudents.com/events/7219/10307/
 https://www.guildofstudents.com/events/7219/10624/
 https://www.guildofstudents.com/events/7219/10625/
@@ -3235,6 +3237,7 @@ https://www.guildofstudents.com/moneymatters/
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Three-Results/
 https://www.guildofstudents.com/news/article/website/Ethnic-Minorities-Officer-Armaan-Hussain-withdrawn-from-role/
+https://www.guildofstudents.com/news/article/website/Go-Green-Week-2025/
 https://www.guildofstudents.com/news/article/website/Notice-for-Guild-of-Students-Officer-Elections-2025/
 https://www.guildofstudents.com/news/article/website/Officer-Bye-Election-Updates-and-Trans-and-Non-Binary-Students-Officer-Resignation/
 https://www.guildofstudents.com/news/article/website/Study-Tips-to-get-through-Assessment-Season/
