@@ -10,7 +10,7 @@
 {'id': '10337', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10337/', 'title': 'Big Guild Quiz'}
 {'id': '10338', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10338/', 'title': 'Big Green Guild Quiz'}
 {'id': '10339', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10339/', 'title': 'Big Guild Quiz'}
-{'id': '10376', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10376/', 'title': 'Guild Awards 2025'}
+{'id': '10376', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10376/', 'title': 'Sorry, there was a problem'}
 {'id': '10446', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10446/', 'title': 'Wellbeing Café'}
 {'id': '10447', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10447/', 'title': 'Wellbeing Café'}
 {'id': '10448', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10448/', 'title': 'Wellbeing Café'}
@@ -256,7 +256,6 @@
 {'event_id': '10417', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10417/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10418', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10418/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10803', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/10803/', 'title': 'Board Game Café'}
-{'event_id': '10325', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/10325/', 'title': 'Bingo'}
 {'event_id': '10337', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/10337/', 'title': 'Big Guild Quiz'}
 {'event_id': '9362', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9362/', 'title': 'Post Grad Student Social'}
 {'event_id': '9363', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9363/', 'title': 'International Social + Fusion Afterparty'}
