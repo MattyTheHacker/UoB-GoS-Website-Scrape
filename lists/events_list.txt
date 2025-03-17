@@ -18,6 +18,7 @@
 {'id': '10467', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10467/', 'title': 'Talk to Ravi'}
 {'id': '10469', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10469/', 'title': 'St Patricks FAB XO'}
 {'id': '10549', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10549/', 'title': 'End Of Term FAB XO ft BUDS Afterparty'}
+{'id': '10588', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10588/', 'title': 'LGBTQ+ Coffee & Board Games Social'}
 {'id': '10641', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10641/', 'title': 'Guild Awards After Party 2025'}
 {'id': '10674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10674/', 'title': 'Officer Elections 2025: Candidate Social'}
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/', 'title': 'Valefest 2025'}
@@ -206,6 +207,7 @@
 {'event_id': '10516', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/10516/', 'title': 'Pole Gala Competition - Competitors'}
 {'event_id': '10721', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/10721/', 'title': 'Pole Ball'}
 {'event_id': '10830', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/10830/', 'title': 'Pour Decisions'}
+{'event_id': '10897', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/10897/', 'title': 'Coalition of Chaos'}
 {'event_id': '10307', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/10307/', 'title': 'Psychology Football'}
 {'event_id': '10624', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/10624/', 'title': 'Mental Health First Aid Training'}
 {'event_id': '10625', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/10625/', 'title': 'Psychology Ball'}

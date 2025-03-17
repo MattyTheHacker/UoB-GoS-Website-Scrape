@@ -143,11 +143,11 @@ https://www.guildofstudents.com#newsblogs
 https://www.guildofstudents.com#nominatenow
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
+https://www.guildofstudents.com#officerteam
 https://www.guildofstudents.com#pizzapint
 https://www.guildofstudents.com#pizzapitcher
 https://www.guildofstudents.com#postgraduate-page
 https://www.guildofstudents.com#representation
-https://www.guildofstudents.com#results
 https://www.guildofstudents.com#shackle-carousel
 https://www.guildofstudents.com#shackletoninfo
 https://www.guildofstudents.com#signup
@@ -413,6 +413,7 @@ https://www.guildofstudents.com/about/trusteeboard/
 https://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
 https://www.guildofstudents.com/about/trusteeboard/subcommittees/
 https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/
+https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/externaltrustee/
 https://www.guildofstudents.com/about/trusteeboard/whoarethetrustees/
 https://www.guildofstudents.com/about/who-we-are/
 https://www.guildofstudents.com/academic-hub/43648/
@@ -2817,8 +2818,6 @@ https://www.guildofstudents.com/contact-us/
 https://www.guildofstudents.com/elections
 https://www.guildofstudents.com/elections/
 https://www.guildofstudents.com/elections/groups
-https://www.guildofstudents.com/elections/postsandcandidates/388/
-https://www.guildofstudents.com/elections/results/388/
 https://www.guildofstudents.com/elections/votingstats
 https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/10322/
@@ -2919,6 +2918,7 @@ https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
+https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomeevening/
 https://www.guildofstudents.com/ents/eventlist/welcomepageaccom/
 https://www.guildofstudents.com/ents/eventlist/welcomesettlingin/
@@ -2973,6 +2973,7 @@ https://www.guildofstudents.com/events/22575/10591/
 https://www.guildofstudents.com/events/22575/10592/
 https://www.guildofstudents.com/events/22575/10867/
 https://www.guildofstudents.com/events/22877/10552/
+https://www.guildofstudents.com/events/23405/10622/
 https://www.guildofstudents.com/events/23447/10823/
 https://www.guildofstudents.com/events/23447/10833/
 https://www.guildofstudents.com/events/23447/10852/
@@ -2987,6 +2988,7 @@ https://www.guildofstudents.com/events/35257/10749/
 https://www.guildofstudents.com/events/35321/10877/
 https://www.guildofstudents.com/events/35779/7484/
 https://www.guildofstudents.com/events/38929/10842/
+https://www.guildofstudents.com/events/38929/10898/
 https://www.guildofstudents.com/events/39365/10496/
 https://www.guildofstudents.com/events/43309/10343/
 https://www.guildofstudents.com/events/43319/10639/
@@ -2997,6 +2999,7 @@ https://www.guildofstudents.com/events/51180/10548/
 https://www.guildofstudents.com/events/51180/10649/
 https://www.guildofstudents.com/events/51180/9490/
 https://www.guildofstudents.com/events/52443/10839/
+https://www.guildofstudents.com/events/52640/10900/
 https://www.guildofstudents.com/events/52697/10751/
 https://www.guildofstudents.com/events/6059/10827/
 https://www.guildofstudents.com/events/6059/10880/
@@ -3093,6 +3096,7 @@ https://www.guildofstudents.com/events/7523/10841/
 https://www.guildofstudents.com/events/7523/10865/
 https://www.guildofstudents.com/events/7523/10885/
 https://www.guildofstudents.com/events/7523/10893/
+https://www.guildofstudents.com/events/7523/10899/
 https://www.guildofstudents.com/events/8649/10403/
 https://www.guildofstudents.com/events/8649/10404/
 https://www.guildofstudents.com/events/8649/10405/
@@ -3451,6 +3455,9 @@ https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminute
 https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminutes/Trustee-Board-Minutes-28.10.24.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/10.-The-Essential-Trustee-Guide.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/8.-Education-Act.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/External-Trustee-Advert.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/External-Trustee-Information-Pack-February-2025.pdf
+https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/externaltrustee/External-Trustee-Role-Description.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/trusteerecruitment/Trustee-Role-Description-and-Person-Spec.pdf
 https://www.guildofstudents.com/pageassets/accommodation/housing/livinginyourhome/Flat-Agreement.pdf
 https://www.guildofstudents.com/pageassets/accommodation/housing/livinginyourhome/Guild_Living-With-Others_Wall_Planner-Print-Ready_13-Rows.pdf
@@ -6021,6 +6028,7 @@ https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
+https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=External%20Trustee
 https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query
 https://www.guildofstudents.commailto:hse@guild.bham.ac.uk
 https://www.guildofstudents.commailto:iceskating@guild.bham.ac.uk
