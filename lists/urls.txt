@@ -2998,6 +2998,7 @@ https://www.guildofstudents.com/events/51180/10649/
 https://www.guildofstudents.com/events/51180/9490/
 https://www.guildofstudents.com/events/52443/10839/
 https://www.guildofstudents.com/events/52640/10900/
+https://www.guildofstudents.com/events/52640/10912/
 https://www.guildofstudents.com/events/52697/10751/
 https://www.guildofstudents.com/events/6059/10827/
 https://www.guildofstudents.com/events/6059/10880/
@@ -3231,7 +3232,6 @@ https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10303360%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f42029%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
-https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fcathsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fkorean%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fbecomearep%2f

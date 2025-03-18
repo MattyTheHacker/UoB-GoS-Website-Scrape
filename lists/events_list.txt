@@ -49,8 +49,10 @@
 {'id': '10884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10884/', 'title': 'Halls Brownies and Bling'}
 {'id': '10887', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10887/', 'title': 'Selly’s Eco Egg Hunt'}
 {'id': '10889', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10889/', 'title': 'Halls Easter Event: Juices, Jars and Mini Eggs'}
-{'id': '10895', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10895/', 'title': 'Halls Eco Eats!'}
+{'id': '10895', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10895/', 'title': 'Halls Eco Eats and Cold Cup Decorating'}
 {'id': '10896', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10896/', 'title': 'Halls Eco Fair'}
+{'id': '10909', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10909/', 'title': 'Chaii, Chaat & Chill'}
+{'id': '10910', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10910/', 'title': 'Halls Tote-tally transformative'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9452/', 'title': 'The National Museum of Computing'}
