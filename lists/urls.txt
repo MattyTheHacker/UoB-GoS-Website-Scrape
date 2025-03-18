@@ -3307,6 +3307,7 @@ https://www.guildofstudents.com/organisation/52050/
 https://www.guildofstudents.com/organisation/52321/
 https://www.guildofstudents.com/organisation/52748/
 https://www.guildofstudents.com/organisation/52758/
+https://www.guildofstudents.com/organisation/52804/
 https://www.guildofstudents.com/organisation/7751/
 https://www.guildofstudents.com/organisation/8649/
 https://www.guildofstudents.com/organisation/9220/
@@ -5982,6 +5983,7 @@ https://www.guildofstudents.commailto:eastafrican@guild.bham.ac.uk
 https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:editor@redbrickonline.co.uk
 https://www.guildofstudents.commailto:education@guild.bham.ac.uk
+https://www.guildofstudents.commailto:eeesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:EgyptSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
