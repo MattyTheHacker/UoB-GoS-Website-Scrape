@@ -21,7 +21,6 @@
 {'id': '10674', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10674/', 'title': 'Officer Elections 2025: Candidate Social'}
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/', 'title': 'Valefest 2025'}
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/?code=HALL25', 'title': 'Valefest 2025'}
-{'id': '10705', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10705/', 'title': 'Sorry, there was a problem'}
 {'id': '10720', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10720/', 'title': 'Halls National Puppy Day: Puppy Painting and Cookies!'}
 {'id': '10739', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10739/', 'title': 'Community Breakfast'}
 {'id': '10740', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10740/', 'title': 'Community Breakfast'}
@@ -31,7 +30,6 @@
 {'id': '10771', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10771/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10776', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10776/', 'title': 'Halls Having a Ball – Moss Ball Terrarium Making!'}
-{'id': '10782', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10782/', 'title': 'Sorry, there was a problem'}
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10806', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10806/', 'title': 'Halls Burrito Bonanza!!'}
