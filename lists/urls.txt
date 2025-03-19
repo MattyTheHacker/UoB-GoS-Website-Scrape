@@ -2945,6 +2945,7 @@ https://www.guildofstudents.com/events/11302/10429/
 https://www.guildofstudents.com/events/11302/9489/
 https://www.guildofstudents.com/events/11906/10586/
 https://www.guildofstudents.com/events/13206/10557/
+https://www.guildofstudents.com/events/13463/10917/
 https://www.guildofstudents.com/events/13471/10638/
 https://www.guildofstudents.com/events/20372/10734/
 https://www.guildofstudents.com/events/20372/10875/
@@ -5708,6 +5709,7 @@ https://www.guildofstudents.com/studentgroups/societies/51200/
 https://www.guildofstudents.com/studentgroups/societies/52697/
 https://www.guildofstudents.com/studentgroups/societies/52773/
 https://www.guildofstudents.com/studentgroups/societies/52783/
+https://www.guildofstudents.com/studentgroups/societies/52816/
 https://www.guildofstudents.com/studentgroups/societies/9334/
 https://www.guildofstudents.com/studentgroups/societies/africanandcaribbean/
 https://www.guildofstudents.com/studentgroups/societies/ahlulbayt/
@@ -6043,6 +6045,7 @@ https://www.guildofstudents.commailto:indonesian@guild.bham.ac.uk
 https://www.guildofstudents.commailto:infinity@guild.bham.ac.uk
 https://www.guildofstudents.commailto:info@guild.bham.ac.uk
 https://www.guildofstudents.commailto:info@ubisoc.co.uk
+https://www.guildofstudents.commailto:InterGen@guild.bham.ac.uk
 https://www.guildofstudents.commailto:international@guild.bham.ac.uk
 https://www.guildofstudents.commailto:internationaldevelopment@guild.bham.ac.uk
 https://www.guildofstudents.commailto:intervol@guild.bham.ac.uk
