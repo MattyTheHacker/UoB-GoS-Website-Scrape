@@ -116,7 +116,6 @@
 {'event_id': '10852', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10852/', 'title': 'POLSIS in Colour and IDD Society Event: Ramadan and Holi Craft Event'}
 {'event_id': '10914', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10914/', 'title': 'IDSoc x PolSoc: Freshers Games Night'}
 {'event_id': '10795', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/10795/', 'title': 'Study Session in collaboration with Law School at Heybrew'}
-{'event_id': '10874', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/10874/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10768', 'organisation_id': '33868', 'organisation': 'Birmingham Students for Life', 'url': 'https://www.guildofstudents.com/events/33868/10768/', 'title': 'Fr Calvin Robinson: Discussing the Pro-life Movement.'}
 {'event_id': '10210', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10210/', 'title': 'Netball Membership'}
 {'event_id': '10601', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10601/', 'title': 'Big Guild Quiz'}
@@ -143,7 +142,7 @@
 {'event_id': '10912', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10912/', 'title': 'Boba Crawl'}
 {'event_id': '10751', 'organisation_id': '52697', 'organisation': 'Think Diversity', 'url': 'https://www.guildofstudents.com/events/52697/10751/', 'title': 'Decolonise & Socialise: A quiz sesh with TD'}
 {'event_id': '10922', 'organisation_id': '52783', 'organisation': 'Kurdish Society', 'url': 'https://www.guildofstudents.com/events/52783/10922/', 'title': 'KurdSoc Meet and Greet'}
-{'event_id': '10827', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10827/', 'title': 'Barbershop Fellowship'}
+{'event_id': '10827', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10827/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10880', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10880/', 'title': 'Paint and Worship'}
 {'event_id': '10892', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10892/', 'title': 'Lace Installation Class'}
 {'event_id': '10903', 'organisation_id': '6115', 'organisation': 'Anime & Manga', 'url': 'https://www.guildofstudents.com/events/6115/10903/', 'title': 'J-Cafe'}
