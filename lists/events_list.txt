@@ -84,6 +84,7 @@
 {'event_id': '9489', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/9489/', 'title': 'LANS campus league'}
 {'event_id': '10586', 'organisation_id': '11906', 'organisation': 'Welsh', 'url': 'https://www.guildofstudents.com/events/11906/10586/', 'title': 'Edinburgh Trip'}
 {'event_id': '10557', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/10557/', 'title': "International Women's Day Ball"}
+{'event_id': '10917', 'organisation_id': '13463', 'organisation': 'Beat', 'url': 'https://www.guildofstudents.com/events/13463/10917/', 'title': 'Charity Ball'}
 {'event_id': '10638', 'organisation_id': '13471', 'organisation': 'Poker', 'url': 'https://www.guildofstudents.com/events/13471/10638/', 'title': 'Poker CASH Game'}
 {'event_id': '10734', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/10734/', 'title': 'History Society Visit to Cadbury World'}
 {'event_id': '10875', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/10875/', 'title': 'Horrible Histories Dress Up Bar Crawl'}
