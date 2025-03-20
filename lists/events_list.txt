@@ -51,6 +51,7 @@
 {'id': '10910', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10910/', 'title': 'Halls Tote-tally transformative'}
 {'id': '10913', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10913/', 'title': 'Sustainable Period Product Giveaway'}
 {'id': '10920', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10920/', 'title': 'Talk to Ravi'}
+{'id': '10926', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10926/', 'title': "Pritchatt's Park Pizza, Picnic & Quiz"}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9452/', 'title': 'The National Museum of Computing'}
