@@ -124,7 +124,7 @@
 {'event_id': '10703', 'organisation_id': '35457', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35457/10703/', 'title': 'AGM'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (October 8th-16th)'}
 {'event_id': '10925', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/10925/', 'title': 'Yoga Wellness Day'}
-{'event_id': '10842', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10842/', 'title': "Sip 'N Paint (Collab w/ Yoga Soc)"}
+{'event_id': '10842', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10842/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10898', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10898/', 'title': "Mother's Day Card Making"}
 {'event_id': '10902', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/10902/', 'title': 'UoB Darts Varsity 2025'}
 {'event_id': '10496', 'organisation_id': '39365', 'organisation': 'UOB Girl Gamers', 'url': 'https://www.guildofstudents.com/events/39365/10496/', 'title': 'Arcade night'}
@@ -236,7 +236,7 @@
 {'event_id': '10742', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10742/', 'title': 'Yorkshire Dales Weekend Trip'}
 {'event_id': '10774', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10774/', 'title': 'Wayfarers Formal'}
 {'event_id': '10807', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10807/', 'title': 'Wrekin Train Trip'}
-{'event_id': '10841', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10841/', 'title': 'Pub golf'}
+{'event_id': '10841', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10841/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10865', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10865/', 'title': 'Clent Hills Train Trip'}
 {'event_id': '10885', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10885/', 'title': 'Walk Co-ordinator Training'}
 {'event_id': '10893', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10893/', 'title': 'Isle of Skye Week Trip'}
