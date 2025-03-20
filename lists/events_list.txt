@@ -124,6 +124,7 @@
 {'event_id': '10877', 'organisation_id': '35321', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35321/10877/', 'title': "Year 4 Mock OSCE's"}
 {'event_id': '10703', 'organisation_id': '35457', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35457/10703/', 'title': 'AGM'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (October 8th-16th)'}
+{'event_id': '10925', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/10925/', 'title': 'Yoga Wellness Day'}
 {'event_id': '10842', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10842/', 'title': "Sip 'N Paint (Collab w/ Yoga Soc)"}
 {'event_id': '10898', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10898/', 'title': "Mother's Day Card Making"}
 {'event_id': '10902', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/10902/', 'title': 'UoB Darts Varsity 2025'}
