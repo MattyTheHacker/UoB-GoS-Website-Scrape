@@ -38,7 +38,6 @@
 {'id': '10848', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10848/', 'title': 'Great Green Giveaway'}
 {'id': '10849', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10849/', 'title': 'Veolia Q&A'}
 {'id': '10864', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10864/', 'title': 'Pirate Plunder Party'}
-{'id': '10872', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10872/', 'title': 'Sorry, there was a problem'}
 {'id': '10878', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10878/', 'title': 'Calthorpe Easter Egg Hunt!'}
 {'id': '10881', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10881/', 'title': 'Halls Turn the Page: Book Swap and Bookmark Making'}
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
