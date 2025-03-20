@@ -32,7 +32,7 @@
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10806', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10806/', 'title': 'Halls Burrito Bonanza!!'}
-{'id': '10832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10832/', 'title': 'Halls Easter Eggstravaganza: Chocolate Fountain and Easter Crafts'}
+{'id': '10832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10832/', 'title': 'Sorry, there was a problem'}
 {'id': '10845', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10845/', 'title': 'A Green Future in a Divided Area'}
 {'id': '10846', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10846/', 'title': 'Demystifying Sustainability'}
 {'id': '10847', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10847/', 'title': "'No Buy' Sports Night"}
