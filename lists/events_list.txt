@@ -147,7 +147,7 @@
 {'event_id': '10855', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10855/', 'title': 'Know Your Aqsa'}
 {'event_id': '10831', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/10831/', 'title': 'Astronomical Society Annual Dinner'}
 {'event_id': '10901', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/10901/', 'title': 'Midlands, Mediterranean, Middle-Earth: Tolkien and The Classics'}
-{'event_id': '10871', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/10871/', 'title': 'Sheffield Competition 2025 (for tickets only)'}
+{'event_id': '10871', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/10871/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9745', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9745/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
@@ -256,7 +256,6 @@
 {'event_id': '10417', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10417/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10418', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10418/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10803', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/10803/', 'title': 'Board Game Café'}
-{'event_id': '10337', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/10337/', 'title': 'Big Guild Quiz'}
 {'event_id': '9362', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9362/', 'title': 'Post Grad Student Social'}
 {'event_id': '9363', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9363/', 'title': 'International Social + Fusion Afterparty'}
 {'event_id': '9364', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9364/', 'title': 'Welcome Wristband 2024'}
