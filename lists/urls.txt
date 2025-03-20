@@ -2984,7 +2984,6 @@ https://www.guildofstudents.com/events/23447/10914/
 https://www.guildofstudents.com/events/26553/10795/
 https://www.guildofstudents.com/events/33868/10768/
 https://www.guildofstudents.com/events/34325/10210/
-https://www.guildofstudents.com/events/34325/10601/
 https://www.guildofstudents.com/events/35017/10915/
 https://www.guildofstudents.com/events/35089/10794/
 https://www.guildofstudents.com/events/35233/10854/
@@ -3144,6 +3143,7 @@ https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f8649%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbalads%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbedsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmountaineering%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f

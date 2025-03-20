@@ -117,7 +117,7 @@
 {'event_id': '10795', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/10795/', 'title': 'Study Session in collaboration with Law School at Heybrew'}
 {'event_id': '10768', 'organisation_id': '33868', 'organisation': 'Birmingham Students for Life', 'url': 'https://www.guildofstudents.com/events/33868/10768/', 'title': 'Fr Calvin Robinson: Discussing the Pro-life Movement.'}
 {'event_id': '10210', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10210/', 'title': 'Netball Membership'}
-{'event_id': '10601', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10601/', 'title': 'Big Guild Quiz'}
+{'event_id': '10601', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10601/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10915', 'organisation_id': '35017', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35017/10915/', 'title': 'Sip & Paint'}
 {'event_id': '10794', 'organisation_id': '35089', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35089/10794/', 'title': 'Docs Not Cops Annual Conference'}
 {'event_id': '10854', 'organisation_id': '35233', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35233/10854/', 'title': 'Leadership as a medical student'}
