@@ -2910,7 +2910,6 @@ https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/GoGreen/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
-https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
