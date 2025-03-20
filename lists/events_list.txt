@@ -32,7 +32,6 @@
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10806', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10806/', 'title': 'Halls Burrito Bonanza!!'}
-{'id': '10832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10832/', 'title': 'Sorry, there was a problem'}
 {'id': '10845', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10845/', 'title': 'A Green Future in a Divided Area'}
 {'id': '10846', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10846/', 'title': 'Demystifying Sustainability'}
 {'id': '10847', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10847/', 'title': "'No Buy' Sports Night"}
@@ -123,6 +122,7 @@
 {'event_id': '10794', 'organisation_id': '35089', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35089/10794/', 'title': 'Docs Not Cops Annual Conference'}
 {'event_id': '10854', 'organisation_id': '35233', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35233/10854/', 'title': 'Leadership as a medical student'}
 {'event_id': '10877', 'organisation_id': '35321', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35321/10877/', 'title': "Year 4 Mock OSCE's"}
+{'event_id': '10703', 'organisation_id': '35457', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35457/10703/', 'title': 'AGM'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (October 8th-16th)'}
 {'event_id': '10842', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10842/', 'title': "Sip 'N Paint (Collab w/ Yoga Soc)"}
 {'event_id': '10898', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10898/', 'title': "Mother's Day Card Making"}
