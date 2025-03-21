@@ -87,6 +87,7 @@ https://www.guildofstudents.com#happyhour
 https://www.guildofstudents.com#instagrammore
 https://www.guildofstudents.com#international-page
 https://www.guildofstudents.com#jarratthallinfo
+https://www.guildofstudents.com#joes5voucher
 https://www.guildofstudents.com#joesmenu
 https://www.guildofstudents.com#manifestoimage
 https://www.guildofstudents.com#mapleinfo
@@ -154,7 +155,6 @@ https://www.guildofstudents.com#societies
 https://www.guildofstudents.com#societies-page
 https://www.guildofstudents.com#spinneyinfo
 https://www.guildofstudents.com#student-blog-1
-https://www.guildofstudents.com#studentreps20
 https://www.guildofstudents.com#studiosinfo
 https://www.guildofstudents.com#support
 https://www.guildofstudents.com#taclist
