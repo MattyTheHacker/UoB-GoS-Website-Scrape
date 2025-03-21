@@ -41,7 +41,7 @@
 {'id': '10878', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10878/', 'title': 'Calthorpe Easter Egg Hunt!'}
 {'id': '10881', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10881/', 'title': 'Halls Turn the Page: Book Swap and Bookmark Making'}
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
-{'id': '10883', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10883/', 'title': 'Postgraduate & Mature Students Housemate Finder'}
+{'id': '10883', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10883/', 'title': 'Sorry, there was a problem'}
 {'id': '10884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10884/', 'title': 'Halls Brownies and Bling'}
 {'id': '10887', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10887/', 'title': 'Selly’s Eco Egg Hunt'}
 {'id': '10889', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10889/', 'title': 'Halls Easter Event: Juices, Jars and Mini Eggs'}
@@ -137,7 +137,7 @@
 {'event_id': '9490', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9490/', 'title': 'Mechsoc Campus League'}
 {'event_id': '10839', 'organisation_id': '52443', 'organisation': 'Cheese', 'url': 'https://www.guildofstudents.com/events/52443/10839/', 'title': 'Cheese soc event with industry Professional and cheese tasting'}
 {'event_id': '10900', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10900/', 'title': 'Boblox and Pizza'}
-{'event_id': '10912', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10912/', 'title': 'Sorry, there was a problem'}
+{'event_id': '10930', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10930/', 'title': 'Boba and Hotpot'}
 {'event_id': '10751', 'organisation_id': '52697', 'organisation': 'Think Diversity', 'url': 'https://www.guildofstudents.com/events/52697/10751/', 'title': 'Decolonise & Socialise: A quiz sesh with TD'}
 {'event_id': '10922', 'organisation_id': '52783', 'organisation': 'Kurdish Society', 'url': 'https://www.guildofstudents.com/events/52783/10922/', 'title': 'KurdSoc Meet and Greet'}
 {'event_id': '10880', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10880/', 'title': 'Paint and Worship'}
@@ -147,7 +147,6 @@
 {'event_id': '10855', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10855/', 'title': 'Know Your Aqsa'}
 {'event_id': '10831', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/10831/', 'title': 'Astronomical Society Annual Dinner'}
 {'event_id': '10901', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/10901/', 'title': 'Midlands, Mediterranean, Middle-Earth: Tolkien and The Classics'}
-{'event_id': '10871', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/10871/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9745', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9745/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
