@@ -179,6 +179,8 @@
 {'event_id': '10863', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/10863/', 'title': 'Pieces of Us - Saturday 29th March at 7pm'}
 {'event_id': '10876', 'organisation_id': '6395', 'organisation': 'Business', 'url': 'https://www.guildofstudents.com/events/6395/10876/', 'title': 'Spring Ball'}
 {'event_id': '9641', 'organisation_id': '6395', 'organisation': 'Business', 'url': 'https://www.guildofstudents.com/events/6395/9641/', 'title': 'Business campus league'}
+{'event_id': '10916', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/10916/', 'title': '8-bit Sips cocktails! (Early event)'}
+{'event_id': '10918', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/10918/', 'title': '8-bit Sips cocktails! (Late event)'}
 {'event_id': '10315', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/10315/', 'title': 'CSS Annual Ball 2025'}
 {'event_id': '10765', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/10765/', 'title': 'SloLAN'}
 {'event_id': '10655', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10655/', 'title': 'Sister Act the Musical!'}
