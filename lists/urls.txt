@@ -2850,7 +2850,6 @@ https://www.guildofstudents.com/ents/event/10467/
 https://www.guildofstudents.com/ents/event/10469/
 https://www.guildofstudents.com/ents/event/10549/
 https://www.guildofstudents.com/ents/event/10588/
-https://www.guildofstudents.com/ents/event/10674/
 https://www.guildofstudents.com/ents/event/10692
 https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/10692/?code=HALL25
@@ -3140,7 +3139,6 @@ https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f10692%2f
 https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2f8649%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbalads%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbedsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
