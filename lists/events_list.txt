@@ -83,6 +83,7 @@
 {'event_id': '10429', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/10429/', 'title': 'LANS Ball'}
 {'event_id': '9489', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/9489/', 'title': 'LANS campus league'}
 {'event_id': '10586', 'organisation_id': '11906', 'organisation': 'Welsh', 'url': 'https://www.guildofstudents.com/events/11906/10586/', 'title': 'Edinburgh Trip'}
+{'event_id': '10935', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/10935/', 'title': 'Worship Night: Sacrificial Love'}
 {'event_id': '10557', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/10557/', 'title': "International Women's Day Ball"}
 {'event_id': '10917', 'organisation_id': '13463', 'organisation': 'Beat', 'url': 'https://www.guildofstudents.com/events/13463/10917/', 'title': 'Charity Ball'}
 {'event_id': '10638', 'organisation_id': '13471', 'organisation': 'Poker', 'url': 'https://www.guildofstudents.com/events/13471/10638/', 'title': 'Poker CASH Game'}
