@@ -5725,7 +5725,6 @@ https://www.guildofstudents.com/studentgroups/societies/50892/
 https://www.guildofstudents.com/studentgroups/societies/51190/
 https://www.guildofstudents.com/studentgroups/societies/51200/
 https://www.guildofstudents.com/studentgroups/societies/52697/
-https://www.guildofstudents.com/studentgroups/societies/52773/
 https://www.guildofstudents.com/studentgroups/societies/52783/
 https://www.guildofstudents.com/studentgroups/societies/52816/
 https://www.guildofstudents.com/studentgroups/societies/9334/
@@ -5808,6 +5807,7 @@ https://www.guildofstudents.com/studentgroups/societies/ukrainiansociety/
 https://www.guildofstudents.com/studentgroups/societies/uniboobteam/
 https://www.guildofstudents.com/studentgroups/societies/unicef/
 https://www.guildofstudents.com/studentgroups/societies/uobabacus/
+https://www.guildofstudents.com/studentgroups/societies/uzbeksociety/
 https://www.guildofstudents.com/studentgroups/societies/valefestival/
 https://www.guildofstudents.com/studentgroups/societies/vegesoc/
 https://www.guildofstudents.com/studentgroups/societies/vietnamese/
