@@ -82,6 +82,7 @@ https://www.guildofstudents.com#enquiryform
 https://www.guildofstudents.com#events
 https://www.guildofstudents.com#filter
 https://www.guildofstudents.com#friesoffer
+https://www.guildofstudents.com#ggw20
 https://www.guildofstudents.com#guildevents
 https://www.guildofstudents.com#happyhour
 https://www.guildofstudents.com#instagrammore
@@ -2856,7 +2857,6 @@ https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/10692/?code=HALL25
 https://www.guildofstudents.com/ents/event/10740/
 https://www.guildofstudents.com/ents/event/10741/
-https://www.guildofstudents.com/ents/event/10752/
 https://www.guildofstudents.com/ents/event/10764/
 https://www.guildofstudents.com/ents/event/10771/
 https://www.guildofstudents.com/ents/event/10772/
@@ -5885,6 +5885,7 @@ https://www.guildofstudents.com/welcome/events/
 https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/daytime#guildevents
 https://www.guildofstudents.com/welcome/events/evening
+https://www.guildofstudents.com/welcome/events/event/10327/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/
