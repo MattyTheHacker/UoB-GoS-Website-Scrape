@@ -141,6 +141,7 @@ https://www.guildofstudents.com#navvol
 https://www.guildofstudents.com#navwco
 https://www.guildofstudents.com#navwo
 https://www.guildofstudents.com#newsblogs
+https://www.guildofstudents.com#nomination
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
 https://www.guildofstudents.com#officerteam
@@ -2884,6 +2885,7 @@ https://www.guildofstudents.com/ents/event/10920/
 https://www.guildofstudents.com/ents/event/10926/
 https://www.guildofstudents.com/ents/event/10931/
 https://www.guildofstudents.com/ents/event/10932/
+https://www.guildofstudents.com/ents/event/10934/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9452/
@@ -3251,6 +3253,7 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/moneymatters
 https://www.guildofstudents.com/moneymatters/
 https://www.guildofstudents.com/news/
+https://www.guildofstudents.com/news/article/website/5-Sustainable-Ways-to-Boost-Your-Wellbeing/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Three-Results/
 https://www.guildofstudents.com/news/article/website/Ethnic-Minorities-Officer-Armaan-Hussain-withdrawn-from-role/
 https://www.guildofstudents.com/news/article/website/Go-Green-Week-2025/
@@ -3501,7 +3504,6 @@ https://www.guildofstudents.com/pageassets/referendum/GOG-Minutes-3.10.23.pdf
 https://www.guildofstudents.com/pageassets/referendum/Referendum-2023-Complaints-Form.docx
 https://www.guildofstudents.com/pageassets/referendum/Referendum-Regulations-23-24.pdf
 https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Award-Criteria.pdf
-https://www.guildofstudents.com/pageassets/repawards/Rep-Awards-Criteria-2023.pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/All-Student-Vote-Campaigning-Guidance(1).pdf
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Pro-Choice-Action-Group-Minutes-15.01.2025.docx
 https://www.guildofstudents.com/pageassets/representation/allstudentvote/Pro-Choice-Policy-ASV-3-2025.pdf
@@ -4585,6 +4587,7 @@ https://www.guildofstudents.com/profile/225882/
 https://www.guildofstudents.com/profile/226008/
 https://www.guildofstudents.com/profile/226013/
 https://www.guildofstudents.com/profile/226042/
+https://www.guildofstudents.com/profile/226069/
 https://www.guildofstudents.com/profile/226133/
 https://www.guildofstudents.com/profile/226176/
 https://www.guildofstudents.com/profile/226205/
