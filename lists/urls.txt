@@ -3008,7 +3008,6 @@ https://www.guildofstudents.com/events/51180/10544/
 https://www.guildofstudents.com/events/51180/10548/
 https://www.guildofstudents.com/events/51180/10649/
 https://www.guildofstudents.com/events/51180/9490/
-https://www.guildofstudents.com/events/52443/10839/
 https://www.guildofstudents.com/events/52640/10900/
 https://www.guildofstudents.com/events/52640/10930/
 https://www.guildofstudents.com/events/52697/10751/
@@ -3143,7 +3142,6 @@ https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f10692%2f
 https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbalads%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbedsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgmtg%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmountaineering%2f
