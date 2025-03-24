@@ -3245,6 +3245,7 @@ https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10303360%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f42029%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fburnfm%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fkorean%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fbecomearep%2f
@@ -3818,6 +3819,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/guil
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-minutes-28.04.2016.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-28.11.2016.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-28.11.24.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-29.1.25(1).pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-29.5.24.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-3.10.23.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-3.10.24.pdf

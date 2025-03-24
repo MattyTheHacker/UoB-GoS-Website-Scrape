@@ -51,6 +51,7 @@
 {'id': '10926', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10926/', 'title': "Pritchatt's Park Pizza, Picnic & Quiz"}
 {'id': '10931', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10931/', 'title': 'Halls Mother’s Day Gift Making'}
 {'id': '10932', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10932/', 'title': 'Beats and Treats'}
+{'id': '10934', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10934/', 'title': 'The Selly Oak Egg-tacular'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9452/', 'title': 'The National Museum of Computing'}
