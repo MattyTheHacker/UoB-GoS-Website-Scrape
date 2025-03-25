@@ -32,13 +32,13 @@
 {'id': '10846', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10846/', 'title': 'Demystifying Sustainability'}
 {'id': '10847', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10847/', 'title': "'No Buy' Sports Night"}
 {'id': '10848', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10848/', 'title': 'Great Green Giveaway'}
-{'id': '10849', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10849/', 'title': 'Veolia Q&A'}
+{'id': '10849', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10849/', 'title': 'Sorry, there was a problem'}
 {'id': '10864', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10864/', 'title': 'Pirate Plunder Party'}
 {'id': '10878', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10878/', 'title': 'Calthorpe Easter Egg Hunt!'}
 {'id': '10881', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10881/', 'title': 'Halls Turn the Page: Book Swap and Bookmark Making'}
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
 {'id': '10884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10884/', 'title': 'Halls Brownies and Bling'}
-{'id': '10887', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10887/', 'title': 'Selly’s Eco Egg Hunt'}
+{'id': '10887', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10887/', 'title': 'Student Login'}
 {'id': '10889', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10889/', 'title': 'Halls Easter Event: Juices, Jars and Mini Eggs'}
 {'id': '10895', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10895/', 'title': 'Halls Eco Eats and Cold Cup Decorating'}
 {'id': '10896', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10896/', 'title': 'Halls Eco Fair'}
