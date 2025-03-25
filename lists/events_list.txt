@@ -104,7 +104,7 @@
 {'event_id': '10590', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10590/', 'title': 'Comic Relief Charity Tournament'}
 {'event_id': '10591', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10591/', 'title': 'Alumni Day'}
 {'event_id': '10592', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10592/', 'title': 'Easter Session'}
-{'event_id': '10867', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10867/', 'title': 'Benchball Games Night 🎲🧡'}
+{'event_id': '10867', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10867/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10552', 'organisation_id': '22877', 'organisation': 'Mixed Martial Arts', 'url': 'https://www.guildofstudents.com/events/22877/10552/', 'title': 'UoB MMA Fight Night 2025'}
 {'event_id': '10622', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/10622/', 'title': 'Criminology Society Ball'}
 {'event_id': '10823', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10823/', 'title': 'International Development Society AGM'}
