@@ -113,6 +113,7 @@
 {'event_id': '10833', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10833/', 'title': 'PG Talks: Understanding the security-development nexus: The case\xa0of\xa0Syria'}
 {'event_id': '10852', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10852/', 'title': 'POLSIS in Colour and IDD Society Event: Ramadan and Holi Craft Event'}
 {'event_id': '10914', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10914/', 'title': 'IDSoc x PolSoc: Freshers Games Night'}
+{'event_id': '10940', 'organisation_id': '25675', 'organisation': 'KCover', 'url': 'https://www.guildofstudents.com/events/25675/10940/', 'title': 'WHIPLASH - KCover Dance Showcase 2025'}
 {'event_id': '10795', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/10795/', 'title': 'Study Session in collaboration with Law School at Heybrew'}
 {'event_id': '10210', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10210/', 'title': 'Netball Membership'}
 {'event_id': '10915', 'organisation_id': '35017', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35017/10915/', 'title': 'Sip & Paint'}
@@ -145,6 +146,7 @@
 {'event_id': '10855', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10855/', 'title': 'Know Your Aqsa'}
 {'event_id': '10831', 'organisation_id': '6155', 'organisation': 'Astronomical Society', 'url': 'https://www.guildofstudents.com/events/6155/10831/', 'title': 'Astronomical Society Annual Dinner'}
 {'event_id': '10901', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/10901/', 'title': 'Midlands, Mediterranean, Middle-Earth: Tolkien and The Classics'}
+{'event_id': '10941', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/10941/', 'title': 'Internal Speaker Talk'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9745', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9745/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
