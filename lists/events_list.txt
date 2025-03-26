@@ -25,7 +25,7 @@
 {'id': '10764', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10764/', 'title': 'Selly Oak Nature Walk'}
 {'id': '10771', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10771/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Wellbeing Office Pop Up'}
-{'id': '10776', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10776/', 'title': 'Halls Having a Ball – Moss Ball Terrarium Making!'}
+{'id': '10776', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10776/', 'title': 'Sorry, there was a problem'}
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10845', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10845/', 'title': 'A Green Future in a Divided Area'}
@@ -36,7 +36,7 @@
 {'id': '10878', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10878/', 'title': 'Calthorpe Easter Egg Hunt!'}
 {'id': '10881', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10881/', 'title': 'Halls Turn the Page: Book Swap and Bookmark Making'}
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
-{'id': '10884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10884/', 'title': 'Halls Brownies and Bling'}
+{'id': '10884', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10884/', 'title': 'Sorry, there was a problem'}
 {'id': '10889', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10889/', 'title': 'Halls Easter Event: Juices, Jars and Mini Eggs'}
 {'id': '10895', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10895/', 'title': 'Halls Eco Eats and Cold Cup Decorating'}
 {'id': '10896', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10896/', 'title': 'Halls Eco Fair'}
