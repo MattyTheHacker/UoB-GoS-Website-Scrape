@@ -117,7 +117,6 @@
 {'event_id': '10703', 'organisation_id': '35457', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35457/10703/', 'title': 'AGM'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (October 8th-16th)'}
 {'event_id': '10925', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/10925/', 'title': 'Yoga Wellness Day'}
-{'event_id': '10891', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10891/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10898', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10898/', 'title': "Mother's Day Card Making"}
 {'event_id': '10902', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/10902/', 'title': 'UoB Darts Varsity 2025'}
 {'event_id': '10496', 'organisation_id': '39365', 'organisation': 'UOB Girl Gamers', 'url': 'https://www.guildofstudents.com/events/39365/10496/', 'title': 'Arcade night'}
@@ -135,7 +134,7 @@
 {'event_id': '10900', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10900/', 'title': 'Boblox and Pizza'}
 {'event_id': '10930', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10930/', 'title': 'Boba and Hotpot'}
 {'event_id': '10751', 'organisation_id': '52697', 'organisation': 'Think Diversity', 'url': 'https://www.guildofstudents.com/events/52697/10751/', 'title': 'Decolonise & Socialise: A quiz sesh with TD'}
-{'event_id': '10892', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10892/', 'title': 'Lace Installation Class'}
+{'event_id': '10892', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/10892/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10903', 'organisation_id': '6115', 'organisation': 'Anime & Manga', 'url': 'https://www.guildofstudents.com/events/6115/10903/', 'title': 'J-Cafe'}
 {'event_id': '10837', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10837/', 'title': 'Arab And ISOC Iftar'}
 {'event_id': '10855', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10855/', 'title': 'Know Your Aqsa'}
