@@ -87,6 +87,7 @@ craft@guild.bham.ac.uk
 criminology@guild.bham.ac.uk
 css@guild.bham.ac.uk
 culturalarts@guild.bham.ac.uk
+d.volrath@guild.bham.ac.uk
 darts@guild.bham.ac.uk
 dataprotectionofficer@guild.bham.ac.uk
 debating@guild.bham.ac.uk
