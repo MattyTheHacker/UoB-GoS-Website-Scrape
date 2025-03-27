@@ -3001,6 +3001,7 @@ https://www.guildofstudents.com/events/51180/10548/
 https://www.guildofstudents.com/events/51180/10649/
 https://www.guildofstudents.com/events/51180/9490/
 https://www.guildofstudents.com/events/52640/10900/
+https://www.guildofstudents.com/events/52640/10951/
 https://www.guildofstudents.com/events/52697/10751/
 https://www.guildofstudents.com/events/6115/10903/
 https://www.guildofstudents.com/events/6123/10837/
@@ -4564,6 +4565,7 @@ https://www.guildofstudents.com/profile/222705/
 https://www.guildofstudents.com/profile/222723/
 https://www.guildofstudents.com/profile/222734/
 https://www.guildofstudents.com/profile/222866/
+https://www.guildofstudents.com/profile/222914/
 https://www.guildofstudents.com/profile/223029/
 https://www.guildofstudents.com/profile/223105/
 https://www.guildofstudents.com/profile/223232/
@@ -5399,6 +5401,7 @@ https://www.guildofstudents.com/profile/261063/
 https://www.guildofstudents.com/profile/261105/
 https://www.guildofstudents.com/profile/261120/
 https://www.guildofstudents.com/profile/261136/
+https://www.guildofstudents.com/profile/261205/
 https://www.guildofstudents.com/profile/261224/
 https://www.guildofstudents.com/profile/261266/
 https://www.guildofstudents.com/profile/261268/
@@ -5612,6 +5615,10 @@ https://www.guildofstudents.com/representation/youridea/?idea=547#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=547#idea547
 https://www.guildofstudents.com/representation/youridea/?idea=548#idea-comments
 https://www.guildofstudents.com/representation/youridea/?idea=548#idea548
+https://www.guildofstudents.com/representation/youridea/?idea=550#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=550#idea550
+https://www.guildofstudents.com/representation/youridea/?idea=555#idea-comments
+https://www.guildofstudents.com/representation/youridea/?idea=555#idea555
 https://www.guildofstudents.com/representation/youridea/?tag=Academic
 https://www.guildofstudents.com/representation/youridea/?tag=Community
 https://www.guildofstudents.com/representation/youridea/?tag=Democracy
