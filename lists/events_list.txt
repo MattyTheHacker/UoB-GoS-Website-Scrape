@@ -40,7 +40,7 @@
 {'id': '10932', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10932/', 'title': 'Beats and Treats'}
 {'id': '10934', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10934/', 'title': 'The Selly Oak Egg-tacular'}
 {'id': '10945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10945/', 'title': 'Halls Bubble Wands and Donut Decorating'}
-{'id': '10950', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10950/', 'title': 'Palestine and Apartheid Panel'}
+{'id': '10950', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10950/', 'title': 'Sorry, there was a problem'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9452/', 'title': 'The National Museum of Computing'}
@@ -115,7 +115,6 @@
 {'event_id': '10703', 'organisation_id': '35457', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35457/10703/', 'title': 'AGM'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (October 8th-16th)'}
 {'event_id': '10925', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/10925/', 'title': 'Yoga Wellness Day'}
-{'event_id': '10898', 'organisation_id': '38929', 'organisation': 'Fitness and Wellbeing Society', 'url': 'https://www.guildofstudents.com/events/38929/10898/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10902', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/10902/', 'title': 'UoB Darts Varsity 2025'}
 {'event_id': '10496', 'organisation_id': '39365', 'organisation': 'UOB Girl Gamers', 'url': 'https://www.guildofstudents.com/events/39365/10496/', 'title': 'Arcade night'}
 {'event_id': '10943', 'organisation_id': '39365', 'organisation': 'UOB Girl Gamers', 'url': 'https://www.guildofstudents.com/events/39365/10943/', 'title': 'Sea life Birmingham'}
@@ -128,6 +127,7 @@
 {'event_id': '10544', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10544/', 'title': 'March Park Run'}
 {'event_id': '10548', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10548/', 'title': 'AGM'}
 {'event_id': '10649', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10649/', 'title': 'MechSoc x UBRobotics - Robotics Speaker Event'}
+{'event_id': '10952', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10952/', 'title': 'Easter Celebration x CivSoc Collaboration'}
 {'event_id': '9490', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9490/', 'title': 'Mechsoc Campus League'}
 {'event_id': '10900', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10900/', 'title': 'Boblox and Pizza'}
 {'event_id': '10951', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10951/', 'title': 'Games Night'}
@@ -228,7 +228,6 @@
 {'event_id': '10885', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10885/', 'title': 'Walk Co-ordinator Training'}
 {'event_id': '10893', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10893/', 'title': 'Isle of Skye Week Trip'}
 {'event_id': '10899', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10899/', 'title': 'Great Malvern Collaboration Trip'}
-{'event_id': '10928', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10928/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10403', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10403/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10404', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10404/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10405', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10405/', 'title': 'Public Speaking Society Weekly Session'}
