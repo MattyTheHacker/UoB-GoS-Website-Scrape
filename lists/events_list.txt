@@ -32,7 +32,7 @@
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
 {'id': '10889', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10889/', 'title': 'Halls Easter Event: Juices, Jars and Mini Eggs'}
 {'id': '10895', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10895/', 'title': 'Halls Eco Eats and Cold Cup Decorating'}
-{'id': '10896', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10896/', 'title': 'Halls Eco Fair'}
+{'id': '10896', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10896/', 'title': 'Sorry, there was a problem'}
 {'id': '10909', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10909/', 'title': 'Chaii, Chaat & Chill'}
 {'id': '10913', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10913/', 'title': 'Sustainable Period Product Giveaway'}
 {'id': '10920', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10920/', 'title': 'Talk to Ravi'}
@@ -130,7 +130,7 @@
 {'event_id': '10649', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10649/', 'title': 'MechSoc x UBRobotics - Robotics Speaker Event'}
 {'event_id': '9490', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9490/', 'title': 'Mechsoc Campus League'}
 {'event_id': '10900', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10900/', 'title': 'Boblox and Pizza'}
-{'event_id': '10930', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10930/', 'title': 'Boba and Hotpot'}
+{'event_id': '10930', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10930/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10751', 'organisation_id': '52697', 'organisation': 'Think Diversity', 'url': 'https://www.guildofstudents.com/events/52697/10751/', 'title': 'Decolonise & Socialise: A quiz sesh with TD'}
 {'event_id': '10903', 'organisation_id': '6115', 'organisation': 'Anime & Manga', 'url': 'https://www.guildofstudents.com/events/6115/10903/', 'title': 'J-Cafe'}
 {'event_id': '10837', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/10837/', 'title': 'Arab And ISOC Iftar'}
