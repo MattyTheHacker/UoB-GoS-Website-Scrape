@@ -2873,6 +2873,7 @@ https://www.guildofstudents.com/ents/event/10926/
 https://www.guildofstudents.com/ents/event/10932/
 https://www.guildofstudents.com/ents/event/10934/
 https://www.guildofstudents.com/ents/event/10945/
+https://www.guildofstudents.com/ents/event/10954/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9452/
@@ -2962,7 +2963,6 @@ https://www.guildofstudents.com/events/22526/10645/
 https://www.guildofstudents.com/events/22526/10788/
 https://www.guildofstudents.com/events/22526/10789/
 https://www.guildofstudents.com/events/22575/10242/
-https://www.guildofstudents.com/events/22575/10243/
 https://www.guildofstudents.com/events/22575/10590/
 https://www.guildofstudents.com/events/22575/10591/
 https://www.guildofstudents.com/events/22575/10592/
