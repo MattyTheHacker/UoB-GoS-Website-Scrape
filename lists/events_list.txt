@@ -25,7 +25,7 @@
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10847', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10847/', 'title': 'Sorry, there was a problem'}
-{'id': '10848', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10848/', 'title': 'Great Green Giveaway'}
+{'id': '10848', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10848/', 'title': 'Sorry, there was a problem'}
 {'id': '10864', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10864/', 'title': 'Pirate Plunder Party'}
 {'id': '10878', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10878/', 'title': 'Calthorpe Easter Egg Hunt!'}
 {'id': '10881', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10881/', 'title': 'Halls Turn the Page: Book Swap and Bookmark Making'}
@@ -38,6 +38,7 @@
 {'id': '10932', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10932/', 'title': 'Beats and Treats'}
 {'id': '10934', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10934/', 'title': 'The Selly Oak Egg-tacular'}
 {'id': '10945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10945/', 'title': 'Halls Bubble Wands and Donut Decorating'}
+{'id': '10954', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10954/', 'title': 'Summer Sunglasses Spectacular'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9452', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9452/', 'title': 'The National Museum of Computing'}
@@ -91,7 +92,6 @@
 {'event_id': '10788', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10788/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
 {'event_id': '10789', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10789/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
 {'event_id': '10242', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10242/', 'title': 'Campus League Netball Semester 2'}
-{'event_id': '10243', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10243/', 'title': 'Campus League Football Semester 2'}
 {'event_id': '10590', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10590/', 'title': 'Comic Relief Charity Tournament'}
 {'event_id': '10591', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10591/', 'title': 'Alumni Day'}
 {'event_id': '10592', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10592/', 'title': 'Easter Session'}
