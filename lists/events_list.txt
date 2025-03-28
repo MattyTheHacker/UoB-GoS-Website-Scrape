@@ -31,12 +31,10 @@
 {'id': '10881', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10881/', 'title': 'Halls Turn the Page: Book Swap and Bookmark Making'}
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
 {'id': '10889', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10889/', 'title': 'Halls Easter Event: Juices, Jars and Mini Eggs'}
-{'id': '10895', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10895/', 'title': 'Sorry, there was a problem'}
 {'id': '10909', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10909/', 'title': 'Chaii, Chaat & Chill'}
 {'id': '10913', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10913/', 'title': 'Sustainable Period Product Giveaway'}
 {'id': '10920', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10920/', 'title': 'Talk to Ravi'}
 {'id': '10926', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10926/', 'title': "Pritchatt's Park Pizza, Picnic & Quiz"}
-{'id': '10931', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10931/', 'title': 'Sorry, there was a problem'}
 {'id': '10932', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10932/', 'title': 'Beats and Treats'}
 {'id': '10934', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10934/', 'title': 'The Selly Oak Egg-tacular'}
 {'id': '10945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10945/', 'title': 'Halls Bubble Wands and Donut Decorating'}
