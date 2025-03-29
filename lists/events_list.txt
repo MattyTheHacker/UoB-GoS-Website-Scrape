@@ -28,7 +28,6 @@
 {'id': '10848', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10848/', 'title': 'Sorry, there was a problem'}
 {'id': '10864', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10864/', 'title': 'Pirate Plunder Party'}
 {'id': '10878', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10878/', 'title': 'Calthorpe Easter Egg Hunt!'}
-{'id': '10881', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10881/', 'title': 'Sorry, there was a problem'}
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
 {'id': '10889', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10889/', 'title': 'Halls Easter Event: Juices, Jars and Mini Eggs'}
 {'id': '10909', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10909/', 'title': 'Chaii, Chaat & Chill'}
@@ -87,7 +86,7 @@
 {'event_id': '10760', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/10760/', 'title': 'Games Nights'}
 {'event_id': '10761', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/10761/', 'title': 'Games Nights'}
 {'event_id': '10763', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/10763/', 'title': 'Sobers Socials goes to Laser Quest [Laser Tag!]'}
-{'event_id': '10873', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/10873/', 'title': 'Taskmaster event'}
+{'event_id': '10873', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/10873/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10946', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/10946/', 'title': 'Summer Formal'}
 {'event_id': '10678', 'organisation_id': '21718', 'organisation': 'Nerdsoc', 'url': 'https://www.guildofstudents.com/events/21718/10678/', 'title': 'InterSoc Quiz 2025'}
 {'event_id': '10645', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10645/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
