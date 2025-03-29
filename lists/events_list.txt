@@ -91,7 +91,6 @@
 {'event_id': '10645', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10645/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
 {'event_id': '10788', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10788/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
 {'event_id': '10789', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10789/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
-{'event_id': '10242', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10242/', 'title': 'Campus League Netball Semester 2'}
 {'event_id': '10590', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10590/', 'title': 'Comic Relief Charity Tournament'}
 {'event_id': '10591', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10591/', 'title': 'Alumni Day'}
 {'event_id': '10592', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10592/', 'title': 'Easter Session'}
@@ -183,7 +182,7 @@
 {'event_id': '10905', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/10905/', 'title': 'Hindu Society x Jain Society Sewa Box Packing'}
 {'event_id': '10499', 'organisation_id': '6803', 'organisation': 'Infinity Stage Company', 'url': 'https://www.guildofstudents.com/events/6803/10499/', 'title': "Oh No You Didn't (Study Drama)"}
 {'event_id': '10840', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/10840/', 'title': 'Interfaith Friday Night Dinner'}
-{'event_id': '10748', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/10748/', 'title': 'Badminton social before the Easter Break!'}
+{'event_id': '10748', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/10748/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10766', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/10766/', 'title': 'In Conversation With Alistair Carns MP'}
 {'event_id': '10437', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/10437/', 'title': 'Trad Day Trip'}
 {'event_id': '10664', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/10664/', 'title': 'UBMC MERCH'}
