@@ -102,7 +102,6 @@
 {'event_id': '10823', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10823/', 'title': 'International Development Society AGM'}
 {'event_id': '10833', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10833/', 'title': 'PG Talks: Understanding the security-development nexus: The case\xa0of\xa0Syria'}
 {'event_id': '10852', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10852/', 'title': 'POLSIS in Colour and IDD Society Event: Ramadan and Holi Craft Event'}
-{'event_id': '10914', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/10914/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10940', 'organisation_id': '25675', 'organisation': 'KCover', 'url': 'https://www.guildofstudents.com/events/25675/10940/', 'title': 'WHIPLASH - KCover Dance Showcase 2025'}
 {'event_id': '10795', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/10795/', 'title': 'Study Session in collaboration with Law School at Heybrew'}
 {'event_id': '10210', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10210/', 'title': 'Netball Membership'}

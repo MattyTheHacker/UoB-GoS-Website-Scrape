@@ -401,6 +401,7 @@ https://www.guildofstudents.com//instagram.com/wayfarersbham
 https://www.guildofstudents.com//instagram.com/womeninlawuob
 https://www.guildofstudents.com//instagram.com/womeninpoliticsuob
 https://www.guildofstudents.com//instagram.com/yogauob
+https://www.guildofstudents.com/7wonderschallenge/
 https://www.guildofstudents.com/about/accessibility/
 https://www.guildofstudents.com/about/companylawmeeting
 https://www.guildofstudents.com/about/enhancedtranscript/
@@ -3119,6 +3120,7 @@ https://www.guildofstudents.com/guildadvice
 https://www.guildofstudents.com/guildadvice/
 https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/guildawards/
+https://www.guildofstudents.com/hallreps/#halls
 https://www.guildofstudents.com/housing
 https://www.guildofstudents.com/keepsafe
 https://www.guildofstudents.com/login/
@@ -5934,6 +5936,7 @@ https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal'
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventcalendar$cal','V9222')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$eventlistcontroller$filterList','')
 https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/')
+https://www.guildofstudents.comjavascript:__doPostBack('ctl00$Main$tvPages','t/\\/about/')
 https://www.guildofstudents.comjavascript:history.back();
 https://www.guildofstudents.comjavascript:void(0);
 https://www.guildofstudents.commailto:13thhorror@guild.bham.ac.uk
