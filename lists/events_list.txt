@@ -187,7 +187,7 @@
 {'event_id': '10840', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/10840/', 'title': 'Interfaith Friday Night Dinner'}
 {'event_id': '10748', 'organisation_id': '6907', 'organisation': 'Korea', 'url': 'https://www.guildofstudents.com/events/6907/10748/', 'title': 'Badminton social before the Easter Break!'}
 {'event_id': '10766', 'organisation_id': '6923', 'organisation': 'Labour', 'url': 'https://www.guildofstudents.com/events/6923/10766/', 'title': 'In Conversation With Alistair Carns MP'}
-{'event_id': '10206', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/10206/', 'title': 'MathSoc Spring Ball'}
+{'event_id': '10206', 'organisation_id': '7011', 'organisation': 'Mathsoc', 'url': 'https://www.guildofstudents.com/events/7011/10206/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10437', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/10437/', 'title': 'Trad Day Trip'}
 {'event_id': '10664', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/10664/', 'title': 'UBMC MERCH'}
 {'event_id': '10680', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/10680/', 'title': 'Ropeworks 2'}
