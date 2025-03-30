@@ -3146,7 +3146,6 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgmtg%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2finvestment%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2flumsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmathsoc%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmountaineering%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fplanning%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpoker%2f
