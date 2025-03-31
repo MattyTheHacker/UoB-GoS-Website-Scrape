@@ -2856,12 +2856,9 @@ https://www.guildofstudents.com/ents/event/10692
 https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/10692/?code=HALL25
 https://www.guildofstudents.com/ents/event/10741/
-https://www.guildofstudents.com/ents/event/10764/
 https://www.guildofstudents.com/ents/event/10772/
 https://www.guildofstudents.com/ents/event/10783/
 https://www.guildofstudents.com/ents/event/10784/
-https://www.guildofstudents.com/ents/event/10847/
-https://www.guildofstudents.com/ents/event/10848/
 https://www.guildofstudents.com/ents/event/10864/
 https://www.guildofstudents.com/ents/event/10878/
 https://www.guildofstudents.com/ents/event/10882/
@@ -3272,7 +3269,6 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/moneymatters
 https://www.guildofstudents.com/moneymatters/
 https://www.guildofstudents.com/news/
-https://www.guildofstudents.com/news/article/website/5-Sustainable-Ways-to-Boost-Your-Wellbeing/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Three-Results/
 https://www.guildofstudents.com/news/article/website/Ethnic-Minorities-Officer-Armaan-Hussain-withdrawn-from-role/
 https://www.guildofstudents.com/news/article/website/Go-Green-Week-2025/
