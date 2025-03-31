@@ -20,12 +20,9 @@
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/', 'title': 'Valefest 2025'}
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/?code=HALL25', 'title': 'Valefest 2025'}
 {'id': '10741', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10741/', 'title': 'Community Breakfast'}
-{'id': '10764', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10764/', 'title': 'Sorry, there was a problem'}
 {'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10783', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10783/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
-{'id': '10847', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10847/', 'title': 'Sorry, there was a problem'}
-{'id': '10848', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10848/', 'title': 'Sorry, there was a problem'}
 {'id': '10864', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10864/', 'title': 'Pirate Plunder Party'}
 {'id': '10878', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10878/', 'title': 'Calthorpe Easter Egg Hunt!'}
 {'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Belgrave Eggstravaganza!'}
