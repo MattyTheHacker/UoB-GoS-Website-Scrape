@@ -45,6 +45,7 @@ https://www.guildofstudents.com#accorddeposit9-1
 https://www.guildofstudents.com#accordliyh-1
 https://www.guildofstudents.com#aitkeninfo
 https://www.guildofstudents.com#allofficercarousel
+https://www.guildofstudents.com#apply
 https://www.guildofstudents.com#ashcroftinfo
 https://www.guildofstudents.com#availablespaces
 https://www.guildofstudents.com#battery-coursel
@@ -2873,6 +2874,7 @@ https://www.guildofstudents.com/ents/event/10945/
 https://www.guildofstudents.com/ents/event/10954/
 https://www.guildofstudents.com/ents/event/10955/
 https://www.guildofstudents.com/ents/event/10956/
+https://www.guildofstudents.com/ents/event/10958/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9452/
@@ -2955,6 +2957,7 @@ https://www.guildofstudents.com/events/20913/10761/
 https://www.guildofstudents.com/events/20913/10763/
 https://www.guildofstudents.com/events/21477/10946/
 https://www.guildofstudents.com/events/21718/10678/
+https://www.guildofstudents.com/events/22470/10961/
 https://www.guildofstudents.com/events/22526/10645/
 https://www.guildofstudents.com/events/22526/10788/
 https://www.guildofstudents.com/events/22526/10789/
@@ -2972,6 +2975,7 @@ https://www.guildofstudents.com/events/34325/10210/
 https://www.guildofstudents.com/events/35017/10915/
 https://www.guildofstudents.com/events/35089/10794/
 https://www.guildofstudents.com/events/35233/10854/
+https://www.guildofstudents.com/events/35257/10959/
 https://www.guildofstudents.com/events/35321/10877/
 https://www.guildofstudents.com/events/35457/10703/
 https://www.guildofstudents.com/events/35779/7484/
@@ -2999,7 +3003,6 @@ https://www.guildofstudents.com/events/6123/10837/
 https://www.guildofstudents.com/events/6123/10855/
 https://www.guildofstudents.com/events/6155/10831/
 https://www.guildofstudents.com/events/6171/10901/
-https://www.guildofstudents.com/events/6187/10947/
 https://www.guildofstudents.com/events/6187/9743/
 https://www.guildofstudents.com/events/6187/9744/
 https://www.guildofstudents.com/events/6187/9745/
@@ -3141,6 +3144,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fdcl%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ffilmmaking%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgmtg%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2finvestment%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2flassoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2flumsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmathsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
@@ -3264,6 +3268,7 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fu
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fvietnamese%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fwomeninpolitics%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fbecomearep%2f
+https://www.guildofstudents.com/login/?redirect=%2fsupport%2fsportaccessfund%2f
 https://www.guildofstudents.com/marksoutoftenancy
 https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/moneymatters
