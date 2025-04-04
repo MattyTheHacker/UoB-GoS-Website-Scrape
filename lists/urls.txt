@@ -170,7 +170,6 @@ https://www.guildofstudents.com#undergraduate-page
 https://www.guildofstudents.com#volunteering-page
 https://www.guildofstudents.com#waffle
 https://www.guildofstudents.com#welcomeevents
-https://www.guildofstudents.com#wheretodonate
 https://www.guildofstudents.com/
 https://www.guildofstudents.com//instagram.com/180dc.birmingham
 https://www.guildofstudents.com//instagram.com/3bugsfringe
@@ -2842,15 +2841,11 @@ https://www.guildofstudents.com/ents/event/10448/
 https://www.guildofstudents.com/ents/event/10692
 https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/10692/?code=HALL25
-https://www.guildofstudents.com/ents/event/10772/
 https://www.guildofstudents.com/ents/event/10784/
 https://www.guildofstudents.com/ents/event/10909/
 https://www.guildofstudents.com/ents/event/10920/
-https://www.guildofstudents.com/ents/event/10926/
 https://www.guildofstudents.com/ents/event/10932/
 https://www.guildofstudents.com/ents/event/10945/
-https://www.guildofstudents.com/ents/event/10954/
-https://www.guildofstudents.com/ents/event/10955/
 https://www.guildofstudents.com/ents/event/10956/
 https://www.guildofstudents.com/ents/event/10958/
 https://www.guildofstudents.com/ents/event/10963/
@@ -2876,14 +2871,12 @@ https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
-https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
-https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomeevening/
@@ -2903,9 +2896,7 @@ https://www.guildofstudents.com/events/20372/9609/
 https://www.guildofstudents.com/events/20913/10761/
 https://www.guildofstudents.com/events/21477/10946/
 https://www.guildofstudents.com/events/22470/10961/
-https://www.guildofstudents.com/events/22526/10645/
 https://www.guildofstudents.com/events/22526/10788/
-https://www.guildofstudents.com/events/22526/10789/
 https://www.guildofstudents.com/events/22575/10592/
 https://www.guildofstudents.com/events/23405/10622/
 https://www.guildofstudents.com/events/34325/10210/
@@ -2922,7 +2913,6 @@ https://www.guildofstudents.com/events/51180/10952/
 https://www.guildofstudents.com/events/51180/9490/
 https://www.guildofstudents.com/events/52640/10951/
 https://www.guildofstudents.com/events/52697/10751/
-https://www.guildofstudents.com/events/52773/10937/
 https://www.guildofstudents.com/events/6115/10903/
 https://www.guildofstudents.com/events/6187/9743/
 https://www.guildofstudents.com/events/6187/9744/
@@ -2955,6 +2945,7 @@ https://www.guildofstudents.com/events/6691/10657/
 https://www.guildofstudents.com/events/6691/10658/
 https://www.guildofstudents.com/events/6691/10659/
 https://www.guildofstudents.com/events/6923/10766/
+https://www.guildofstudents.com/events/7011/10924/
 https://www.guildofstudents.com/events/7067/10680/
 https://www.guildofstudents.com/events/7067/10808/
 https://www.guildofstudents.com/events/7067/10824/
@@ -2962,6 +2953,7 @@ https://www.guildofstudents.com/events/7179/9528/
 https://www.guildofstudents.com/events/7195/10721/
 https://www.guildofstudents.com/events/7219/10307/
 https://www.guildofstudents.com/events/7219/10625/
+https://www.guildofstudents.com/events/7299/10708/
 https://www.guildofstudents.com/events/7387/9576/
 https://www.guildofstudents.com/events/7387/9577/
 https://www.guildofstudents.com/events/7387/9578/
@@ -2969,6 +2961,7 @@ https://www.guildofstudents.com/events/7387/9579/
 https://www.guildofstudents.com/events/7491/10731/
 https://www.guildofstudents.com/events/7515/10216/
 https://www.guildofstudents.com/events/7523/10893/
+https://www.guildofstudents.com/events/7572/10948/
 https://www.guildofstudents.com/events/8649/10408/
 https://www.guildofstudents.com/events/8649/10409/
 https://www.guildofstudents.com/events/8649/10410/
@@ -3145,7 +3138,6 @@ https://www.guildofstudents.com/moneymatters
 https://www.guildofstudents.com/moneymatters/
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Three-Results/
-https://www.guildofstudents.com/news/article/website/Ethnic-Minorities-Officer-Armaan-Hussain-withdrawn-from-role/
 https://www.guildofstudents.com/news/article/website/Go-Green-Week-2025/
 https://www.guildofstudents.com/news/article/website/Officer-Bye-Election-Updates-and-Trans-and-Non-Binary-Students-Officer-Resignation/
 https://www.guildofstudents.com/news/article/website/Officer-Elections-2025-Results/
@@ -5784,7 +5776,6 @@ https://www.guildofstudents.com/welcome/events/
 https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/daytime#guildevents
 https://www.guildofstudents.com/welcome/events/evening
-https://www.guildofstudents.com/welcome/events/event/10339/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/

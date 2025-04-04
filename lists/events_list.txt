@@ -3,16 +3,15 @@
 {'id': '10448', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10448/', 'title': 'Wellbeing Café'}
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/', 'title': 'Valefest 2025'}
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/?code=HALL25', 'title': 'Valefest 2025'}
-{'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Wellbeing Office Pop Up'}
+{'id': '10772', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10772/', 'title': 'Sorry, there was a problem'}
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
-{'id': '10882', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10882/', 'title': 'Sorry, there was a problem'}
 {'id': '10909', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10909/', 'title': 'Chaii, Chaat & Chill'}
 {'id': '10920', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10920/', 'title': 'Talk to Ravi'}
-{'id': '10926', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10926/', 'title': "Pritchatt's Park Pizza, Picnic & Quiz"}
+{'id': '10926', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10926/', 'title': 'Sorry, there was a problem'}
 {'id': '10932', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10932/', 'title': 'Beats and Treats'}
 {'id': '10945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10945/', 'title': 'Halls Bubble Wands and Donut Decorating'}
-{'id': '10954', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10954/', 'title': 'Summer Sunglasses Spectacular'}
-{'id': '10955', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10955/', 'title': 'Easter Quiz and Pizza Party'}
+{'id': '10954', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10954/', 'title': 'Sorry, there was a problem'}
+{'id': '10955', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10955/', 'title': 'Sorry, there was a problem'}
 {'id': '10956', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10956/', 'title': 'Vale Easter Extravaganza'}
 {'id': '10958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10958/', 'title': 'Halls Bubbles and Bracelets'}
 {'id': '10963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10963/', 'title': 'Halls Bring on the Summer!'}
@@ -34,9 +33,9 @@
 {'event_id': '10761', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/10761/', 'title': 'Games Nights'}
 {'event_id': '10946', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/10946/', 'title': 'Summer Formal'}
 {'event_id': '10961', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/10961/', 'title': 'BEDsoc x ELAL Summer Ball'}
-{'event_id': '10645', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10645/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
+{'event_id': '10645', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10645/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10788', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10788/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
-{'event_id': '10789', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10789/', 'title': 'Sherlock Holmes and the Hound of the Pantomime'}
+{'event_id': '10789', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/10789/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10592', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10592/', 'title': 'Easter Session'}
 {'event_id': '10622', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/10622/', 'title': 'Criminology Society Ball'}
 {'event_id': '10210', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10210/', 'title': 'Netball Membership'}
@@ -53,7 +52,7 @@
 {'event_id': '9490', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/9490/', 'title': 'Mechsoc Campus League'}
 {'event_id': '10951', 'organisation_id': '52640', 'organisation': 'Bubble Tea', 'url': 'https://www.guildofstudents.com/events/52640/10951/', 'title': 'Games Night'}
 {'event_id': '10751', 'organisation_id': '52697', 'organisation': 'Think Diversity', 'url': 'https://www.guildofstudents.com/events/52697/10751/', 'title': 'Decolonise & Socialise: A quiz sesh with TD'}
-{'event_id': '10937', 'organisation_id': '52773', 'organisation': 'Uzbek Society', 'url': 'https://www.guildofstudents.com/events/52773/10937/', 'title': 'Celebrating National holiday "Navruz"'}
+{'event_id': '10937', 'organisation_id': '52773', 'organisation': 'Uzbek Society', 'url': 'https://www.guildofstudents.com/events/52773/10937/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10903', 'organisation_id': '6115', 'organisation': 'Anime & Manga', 'url': 'https://www.guildofstudents.com/events/6115/10903/', 'title': 'J-Cafe'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
