@@ -88,6 +88,7 @@ https://www.guildofstudents.com#ggw20
 https://www.guildofstudents.com#guildevents
 https://www.guildofstudents.com#happyhour
 https://www.guildofstudents.com#instagrammore
+https://www.guildofstudents.com#instructions-1
 https://www.guildofstudents.com#international-page
 https://www.guildofstudents.com#jarratthallinfo
 https://www.guildofstudents.com#joes5voucher
@@ -144,6 +145,8 @@ https://www.guildofstudents.com#navvol
 https://www.guildofstudents.com#navwco
 https://www.guildofstudents.com#navwo
 https://www.guildofstudents.com#newsblogs
+https://www.guildofstudents.com#next-1
+https://www.guildofstudents.com#nino-1
 https://www.guildofstudents.com#nomination
 https://www.guildofstudents.com#oakbrookparkinfo
 https://www.guildofstudents.com#oakleyinfo
@@ -2845,6 +2848,8 @@ https://www.guildofstudents.com/ents/event/10963/
 https://www.guildofstudents.com/ents/event/10964/
 https://www.guildofstudents.com/ents/event/10968/
 https://www.guildofstudents.com/ents/event/10969/
+https://www.guildofstudents.com/ents/event/10971/
+https://www.guildofstudents.com/ents/event/10972/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9788/
@@ -3920,6 +3925,8 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Charlotte-Minter.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/studentstaff/Job-Description-and-Person-Specification-Welcome-Team-20251.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf

@@ -11,6 +11,7 @@
 {'id': '10956', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10956/', 'title': 'Vale Easter Extravaganza'}
 {'id': '10958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10958/', 'title': 'Halls Bubbles and Bracelets'}
 {'id': '10963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10963/', 'title': 'Halls Bring on the Summer!'}
+{'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
 {'id': '10968', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10968/', 'title': 'Halls Coasters and Cookies'}
 {'id': '10969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10969/', 'title': 'Hanging Room Decorations'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
@@ -32,8 +33,8 @@
 {'event_id': '10592', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/10592/', 'title': 'Easter Session'}
 {'event_id': '10622', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/10622/', 'title': 'Criminology Society Ball'}
 {'event_id': '10210', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10210/', 'title': 'Netball Membership'}
-{'event_id': '10794', 'organisation_id': '35089', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35089/10794/', 'title': 'Docs Not Cops Annual Conference'}
-{'event_id': '10959', 'organisation_id': '35257', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/35257/10959/', 'title': 'Sports Nigh'}
+{'event_id': '10794', 'organisation_id': '35089', 'organisation': 'Docs Not Cops', 'url': 'https://www.guildofstudents.com/events/35089/10794/', 'title': 'Docs Not Cops Annual Conference'}
+{'event_id': '10959', 'organisation_id': '35257', 'organisation': 'MedSoc Dance', 'url': 'https://www.guildofstudents.com/events/35257/10959/', 'title': 'Sports Nigh'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (October 8th-16th)'}
 {'event_id': '10925', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/10925/', 'title': 'Yoga Wellness Day'}
 {'event_id': '10902', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/10902/', 'title': 'UoB Darts Varsity 2025'}
