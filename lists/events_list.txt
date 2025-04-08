@@ -8,7 +8,6 @@
 {'id': '10932', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10932/', 'title': 'Beats and Treats'}
 {'id': '10945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10945/', 'title': 'Halls Bubble Wands and Donut Decorating'}
 {'id': '10955', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10955/', 'title': 'Easter Quiz and Pizza Party'}
-{'id': '10956', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10956/', 'title': 'Sorry, there was a problem'}
 {'id': '10958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10958/', 'title': 'Halls Bubbles and Bracelets'}
 {'id': '10963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10963/', 'title': 'Halls Bring on the Summer!'}
 {'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
