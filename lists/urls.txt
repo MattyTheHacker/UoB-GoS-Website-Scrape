@@ -2806,6 +2806,7 @@ https://www.guildofstudents.com/allstudentvote/
 https://www.guildofstudents.com/asset/News/6016/ASV-3-February-2025-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/OE-2025-Results-Tables.pdf
 https://www.guildofstudents.com/asset/News/6016/Officer-Elections-2025-Budgets.pdf
+https://www.guildofstudents.com/asset/News/6016/Palestine-Solidarity-Student-Idea-Text.pdf
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
 https://www.guildofstudents.com/blackvoices/
 https://www.guildofstudents.com/blogs/blog/officers-24-25/
@@ -2849,6 +2850,9 @@ https://www.guildofstudents.com/ents/event/10969/
 https://www.guildofstudents.com/ents/event/10971/
 https://www.guildofstudents.com/ents/event/10972/
 https://www.guildofstudents.com/ents/event/10973/
+https://www.guildofstudents.com/ents/event/10975/
+https://www.guildofstudents.com/ents/event/10976/
+https://www.guildofstudents.com/ents/event/10977/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9788/
@@ -3089,6 +3093,7 @@ https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10299160%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10303360%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f42029%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fasc%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fbecomearep%2f
@@ -3100,6 +3105,7 @@ https://www.guildofstudents.com/moneymatters/
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/A-Statement-from-Hope-Regarding-Bin-Strikes/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Three-Results/
+https://www.guildofstudents.com/news/article/website/Democratic-Idea-Update-Palestine-Solidarity/
 https://www.guildofstudents.com/news/article/website/Go-Green-Week-2025/
 https://www.guildofstudents.com/news/article/website/Guild-Easter-Opening-Times-2025/
 https://www.guildofstudents.com/news/article/website/Officer-Bye-Election-Updates-and-Trans-and-Non-Binary-Students-Officer-Resignation/
