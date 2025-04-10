@@ -2849,7 +2849,6 @@ https://www.guildofstudents.com/ents/event/10968/
 https://www.guildofstudents.com/ents/event/10969/
 https://www.guildofstudents.com/ents/event/10971/
 https://www.guildofstudents.com/ents/event/10972/
-https://www.guildofstudents.com/ents/event/10973/
 https://www.guildofstudents.com/ents/event/10975/
 https://www.guildofstudents.com/ents/event/10976/
 https://www.guildofstudents.com/ents/event/10977/
@@ -2874,14 +2873,12 @@ https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
-https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
-https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomeevening/

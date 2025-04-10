@@ -14,7 +14,10 @@
 {'id': '10969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10969/', 'title': 'Hanging Room Decorations'}
 {'id': '10971', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10971/', 'title': 'Halls Outdoor Sports and Games Day'}
 {'id': '10972', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10972/', 'title': 'Halls Postcard Decorating with Pick ‘n mix'}
-{'id': '10973', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10973/', 'title': 'Wellbeing Office Pop Up'}
+{'id': '10973', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10973/', 'title': 'Sorry, there was a problem'}
+{'id': '10975', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10975/', 'title': 'Halls Speed Painting'}
+{'id': '10976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10976/', 'title': 'Halls Paint by Numbers and Pastries'}
+{'id': '10977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10977/', 'title': 'Kites and Cookies!'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9788/', 'title': 'Criminology campus league'}
