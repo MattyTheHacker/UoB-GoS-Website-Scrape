@@ -2972,6 +2972,7 @@ https://www.guildofstudents.com/events/7387/9579/
 https://www.guildofstudents.com/events/7491/10731/
 https://www.guildofstudents.com/events/7515/10216/
 https://www.guildofstudents.com/events/7523/10893/
+https://www.guildofstudents.com/events/7523/10988/
 https://www.guildofstudents.com/events/7572/10948/
 https://www.guildofstudents.com/events/8649/10408/
 https://www.guildofstudents.com/events/8649/10409/
@@ -3002,7 +3003,6 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbubbletea%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgmtg%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2flassoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpsychology%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f
