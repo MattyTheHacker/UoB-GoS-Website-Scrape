@@ -102,6 +102,7 @@
 {'event_id': '10731', 'organisation_id': '7491', 'organisation': 'ValeFest', 'url': 'https://www.guildofstudents.com/events/7491/10731/', 'title': 'Battle of the Bands FINAL'}
 {'event_id': '10216', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/10216/', 'title': 'Imbrovabunga! Edinburgh Trip 2025'}
 {'event_id': '10893', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10893/', 'title': 'Isle of Skye Week Trip'}
+{'event_id': '10988', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10988/', 'title': 'AGM'}
 {'event_id': '10948', 'organisation_id': '7572', 'organisation': 'University of Birmingham Guild of Students - Venues Department', 'url': 'https://www.guildofstudents.com/events/7572/10948/', 'title': 'Sports Ball 2025'}
 {'event_id': '10408', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10408/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10409', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10409/', 'title': 'Public Speaking Society Weekly Session'}
