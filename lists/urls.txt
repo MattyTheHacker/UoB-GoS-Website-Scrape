@@ -2843,7 +2843,6 @@ https://www.guildofstudents.com/ents/event/10958/
 https://www.guildofstudents.com/ents/event/10963/
 https://www.guildofstudents.com/ents/event/10964/
 https://www.guildofstudents.com/ents/event/10969/
-https://www.guildofstudents.com/ents/event/10971/
 https://www.guildofstudents.com/ents/event/10972/
 https://www.guildofstudents.com/ents/event/10975/
 https://www.guildofstudents.com/ents/event/10976/
@@ -2995,6 +2994,7 @@ https://www.guildofstudents.com/events/8649/10415/
 https://www.guildofstudents.com/events/8649/10416/
 https://www.guildofstudents.com/events/8649/10417/
 https://www.guildofstudents.com/events/8649/10418/
+https://www.guildofstudents.com/events/9220/11007/
 https://www.guildofstudents.com/fab/
 https://www.guildofstudents.com/footer/cookiepolicy/
 https://www.guildofstudents.com/footer/resourcespublications/
@@ -3012,6 +3012,7 @@ https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgmtg%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmountaineering%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpsychology%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f

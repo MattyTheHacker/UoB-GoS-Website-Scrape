@@ -9,7 +9,7 @@
 {'id': '10963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10963/', 'title': 'Halls Bring on the Summer!'}
 {'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
 {'id': '10969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10969/', 'title': 'Halls Hanging Room Decorations'}
-{'id': '10971', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10971/', 'title': 'Halls Outdoor Sports and Games Day'}
+{'id': '10971', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10971/', 'title': 'Sorry, there was a problem'}
 {'id': '10972', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10972/', 'title': 'Halls Postcard Decorating with Pick ‘n mix'}
 {'id': '10975', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10975/', 'title': 'Halls Speed Painting'}
 {'id': '10976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10976/', 'title': 'Halls Paint by Numbers and Pastries'}
