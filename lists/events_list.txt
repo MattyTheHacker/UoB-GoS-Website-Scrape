@@ -9,7 +9,7 @@
 {'id': '10963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10963/', 'title': 'Halls Bring on the Summer!'}
 {'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
 {'id': '10969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10969/', 'title': 'Halls Hanging Room Decorations'}
-{'id': '10972', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10972/', 'title': 'Halls Postcard Decorating with Pick ‘n mix'}
+{'id': '10972', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10972/', 'title': 'Sorry, there was a problem'}
 {'id': '10975', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10975/', 'title': 'Halls Speed Painting'}
 {'id': '10976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10976/', 'title': 'Halls Paint by Numbers and Pastries'}
 {'id': '10977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10977/', 'title': 'Halls Kites and Cookies!'}
@@ -17,7 +17,7 @@
 {'id': '10983', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10983/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10984/', 'title': 'Joes Bingo'}
 {'id': '10985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10985/', 'title': 'Big Guild Quiz'}
-{'id': '10986', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10986/', 'title': 'Halls Board Game Bonanza'}
+{'id': '10986', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10986/', 'title': 'Sorry, there was a problem'}
 {'id': '10987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10987/', 'title': 'Wellbeing Fairy'}
 {'id': '10989', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10989/', 'title': 'Self Defence Class'}
 {'id': '10990', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10990/', 'title': 'Self Defence Class'}
