@@ -8,8 +8,7 @@
 {'id': '10958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10958/', 'title': 'Halls Bubbles and Bracelets'}
 {'id': '10963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10963/', 'title': 'Halls Bring on the Summer!'}
 {'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
-{'id': '10969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10969/', 'title': 'Halls Hanging Room Decorations'}
-{'id': '10972', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10972/', 'title': 'Sorry, there was a problem'}
+{'id': '10969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10969/', 'title': 'Sorry, there was a problem'}
 {'id': '10975', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10975/', 'title': 'Halls Speed Painting'}
 {'id': '10976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10976/', 'title': 'Halls Paint by Numbers and Pastries'}
 {'id': '10977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10977/', 'title': 'Halls Kites and Cookies!'}
@@ -17,7 +16,6 @@
 {'id': '10983', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10983/', 'title': 'Wellbeing Office Pop Up'}
 {'id': '10984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10984/', 'title': 'Joes Bingo'}
 {'id': '10985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10985/', 'title': 'Big Guild Quiz'}
-{'id': '10986', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10986/', 'title': 'Sorry, there was a problem'}
 {'id': '10987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10987/', 'title': 'Wellbeing Fairy'}
 {'id': '10989', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10989/', 'title': 'Self Defence Class'}
 {'id': '10990', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10990/', 'title': 'Self Defence Class'}
@@ -30,6 +28,7 @@
 {'id': '10997', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10997/', 'title': 'Community Breakfast'}
 {'id': '10998', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10998/', 'title': 'Community Breakfast'}
 {'id': '11006', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11006/', 'title': 'Halls Bats and Balls: Summer Games'}
+{'id': '11009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11009/', 'title': 'Best Out of Waste'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9788/', 'title': 'Criminology campus league'}
@@ -53,6 +52,7 @@
 {'event_id': '10210', 'organisation_id': '34325', 'organisation': 'ELAL (English Language and Linguistics)', 'url': 'https://www.guildofstudents.com/events/34325/10210/', 'title': 'Netball Membership'}
 {'event_id': '10794', 'organisation_id': '35089', 'organisation': 'Docs Not Cops', 'url': 'https://www.guildofstudents.com/events/35089/10794/', 'title': 'Docs Not Cops Annual Conference'}
 {'event_id': '10959', 'organisation_id': '35257', 'organisation': 'MedSoc Dance', 'url': 'https://www.guildofstudents.com/events/35257/10959/', 'title': 'Sports Nigh'}
+{'event_id': '11010', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/11010/', 'title': 'Stratford Bar Crawl'}
 {'event_id': '7484', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/7484/', 'title': 'BUDSS Merch 24/25 (October 8th-16th)'}
 {'event_id': '10925', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/10925/', 'title': 'Yoga Wellness Day'}
 {'event_id': '10902', 'organisation_id': '39116', 'organisation': 'Darts Society', 'url': 'https://www.guildofstudents.com/events/39116/10902/', 'title': 'UoB Darts Varsity 2025'}
