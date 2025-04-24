@@ -187,7 +187,6 @@ https://www.guildofstudents.com//instagram.com/Bacas.bham
 https://www.guildofstudents.com//instagram.com/bakingsocietyuob
 https://www.guildofstudents.com//instagram.com/beatuob
 https://www.guildofstudents.com//instagram.com/bedsoc
-https://www.guildofstudents.com//instagram.com/bhamalthiphopsociety
 https://www.guildofstudents.com//instagram.com/bhameconsoc
 https://www.guildofstudents.com//instagram.com/bhamssago
 https://www.guildofstudents.com//instagram.com/bhamstudentsforlife
@@ -2862,6 +2861,7 @@ https://www.guildofstudents.com/ents/event/10997/
 https://www.guildofstudents.com/ents/event/10998/
 https://www.guildofstudents.com/ents/event/11006/
 https://www.guildofstudents.com/ents/event/11009/
+https://www.guildofstudents.com/ents/event/11016/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9788/
@@ -2955,6 +2955,7 @@ https://www.guildofstudents.com/events/6187/9760/
 https://www.guildofstudents.com/events/6187/9761/
 https://www.guildofstudents.com/events/6251/10462/
 https://www.guildofstudents.com/events/6251/9492/
+https://www.guildofstudents.com/events/6371/11015/
 https://www.guildofstudents.com/events/6395/10876/
 https://www.guildofstudents.com/events/6395/9641/
 https://www.guildofstudents.com/events/6419/10965/
@@ -2977,6 +2978,7 @@ https://www.guildofstudents.com/events/7387/9576/
 https://www.guildofstudents.com/events/7387/9577/
 https://www.guildofstudents.com/events/7387/9578/
 https://www.guildofstudents.com/events/7387/9579/
+https://www.guildofstudents.com/events/7443/11014/
 https://www.guildofstudents.com/events/7491/10731/
 https://www.guildofstudents.com/events/7515/10216/
 https://www.guildofstudents.com/events/7523/10893/
@@ -3009,6 +3011,7 @@ https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f10692%2f
 https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbookclub%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgmtg%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmountaineering%2f
@@ -3165,7 +3168,6 @@ https://www.guildofstudents.com/organisation/39365/
 https://www.guildofstudents.com/organisation/39596/
 https://www.guildofstudents.com/organisation/3bugsfringe/
 https://www.guildofstudents.com/organisation/40488/
-https://www.guildofstudents.com/organisation/40820/
 https://www.guildofstudents.com/organisation/40986/
 https://www.guildofstudents.com/organisation/41452/
 https://www.guildofstudents.com/organisation/41472/
@@ -5599,7 +5601,6 @@ https://www.guildofstudents.com/studentgroups/societies/39298/
 https://www.guildofstudents.com/studentgroups/societies/41025/
 https://www.guildofstudents.com/studentgroups/societies/41079/
 https://www.guildofstudents.com/studentgroups/societies/41492/
-https://www.guildofstudents.com/studentgroups/societies/41640/
 https://www.guildofstudents.com/studentgroups/societies/41711/
 https://www.guildofstudents.com/studentgroups/societies/42029/
 https://www.guildofstudents.com/studentgroups/societies/43138/
@@ -5803,7 +5804,6 @@ https://www.guildofstudents.commailto:ahlulbayt@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ahmadiyya@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ahmadiyyamuslimsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:algosoc@guild.bham.ac.uk
-https://www.guildofstudents.commailto:AlternativeHipHopSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:amnesty@guild.bham.ac.uk
 https://www.guildofstudents.commailto:anime@guild.bham.ac.uk
 https://www.guildofstudents.commailto:appeals@contacts.bham.ac.uk
