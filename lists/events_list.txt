@@ -28,6 +28,7 @@
 {'id': '10998', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10998/', 'title': 'Community Breakfast'}
 {'id': '11006', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11006/', 'title': 'Halls Bats and Balls: Summer Games'}
 {'id': '11009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11009/', 'title': 'Best Out of Waste'}
+{'id': '11016', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11016/', 'title': "Chair's Network"}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9788/', 'title': 'Criminology campus league'}
@@ -86,6 +87,7 @@
 {'event_id': '9761', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9761/', 'title': 'Thursday Beginner Ballroom and Latin Classes'}
 {'event_id': '10462', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/10462/', 'title': 'BioSoc Easter Ball'}
 {'event_id': '9492', 'organisation_id': '6251', 'organisation': 'BioSoc', 'url': 'https://www.guildofstudents.com/events/6251/9492/', 'title': 'Biosoc campus league'}
+{'event_id': '11015', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/11015/', 'title': 'BUDS charity summer ball'}
 {'event_id': '10876', 'organisation_id': '6395', 'organisation': 'Business', 'url': 'https://www.guildofstudents.com/events/6395/10876/', 'title': 'Spring Ball'}
 {'event_id': '9641', 'organisation_id': '6395', 'organisation': 'Business', 'url': 'https://www.guildofstudents.com/events/6395/9641/', 'title': 'Business campus league'}
 {'event_id': '10965', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/10965/', 'title': 'CathSoc Jubilee Ball'}
@@ -108,6 +110,7 @@
 {'event_id': '9577', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9577/', 'title': "Women's project volunteering"}
 {'event_id': '9578', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9578/', 'title': "Women's project volunteering"}
 {'event_id': '9579', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9579/', 'title': "Women's project volunteering"}
+{'event_id': '11014', 'organisation_id': '7443', 'organisation': '3Bugs Fringe Theatre Society', 'url': 'https://www.guildofstudents.com/events/7443/11014/', 'title': 'Guild Drama Summer Ball'}
 {'event_id': '10731', 'organisation_id': '7491', 'organisation': 'ValeFest', 'url': 'https://www.guildofstudents.com/events/7491/10731/', 'title': 'Battle of the Bands FINAL'}
 {'event_id': '10216', 'organisation_id': '7515', 'organisation': 'Watch This', 'url': 'https://www.guildofstudents.com/events/7515/10216/', 'title': 'Imbrovabunga! Edinburgh Trip 2025'}
 {'event_id': '10893', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10893/', 'title': 'Isle of Skye Week Trip'}
