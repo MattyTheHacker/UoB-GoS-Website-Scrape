@@ -8,7 +8,6 @@
 {'id': '10958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10958/', 'title': 'Halls Bubbles and Bracelets'}
 {'id': '10963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10963/', 'title': 'Halls Bring on the Summer!'}
 {'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
-{'id': '10975', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10975/', 'title': 'Sorry, there was a problem'}
 {'id': '10976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10976/', 'title': 'Halls Paint by Numbers and Pastries'}
 {'id': '10977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10977/', 'title': 'Halls Kites and Cookies!'}
 {'id': '10982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10982/', 'title': 'Spring Fling'}
