@@ -105,6 +105,7 @@
 {'event_id': '10680', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/10680/', 'title': 'Ropeworks 2'}
 {'event_id': '10808', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/10808/', 'title': 'Sportland'}
 {'event_id': '10981', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/10981/', 'title': 'MUCC Staff Shirts'}
+{'event_id': '11012', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/11012/', 'title': 'MUCC People did not buy tickets'}
 {'event_id': '10978', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/10978/', 'title': 'Philosophy Society Summer Ball'}
 {'event_id': '9528', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/9528/', 'title': 'Philsoc campus league'}
 {'event_id': '10721', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/10721/', 'title': 'Pole Ball'}
