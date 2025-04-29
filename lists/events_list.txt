@@ -8,7 +8,7 @@
 {'id': '10958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10958/', 'title': 'Halls Bubbles and Bracelets'}
 {'id': '10963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10963/', 'title': 'Halls Bring on the Summer!'}
 {'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
-{'id': '10976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10976/', 'title': 'Halls Paint by Numbers and Pastries'}
+{'id': '10976', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10976/', 'title': 'Sorry, there was a problem'}
 {'id': '10977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10977/', 'title': 'Halls Kites and Cookies!'}
 {'id': '10982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10982/', 'title': 'Spring Fling'}
 {'id': '10983', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10983/', 'title': 'Wellbeing Office Pop Up'}
@@ -33,6 +33,9 @@
 {'id': '11020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11020/', 'title': 'Halls Alice in Wonderland Tea Party'}
 {'id': '11021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11021/', 'title': 'Umbrella Advice Stall'}
 {'id': '11022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11022/', 'title': 'Umbrella Advice Stall'}
+{'id': '11023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11023/', 'title': 'Environmental Activism & Lobbying Workshop'}
+{'id': '11024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11024/', 'title': 'Big Guild Quiz'}
+{'id': '11025', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11025/', 'title': 'Sports Night'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'id': '9788', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9788/', 'title': 'Criminology campus league'}
