@@ -35,6 +35,7 @@ bedsoc@guild.bham.ac.uk
 BeerPong@guild.bham.ac.uk
 benchball@guild.bham.ac.uk
 bhangra@guild.bham.ac.uk
+Bharatanatyam@guild.bham.ac.uk
 BIFS@guild.bham.ac.uk
 biosoc@guild.bham.ac.uk
 birmingham@intervol.org.uk
