@@ -26,7 +26,7 @@
 {'id': '11006', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11006/', 'title': 'Halls Bats and Balls: Summer Games'}
 {'id': '11009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11009/', 'title': 'Best Out of Waste'}
 {'id': '11016', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11016/', 'title': "Chair's Network"}
-{'id': '11017', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11017/', 'title': 'Halls Sunshine Celebrations'}
+{'id': '11017', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11017/', 'title': 'Sorry, there was a problem'}
 {'id': '11018', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11018/', 'title': 'Wellbeing Café'}
 {'id': '11020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11020/', 'title': 'Halls Alice in Wonderland Tea Party'}
 {'id': '11021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11021/', 'title': 'Umbrella Advice Stall'}

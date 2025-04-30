@@ -2860,7 +2860,6 @@ https://www.guildofstudents.com/ents/event/10998/
 https://www.guildofstudents.com/ents/event/11006/
 https://www.guildofstudents.com/ents/event/11009/
 https://www.guildofstudents.com/ents/event/11016/
-https://www.guildofstudents.com/ents/event/11017/
 https://www.guildofstudents.com/ents/event/11018/
 https://www.guildofstudents.com/ents/event/11020/
 https://www.guildofstudents.com/ents/event/11021/
@@ -2869,6 +2868,8 @@ https://www.guildofstudents.com/ents/event/11023/
 https://www.guildofstudents.com/ents/event/11024/
 https://www.guildofstudents.com/ents/event/11025/
 https://www.guildofstudents.com/ents/event/11029/
+https://www.guildofstudents.com/ents/event/11030/
+https://www.guildofstudents.com/ents/event/11032/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/event/9788/
@@ -2938,7 +2939,6 @@ https://www.guildofstudents.com/events/39365/10944/
 https://www.guildofstudents.com/events/43309/10343/
 https://www.guildofstudents.com/events/51180/10921/
 https://www.guildofstudents.com/events/51180/10952/
-https://www.guildofstudents.com/events/51180/9490/
 https://www.guildofstudents.com/events/52640/10951/
 https://www.guildofstudents.com/events/52697/10751/
 https://www.guildofstudents.com/events/6115/10903/
@@ -2963,7 +2963,6 @@ https://www.guildofstudents.com/events/6187/9759/
 https://www.guildofstudents.com/events/6187/9760/
 https://www.guildofstudents.com/events/6187/9761/
 https://www.guildofstudents.com/events/6251/10462/
-https://www.guildofstudents.com/events/6251/9492/
 https://www.guildofstudents.com/events/6371/11015/
 https://www.guildofstudents.com/events/6395/10876/
 https://www.guildofstudents.com/events/6395/9641/
@@ -2980,7 +2979,6 @@ https://www.guildofstudents.com/events/7067/10808/
 https://www.guildofstudents.com/events/7067/10981/
 https://www.guildofstudents.com/events/7067/11012/
 https://www.guildofstudents.com/events/7179/10978/
-https://www.guildofstudents.com/events/7179/9528/
 https://www.guildofstudents.com/events/7195/10721/
 https://www.guildofstudents.com/events/7219/10625/
 https://www.guildofstudents.com/events/7299/10708/
@@ -3039,8 +3037,10 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2f40986%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f42050%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f42070%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f50842%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2f50882%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f7751%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f9220%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2falgosoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fart%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fautism%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbacas%2f
@@ -3067,12 +3067,15 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmountaineering
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fostem%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fphilosophy%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpoker%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpsychology%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftaylorswift%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fubars%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fubvr%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fuobcommutersoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fvegesoc%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fwritersbloc%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10026370%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10063190%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10063220%2f
