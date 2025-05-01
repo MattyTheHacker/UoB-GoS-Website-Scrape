@@ -2865,9 +2865,9 @@ https://www.guildofstudents.com/ents/event/11025/
 https://www.guildofstudents.com/ents/event/11029/
 https://www.guildofstudents.com/ents/event/11030/
 https://www.guildofstudents.com/ents/event/11032/
+https://www.guildofstudents.com/ents/event/11035/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
-https://www.guildofstudents.com/ents/event/9788/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=5&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2025
@@ -2962,6 +2962,7 @@ https://www.guildofstudents.com/events/7387/9579/
 https://www.guildofstudents.com/events/7443/11014/
 https://www.guildofstudents.com/events/7515/10216/
 https://www.guildofstudents.com/events/7523/10988/
+https://www.guildofstudents.com/events/7523/11036/
 https://www.guildofstudents.com/events/7572/10948/
 https://www.guildofstudents.com/events/8649/10412/
 https://www.guildofstudents.com/events/8649/10413/
@@ -3029,6 +3030,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgerman%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fgmtg%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2finfinity%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2flarp%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2flassoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fliveart%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmountaineering%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
