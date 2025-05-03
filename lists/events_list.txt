@@ -3,7 +3,7 @@
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10958/', 'title': 'Halls Bubbles and Bracelets'}
 {'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
-{'id': '10977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10977/', 'title': 'Halls Kites and Cookies!'}
+{'id': '10977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10977/', 'title': 'Sorry, there was a problem'}
 {'id': '10982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10982/', 'title': 'Spring Fling'}
 {'id': '10984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10984/', 'title': 'Joes Bingo'}
 {'id': '10985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10985/', 'title': 'Big Guild Quiz'}
@@ -32,8 +32,34 @@
 {'id': '11030', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11030/', 'title': 'Ratatouille, Wingstop, and Crafts'}
 {'id': '11032', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11032/', 'title': 'Halls Summer Journaling and Self Care Bags'}
 {'id': '11035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11035/', 'title': 'End of Year Committee Celebration Event'}
+{'id': '11042', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11042/', 'title': 'Silent Disco Litter Pick'}
+{'id': '11051', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11051/', 'title': 'Hall Message Boards & Chocolate Fountain!'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
+{'event_id': '11052', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11052/', 'title': 'Tuesday Kickboxing Session'}
+{'event_id': '11053', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11053/', 'title': 'Tuesday Kickboxing Session'}
+{'event_id': '11054', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11054/', 'title': 'Tuesday Kickboxing Session'}
+{'event_id': '11055', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11055/', 'title': 'Tuesday Kickboxing Session'}
+{'event_id': '11056', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11056/', 'title': 'Tuesday Kickboxing Session'}
+{'event_id': '11057', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11057/', 'title': 'Tuesday Kickboxing Session'}
+{'event_id': '11058', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11058/', 'title': 'Tuesday Kickboxing Session'}
+{'event_id': '11059', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11059/', 'title': 'Tuesday Kickboxing Session'}
+{'event_id': '11061', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11061/', 'title': 'Thursday Kickboxing Session'}
+{'event_id': '11062', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11062/', 'title': 'Thursday Kickboxing Session'}
+{'event_id': '11063', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11063/', 'title': 'Thursday Kickboxing Session'}
+{'event_id': '11064', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11064/', 'title': 'Thursday Kickboxing Session'}
+{'event_id': '11065', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11065/', 'title': 'Thursday Kickboxing Session'}
+{'event_id': '11066', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11066/', 'title': 'Thursday Kickboxing Session'}
+{'event_id': '11067', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11067/', 'title': 'Thursday Kickboxing Session'}
+{'event_id': '11068', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11068/', 'title': 'Thursday Kickboxing Session'}
+{'event_id': '11079', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11079/', 'title': 'Friday Kickboxing Session'}
+{'event_id': '11080', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11080/', 'title': 'Friday Kickboxing Session'}
+{'event_id': '11081', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11081/', 'title': 'Friday Kickboxing Session'}
+{'event_id': '11082', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11082/', 'title': 'Friday Kickboxing Session'}
+{'event_id': '11083', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11083/', 'title': 'Friday Kickboxing Session'}
+{'event_id': '11084', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11084/', 'title': 'Friday Kickboxing Session'}
+{'event_id': '11085', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11085/', 'title': 'Friday Kickboxing Session'}
+{'event_id': '11086', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11086/', 'title': 'Friday Kickboxing Session'}
 {'event_id': '10429', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/10429/', 'title': 'LANS Ball'}
 {'event_id': '9489', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/9489/', 'title': 'LANS campus league'}
 {'event_id': '10966', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/10966/', 'title': 'Adventist Students on Campus Merchandise'}
@@ -43,6 +69,10 @@
 {'event_id': '9609', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9609/', 'title': 'History Football Subs'}
 {'event_id': '10946', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/10946/', 'title': 'Summer Formal'}
 {'event_id': '10961', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/10961/', 'title': 'BEDsoc x ELAL Summer Ball'}
+{'event_id': '11043', 'organisation_id': '22700', 'organisation': 'Live Art Society', 'url': 'https://www.guildofstudents.com/events/22700/11043/', 'title': 'Up Til Now: An Original Musical - Thu 5th evening show'}
+{'event_id': '11044', 'organisation_id': '22700', 'organisation': 'Live Art Society', 'url': 'https://www.guildofstudents.com/events/22700/11044/', 'title': 'Up Til Now: An Original Musical - Fri 6th evening'}
+{'event_id': '11045', 'organisation_id': '22700', 'organisation': 'Live Art Society', 'url': 'https://www.guildofstudents.com/events/22700/11045/', 'title': 'Up Til Now: An Original Musical - Sat 8th matinee'}
+{'event_id': '11046', 'organisation_id': '22700', 'organisation': 'Live Art Society', 'url': 'https://www.guildofstudents.com/events/22700/11046/', 'title': 'Up Til Now: An Original Musical - Sat 8th evening'}
 {'event_id': '10622', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/10622/', 'title': 'Criminology Society Ball'}
 {'event_id': '11033', 'organisation_id': '23676', 'organisation': 'Caribbean Union', 'url': 'https://www.guildofstudents.com/events/23676/11033/', 'title': 'tcu elections'}
 {'event_id': '10794', 'organisation_id': '35089', 'organisation': 'Docs Not Cops', 'url': 'https://www.guildofstudents.com/events/35089/10794/', 'title': 'Docs Not Cops Annual Conference'}

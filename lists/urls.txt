@@ -2837,7 +2837,6 @@ https://www.guildofstudents.com/ents/event/10692/?code=HALL25
 https://www.guildofstudents.com/ents/event/10784/
 https://www.guildofstudents.com/ents/event/10958/
 https://www.guildofstudents.com/ents/event/10964/
-https://www.guildofstudents.com/ents/event/10977/
 https://www.guildofstudents.com/ents/event/10982/
 https://www.guildofstudents.com/ents/event/10984/
 https://www.guildofstudents.com/ents/event/10985/
@@ -2883,6 +2882,7 @@ https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
+https://www.guildofstudents.com/ents/eventlist/fundraising/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
