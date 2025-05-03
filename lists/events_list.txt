@@ -3,7 +3,6 @@
 {'id': '10784', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10784/', 'title': 'Community Breakfast - College of Medicine & Health'}
 {'id': '10958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10958/', 'title': 'Halls Bubbles and Bracelets'}
 {'id': '10964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10964/', 'title': 'Women in Sport Focus Group'}
-{'id': '10977', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10977/', 'title': 'Sorry, there was a problem'}
 {'id': '10982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10982/', 'title': 'Spring Fling'}
 {'id': '10984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10984/', 'title': 'Joes Bingo'}
 {'id': '10985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10985/', 'title': 'Big Guild Quiz'}
