@@ -23,7 +23,7 @@
 {'id': '11020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11020/', 'title': 'Halls Alice in Wonderland Tea Party'}
 {'id': '11021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11021/', 'title': 'Umbrella Advice Stall'}
 {'id': '11022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11022/', 'title': 'Umbrella Advice Stall'}
-{'id': '11023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11023/', 'title': 'Environmental Activism & Lobbying Workshop'}
+{'id': '11023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11023/', 'title': 'Sorry, there was a problem'}
 {'id': '11024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11024/', 'title': 'Big Guild Quiz'}
 {'id': '11025', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11025/', 'title': 'Sports Night'}
 {'id': '11029', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11029/', 'title': 'Halls Movies, Bracelets and Chips and Dips'}

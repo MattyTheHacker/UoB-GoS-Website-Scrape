@@ -1,5 +1,6 @@
 https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/10692/?code=HALL25
+https://www.guildofstudents.com/ents/event/10933/
 https://www.guildofstudents.com/ents/event/10958/
 https://www.guildofstudents.com/ents/event/10964/
 https://www.guildofstudents.com/ents/event/10982/
@@ -23,7 +24,6 @@ https://www.guildofstudents.com/ents/event/11018/
 https://www.guildofstudents.com/ents/event/11020/
 https://www.guildofstudents.com/ents/event/11021/
 https://www.guildofstudents.com/ents/event/11022/
-https://www.guildofstudents.com/ents/event/11023/
 https://www.guildofstudents.com/ents/event/11024/
 https://www.guildofstudents.com/ents/event/11025/
 https://www.guildofstudents.com/ents/event/11029/
@@ -32,6 +32,7 @@ https://www.guildofstudents.com/ents/event/11032/
 https://www.guildofstudents.com/ents/event/11035/
 https://www.guildofstudents.com/ents/event/11042/
 https://www.guildofstudents.com/ents/event/11051/
+https://www.guildofstudents.com/ents/event/11092/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/events/10948/11052/
