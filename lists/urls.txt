@@ -87,7 +87,6 @@ https://www.guildofstudents.com#friesoffer
 https://www.guildofstudents.com#ggw20
 https://www.guildofstudents.com#guildevents
 https://www.guildofstudents.com#happyhour
-https://www.guildofstudents.com#instagrammore
 https://www.guildofstudents.com#international-page
 https://www.guildofstudents.com#jarratthallinfo
 https://www.guildofstudents.com#joes5voucher
@@ -392,7 +391,7 @@ https://www.guildofstudents.com//instagram.com/uobteasociety
 https://www.guildofstudents.com//instagram.com/uobturkishsoc
 https://www.guildofstudents.com//instagram.com/UOBUBT
 https://www.guildofstudents.com//instagram.com/uobvideogames
-https://www.guildofstudents.com//instagram.com/UoBWelshSoc
+https://www.guildofstudents.com//instagram.com/uobwelshsoc
 https://www.guildofstudents.com//instagram.com/uobwritersbloc
 https://www.guildofstudents.com//instagram.com/uzbeksocietyuob
 https://www.guildofstudents.com//instagram.com/valefestival
@@ -2862,6 +2861,7 @@ https://www.guildofstudents.com/ents/event/11035/
 https://www.guildofstudents.com/ents/event/11042/
 https://www.guildofstudents.com/ents/event/11051/
 https://www.guildofstudents.com/ents/event/11092/
+https://www.guildofstudents.com/ents/event/11097/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2974,7 +2974,6 @@ https://www.guildofstudents.com/events/6187/9759/
 https://www.guildofstudents.com/events/6187/9760/
 https://www.guildofstudents.com/events/6187/9761/
 https://www.guildofstudents.com/events/6371/11015/
-https://www.guildofstudents.com/events/6395/9641/
 https://www.guildofstudents.com/events/6419/10965/
 https://www.guildofstudents.com/events/6475/11040/
 https://www.guildofstudents.com/events/6475/11041/
@@ -4031,11 +4030,16 @@ https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
 https://www.guildofstudents.com/pageassets/support/moneymatters/budgeting/Guild-Budget-Planner.pdf
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Deb-Hall-Lighting-Information.xlsx
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Debating-Hall-Lighting-Calculations-Proposed-Upgrade-Plan.docx
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Electricity-Consumption-Data.xlsx
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Ethical-and-Environmental-Policy-2023.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Fairtrade-accreditation-Action-Plan-2024.pdf
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Green-Impact-Action-Plan-SEP-MAR-2025.docx
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Green-Impact-Action-Plan2024.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Hazaar-End-of-Term-Report.pdf
 https://www.guildofstudents.com/pageassets/sustainability/greenimpact/Key-negative-environmental-impacts-2023.24.pdf
+https://www.guildofstudents.com/pageassets/sustainability/greenimpact/SOS-Survey-Results-2025.pdf
 https://www.guildofstudents.com/pageassets/value/joesbar/Food-Allergens-Matrix-Jan-25-core-menu.xlsx
 https://www.guildofstudents.com/pageassets/value/joesbar/Joes-January-2025-Food-Menu.pdf
 https://www.guildofstudents.com/pageassets/venuehire/Guild-Conference-and-Venue-Hire-Brochure-24-2025.pdf
