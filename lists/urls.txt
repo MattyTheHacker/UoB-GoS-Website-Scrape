@@ -2834,6 +2834,9 @@ https://www.guildofstudents.com/employability/
 https://www.guildofstudents.com/ents/event/10692
 https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/10692/?code=HALL25
+https://www.guildofstudents.com/ents/event/10764/
+https://www.guildofstudents.com/ents/event/10847/
+https://www.guildofstudents.com/ents/event/10848/
 https://www.guildofstudents.com/ents/event/10933/
 https://www.guildofstudents.com/ents/event/10982/
 https://www.guildofstudents.com/ents/event/10984/
@@ -2849,7 +2852,6 @@ https://www.guildofstudents.com/ents/event/10997/
 https://www.guildofstudents.com/ents/event/10998/
 https://www.guildofstudents.com/ents/event/11009/
 https://www.guildofstudents.com/ents/event/11018/
-https://www.guildofstudents.com/ents/event/11020/
 https://www.guildofstudents.com/ents/event/11021/
 https://www.guildofstudents.com/ents/event/11022/
 https://www.guildofstudents.com/ents/event/11024/
@@ -2888,6 +2890,7 @@ https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
+https://www.guildofstudents.com/ents/eventlist/welcomedaytime/
 https://www.guildofstudents.com/ents/eventlist/welcomeevening/
 https://www.guildofstudents.com/ents/eventlist/welcomenighttime/
 https://www.guildofstudents.com/ents/eventlist/welcomepageaccom/
@@ -2932,7 +2935,6 @@ https://www.guildofstudents.com/events/22470/10961/
 https://www.guildofstudents.com/events/22526/11047/
 https://www.guildofstudents.com/events/22526/11048/
 https://www.guildofstudents.com/events/22526/11049/
-https://www.guildofstudents.com/events/22526/11050/
 https://www.guildofstudents.com/events/22575/11089/
 https://www.guildofstudents.com/events/22700/11043/
 https://www.guildofstudents.com/events/22700/11044/
@@ -3197,6 +3199,7 @@ https://www.guildofstudents.com/mediasales
 https://www.guildofstudents.com/moneymatters
 https://www.guildofstudents.com/moneymatters/
 https://www.guildofstudents.com/news/
+https://www.guildofstudents.com/news/article/website/5-Sustainable-Ways-to-Boost-Your-Wellbeing/
 https://www.guildofstudents.com/news/article/website/Democratic-Idea-Update-Palestine-Solidarity/
 https://www.guildofstudents.com/news/article/website/Go-Green-Week-2025/
 https://www.guildofstudents.com/news/article/website/Officer-Bye-Election-Updates-and-Trans-and-Non-Binary-Students-Officer-Resignation/
@@ -3266,6 +3269,7 @@ https://www.guildofstudents.com/organisation/52321/
 https://www.guildofstudents.com/organisation/52748/
 https://www.guildofstudents.com/organisation/52758/
 https://www.guildofstudents.com/organisation/52804/
+https://www.guildofstudents.com/organisation/52984/
 https://www.guildofstudents.com/organisation/7751/
 https://www.guildofstudents.com/organisation/8649/
 https://www.guildofstudents.com/organisation/9220/
@@ -6132,6 +6136,7 @@ https://www.guildofstudents.commailto:skateboarding@guild.bham.ac.uk
 https://www.guildofstudents.commailto:smallbusinessownerssociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sobersocials@guild.bham.ac.uk
 https://www.guildofstudents.commailto:somali@guild.bham.ac.uk
+https://www.guildofstudents.commailto:SouthAsianLawSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sports@guild.bham.ac.uk
 https://www.guildofstudents.commailto:srilankan@guild.bham.ac.uk
 https://www.guildofstudents.commailto:staffing@guild.bham.ac.uk

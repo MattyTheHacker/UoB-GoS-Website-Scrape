@@ -15,7 +15,7 @@
 {'id': '10998', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10998/', 'title': 'Community Breakfast'}
 {'id': '11009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11009/', 'title': 'Best Out of Waste'}
 {'id': '11018', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11018/', 'title': 'Wellbeing Café'}
-{'id': '11020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11020/', 'title': 'Halls Alice in Wonderland Tea Party'}
+{'id': '11020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11020/', 'title': 'Sorry, there was a problem'}
 {'id': '11021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11021/', 'title': 'Umbrella Advice Stall'}
 {'id': '11022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11022/', 'title': 'Umbrella Advice Stall'}
 {'id': '11024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11024/', 'title': 'Big Guild Quiz'}
@@ -65,7 +65,7 @@
 {'event_id': '11047', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/11047/', 'title': 'Pirates of the Panto (1st show)'}
 {'event_id': '11048', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/11048/', 'title': 'Pirates of the Panto (2nd show)'}
 {'event_id': '11049', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/11049/', 'title': 'Pirates of the Panto (3rd show)'}
-{'event_id': '11050', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/11050/', 'title': 'Pirates of the Panto (4th show)'}
+{'event_id': '11050', 'organisation_id': '22526', 'organisation': 'Panto', 'url': 'https://www.guildofstudents.com/events/22526/11050/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11089', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/11089/', 'title': 'Benchball Awards Night 2025'}
 {'event_id': '11043', 'organisation_id': '22700', 'organisation': 'Live Art Society', 'url': 'https://www.guildofstudents.com/events/22700/11043/', 'title': 'Up Til Now: An Original Musical - Thu 5th evening show'}
 {'event_id': '11044', 'organisation_id': '22700', 'organisation': 'Live Art Society', 'url': 'https://www.guildofstudents.com/events/22700/11044/', 'title': 'Up Til Now: An Original Musical - Fri 6th evening'}
