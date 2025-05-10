@@ -17,7 +17,7 @@
 {'id': '10997', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10997/', 'title': 'Community Breakfast'}
 {'id': '10998', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10998/', 'title': 'Community Breakfast'}
 {'id': '11009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11009/', 'title': 'Best Out of Waste'}
-{'id': '11018', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11018/', 'title': 'Wellbeing Café'}
+{'id': '11018', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11018/', 'title': 'Sorry, there was a problem'}
 {'id': '11021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11021/', 'title': 'Umbrella Advice Stall'}
 {'id': '11022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11022/', 'title': 'Umbrella Advice Stall'}
 {'id': '11024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11024/', 'title': 'Big Guild Quiz'}
@@ -85,6 +85,7 @@
 {'event_id': '10921', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10921/', 'title': 'Engineering Summer Ball'}
 {'event_id': '10903', 'organisation_id': '6115', 'organisation': 'Anime & Manga', 'url': 'https://www.guildofstudents.com/events/6115/10903/', 'title': 'J-Cafe'}
 {'event_id': '11031', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11031/', 'title': 'BACAS Summer rounders membership'}
+{'event_id': '11102', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/11102/', 'title': 'Manchester Spring 2025'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9745', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9745/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
@@ -113,6 +114,7 @@
 {'event_id': '10657', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10657/', 'title': 'Sister Act the Musical! Evening Show'}
 {'event_id': '10658', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10658/', 'title': 'Sister Act the Musical!'}
 {'event_id': '10659', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10659/', 'title': 'Sister Act the Musical!'}
+{'event_id': '11039', 'organisation_id': '6971', 'organisation': 'LUM Soc', 'url': 'https://www.guildofstudents.com/events/6971/11039/', 'title': 'LUMsoc Band Night'}
 {'event_id': '10978', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/10978/', 'title': 'Philosophy Society Summer Ball'}
 {'event_id': '10721', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/10721/', 'title': 'Pole Ball'}
 {'event_id': '10625', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/10625/', 'title': 'Psychology Ball'}
