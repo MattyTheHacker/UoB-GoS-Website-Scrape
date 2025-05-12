@@ -57,7 +57,7 @@
 {'event_id': '9489', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/9489/', 'title': 'LANS campus league'}
 {'event_id': '10966', 'organisation_id': '12508', 'organisation': 'Adventist', 'url': 'https://www.guildofstudents.com/events/12508/10966/', 'title': 'Adventist Students on Campus Merchandise'}
 {'event_id': '10857', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/10857/', 'title': 'History Ball'}
-{'event_id': '10967', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/10967/', 'title': 'History AGM'}
+{'event_id': '10967', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/10967/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9557', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9557/', 'title': 'History Netball Subs'}
 {'event_id': '9609', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/9609/', 'title': 'History Football Subs'}
 {'event_id': '10946', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/10946/', 'title': 'Summer Formal'}

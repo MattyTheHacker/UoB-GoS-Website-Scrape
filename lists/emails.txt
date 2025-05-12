@@ -133,6 +133,7 @@ https://www.guildofstudents.commailto:gns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:greenpartysociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:gtv@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
+https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF%20Application
 https://www.guildofstudents.commailto:headucate@guild.bham.ac.uk
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hennasociety@guild.bham.ac.uk
