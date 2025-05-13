@@ -2855,14 +2855,12 @@ https://www.guildofstudents.com/ents/event/11021/
 https://www.guildofstudents.com/ents/event/11022/
 https://www.guildofstudents.com/ents/event/11024/
 https://www.guildofstudents.com/ents/event/11025/
-https://www.guildofstudents.com/ents/event/11030/
 https://www.guildofstudents.com/ents/event/11032/
 https://www.guildofstudents.com/ents/event/11035/
 https://www.guildofstudents.com/ents/event/11042/
 https://www.guildofstudents.com/ents/event/11051/
 https://www.guildofstudents.com/ents/event/11092/
 https://www.guildofstudents.com/ents/event/11097/
-https://www.guildofstudents.com/ents/event/11106/
 https://www.guildofstudents.com/ents/event/11107/
 https://www.guildofstudents.com/ents/event/11108/
 https://www.guildofstudents.com/ents/event/11109/
@@ -2905,9 +2903,7 @@ https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
 https://www.guildofstudents.com/ents/eventlist/welcomedaytime/
 https://www.guildofstudents.com/ents/eventlist/welcomeevening/
 https://www.guildofstudents.com/ents/eventlist/welcomenighttime/
-https://www.guildofstudents.com/ents/eventlist/welcomepageaccom/
 https://www.guildofstudents.com/ents/eventlist/welcomepageint/
-https://www.guildofstudents.com/ents/eventlist/welcomesettlingin/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
 https://www.guildofstudents.com/events/
