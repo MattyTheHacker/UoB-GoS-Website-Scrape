@@ -1,8 +1,4 @@
-https://www.guildofstudents.com/asset/Job/873/Guild-Advice-Reception-Assistant-Job-Description.pdf
-https://www.guildofstudents.com/asset/Job/873/IT-Assistant-Job-Description-2024.pdf
-https://www.guildofstudents.com/asset/Job/873/Job-Description-and-Person-Specification-Senior-Welcome-Team-2025.pdf
 https://www.guildofstudents.com/asset/Job/873/RLEA-JD-2025.pdf
-https://www.guildofstudents.com/asset/Job/873/Student-Voice-Assistant-Job-Description-April-2025.pdf
 https://www.guildofstudents.com/asset/News/6016/OE-2025-Results-Tables.pdf
 https://www.guildofstudents.com/asset/News/6016/Officer-Elections-2025-Budgets.pdf
 https://www.guildofstudents.com/asset/News/6016/Palestine-Solidarity-Student-Idea-Text.pdf
@@ -337,7 +333,6 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/guil
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-development-committee-meetings/GPDG-Minutes-13.11.2018.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-development-committee-meetings/GPDG-Minutes-24.01.2019.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-development-committee-meetings/GPDG-November-Meeting_Final-Minutes.pdf
-https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Agenda-26.2.25.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Mins-10.5.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Mins-14.12.21.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Mins-15-02-22.pdf
@@ -377,6 +372,7 @@ https://www.guildofstudents.com/pageassets/representation/committee-minutes/guil
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-25.1.24.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-25.4.24.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-26.10.17.pdf
+https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-26.2.25.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-26.6.24.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-27.09.17.pdf
 https://www.guildofstudents.com/pageassets/representation/committee-minutes/guild-officer-group-minutes/GOG-Minutes-27.10.2016.pdf
