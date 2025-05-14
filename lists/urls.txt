@@ -22,7 +22,6 @@ https://www.guildofstudents.com#accord-2425
 https://www.guildofstudents.com#accord1-1
 https://www.guildofstudents.com#accord10-1
 https://www.guildofstudents.com#accord11-1
-https://www.guildofstudents.com#accord12-1
 https://www.guildofstudents.com#accord2-1
 https://www.guildofstudents.com#accord3-1
 https://www.guildofstudents.com#accord4-1
@@ -61,8 +60,6 @@ https://www.guildofstudents.com#burgerpint
 https://www.guildofstudents.com#carousel-explore-birm
 https://www.guildofstudents.com#carousel-officers
 https://www.guildofstudents.com#chamberlaininfo
-https://www.guildofstudents.com#clmdetails
-https://www.guildofstudents.com#collapse-articles
 https://www.guildofstudents.com#collapse-pagenav
 https://www.guildofstudents.com#collapse-reps-nav
 https://www.guildofstudents.com#collapseEight
@@ -402,7 +399,6 @@ https://www.guildofstudents.com//instagram.com/wayfarersbham
 https://www.guildofstudents.com//instagram.com/womeninlawuob
 https://www.guildofstudents.com//instagram.com/womeninpoliticsuob
 https://www.guildofstudents.com//instagram.com/yogauob
-https://www.guildofstudents.com/7wonderschallenge/
 https://www.guildofstudents.com/about/accessibility/
 https://www.guildofstudents.com/about/companylawmeeting
 https://www.guildofstudents.com/about/enhancedtranscript/
@@ -2840,7 +2836,6 @@ https://www.guildofstudents.com/ents/event/10985/
 https://www.guildofstudents.com/ents/event/10987/
 https://www.guildofstudents.com/ents/event/10990/
 https://www.guildofstudents.com/ents/event/10991/
-https://www.guildofstudents.com/ents/event/10993/
 https://www.guildofstudents.com/ents/event/10994/
 https://www.guildofstudents.com/ents/event/10995/
 https://www.guildofstudents.com/ents/event/10996/
@@ -2851,7 +2846,6 @@ https://www.guildofstudents.com/ents/event/11021/
 https://www.guildofstudents.com/ents/event/11022/
 https://www.guildofstudents.com/ents/event/11024/
 https://www.guildofstudents.com/ents/event/11025/
-https://www.guildofstudents.com/ents/event/11032/
 https://www.guildofstudents.com/ents/event/11035/
 https://www.guildofstudents.com/ents/event/11042/
 https://www.guildofstudents.com/ents/event/11051/
@@ -2869,6 +2863,10 @@ https://www.guildofstudents.com/ents/event/11117/
 https://www.guildofstudents.com/ents/event/11122/
 https://www.guildofstudents.com/ents/event/11123/
 https://www.guildofstudents.com/ents/event/11125/
+https://www.guildofstudents.com/ents/event/11129/
+https://www.guildofstudents.com/ents/event/11130/
+https://www.guildofstudents.com/ents/event/11131/
+https://www.guildofstudents.com/ents/event/11132/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -3024,7 +3022,6 @@ https://www.guildofstudents.com/guildadvice
 https://www.guildofstudents.com/guildadvice/
 https://www.guildofstudents.com/guildawards
 https://www.guildofstudents.com/guildawards/
-https://www.guildofstudents.com/hallreps/#halls
 https://www.guildofstudents.com/housing
 https://www.guildofstudents.com/jobshub
 https://www.guildofstudents.com/jobshub/
@@ -3339,9 +3336,6 @@ https://www.guildofstudents.com/pageassets/about/accessibility/Accessibility-Gro
 https://www.guildofstudents.com/pageassets/about/accessibility/Accessibility-Lower-Ground-Floor-GA-Plan.pdf
 https://www.guildofstudents.com/pageassets/about/accessibility/Accessibility-Second-Floor-GA-Plan.pdf
 https://www.guildofstudents.com/pageassets/about/accessibility/Accessibility-Third-Floor-GA-Plan.pdf
-https://www.guildofstudents.com/pageassets/about/companylawmeeting/Articles-of-Association-January-2024-Tracked.pdf
-https://www.guildofstudents.com/pageassets/about/companylawmeeting/Articles-of-Association-January-2024.pdf
-https://www.guildofstudents.com/pageassets/about/companylawmeeting/Articles-of-Association.pdf
 https://www.guildofstudents.com/pageassets/about/safeguardingpolicy/Safeguarding-Policy-2023.pdf
 https://www.guildofstudents.com/pageassets/about/strategicplan/Strategic-Plan-Document-Final.pdf
 https://www.guildofstudents.com/pageassets/about/trusteeboard/meetingdatesminutes/Agenda-Item-1-TB-Minutes-04.07.22.pdf
@@ -5979,7 +5973,6 @@ https://www.guildofstudents.commailto:ifc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:indiancultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:indonesian@guild.bham.ac.uk
 https://www.guildofstudents.commailto:infinity@guild.bham.ac.uk
-https://www.guildofstudents.commailto:info@guild.bham.ac.uk
 https://www.guildofstudents.commailto:info@ubisoc.co.uk
 https://www.guildofstudents.commailto:InterGen@guild.bham.ac.uk
 https://www.guildofstudents.commailto:international@guild.bham.ac.uk
