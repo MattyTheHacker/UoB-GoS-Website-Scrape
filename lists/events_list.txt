@@ -26,8 +26,6 @@
 {'id': '11051', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11051/', 'title': 'Hall Message Boards & Chocolate Fountain!'}
 {'id': '11092', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11092/', 'title': 'Halls Air Plant Ornament Making Workshop'}
 {'id': '11097', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11097/', 'title': 'Committee Training Conference 2025'}
-{'id': '11107', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11107/', 'title': 'Sorry, there was a problem'}
-{'id': '11108', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11108/', 'title': 'Sorry, there was a problem'}
 {'id': '11109', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11109/', 'title': 'Moving out? FREE moving box'}
 {'id': '11110', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11110/', 'title': 'Moving out? FREE moving box'}
 {'id': '11111', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11111/', 'title': 'Moving out? FREE moving box'}
@@ -37,7 +35,6 @@
 {'id': '11115', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11115/', 'title': 'Halls Bringing the Beach to Brum'}
 {'id': '11116', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11116/', 'title': 'Halls Basketball Shootout'}
 {'id': '11117', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11117/', 'title': 'Halls Moving In Vibes'}
-{'id': '11121', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11121/', 'title': 'Sorry, there was a problem'}
 {'id': '11122', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11122/', 'title': 'Halls Curry in a Hurry'}
 {'id': '11123', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11123/', 'title': 'International Summer Party'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
@@ -151,7 +148,6 @@
 {'event_id': '10417', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10417/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10418', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10418/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '11007', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/11007/', 'title': 'MFL Soc Summer Ball 2025'}
-{'event_id': '11032', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/11032/', 'title': 'Halls Summer Journaling and Self Care Bags'}
 {'event_id': '9362', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9362/', 'title': 'Post Grad Student Social'}
 {'event_id': '9363', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9363/', 'title': 'International Social + Fusion Afterparty'}
 {'event_id': '9364', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9364/', 'title': 'Welcome Wristband 2024'}
