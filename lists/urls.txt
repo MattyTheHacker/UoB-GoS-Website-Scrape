@@ -2834,7 +2834,6 @@ https://www.guildofstudents.com/ents/event/10933/
 https://www.guildofstudents.com/ents/event/10984/
 https://www.guildofstudents.com/ents/event/10985/
 https://www.guildofstudents.com/ents/event/10987/
-https://www.guildofstudents.com/ents/event/10990/
 https://www.guildofstudents.com/ents/event/10991/
 https://www.guildofstudents.com/ents/event/10994/
 https://www.guildofstudents.com/ents/event/10995/
@@ -2851,8 +2850,6 @@ https://www.guildofstudents.com/ents/event/11042/
 https://www.guildofstudents.com/ents/event/11051/
 https://www.guildofstudents.com/ents/event/11092/
 https://www.guildofstudents.com/ents/event/11097/
-https://www.guildofstudents.com/ents/event/11109/
-https://www.guildofstudents.com/ents/event/11110/
 https://www.guildofstudents.com/ents/event/11111/
 https://www.guildofstudents.com/ents/event/11112/
 https://www.guildofstudents.com/ents/event/11113/
@@ -2862,6 +2859,7 @@ https://www.guildofstudents.com/ents/event/11116/
 https://www.guildofstudents.com/ents/event/11117/
 https://www.guildofstudents.com/ents/event/11122/
 https://www.guildofstudents.com/ents/event/11123/
+https://www.guildofstudents.com/ents/event/11124/
 https://www.guildofstudents.com/ents/event/11125/
 https://www.guildofstudents.com/ents/event/11129/
 https://www.guildofstudents.com/ents/event/11130/
@@ -5623,7 +5621,6 @@ https://www.guildofstudents.com/studentgroups/societies/34418/
 https://www.guildofstudents.com/studentgroups/societies/35802/
 https://www.guildofstudents.com/studentgroups/societies/38891/
 https://www.guildofstudents.com/studentgroups/societies/39024/
-https://www.guildofstudents.com/studentgroups/societies/39195/
 https://www.guildofstudents.com/studentgroups/societies/39298/
 https://www.guildofstudents.com/studentgroups/societies/41025/
 https://www.guildofstudents.com/studentgroups/societies/41079/
@@ -6131,7 +6128,6 @@ https://www.guildofstudents.commailto:welfare@guild.bham.ac.uk
 https://www.guildofstudents.commailto:welsh@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninfinance@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninlaw@guild.bham.ac.uk
-https://www.guildofstudents.commailto:womeninmedicine@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninpolitics@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womensofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:worklink@contacts.bham.ac.uk

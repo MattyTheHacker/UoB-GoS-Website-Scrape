@@ -7,9 +7,8 @@
 {'id': '10984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10984/', 'title': 'Joes Bingo'}
 {'id': '10985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10985/', 'title': 'Big Guild Quiz'}
 {'id': '10987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10987/', 'title': 'Wellbeing Fairy'}
-{'id': '10990', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10990/', 'title': 'Self Defence Class'}
+{'id': '10990', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10990/', 'title': 'Sorry, there was a problem'}
 {'id': '10991', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10991/', 'title': 'Self Defence Class'}
-{'id': '10993', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10993/', 'title': 'Sorry, there was a problem'}
 {'id': '10994', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10994/', 'title': 'Community Breakfast'}
 {'id': '10995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10995/', 'title': 'Community Breakfast'}
 {'id': '10996', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10996/', 'title': 'Community Breakfast'}
@@ -20,14 +19,13 @@
 {'id': '11022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11022/', 'title': 'Umbrella Advice Stall'}
 {'id': '11024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11024/', 'title': 'Big Guild Quiz'}
 {'id': '11025', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11025/', 'title': 'Sports Night'}
-{'id': '11032', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11032/', 'title': 'Sorry, there was a problem'}
 {'id': '11035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11035/', 'title': 'End of Year Committee Celebration Event'}
 {'id': '11042', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11042/', 'title': 'Silent Disco Litter Pick'}
 {'id': '11051', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11051/', 'title': 'Hall Message Boards & Chocolate Fountain!'}
 {'id': '11092', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11092/', 'title': 'Halls Air Plant Ornament Making Workshop'}
 {'id': '11097', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11097/', 'title': 'Committee Training Conference 2025'}
-{'id': '11109', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11109/', 'title': 'Moving out? FREE moving box'}
-{'id': '11110', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11110/', 'title': 'Moving out? FREE moving box'}
+{'id': '11109', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11109/', 'title': 'Sorry, there was a problem'}
+{'id': '11110', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11110/', 'title': 'Sorry, there was a problem'}
 {'id': '11111', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11111/', 'title': 'Moving out? FREE moving box'}
 {'id': '11112', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11112/', 'title': 'Moving out? FREE moving box'}
 {'id': '11113', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11113/', 'title': 'Moving out? FREE moving box'}
@@ -38,6 +36,10 @@
 {'id': '11122', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11122/', 'title': 'Halls Curry in a Hurry'}
 {'id': '11123', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11123/', 'title': 'International Summer Party'}
 {'id': '11125', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11125/', 'title': 'Sports Night'}
+{'id': '11129', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11129/', 'title': 'Halls Lego Flower Making and Doughnuts'}
+{'id': '11130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11130/', 'title': 'Halls Sizzling Steak Sandwiches'}
+{'id': '11131', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11131/', 'title': 'Halls Fish and Chip’nic'}
+{'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11052', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11052/', 'title': 'Tuesday Kickboxing Session'}

@@ -311,7 +311,6 @@ welfare@guild.bham.ac.uk
 welsh@guild.bham.ac.uk
 womeninfinance@guild.bham.ac.uk
 womeninlaw@guild.bham.ac.uk
-womeninmedicine@guild.bham.ac.uk
 womeninpolitics@guild.bham.ac.uk
 womensofficer@guild.bham.ac.uk
 worklink@contacts.bham.ac.uk
