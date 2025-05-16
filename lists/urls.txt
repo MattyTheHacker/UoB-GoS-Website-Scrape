@@ -2854,7 +2854,6 @@ https://www.guildofstudents.com/ents/event/11097/
 https://www.guildofstudents.com/ents/event/11113/
 https://www.guildofstudents.com/ents/event/11114/
 https://www.guildofstudents.com/ents/event/11115/
-https://www.guildofstudents.com/ents/event/11116/
 https://www.guildofstudents.com/ents/event/11117/
 https://www.guildofstudents.com/ents/event/11122/
 https://www.guildofstudents.com/ents/event/11123/
@@ -2866,7 +2865,14 @@ https://www.guildofstudents.com/ents/event/11131/
 https://www.guildofstudents.com/ents/event/11132/
 https://www.guildofstudents.com/ents/event/11133/
 https://www.guildofstudents.com/ents/event/11134/
-https://www.guildofstudents.com/ents/event/11135/
+https://www.guildofstudents.com/ents/event/11136/
+https://www.guildofstudents.com/ents/event/11137/
+https://www.guildofstudents.com/ents/event/11138/
+https://www.guildofstudents.com/ents/event/11139/
+https://www.guildofstudents.com/ents/event/11140/
+https://www.guildofstudents.com/ents/event/11141/
+https://www.guildofstudents.com/ents/event/11142/
+https://www.guildofstudents.com/ents/event/11143/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2874,7 +2880,6 @@ https://www.guildofstudents.com/ents/eventlist/?month=5&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=7&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=9&year=2025
-https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
@@ -2883,12 +2888,9 @@ https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
-https://www.guildofstudents.com/ents/eventlist/giveitago/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
-https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
-https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
@@ -2896,9 +2898,7 @@ https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
-https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
-https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
 https://www.guildofstudents.com/ents/eventlist/welcomedaytime/
 https://www.guildofstudents.com/ents/eventlist/welcomeevening/
@@ -3977,6 +3977,7 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
+https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/Charities-Offering-House-Clearances-Recycling-Services-in-Birmingham.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Guild-Advice-Direct-Deposits.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/hardshipfund/Guild-Hardship-Fund-Application-2025.pdf
