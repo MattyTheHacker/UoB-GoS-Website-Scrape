@@ -18,12 +18,9 @@
 {'id': '11022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11022/', 'title': 'Umbrella Advice Stall'}
 {'id': '11024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11024/', 'title': 'Big Guild Quiz'}
 {'id': '11025', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11025/', 'title': 'Sports Night'}
-{'id': '11035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11035/', 'title': 'Sorry, there was a problem'}
 {'id': '11042', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11042/', 'title': 'Silent Disco Litter Pick'}
 {'id': '11092', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11092/', 'title': 'Halls Air Plant Ornament Making Workshop'}
 {'id': '11097', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11097/', 'title': 'Committee Training Conference 2025'}
-{'id': '11111', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11111/', 'title': 'Sorry, there was a problem'}
-{'id': '11112', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11112/', 'title': 'Sorry, there was a problem'}
 {'id': '11113', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11113/', 'title': 'Moving out? FREE moving box'}
 {'id': '11114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11114/', 'title': 'Moving out? FREE moving box'}
 {'id': '11115', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11115/', 'title': 'Halls Bringing the Beach to Brum'}

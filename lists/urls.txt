@@ -2866,6 +2866,7 @@ https://www.guildofstudents.com/ents/event/11131/
 https://www.guildofstudents.com/ents/event/11132/
 https://www.guildofstudents.com/ents/event/11133/
 https://www.guildofstudents.com/ents/event/11134/
+https://www.guildofstudents.com/ents/event/11135/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2873,6 +2874,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=5&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=7&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=9&year=2025
+https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
@@ -2884,6 +2886,7 @@ https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
+https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
@@ -2895,6 +2898,7 @@ https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
+https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
 https://www.guildofstudents.com/ents/eventlist/welcomedaytime/
 https://www.guildofstudents.com/ents/eventlist/welcomeevening/
