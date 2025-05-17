@@ -21,8 +21,6 @@
 {'id': '11042', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11042/', 'title': 'Silent Disco Litter Pick'}
 {'id': '11092', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11092/', 'title': 'Halls Air Plant Ornament Making Workshop'}
 {'id': '11097', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11097/', 'title': 'Committee Training Conference 2025'}
-{'id': '11113', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11113/', 'title': 'Sorry, there was a problem'}
-{'id': '11114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11114/', 'title': 'Sorry, there was a problem'}
 {'id': '11115', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11115/', 'title': 'Halls Bringing the Beach to Brum'}
 {'id': '11117', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11117/', 'title': 'Halls Moving In Vibes'}
 {'id': '11122', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11122/', 'title': 'Halls Curry in a Hurry'}
