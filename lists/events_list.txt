@@ -120,6 +120,8 @@
 {'event_id': '9761', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9761/', 'title': 'Thursday Beginner Ballroom and Latin Classes'}
 {'event_id': '11015', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/11015/', 'title': 'BUDS charity summer ball'}
 {'event_id': '10965', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/10965/', 'title': 'CathSoc Jubilee Ball'}
+{'event_id': '11147', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11147/', 'title': 'UBG&S Presents: Patience'}
+{'event_id': '11148', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11148/', 'title': 'UBG&S Presents: Patience'}
 {'event_id': '10655', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10655/', 'title': 'Sister Act the Musical!'}
 {'event_id': '10656', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10656/', 'title': 'Sister Act the Musical!'}
 {'event_id': '10657', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10657/', 'title': 'Sister Act the Musical! Evening Show'}
@@ -141,6 +143,7 @@
 {'event_id': '10988', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/10988/', 'title': 'AGM'}
 {'event_id': '11036', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/11036/', 'title': 'Sutton Park Train Trip'}
 {'event_id': '11105', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/11105/', 'title': 'Bournbrook Walkway Hike'}
+{'event_id': '11145', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/11145/', 'title': 'Great Malvern Train Trip'}
 {'event_id': '10412', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10412/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10413', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10413/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10414', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10414/', 'title': 'Public Speaking Society Weekly Session'}
