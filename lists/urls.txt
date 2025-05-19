@@ -2798,7 +2798,6 @@ https://www.guildofstudents.com/account/resetpassword/
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
-https://www.guildofstudents.com/asset/Job/873/RLEA-JD-2025.pdf
 https://www.guildofstudents.com/asset/News/6016/OE-2025-Results-Tables.pdf
 https://www.guildofstudents.com/asset/News/6016/Officer-Elections-2025-Budgets.pdf
 https://www.guildofstudents.com/asset/News/6016/Palestine-Solidarity-Student-Idea-Text.pdf
@@ -2983,6 +2982,7 @@ https://www.guildofstudents.com/events/6187/9760/
 https://www.guildofstudents.com/events/6187/9761/
 https://www.guildofstudents.com/events/6371/11015/
 https://www.guildofstudents.com/events/6419/10965/
+https://www.guildofstudents.com/events/6555/11099/
 https://www.guildofstudents.com/events/6675/11147/
 https://www.guildofstudents.com/events/6675/11148/
 https://www.guildofstudents.com/events/6691/10655/
@@ -3026,11 +3026,9 @@ https://www.guildofstudents.com/guildawards/
 https://www.guildofstudents.com/housing
 https://www.guildofstudents.com/jobshub
 https://www.guildofstudents.com/jobshub/
-https://www.guildofstudents.com/jobshub/browse/
 https://www.guildofstudents.com/jobshub/corestaff
 https://www.guildofstudents.com/jobshub/studentstaff
 https://www.guildofstudents.com/jobshub/studentstaff/
-https://www.guildofstudents.com/jobshub/vacancy/2868/
 https://www.guildofstudents.com/keepsafe
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f10692%2f
