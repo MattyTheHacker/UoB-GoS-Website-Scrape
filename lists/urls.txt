@@ -2870,6 +2870,8 @@ https://www.guildofstudents.com/ents/event/11141/
 https://www.guildofstudents.com/ents/event/11142/
 https://www.guildofstudents.com/ents/event/11143/
 https://www.guildofstudents.com/ents/event/11144/
+https://www.guildofstudents.com/ents/event/11149/
+https://www.guildofstudents.com/ents/event/11150/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2888,6 +2890,7 @@ https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
+https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
@@ -2895,6 +2898,7 @@ https://www.guildofstudents.com/ents/eventlist/refreshers/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
+https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/welcomeclubnights/
 https://www.guildofstudents.com/ents/eventlist/welcomedaytime/
@@ -2983,6 +2987,7 @@ https://www.guildofstudents.com/events/6187/9761/
 https://www.guildofstudents.com/events/6371/11015/
 https://www.guildofstudents.com/events/6419/10965/
 https://www.guildofstudents.com/events/6555/11099/
+https://www.guildofstudents.com/events/6555/11151/
 https://www.guildofstudents.com/events/6675/11147/
 https://www.guildofstudents.com/events/6675/11148/
 https://www.guildofstudents.com/events/6691/10655/
@@ -3034,10 +3039,15 @@ https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f10692%2f
 https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35779%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2f41472%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbeerpongsociety%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fcss%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmealprepsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpharmsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fuobhideandseek%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10026370%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10063190%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10063220%2f
@@ -3133,9 +3143,14 @@ https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10299160%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10303360%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2f42029%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2farab%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fasc%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fchinese%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fegyptian%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fhongkongcultural%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fwomensassociation%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fbecomearep%2f
 https://www.guildofstudents.com/marksoutoftenancy
 https://www.guildofstudents.com/mediasales
