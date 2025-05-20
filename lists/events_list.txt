@@ -122,6 +122,8 @@
 {'event_id': '9761', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9761/', 'title': 'Thursday Beginner Ballroom and Latin Classes'}
 {'event_id': '11015', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/11015/', 'title': 'BUDS charity summer ball'}
 {'event_id': '10965', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/10965/', 'title': 'CathSoc Jubilee Ball'}
+{'event_id': '11153', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11153/', 'title': 'Cocktails back in time! (Early session)'}
+{'event_id': '11154', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11154/', 'title': 'Cocktails back in time! (Late session)'}
 {'event_id': '11099', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11099/', 'title': 'This House Believes in Rounds'}
 {'event_id': '11151', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11151/', 'title': 'The House supports bar crawls'}
 {'event_id': '11147', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11147/', 'title': 'UBG&S Presents: Patience'}
