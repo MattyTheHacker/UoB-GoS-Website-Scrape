@@ -31,7 +31,6 @@
 {'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
 {'id': '11133', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11133/', 'title': 'Residence Life Open Air Cinema'}
 {'id': '11134', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11134/', 'title': 'Summer Sunshine Crafts and Cookies'}
-{'id': '11136', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11136/', 'title': 'Sorry, there was a problem'}
 {'id': '11137', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11137/', 'title': 'Breakfast Cafe'}
 {'id': '11138', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11138/', 'title': 'Breakfast Cafe'}
 {'id': '11139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11139/', 'title': 'Breakfast Cafe'}
@@ -125,6 +124,7 @@
 {'event_id': '11154', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11154/', 'title': 'Cocktails back in time! (Late session)'}
 {'event_id': '11099', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11099/', 'title': 'This House Believes in Rounds'}
 {'event_id': '11151', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11151/', 'title': 'The House supports bar crawls'}
+{'event_id': '11146', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11146/', 'title': 'UBG&S Presents: Patience'}
 {'event_id': '11147', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11147/', 'title': 'UBG&S Presents: Patience'}
 {'event_id': '11148', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11148/', 'title': 'UBG&S Presents: Patience'}
 {'event_id': '10655', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10655/', 'title': 'Sister Act the Musical!'}
