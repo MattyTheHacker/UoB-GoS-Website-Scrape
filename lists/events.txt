@@ -8,7 +8,6 @@ https://www.guildofstudents.com/ents/event/10984/
 https://www.guildofstudents.com/ents/event/10985/
 https://www.guildofstudents.com/ents/event/10987/
 https://www.guildofstudents.com/ents/event/10991/
-https://www.guildofstudents.com/ents/event/10994/
 https://www.guildofstudents.com/ents/event/10995/
 https://www.guildofstudents.com/ents/event/10996/
 https://www.guildofstudents.com/ents/event/10997/
@@ -40,7 +39,9 @@ https://www.guildofstudents.com/ents/event/11142/
 https://www.guildofstudents.com/ents/event/11143/
 https://www.guildofstudents.com/ents/event/11144/
 https://www.guildofstudents.com/ents/event/11149/
-https://www.guildofstudents.com/ents/event/11150/
+https://www.guildofstudents.com/ents/event/11155/
+https://www.guildofstudents.com/ents/event/11156/
+https://www.guildofstudents.com/ents/event/11157/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/events/10948/11052/
@@ -149,6 +150,7 @@ https://www.guildofstudents.com/events/7523/10988/
 https://www.guildofstudents.com/events/7523/11036/
 https://www.guildofstudents.com/events/7523/11105/
 https://www.guildofstudents.com/events/7523/11145/
+https://www.guildofstudents.com/events/7523/11158/
 https://www.guildofstudents.com/events/8649/10412/
 https://www.guildofstudents.com/events/8649/10413/
 https://www.guildofstudents.com/events/8649/10414/
@@ -157,6 +159,7 @@ https://www.guildofstudents.com/events/8649/10416/
 https://www.guildofstudents.com/events/8649/10417/
 https://www.guildofstudents.com/events/8649/10418/
 https://www.guildofstudents.com/events/9220/11007/
+https://www.guildofstudents.com/welcome/events/event/11042/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/
