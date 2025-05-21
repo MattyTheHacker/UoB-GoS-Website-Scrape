@@ -22,7 +22,6 @@
 {'id': '11092', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11092/', 'title': 'Halls Air Plant Ornament Making Workshop'}
 {'id': '11097', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11097/', 'title': 'Committee Training Conference 2025'}
 {'id': '11117', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11117/', 'title': 'Halls Moving In Vibes'}
-{'id': '11122', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11122/', 'title': 'Sorry, there was a problem'}
 {'id': '11123', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11123/', 'title': 'International Summer Party'}
 {'id': '11124', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11124/', 'title': 'Sports Night'}
 {'id': '11125', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11125/', 'title': 'Sports Night'}
@@ -32,7 +31,7 @@
 {'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
 {'id': '11133', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11133/', 'title': 'Residence Life Open Air Cinema'}
 {'id': '11134', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11134/', 'title': 'Summer Sunshine Crafts and Cookies'}
-{'id': '11136', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11136/', 'title': 'Breakfast Cafe'}
+{'id': '11136', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11136/', 'title': 'Sorry, there was a problem'}
 {'id': '11137', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11137/', 'title': 'Breakfast Cafe'}
 {'id': '11138', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11138/', 'title': 'Breakfast Cafe'}
 {'id': '11139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11139/', 'title': 'Breakfast Cafe'}
