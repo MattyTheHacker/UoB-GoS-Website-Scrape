@@ -2869,6 +2869,7 @@ https://www.guildofstudents.com/ents/event/11149/
 https://www.guildofstudents.com/ents/event/11155/
 https://www.guildofstudents.com/ents/event/11156/
 https://www.guildofstudents.com/ents/event/11157/
+https://www.guildofstudents.com/ents/event/11159/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2897,6 +2898,7 @@ https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
+https://www.guildofstudents.com/ents/eventlist/voice/
 https://www.guildofstudents.com/ents/eventlist/welcomedaytime/
 https://www.guildofstudents.com/ents/eventlist/welcomeevecarousel/
 https://www.guildofstudents.com/ents/eventlist/welcomeevening/
@@ -4164,6 +4166,7 @@ https://www.guildofstudents.com/profile/188952/
 https://www.guildofstudents.com/profile/189043/
 https://www.guildofstudents.com/profile/189256/
 https://www.guildofstudents.com/profile/189447/
+https://www.guildofstudents.com/profile/189451/
 https://www.guildofstudents.com/profile/189472/
 https://www.guildofstudents.com/profile/189504/
 https://www.guildofstudents.com/profile/189592/
