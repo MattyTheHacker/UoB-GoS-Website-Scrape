@@ -23,7 +23,7 @@
 {'id': '11123', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11123/', 'title': 'International Summer Party'}
 {'id': '11124', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11124/', 'title': 'Sports Night'}
 {'id': '11125', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11125/', 'title': 'Sports Night'}
-{'id': '11129', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11129/', 'title': 'Halls Lego Flower Making and Doughnuts'}
+{'id': '11129', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11129/', 'title': 'Sorry, there was a problem'}
 {'id': '11130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11130/', 'title': 'Halls Sizzling Steak Sandwiches'}
 {'id': '11131', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11131/', 'title': 'Halls Fish and Chip’nic'}
 {'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
@@ -39,6 +39,7 @@
 {'id': '11155', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11155/', 'title': 'Picnic In The Park'}
 {'id': '11156', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11156/', 'title': 'Umbrella Advice and Healthwatch Stalls'}
 {'id': '11157', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11157/', 'title': 'Umbrella Advice and Healthwatch Stalls'}
+{'id': '11159', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11159/', 'title': 'International Food Festival'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11052', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11052/', 'title': 'Tuesday Kickboxing Session'}

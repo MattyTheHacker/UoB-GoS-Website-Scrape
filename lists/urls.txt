@@ -2853,7 +2853,6 @@ https://www.guildofstudents.com/ents/event/11117/
 https://www.guildofstudents.com/ents/event/11123/
 https://www.guildofstudents.com/ents/event/11124/
 https://www.guildofstudents.com/ents/event/11125/
-https://www.guildofstudents.com/ents/event/11129/
 https://www.guildofstudents.com/ents/event/11130/
 https://www.guildofstudents.com/ents/event/11131/
 https://www.guildofstudents.com/ents/event/11132/
@@ -2870,6 +2869,11 @@ https://www.guildofstudents.com/ents/event/11155/
 https://www.guildofstudents.com/ents/event/11156/
 https://www.guildofstudents.com/ents/event/11157/
 https://www.guildofstudents.com/ents/event/11159/
+https://www.guildofstudents.com/ents/event/11161/
+https://www.guildofstudents.com/ents/event/11162/
+https://www.guildofstudents.com/ents/event/11163/
+https://www.guildofstudents.com/ents/event/11165/
+https://www.guildofstudents.com/ents/event/11166/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2887,6 +2891,7 @@ https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/grad/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
+https://www.guildofstudents.com/ents/eventlist/housing/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
@@ -2990,6 +2995,7 @@ https://www.guildofstudents.com/events/6187/9759/
 https://www.guildofstudents.com/events/6187/9760/
 https://www.guildofstudents.com/events/6187/9761/
 https://www.guildofstudents.com/events/6371/11015/
+https://www.guildofstudents.com/events/6387/11164/
 https://www.guildofstudents.com/events/6419/10965/
 https://www.guildofstudents.com/events/6475/11153/
 https://www.guildofstudents.com/events/6475/11154/
@@ -4007,6 +4013,7 @@ https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Welfare-Community-Officer-Report.pdf
 https://www.guildofstudents.com/pageassets/representation/scrutinypanel/Womens-Officer-QA-Responses.pdf
 https://www.guildofstudents.com/pageassets/studentstaff/Application-Guidance-for-Student-Staff.pdf
+https://www.guildofstudents.com/pageassets/support/communitypantry/Guild-Community-Cookbook.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/BHF-Junkbusters-impact-report-2023.pdf
 https://www.guildofstudents.com/pageassets/support/communitywardens/junkbusters/Charities-Offering-House-Clearances-Recycling-Services-in-Birmingham.pdf
 https://www.guildofstudents.com/pageassets/support/guildadvice/Entitlement-to-Energy-Bill-Support.pdf
