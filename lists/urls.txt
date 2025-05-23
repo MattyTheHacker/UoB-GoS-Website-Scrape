@@ -159,6 +159,7 @@ https://www.guildofstudents.com#signup
 https://www.guildofstudents.com#societies
 https://www.guildofstudents.com#societies-page
 https://www.guildofstudents.com#spinneyinfo
+https://www.guildofstudents.com#sportsball
 https://www.guildofstudents.com#studiosinfo
 https://www.guildofstudents.com#submission
 https://www.guildofstudents.com#support
@@ -295,6 +296,7 @@ https://www.guildofstudents.com//instagram.com/uob_pokesoc
 https://www.guildofstudents.com//instagram.com/uob_rollerskate
 https://www.guildofstudents.com//instagram.com/uob_roundnet
 https://www.guildofstudents.com//instagram.com/uob_rss
+https://www.guildofstudents.com//instagram.com/uob_sals
 https://www.guildofstudents.com//instagram.com/uob_tcu
 https://www.guildofstudents.com//instagram.com/uob_thinkdiversity
 https://www.guildofstudents.com//instagram.com/uob_u_
@@ -2857,7 +2859,6 @@ https://www.guildofstudents.com/ents/event/11130/
 https://www.guildofstudents.com/ents/event/11131/
 https://www.guildofstudents.com/ents/event/11132/
 https://www.guildofstudents.com/ents/event/11133/
-https://www.guildofstudents.com/ents/event/11137/
 https://www.guildofstudents.com/ents/event/11138/
 https://www.guildofstudents.com/ents/event/11139/
 https://www.guildofstudents.com/ents/event/11140/
@@ -2874,6 +2875,10 @@ https://www.guildofstudents.com/ents/event/11162/
 https://www.guildofstudents.com/ents/event/11163/
 https://www.guildofstudents.com/ents/event/11165/
 https://www.guildofstudents.com/ents/event/11166/
+https://www.guildofstudents.com/ents/event/11167/
+https://www.guildofstudents.com/ents/event/11168/
+https://www.guildofstudents.com/ents/event/11170/
+https://www.guildofstudents.com/ents/event/11171/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -3143,7 +3148,6 @@ https://www.guildofstudents.com/organisation/34929/
 https://www.guildofstudents.com/organisation/34945/
 https://www.guildofstudents.com/organisation/34953/
 https://www.guildofstudents.com/organisation/34969/
-https://www.guildofstudents.com/organisation/34985/
 https://www.guildofstudents.com/organisation/34993/
 https://www.guildofstudents.com/organisation/35017/
 https://www.guildofstudents.com/organisation/35033/
@@ -3359,6 +3363,7 @@ https://www.guildofstudents.com/organisation/tea/
 https://www.guildofstudents.com/organisation/theproductivityhub/
 https://www.guildofstudents.com/organisation/ttgaming/
 https://www.guildofstudents.com/organisation/ubars/
+https://www.guildofstudents.com/organisation/ubmsbadminton/
 https://www.guildofstudents.com/organisation/ubvr/
 https://www.guildofstudents.com/organisation/uobcommutersoc/
 https://www.guildofstudents.com/organisation/uobfws/
@@ -3407,6 +3412,7 @@ https://www.guildofstudents.com/pageassets/accommodation/housing/livinginyourhom
 https://www.guildofstudents.com/pageassets/accommodation/housing/livinginyourhome/Guild_Living-With-Others_Wall_Planner-Print-Ready_13-Rows.pdf
 https://www.guildofstudents.com/pageassets/accommodation/housing/livinginyourhome/Guild_Living-With-Others_Wall_Planner-Print-Ready_6-Rows.pdf
 https://www.guildofstudents.com/pageassets/advertising/Media-Pack-2024-25.pdf
+https://www.guildofstudents.com/pageassets/advertising/Welcome-Media-Pack-2025.pdf
 https://www.guildofstudents.com/pageassets/blackvoices/Black-Voices-Manifesto-1022.pdf
 https://www.guildofstudents.com/pageassets/elections/Autumn-Elections-23-Guild-Bye-Laws.pdf
 https://www.guildofstudents.com/pageassets/elections/autumn-elections-Zero-Tolerance-Policy-2023.pdf

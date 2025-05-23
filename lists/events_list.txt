@@ -27,7 +27,7 @@
 {'id': '11131', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11131/', 'title': 'Halls Fish and Chip’nic'}
 {'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
 {'id': '11133', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11133/', 'title': 'Residence Life Open Air Cinema'}
-{'id': '11137', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11137/', 'title': 'Breakfast Cafe'}
+{'id': '11137', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11137/', 'title': 'Sorry, there was a problem'}
 {'id': '11138', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11138/', 'title': 'Breakfast Cafe'}
 {'id': '11139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11139/', 'title': 'Breakfast Cafe'}
 {'id': '11140', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11140/', 'title': 'Breakfast Cafe'}
