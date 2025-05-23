@@ -23,7 +23,6 @@
 {'id': '11123', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11123/', 'title': 'International Summer Party'}
 {'id': '11124', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11124/', 'title': 'Sports Night'}
 {'id': '11125', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11125/', 'title': 'Sports Night'}
-{'id': '11129', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11129/', 'title': 'Sorry, there was a problem'}
 {'id': '11130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11130/', 'title': 'Halls Sizzling Steak Sandwiches'}
 {'id': '11131', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11131/', 'title': 'Halls Fish and Chip’nic'}
 {'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
@@ -40,6 +39,11 @@
 {'id': '11156', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11156/', 'title': 'Umbrella Advice and Healthwatch Stalls'}
 {'id': '11157', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11157/', 'title': 'Umbrella Advice and Healthwatch Stalls'}
 {'id': '11159', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11159/', 'title': 'International Food Festival'}
+{'id': '11161', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11161/', 'title': 'Residence Life Big Finale'}
+{'id': '11162', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11162/', 'title': 'Halls Brunch and Cold Cups'}
+{'id': '11163', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11163/', 'title': 'Getting Ready for ValeFest!'}
+{'id': '11165', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11165/', 'title': 'Housemate Finder'}
+{'id': '11166', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11166/', 'title': 'Wellbeing Café'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11052', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11052/', 'title': 'Tuesday Kickboxing Session'}
@@ -118,6 +122,7 @@
 {'event_id': '9760', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9760/', 'title': 'Tuesday Novice and Intermediate Classes'}
 {'event_id': '9761', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9761/', 'title': 'Thursday Beginner Ballroom and Latin Classes'}
 {'event_id': '11015', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/11015/', 'title': 'BUDS charity summer ball'}
+{'event_id': '11164', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/11164/', 'title': 'Burn Ball and Awards 2025'}
 {'event_id': '10965', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/10965/', 'title': 'CathSoc Jubilee Ball'}
 {'event_id': '11153', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11153/', 'title': 'Cocktails back in time! (Early session)'}
 {'event_id': '11154', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11154/', 'title': 'Cocktails back in time! (Late session)'}
