@@ -24,11 +24,10 @@
 {'id': '11124', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11124/', 'title': 'Sports Night'}
 {'id': '11125', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11125/', 'title': 'Sports Night'}
 {'id': '11130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11130/', 'title': 'Halls Sizzling Steak Sandwiches'}
-{'id': '11131', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11131/', 'title': 'Halls Fish and Chip’nic'}
+{'id': '11131', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11131/', 'title': 'Sorry, there was a problem'}
 {'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
 {'id': '11133', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11133/', 'title': 'Residence Life Open Air Cinema'}
-{'id': '11137', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11137/', 'title': 'Sorry, there was a problem'}
-{'id': '11138', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11138/', 'title': 'Breakfast Cafe'}
+{'id': '11138', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11138/', 'title': 'Sorry, there was a problem'}
 {'id': '11139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11139/', 'title': 'Breakfast Cafe'}
 {'id': '11140', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11140/', 'title': 'Breakfast Cafe'}
 {'id': '11142', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11142/', 'title': 'Sofa Sessions'}
@@ -44,6 +43,10 @@
 {'id': '11163', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11163/', 'title': 'Getting Ready for ValeFest!'}
 {'id': '11165', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11165/', 'title': 'Housemate Finder'}
 {'id': '11166', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11166/', 'title': 'Wellbeing Café'}
+{'id': '11167', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11167/', 'title': 'Residence Life Office Pop Up'}
+{'id': '11168', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11168/', 'title': 'Residence Life Office Pop Up'}
+{'id': '11170', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11170/', 'title': 'BBQ and DIY for Dad'}
+{'id': '11171', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11171/', 'title': 'World Environment Day'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11052', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11052/', 'title': 'Tuesday Kickboxing Session'}

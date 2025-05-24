@@ -2856,10 +2856,8 @@ https://www.guildofstudents.com/ents/event/11123/
 https://www.guildofstudents.com/ents/event/11124/
 https://www.guildofstudents.com/ents/event/11125/
 https://www.guildofstudents.com/ents/event/11130/
-https://www.guildofstudents.com/ents/event/11131/
 https://www.guildofstudents.com/ents/event/11132/
 https://www.guildofstudents.com/ents/event/11133/
-https://www.guildofstudents.com/ents/event/11138/
 https://www.guildofstudents.com/ents/event/11139/
 https://www.guildofstudents.com/ents/event/11140/
 https://www.guildofstudents.com/ents/event/11142/
@@ -3057,7 +3055,6 @@ https://www.guildofstudents.com/keepsafe
 https://www.guildofstudents.com/login/
 https://www.guildofstudents.com/login/?redirect=%2fents%2fevent%2f10692%2f
 https://www.guildofstudents.com/login/?redirect=%2fofficerteam%2fwco%2f
-https://www.guildofstudents.com/login/?redirect=%2forganisation%2f34823%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f34993%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35017%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2f35177%2f
@@ -5748,6 +5745,7 @@ https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/daytime#guildevents
 https://www.guildofstudents.com/welcome/events/evening
 https://www.guildofstudents.com/welcome/events/event/11042/
+https://www.guildofstudents.com/welcome/events/event/11123/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/
