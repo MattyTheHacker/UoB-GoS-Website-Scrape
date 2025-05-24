@@ -102,6 +102,7 @@
 {'event_id': '10903', 'organisation_id': '6115', 'organisation': 'Anime & Manga', 'url': 'https://www.guildofstudents.com/events/6115/10903/', 'title': 'J-Cafe'}
 {'event_id': '11031', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11031/', 'title': 'BACAS Summer rounders membership'}
 {'event_id': '11087', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11087/', 'title': 'BACAS Ball'}
+{'event_id': '11169', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11169/', 'title': "Gideon Nisbet's Medea oration"}
 {'event_id': '11102', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/11102/', 'title': 'Manchester Spring 2025'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
