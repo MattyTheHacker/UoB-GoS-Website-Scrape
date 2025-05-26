@@ -125,7 +125,7 @@
 {'event_id': '9761', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9761/', 'title': 'Thursday Beginner Ballroom and Latin Classes'}
 {'event_id': '11015', 'organisation_id': '6371', 'organisation': 'BUDS', 'url': 'https://www.guildofstudents.com/events/6371/11015/', 'title': 'BUDS charity summer ball'}
 {'event_id': '11164', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/11164/', 'title': 'Burn Ball and Awards 2025'}
-{'event_id': '10965', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/10965/', 'title': 'CathSoc Jubilee Ball'}
+{'event_id': '10965', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/10965/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11153', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11153/', 'title': 'Cocktails back in time! (Early session)'}
 {'event_id': '11154', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11154/', 'title': 'Cocktails back in time! (Late session)'}
 {'event_id': '11099', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11099/', 'title': 'This House Believes in Rounds'}
