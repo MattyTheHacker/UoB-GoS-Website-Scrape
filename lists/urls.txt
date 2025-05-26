@@ -3084,6 +3084,7 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmealprepsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpharmsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fphilosophy%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2fpoker%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2frailsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2ftea%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fuobhideandseek%2f
