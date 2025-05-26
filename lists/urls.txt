@@ -3100,6 +3100,7 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fc
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fegyptian%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fewb%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fhongkongcultural%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fpunjabi%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2ftalkinghands%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fwomensassociation%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fbecomearep%2f
