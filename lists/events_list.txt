@@ -26,6 +26,7 @@
 {'id': '11130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11130/', 'title': 'Halls Sizzling Steak Sandwiches'}
 {'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
 {'id': '11133', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11133/', 'title': 'Residence Life Open Air Cinema'}
+{'id': '11138', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11138/', 'title': 'Breakfast Cafe'}
 {'id': '11139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11139/', 'title': 'Breakfast Cafe'}
 {'id': '11140', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11140/', 'title': 'Breakfast Cafe'}
 {'id': '11142', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11142/', 'title': 'Sofa Sessions'}
