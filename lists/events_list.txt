@@ -128,7 +128,7 @@
 {'event_id': '11164', 'organisation_id': '6387', 'organisation': 'Burn FM.com', 'url': 'https://www.guildofstudents.com/events/6387/11164/', 'title': 'Burn Ball and Awards 2025'}
 {'event_id': '11153', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11153/', 'title': 'Cocktails back in time! (Early session)'}
 {'event_id': '11154', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11154/', 'title': 'Cocktails back in time! (Late session)'}
-{'event_id': '11099', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11099/', 'title': 'This House Believes in Rounds'}
+{'event_id': '11099', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11099/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11151', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11151/', 'title': 'The House supports bar crawls'}
 {'event_id': '11146', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11146/', 'title': 'UBG&S Presents: Patience'}
 {'event_id': '11147', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11147/', 'title': 'UBG&S Presents: Patience'}
