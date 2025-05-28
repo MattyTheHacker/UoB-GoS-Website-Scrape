@@ -132,7 +132,6 @@
 {'event_id': '11153', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11153/', 'title': 'Cocktails back in time! (Early session)'}
 {'event_id': '11154', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/11154/', 'title': 'Cocktails back in time! (Late session)'}
 {'event_id': '11174', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/11174/', 'title': 'CSS BBQ'}
-{'event_id': '11151', 'organisation_id': '6555', 'organisation': 'Debating', 'url': 'https://www.guildofstudents.com/events/6555/11151/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11146', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11146/', 'title': 'UBG&S Presents: Patience'}
 {'event_id': '11147', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11147/', 'title': 'UBG&S Presents: Patience'}
 {'event_id': '11148', 'organisation_id': '6675', 'organisation': 'Gilbert and Sullivan', 'url': 'https://www.guildofstudents.com/events/6675/11148/', 'title': 'UBG&S Presents: Patience'}
@@ -148,7 +147,6 @@
 {'event_id': '9577', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9577/', 'title': "Women's project volunteering"}
 {'event_id': '9578', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9578/', 'title': "Women's project volunteering"}
 {'event_id': '9579', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9579/', 'title': "Women's project volunteering"}
-{'event_id': '11026', 'organisation_id': '7411', 'organisation': 'Sign Language', 'url': 'https://www.guildofstudents.com/events/7411/11026/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11027', 'organisation_id': '7411', 'organisation': 'Sign Language', 'url': 'https://www.guildofstudents.com/events/7411/11027/', 'title': 'UoB Sign Language Tuesday 102 Exam'}
 {'event_id': '11028', 'organisation_id': '7411', 'organisation': 'Sign Language', 'url': 'https://www.guildofstudents.com/events/7411/11028/', 'title': 'UoB Sign Language Thursday 102 Exam'}
 {'event_id': '11101', 'organisation_id': '7411', 'organisation': 'Sign Language', 'url': 'https://www.guildofstudents.com/events/7411/11101/', 'title': 'UoB Sign Language 103 Resits'}
