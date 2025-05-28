@@ -7,7 +7,7 @@
 {'id': '10984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10984/', 'title': 'Joes Bingo'}
 {'id': '10985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10985/', 'title': 'Big Guild Quiz'}
 {'id': '10987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10987/', 'title': 'Wellbeing Fairy'}
-{'id': '10995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10995/', 'title': 'Community Breakfast'}
+{'id': '10995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10995/', 'title': 'Sorry, there was a problem'}
 {'id': '10996', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10996/', 'title': 'Community Breakfast'}
 {'id': '10997', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10997/', 'title': 'Community Breakfast'}
 {'id': '10998', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10998/', 'title': 'Community Breakfast'}
@@ -16,11 +16,11 @@
 {'id': '11022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11022/', 'title': 'Umbrella Advice Stall'}
 {'id': '11024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11024/', 'title': 'Big Guild Quiz'}
 {'id': '11025', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11025/', 'title': 'Sports Night'}
-{'id': '11042', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11042/', 'title': 'Silent Disco Litter Pick'}
+{'id': '11042', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11042/', 'title': 'Sorry, there was a problem'}
 {'id': '11092', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11092/', 'title': 'Halls Air Plant Ornament Making Workshop'}
 {'id': '11097', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11097/', 'title': 'Committee Training Conference 2025'}
-{'id': '11117', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11117/', 'title': 'Halls Moving In Vibes'}
-{'id': '11123', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11123/', 'title': 'International Summer Party'}
+{'id': '11117', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11117/', 'title': 'Sorry, there was a problem'}
+{'id': '11123', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11123/', 'title': 'Student Login'}
 {'id': '11124', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11124/', 'title': 'Sports Night'}
 {'id': '11125', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11125/', 'title': 'Sports Night'}
 {'id': '11130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11130/', 'title': 'Halls Sizzling Steak Sandwiches'}
@@ -106,6 +106,7 @@
 {'event_id': '11031', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11031/', 'title': 'BACAS Summer rounders membership'}
 {'event_id': '11087', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11087/', 'title': 'BACAS Ball'}
 {'event_id': '11169', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11169/', 'title': "Gideon Nisbet's Medea oration"}
+{'event_id': '11172', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11172/', 'title': 'Jason and the Argonauts screening'}
 {'event_id': '11102', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/11102/', 'title': 'Manchester Spring 2025'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
@@ -165,8 +166,8 @@
 {'event_id': '10417', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10417/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '10418', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/10418/', 'title': 'Public Speaking Society Weekly Session'}
 {'event_id': '11007', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/11007/', 'title': 'MFL Soc Summer Ball 2025'}
-{'event_id': '11042', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/11042/', 'title': 'Silent Disco Litter Pick'}
-{'event_id': '11123', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/11123/', 'title': 'International Summer Party'}
+{'event_id': '11042', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/11042/', 'title': 'Sorry, there was a problem'}
+{'event_id': '11123', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/11123/', 'title': 'Student Login'}
 {'event_id': '9362', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9362/', 'title': 'Post Grad Student Social'}
 {'event_id': '9363', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9363/', 'title': 'International Social + Fusion Afterparty'}
 {'event_id': '9364', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/9364/', 'title': 'Welcome Wristband 2024'}
