@@ -254,6 +254,7 @@ https://www.guildofstudents.com//instagram.com/ubisoc
 https://www.guildofstudents.com//instagram.com/UBMCStoats
 https://www.guildofstudents.com//instagram.com/uob.amnesty
 https://www.guildofstudents.com//instagram.com/uob.bahaisociety
+https://www.guildofstudents.com//instagram.com/uob.culturalarts
 https://www.guildofstudents.com//instagram.com/uob.horror
 https://www.guildofstudents.com//instagram.com/uob.lgbtq
 https://www.guildofstudents.com//instagram.com/uob.mun
@@ -2852,6 +2853,7 @@ https://www.guildofstudents.com/ents/event/11092/
 https://www.guildofstudents.com/ents/event/11097/
 https://www.guildofstudents.com/ents/event/11124/
 https://www.guildofstudents.com/ents/event/11125/
+https://www.guildofstudents.com/ents/event/11126/
 https://www.guildofstudents.com/ents/event/11130/
 https://www.guildofstudents.com/ents/event/11132/
 https://www.guildofstudents.com/ents/event/11133/
@@ -2859,13 +2861,11 @@ https://www.guildofstudents.com/ents/event/11138/
 https://www.guildofstudents.com/ents/event/11140/
 https://www.guildofstudents.com/ents/event/11143/
 https://www.guildofstudents.com/ents/event/11144/
-https://www.guildofstudents.com/ents/event/11149/
 https://www.guildofstudents.com/ents/event/11155/
 https://www.guildofstudents.com/ents/event/11156/
 https://www.guildofstudents.com/ents/event/11157/
 https://www.guildofstudents.com/ents/event/11159/
 https://www.guildofstudents.com/ents/event/11161/
-https://www.guildofstudents.com/ents/event/11162/
 https://www.guildofstudents.com/ents/event/11163/
 https://www.guildofstudents.com/ents/event/11165/
 https://www.guildofstudents.com/ents/event/11166/
@@ -2874,9 +2874,17 @@ https://www.guildofstudents.com/ents/event/11168/
 https://www.guildofstudents.com/ents/event/11170/
 https://www.guildofstudents.com/ents/event/11171/
 https://www.guildofstudents.com/ents/event/11173/
+https://www.guildofstudents.com/ents/event/11175/
 https://www.guildofstudents.com/ents/event/11176/
 https://www.guildofstudents.com/ents/event/11177/
+https://www.guildofstudents.com/ents/event/11180/
 https://www.guildofstudents.com/ents/event/11182/
+https://www.guildofstudents.com/ents/event/11183/
+https://www.guildofstudents.com/ents/event/11184/
+https://www.guildofstudents.com/ents/event/11185/
+https://www.guildofstudents.com/ents/event/11186/
+https://www.guildofstudents.com/ents/event/11187/
+https://www.guildofstudents.com/ents/event/11188/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2888,11 +2896,14 @@ https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
 https://www.guildofstudents.com/ents/eventlist/debate/
+https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
+https://www.guildofstudents.com/ents/eventlist/Employabilty/
 https://www.guildofstudents.com/ents/eventlist/fab/
 https://www.guildofstudents.com/ents/eventlist/featuredevent/
 https://www.guildofstudents.com/ents/eventlist/festival/
 https://www.guildofstudents.com/ents/eventlist/grad/
+https://www.guildofstudents.com/ents/eventlist/guildadvice/
 https://www.guildofstudents.com/ents/eventlist/hallreps/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/mentors/
@@ -2976,7 +2987,6 @@ https://www.guildofstudents.com/events/39365/11104/
 https://www.guildofstudents.com/events/51180/10921/
 https://www.guildofstudents.com/events/6115/10903/
 https://www.guildofstudents.com/events/6171/11031/
-https://www.guildofstudents.com/events/6171/11087/
 https://www.guildofstudents.com/events/6171/11169/
 https://www.guildofstudents.com/events/6171/11172/
 https://www.guildofstudents.com/events/6187/11102/
@@ -3113,6 +3123,7 @@ https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fc
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fchinesechristians%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fegyptian%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fewb%2f
+https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fhelpthehomeless%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fhongkongcultural%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2findonesian%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2flevantsociety%2f
@@ -3131,6 +3142,7 @@ https://www.guildofstudents.com/moneymatters/
 https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Sustainable-Ways-to-Boost-Your-Wellbeing/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-April/
+https://www.guildofstudents.com/news/article/website/Budget-Friendly-Food-Tips/
 https://www.guildofstudents.com/news/article/website/Democratic-Idea-Update-Palestine-Solidarity/
 https://www.guildofstudents.com/news/article/website/Go-Green-Week-2025/
 https://www.guildofstudents.com/news/article/website/Guild-Officer-Statement-Birmingham-Pride-2025/
@@ -5941,6 +5953,7 @@ https://www.guildofstudents.commailto:hideandseek@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hindu@guild.bham.ac.uk
 https://www.guildofstudents.commailto:history@guild.bham.ac.uk
 https://www.guildofstudents.commailto:historyofart@guild.bham.ac.uk
+https://www.guildofstudents.commailto:homeless@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkong@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk

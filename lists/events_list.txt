@@ -26,13 +26,13 @@
 {'id': '11140', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11140/', 'title': 'Breakfast Cafe'}
 {'id': '11143', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11143/', 'title': 'Halls Chocolate Fountain and Flowers'}
 {'id': '11144', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11144/', 'title': 'FAB XO Summer Party'}
-{'id': '11149', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11149/', 'title': 'Halls Bloom and Brush: A vase painting and Dried Flower Bouquet Workshop'}
+{'id': '11149', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11149/', 'title': 'Sorry, there was a problem'}
 {'id': '11155', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11155/', 'title': 'Picnic In The Park'}
 {'id': '11156', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11156/', 'title': 'Umbrella Advice and Healthwatch Stalls'}
 {'id': '11157', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11157/', 'title': 'Umbrella Advice and Healthwatch Stalls'}
 {'id': '11159', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11159/', 'title': 'International Food Festival'}
 {'id': '11161', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11161/', 'title': 'Residence Life Big Finale'}
-{'id': '11162', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11162/', 'title': 'Halls Brunch and Cold Cups'}
+{'id': '11162', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11162/', 'title': 'Sorry, there was a problem'}
 {'id': '11163', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11163/', 'title': 'Getting Ready for ValeFest!'}
 {'id': '11165', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11165/', 'title': 'Housemate Finder'}
 {'id': '11166', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11166/', 'title': 'Wellbeing Café'}
@@ -102,7 +102,7 @@
 {'event_id': '10921', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10921/', 'title': 'Engineering Summer Ball'}
 {'event_id': '10903', 'organisation_id': '6115', 'organisation': 'Anime & Manga', 'url': 'https://www.guildofstudents.com/events/6115/10903/', 'title': 'J-Cafe'}
 {'event_id': '11031', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11031/', 'title': 'BACAS Summer rounders membership'}
-{'event_id': '11087', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11087/', 'title': 'BACAS Ball'}
+{'event_id': '11087', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11087/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11169', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11169/', 'title': "Gideon Nisbet's Medea oration"}
 {'event_id': '11172', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11172/', 'title': 'Jason and the Argonauts screening'}
 {'event_id': '11102', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/11102/', 'title': 'Manchester Spring 2025'}
