@@ -23,9 +23,7 @@
 {'id': '11132', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11132/', 'title': 'Residence Life Office Pop Up'}
 {'id': '11133', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11133/', 'title': 'Residence Life Open Air Cinema'}
 {'id': '11138', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11138/', 'title': 'Breakfast Cafe'}
-{'id': '11139', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11139/', 'title': 'Sorry, there was a problem'}
 {'id': '11140', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11140/', 'title': 'Breakfast Cafe'}
-{'id': '11142', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11142/', 'title': 'Sorry, there was a problem'}
 {'id': '11143', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11143/', 'title': 'Halls Chocolate Fountain and Flowers'}
 {'id': '11144', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11144/', 'title': 'FAB XO Summer Party'}
 {'id': '11149', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11149/', 'title': 'Halls Bloom and Brush: A vase painting and Dried Flower Bouquet Workshop'}
