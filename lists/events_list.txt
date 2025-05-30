@@ -32,7 +32,7 @@
 {'id': '11157', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11157/', 'title': 'Umbrella Advice and Healthwatch Stalls'}
 {'id': '11159', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11159/', 'title': 'International Food Festival'}
 {'id': '11161', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11161/', 'title': 'Residence Life Big Finale'}
-{'id': '11163', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11163/', 'title': 'Getting Ready for ValeFest!'}
+{'id': '11163', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11163/', 'title': 'Sorry, there was a problem'}
 {'id': '11165', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11165/', 'title': 'Housemate Finder'}
 {'id': '11166', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11166/', 'title': 'Wellbeing Café'}
 {'id': '11167', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11167/', 'title': 'Residence Life Office Pop Up'}
@@ -143,7 +143,7 @@
 {'event_id': '10658', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10658/', 'title': 'Sister Act the Musical!'}
 {'event_id': '10659', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/10659/', 'title': 'Sister Act the Musical!'}
 {'event_id': '11039', 'organisation_id': '6971', 'organisation': 'LUM Soc', 'url': 'https://www.guildofstudents.com/events/6971/11039/', 'title': 'LUMsoc Band Night'}
-{'event_id': '10978', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/10978/', 'title': 'Philosophy Society Summer Ball'}
+{'event_id': '10978', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/10978/', 'title': 'Sorry, there was a problem'}
 {'event_id': '10721', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/10721/', 'title': 'Pole Ball'}
 {'event_id': '10625', 'organisation_id': '7219', 'organisation': 'Psychology', 'url': 'https://www.guildofstudents.com/events/7219/10625/', 'title': 'Psychology Ball'}
 {'event_id': '9577', 'organisation_id': '7387', 'organisation': 'STAR', 'url': 'https://www.guildofstudents.com/events/7387/9577/', 'title': "Women's project volunteering"}
