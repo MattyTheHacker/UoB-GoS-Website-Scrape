@@ -66,9 +66,6 @@
 {'event_id': '11063', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11063/', 'title': 'Thursday Kickboxing Session'}
 {'event_id': '11064', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11064/', 'title': 'Thursday Kickboxing Session'}
 {'event_id': '11065', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11065/', 'title': 'Thursday Kickboxing Session'}
-{'event_id': '11066', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11066/', 'title': 'Sorry, there was a problem'}
-{'event_id': '11067', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11067/', 'title': 'Sorry, there was a problem'}
-{'event_id': '11068', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11068/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11079', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11079/', 'title': 'Friday Kickboxing Session'}
 {'event_id': '11080', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11080/', 'title': 'Friday Kickboxing Session'}
 {'event_id': '11081', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11081/', 'title': 'Friday Kickboxing Session'}
