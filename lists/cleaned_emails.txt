@@ -210,6 +210,7 @@ medball@guild.bham.ac.uk
 medcheersociety@guild.bham.ac.uk
 meddodge@guild.bham.ac.uk
 medmoneysociety@guild.bham.ac.uk
+medsocdance@guild.bham.ac.uk
 medsocfriendsofresus@guild.bham.ac.uk
 medsocmmasociety@guild.bham.ac.uk
 medsocsimba@guild.bham.ac.uk

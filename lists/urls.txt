@@ -235,6 +235,7 @@ https://www.guildofstudents.com//instagram.com/liveartsocietyuob
 https://www.guildofstudents.com//instagram.com/livemusicsoc
 https://www.guildofstudents.com//instagram.com/masocbham
 https://www.guildofstudents.com//instagram.com/mathsoc
+https://www.guildofstudents.com//instagram.com/medsocdance
 https://www.guildofstudents.com//instagram.com/ostembirmingham
 https://www.guildofstudents.com//instagram.com/pensauob
 https://www.guildofstudents.com//instagram.com/photosocuob
@@ -2890,7 +2891,6 @@ https://www.guildofstudents.com/ents/eventlist/?month=5&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=7&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=9&year=2025
-https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
@@ -2984,7 +2984,6 @@ https://www.guildofstudents.com/events/51180/10921/
 https://www.guildofstudents.com/events/6115/10903/
 https://www.guildofstudents.com/events/6171/11031/
 https://www.guildofstudents.com/events/6171/11169/
-https://www.guildofstudents.com/events/6171/11172/
 https://www.guildofstudents.com/events/6187/9743/
 https://www.guildofstudents.com/events/6187/9744/
 https://www.guildofstudents.com/events/6187/9745/
@@ -5759,6 +5758,7 @@ https://www.guildofstudents.com/welcome/events/
 https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/daytime#guildevents
 https://www.guildofstudents.com/welcome/events/evening
+https://www.guildofstudents.com/welcome/events/event/10692/
 https://www.guildofstudents.com/welcome/events/event/9362/
 https://www.guildofstudents.com/welcome/events/event/9363/
 https://www.guildofstudents.com/welcome/events/event/9364/
@@ -5994,6 +5994,7 @@ https://www.guildofstudents.commailto:medball@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medcheersociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:meddodge@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medmoneysociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:medsocdance@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsocfriendsofresus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsocmmasociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsocsimba@guild.bham.ac.uk
