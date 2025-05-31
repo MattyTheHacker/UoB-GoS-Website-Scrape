@@ -2805,7 +2805,6 @@ https://www.guildofstudents.com/allstudentvote/
 https://www.guildofstudents.com/asset/News/6016/ASV-4-April-2025-Full-Results.pdf
 https://www.guildofstudents.com/asset/News/6016/OE-2025-Results-Tables.pdf
 https://www.guildofstudents.com/asset/News/6016/Officer-Elections-2025-Budgets.pdf
-https://www.guildofstudents.com/asset/News/6016/Palestine-Solidarity-Student-Idea-Text.pdf
 https://www.guildofstudents.com/asset/Organisation/7323/Sexpression-Volunteer-role-description.docx
 https://www.guildofstudents.com/blackvoices/
 https://www.guildofstudents.com/blogs/blog/officers-24-25/
@@ -2857,8 +2856,6 @@ https://www.guildofstudents.com/ents/event/11126/
 https://www.guildofstudents.com/ents/event/11130/
 https://www.guildofstudents.com/ents/event/11132/
 https://www.guildofstudents.com/ents/event/11133/
-https://www.guildofstudents.com/ents/event/11138/
-https://www.guildofstudents.com/ents/event/11140/
 https://www.guildofstudents.com/ents/event/11143/
 https://www.guildofstudents.com/ents/event/11144/
 https://www.guildofstudents.com/ents/event/11155/
@@ -2893,6 +2890,7 @@ https://www.guildofstudents.com/ents/eventlist/?month=5&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=6&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=7&year=2025
 https://www.guildofstudents.com/ents/eventlist/?month=9&year=2025
+https://www.guildofstudents.com/ents/eventlist/campaign/
 https://www.guildofstudents.com/ents/eventlist/club/
 https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/communitywardens/
@@ -2987,7 +2985,6 @@ https://www.guildofstudents.com/events/6115/10903/
 https://www.guildofstudents.com/events/6171/11031/
 https://www.guildofstudents.com/events/6171/11169/
 https://www.guildofstudents.com/events/6171/11172/
-https://www.guildofstudents.com/events/6187/11102/
 https://www.guildofstudents.com/events/6187/9743/
 https://www.guildofstudents.com/events/6187/9744/
 https://www.guildofstudents.com/events/6187/9745/
@@ -3010,7 +3007,6 @@ https://www.guildofstudents.com/events/6187/9761/
 https://www.guildofstudents.com/events/6355/11013/
 https://www.guildofstudents.com/events/6371/11015/
 https://www.guildofstudents.com/events/6387/11164/
-https://www.guildofstudents.com/events/6419/10965/
 https://www.guildofstudents.com/events/6475/11153/
 https://www.guildofstudents.com/events/6475/11154/
 https://www.guildofstudents.com/events/6531/11174/
@@ -3123,7 +3119,6 @@ https://www.guildofstudents.com/news/
 https://www.guildofstudents.com/news/article/website/5-Sustainable-Ways-to-Boost-Your-Wellbeing/
 https://www.guildofstudents.com/news/article/website/All-Student-Vote-Results-April/
 https://www.guildofstudents.com/news/article/website/Budget-Friendly-Food-Tips/
-https://www.guildofstudents.com/news/article/website/Democratic-Idea-Update-Palestine-Solidarity/
 https://www.guildofstudents.com/news/article/website/Guild-Officer-Statement-Birmingham-Pride-2025/
 https://www.guildofstudents.com/news/article/website/Junkbusters-2025-Dont-Dump-It-Donate-It/
 https://www.guildofstudents.com/news/article/website/Officer-Bye-Election-Updates-and-Trans-and-Non-Binary-Students-Officer-Resignation/
