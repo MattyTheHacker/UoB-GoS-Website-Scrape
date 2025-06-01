@@ -15,7 +15,7 @@
 {'id': '11126', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11126/', 'title': 'Sports Night'}
 {'id': '11130', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11130/', 'title': 'Halls Sizzling Steak Sandwiches'}
 {'id': '11133', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11133/', 'title': 'Residence Life Open Air Cinema'}
-{'id': '11143', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11143/', 'title': 'Halls Chocolate Fountain and Flowers'}
+{'id': '11143', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11143/', 'title': 'Sorry, there was a problem'}
 {'id': '11144', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11144/', 'title': 'FAB XO Summer Party'}
 {'id': '11155', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11155/', 'title': 'Picnic In The Park'}
 {'id': '11156', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11156/', 'title': 'Umbrella Advice and Healthwatch Stalls'}
@@ -78,7 +78,7 @@
 {'event_id': '11104', 'organisation_id': '39365', 'organisation': 'UOB Girl Gamers', 'url': 'https://www.guildofstudents.com/events/39365/11104/', 'title': 'Chance and counters'}
 {'event_id': '10921', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/10921/', 'title': 'Engineering Summer Ball'}
 {'event_id': '11031', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11031/', 'title': 'BACAS Summer rounders membership'}
-{'event_id': '11169', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11169/', 'title': "Gideon Nisbet's Medea oration"}
+{'event_id': '11169', 'organisation_id': '6171', 'organisation': 'BACAS', 'url': 'https://www.guildofstudents.com/events/6171/11169/', 'title': 'Sorry, there was a problem'}
 {'event_id': '9743', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9743/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9744', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9744/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
 {'event_id': '9745', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/9745/', 'title': 'Tuesday Novice and Intermediate Ballroom and Latin Classes'}
