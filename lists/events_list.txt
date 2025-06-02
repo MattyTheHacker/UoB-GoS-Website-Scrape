@@ -40,6 +40,7 @@
 {'id': '11188', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11188/', 'title': 'Halls Craft your memories: Corkboard Decorating and Sweet Treats'}
 {'id': '11190', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11190/', 'title': 'Halls Lego Animals and Gourmet Brownies'}
 {'id': '11191', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11191/', 'title': 'Halls Muffins and Music'}
+{'id': '11193', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11193/', 'title': 'Sorry, there was a problem'}
 {'id': '9383', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9383/', 'title': 'Sorry, there was a problem'}
 {'id': '9385', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/9385/', 'title': 'Sorry, there was a problem'}
 {'event_id': '11055', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/11055/', 'title': 'Tuesday Kickboxing Session'}

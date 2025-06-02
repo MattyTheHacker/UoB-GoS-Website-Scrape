@@ -2874,7 +2874,6 @@ https://www.guildofstudents.com/ents/event/11187/
 https://www.guildofstudents.com/ents/event/11188/
 https://www.guildofstudents.com/ents/event/11190/
 https://www.guildofstudents.com/ents/event/11191/
-https://www.guildofstudents.com/ents/event/11193/
 https://www.guildofstudents.com/ents/event/9383/
 https://www.guildofstudents.com/ents/event/9385/
 https://www.guildofstudents.com/ents/eventlist/
@@ -2899,6 +2898,7 @@ https://www.guildofstudents.com/ents/eventlist/outgoing/
 https://www.guildofstudents.com/ents/eventlist/postgraduate/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
+https://www.guildofstudents.com/ents/eventlist/stugroup/
 https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/training/
 https://www.guildofstudents.com/ents/eventlist/voice/
@@ -3040,6 +3040,8 @@ https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbaking%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbeerpongsociety%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fbusag%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fcss%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2ffilmsoc%2f
+https://www.guildofstudents.com/login/?redirect=%2forganisation%2ffolk%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fkcover%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fmealprepsoc%2f
 https://www.guildofstudents.com/login/?redirect=%2forganisation%2fnerdfighters%2f
@@ -3078,6 +3080,7 @@ https://www.guildofstudents.com/news/article/website/Guild-Officer-Statement-Bir
 https://www.guildofstudents.com/news/article/website/Junkbusters-2025-Dont-Dump-It-Donate-It/
 https://www.guildofstudents.com/news/article/website/Officer-Bye-Election-Updates-and-Trans-and-Non-Binary-Students-Officer-Resignation/
 https://www.guildofstudents.com/news/article/website/Officer-Elections-2025-Results/
+https://www.guildofstudents.com/news/article/website/Safety-and-Security-in-Selly-Lobbying-MPs-for-Change/
 https://www.guildofstudents.com/news/article/website/Study-Tips-to-get-through-Assessment-Season/
 https://www.guildofstudents.com/news/rss/0/subtree/
 https://www.guildofstudents.com/noton/
