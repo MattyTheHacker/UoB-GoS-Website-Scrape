@@ -131,7 +131,6 @@ formula1@guild.bham.ac.uk
 friendsinternational@guild.bham.ac.uk
 friendsofpalestine@guild.bham.ac.uk
 fringe@guild.bham.ac.uk
-fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
@@ -308,6 +307,7 @@ uzbeksociety@guild.bham.ac.uk
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 vents.reslife@guild.bham.ac.uk
+venuemanagers@guild.bham.ac.uk
 videogamesociety@guild.bham.ac.uk
 vietnamese@guild.bham.ac.uk
 vrsoc@guild.bham.ac.uk
