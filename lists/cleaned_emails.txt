@@ -4,10 +4,10 @@ a.sheridan@guild.bham.ac.uk
 aasoc@guild.bham.ac.uk
 abacus@guild.bham.ac.uk
 acappella@guild.bham.ac.uk
+acmcsoc@guild.bham.ac.uk
 acmsbirmingham@gmail.com
 acsbham@yahoo.co.uk
 activities@guild.bham.ac.uk
-afropologysoc@guild.bham.ac.uk
 ahlulbayt@guild.bham.ac.uk
 ahmadiyya@guild.bham.ac.uk
 ahmadiyyamuslimsoc@guild.bham.ac.uk
@@ -17,6 +17,7 @@ anatomy@guild.bham.ac.uk
 anime@guild.bham.ac.uk
 article19@guild.bham.ac.uk
 artsoc@guild.bham.ac.uk
+asoc@guild.bham.ac.uk
 astrosoc@guild.bham.ac.uk
 autism@guild.bham.ac.uk
 azerbaijanisociety@guild.bham.ac.uk
@@ -68,6 +69,7 @@ burntreasurer@guild.bham.ac.uk
 busag@guild.bham.ac.uk
 business@guild.bham.ac.uk
 bwams@contacts.bham.ac.uk
+bwpsoc@guild.bham.ac.uk
 campaigns@guild.bham.ac.uk
 canadian@guild.bham.ac.uk
 cardiosocbham@gmail.com
@@ -178,7 +180,7 @@ kocs@guild.bham.ac.uk
 koreansoc@guild.bham.ac.uk
 kurdsoc@guild.bham.ac.uk
 labour@guild.bham.ac.uk
-larp@guild.bham.ac.uk
+larp@society.guild.bham.ac.uk
 lassoc@guild.bham.ac.uk
 latamsociety@guild.bham.ac.uk
 latinodance@guild.bham.ac.uk
@@ -235,6 +237,7 @@ polefitness@guild.bham.ac.uk
 politics@guild.bham.ac.uk
 postgraduate@guild.bham.ac.uk
 powerlifting@guild.bham.ac.uk
+ppe@guild.bham.ac.uk
 president@guild.bham.ac.uk
 prs@birmingham.gov.uk
 psychologysoc@guild.bham.ac.uk
@@ -265,6 +268,7 @@ SouthAsianLawSociety@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 spsoc@guild.bham.ac.uk
 squash@guild.bham.ac.uk
+srilankan@guild.bham.ac.uk
 staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 startupsociety@guild.bham.ac.uk
@@ -299,6 +303,7 @@ ubmsmixedhockey@gmail.com
 ubmsrfc.chairman@gmail.com
 ukrainiansociety@guild.bham.ac.uk
 unicef@guild.bham.ac.uk
+uobbengsoc@gmail.com
 uobbloodmatters@gmail.com
 uobbugs@guild.bham.ac.uk
 uobmwfc@guild.bham.ac.uk
@@ -327,3 +332,4 @@ worklink@contacts.bham.ac.uk
 writersbloc@guild.bham.ac.uk
 yoga@guild.bham.ac.uk
 youngprofessionals@guild.bham.ac.uk
+ZumbaSociety@guild.bham.ac.uk
