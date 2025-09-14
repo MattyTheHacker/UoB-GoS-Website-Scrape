@@ -17,8 +17,7 @@ def scrape(site):
         for link in soup.find_all('a'):
             url = link.get('href')
             if url is None:
-                print("[ERROR] Url provided is none. This shouldn't happen...")
-                continue
+                pass
             if 'http' in url:
                 # make it so that only urls on the domain are scraped
                 if 'www.guildofstudents.com' in url:

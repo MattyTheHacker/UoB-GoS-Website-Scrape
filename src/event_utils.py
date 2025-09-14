@@ -27,8 +27,11 @@ def get_organisation_from_event(url):
     soup = BeautifulSoup(r.content, 'html.parser')
 
     # get the first h1
-    org_name = soup.find("h1").text.strip()
-
+    try:
+        org_name = soup.find("h1").text.strip()
+    except AttributeError:
+        print("[ERROR] Could not find organisation name for org ID: " + org_id)
+        org_name = "UNKNOWN_ORG_" + org_id
     return org_name
 
 def get_event_details(url):
