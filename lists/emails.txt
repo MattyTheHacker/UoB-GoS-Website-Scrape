@@ -111,6 +111,7 @@ https://www.guildofstudents.commailto:editor@redbrickonline.co.uk
 https://www.guildofstudents.commailto:education@guild.bham.ac.uk
 https://www.guildofstudents.commailto:eeesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:elal@guild.bham.ac.uk
+https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enactus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:endosoc@guild.bham.ac.uk
@@ -186,6 +187,7 @@ https://www.guildofstudents.commailto:larp@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:lassoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:latamsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:latinodance@guild.bham.ac.uk
+https://www.guildofstudents.commailto:law4nonlaw@guild.bham.ac.uk
 https://www.guildofstudents.commailto:lgbtq@guild.bham.ac.uk
 https://www.guildofstudents.commailto:links@guild.bham.ac.uk
 https://www.guildofstudents.commailto:liveart@guild.bham.ac.uk
@@ -201,6 +203,7 @@ https://www.guildofstudents.commailto:medahead@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medball@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medcheersociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsocdance@guild.bham.ac.uk
+https://www.guildofstudents.commailto:medsocmmasociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsocsimba@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsoctechteamsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medswim@guild.bham.ac.uk

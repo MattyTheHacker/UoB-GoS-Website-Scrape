@@ -111,6 +111,7 @@ editor@redbrickonline.co.uk
 education@guild.bham.ac.uk
 eeesociety@guild.bham.ac.uk
 elal@guild.bham.ac.uk
+elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
 enactus@guild.bham.ac.uk
 endosoc@guild.bham.ac.uk
@@ -184,6 +185,7 @@ larp@society.guild.bham.ac.uk
 lassoc@guild.bham.ac.uk
 latamsociety@guild.bham.ac.uk
 latinodance@guild.bham.ac.uk
+law4nonlaw@guild.bham.ac.uk
 lgbtq@guild.bham.ac.uk
 links@guild.bham.ac.uk
 liveart@guild.bham.ac.uk
@@ -199,6 +201,7 @@ medahead@guild.bham.ac.uk
 medball@guild.bham.ac.uk
 medcheersociety@guild.bham.ac.uk
 medsocdance@guild.bham.ac.uk
+medsocmmasociety@guild.bham.ac.uk
 medsocsimba@guild.bham.ac.uk
 medsoctechteamsociety@guild.bham.ac.uk
 medswim@guild.bham.ac.uk
