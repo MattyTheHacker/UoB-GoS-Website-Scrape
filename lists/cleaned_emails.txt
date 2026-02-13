@@ -12,9 +12,10 @@ ahlulbayt@guild.bham.ac.uk
 ahmadiyya@guild.bham.ac.uk
 ahmadiyyamuslimsoc@guild.bham.ac.uk
 algosoc@guild.bham.ac.uk
-amnesty@guild.bham.ac.uk
+amnestyinternational@society.guild.ac.uk
 anatomy@guild.bham.ac.uk
 anime@guild.bham.ac.uk
+arabsoc@guild.bham.ac.uk
 article19@guild.bham.ac.uk
 artsoc@guild.bham.ac.uk
 asoc@guild.bham.ac.uk
@@ -24,9 +25,11 @@ autism@guild.bham.ac.uk
 azerbaijanisociety@guild.bham.ac.uk
 bacas@guild.bham.ac.uk
 badfilm@guild.bham.ac.uk
+bahaisociety@guild.bham.ac.uk
 baking@guild.bham.ac.uk
 balkansociety@guild.bham.ac.uk
 ballroom@guild.bham.ac.uk
+BarbershopSinging@guild.bham.ac.uk
 batsoc@guild.bham.ac.uk
 beams@guild.bham.ac.uk
 beat@guild.bham.ac.uk
@@ -43,6 +46,7 @@ birmingham@sexpression.org.uk
 birminghamems@guild.bham.ac.uk
 birminghamhkpass@gmail.com
 birminghammedminds@gmail.com
+BlackExpressionCollective@guild.bham.ac.uk
 blss@guild.bham.ac.uk
 bmms@guild.bham.ac.uk
 book@guild.bham.ac.uk
@@ -78,7 +82,6 @@ canadian@guild.bham.ac.uk
 cardiosocbham@gmail.com
 cathsoc@guild.bham.ac.uk
 centrestaged@guild.bham.ac.uk
-chasingzero@guild.bham.ac.uk
 cheesesociety@guild.bham.ac.uk
 chess-club@guild.bham.ac.uk
 chinese-soc@guild.bham.ac.uk
@@ -141,7 +144,6 @@ friendsinternational@guild.bham.ac.uk
 friendsofnightline@guild.bham.ac.uk
 friendsofpalestine@guild.bham.ac.uk
 fringe@guild.bham.ac.uk
-fto@guild.bham.ac.uk
 gds@guild.bham.ac.uk
 general.bosociety@guild.bham.ac.uk
 german@guild.bham.ac.uk
@@ -166,9 +168,11 @@ hrsociety@guild.bham.ac.uk
 hrteam@guild.bham.ac.uk
 ibmzsociety@guild.bham.ac.uk
 iceskating@guild.bham.ac.uk
+ics@guild.bham.ac.uk
 imedbirmingham@gmail.com
 imsoc.ubms@outlook.com
 indiancultural@guild.bham.ac.uk
+indonesian@guild.bham.ac.uk
 infinity@guild.bham.ac.uk
 info@ubisoc.co.uk
 international@guild.bham.ac.uk
@@ -176,6 +180,7 @@ internationaldevelopment@guild.bham.ac.uk
 intervol@guild.bham.ac.uk
 investingforwomen@guild.bham.ac.uk
 iraqisociety@guild.bham.ac.uk
+isa@guild.bham.ac.uk
 israel@guild.bham.ac.uk
 italian@guild.bham.ac.uk
 j.lindsay@guild.bham.ac.uk
@@ -198,10 +203,12 @@ latamsociety@guild.bham.ac.uk
 latinodance@guild.bham.ac.uk
 law4nonlaw@guild.bham.ac.uk
 lgbtq@guild.bham.ac.uk
+lgbtqofficer@guild.bham.ac.uk
 links@guild.bham.ac.uk
 liveart@guild.bham.ac.uk
 livemusic@guild.bham.ac.uk
 mahjongsociety@guild.bham.ac.uk
+malayalee@guild.bham.ac.uk
 malaysia@guild.bham.ac.uk
 marketing.birmingham@uk.elsa.org
 marketingsociety@guild.bham.ac.uk
@@ -213,6 +220,7 @@ medball@guild.bham.ac.uk
 medcheersociety@guild.bham.ac.uk
 medsocdance@guild.bham.ac.uk
 medsocmmasociety@guild.bham.ac.uk
+medsocnephrology@guild.bham.ac.uk
 medsocsimba@guild.bham.ac.uk
 medsoctechteamsociety@guild.bham.ac.uk
 medsocvascular@guild.bham.ac.uk
@@ -228,6 +236,7 @@ msspine@guild.bham.ac.uk
 muaythaiboxing@guild.bham.ac.uk
 munsociety@society.guild.bham.ac.uk
 n.bailey@guild.bham.ac.uk
+naija@guild.bham.ac.uk
 navigators@guild.bham.ac.uk
 nepalese@guild.bham.ac.uk
 nerdsoc@guild.bham.ac.uk
@@ -237,6 +246,7 @@ nuclearandmaterialssociety@guild.bham.ac.uk
 nursing@guild.bham.ac.uk
 nursingnetballsoc@guild.bham.ac.uk
 openmicsociety@guild.bham.ac.uk
+orthodoxchristian@guild.bham.ac.uk
 ostem@guild.bham.ac.uk
 pakistan-soc@guild.bham.ac.uk
 panto@guild.bham.ac.uk
@@ -268,6 +278,7 @@ realale@guild.bham.ac.uk
 residencelife@guild.bham.ac.uk
 respiratorysociety@guild.bham.ac.uk
 rollerskate@guild.bham.ac.uk
+ronak@guild.bham.ac.uk
 roundnetsociety@guild.bham.ac.uk
 rugbybirds.bham@gmail.com
 russianspeaking@guild.bham.ac.uk
@@ -282,6 +293,8 @@ sikhsinlaw@guild.bham.ac.uk
 singapore-soc@guild.bham.ac.uk
 sitcom@guild.bham.ac.uk
 sobersocials@guild.bham.ac.uk
+solidaritee@guild.bham.ac.uk
+somali@guild.bham.ac.uk
 SouthAsianLawSociety@guild.bham.ac.uk
 sports@guild.bham.ac.uk
 spsoc@guild.bham.ac.uk
@@ -299,7 +312,6 @@ studentvoice@guild.bham.ac.uk
 sudanese@guild.bham.ac.uk
 surgsoc1900@gmail.com
 sustainabilityofficer@guild.bham.ac.uk
-systemsteam@guild.bham.ac.uk
 tabletennis@guild.bham.ac.uk
 tamil@guild.bham.ac.uk
 tcu@guild.bham.ac.uk
@@ -316,6 +328,7 @@ uafem@guild.bham.ac.uk
 ubcu@guild.bham.ac.uk
 ubmc@guild.bham.ac.uk
 ubmsarte@guild.bham.ac.uk
+ubmsbamsoc@gmail.com
 ubmsbasketball@outlook.com
 ubmsfc@guild.bham.ac.uk
 ubmsmixedhockey@gmail.com
@@ -328,6 +341,7 @@ uobbugs@guild.bham.ac.uk
 uobmwfc@guild.bham.ac.uk
 uoborthopaedicssoc@gmail.com
 uobpalliativemed@gmail.com
+uptonegirls@guild.bham.ac.uk
 uzbeksociety@guild.bham.ac.uk
 valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
@@ -343,6 +357,7 @@ welfare@guild.bham.ac.uk
 welsh@guild.bham.ac.uk
 witsoc@guild.bham.ac.uk
 wocsoc@guild.bham.ac.uk
+womenineconomics@guild.bham.ac.uk
 womeninfinance@guild.bham.ac.uk
 womeninlaw@guild.bham.ac.uk
 womeninmedicine@guild.bham.ac.uk
