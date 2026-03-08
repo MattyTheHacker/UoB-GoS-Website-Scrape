@@ -1,31 +1,88 @@
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/', 'title': 'Valefest 2025'}
+{'id': '11479', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11479/', 'title': 'Sports Night 28th Jan 2026'}
+{'id': '11480', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11480/', 'title': 'Sports Night 4th Feb 2026'}
+{'id': '11481', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11481/', 'title': 'Sports Night 11th Feb 2026'}
+{'id': '11483', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11483/', 'title': 'Sports Night 25th Feb 2026'}
+{'id': '11486', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/11486/', 'title': 'Sports Night 18th March 2026'}
 {'id': '12053', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12053/', 'title': 'ELAL Netball Memberships'}
 {'id': '12466', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12466/', 'title': 'Sorry, there was a problem'}
-{'id': '12468', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12468/', 'title': 'Sorry, there was a problem'}
-{'id': '12538', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12538/', 'title': 'Guild advice drop in'}
-{'id': '12539', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12539/', 'title': 'Guild advice drop in'}
 {'id': '12540', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12540/', 'title': 'Guild advice drop in'}
 {'id': '12541', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12541/', 'title': 'Guild advice drop in'}
 {'id': '12542', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12542/', 'title': 'Guild advice drop in'}
 {'id': '12543', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12543/', 'title': 'Guild advice drop in'}
-{'id': '12560', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12560/', 'title': 'Sorry, there was a problem'}
-{'id': '12645', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12645/', 'title': 'Sorry, there was a problem'}
-{'id': '12653', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12653/', 'title': 'Sorry, there was a problem'}
-{'id': '12657', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12657/', 'title': 'Student Login'}
-{'id': '12664', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12664/', 'title': 'Sorry, there was a problem'}
-{'id': '12666', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12666/', 'title': 'Sorry, there was a problem'}
+{'id': '12544', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12544/', 'title': 'Guild advice drop in'}
+{'id': '12545', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12545/', 'title': 'Guild advice drop in'}
+{'id': '12546', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12546/', 'title': 'Guild advice drop in'}
+{'id': '12547', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12547/', 'title': 'Guild advice drop in'}
+{'id': '12548', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12548/', 'title': 'Guild advice drop in'}
 {'id': '12669', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12669/', 'title': 'Guild Awards 2026'}
-{'id': '12712', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12712/', 'title': 'Welcome Back FAB'}
-{'id': '12714', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12714/', 'title': 'Global Board Game Cafe'}
 {'id': '12715', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12715/', 'title': 'Global Board Game Cafe'}
 {'id': '12716', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12716/', 'title': 'Global Board Game Cafe'}
 {'id': '12717', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12717/', 'title': 'Global Board Game Cafe'}
 {'id': '12718', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12718/', 'title': 'Global Board Game Cafe'}
-{'id': '12723', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12723/', 'title': 'Sorry, there was a problem'}
-{'id': '12725', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12725/', 'title': 'Sorry, there was a problem'}
+{'id': '12720', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12720/', 'title': 'Sorry, there was a problem'}
 {'id': '12743', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12743/', 'title': 'MathSoc Spring Ball 2026'}
-{'event_id': '12591', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12591/', 'title': 'Kickboxing Tuesday session 13/01/2026'}
-{'event_id': '12592', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12592/', 'title': 'Kickboxing Tuesday session 20/01/2026'}
+{'id': '12785', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12785/', 'title': 'Valentines FAB'}
+{'id': '12786', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12786/', 'title': 'St Patricks FAB'}
+{'id': '12804', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12804/', 'title': 'Sorry, there was a problem'}
+{'id': '12822', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12822/', 'title': 'Community Pantry'}
+{'id': '12832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12832/', 'title': 'Sorry, there was a problem'}
+{'id': '12836', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12836/', 'title': 'Sorry, there was a problem'}
+{'id': '12838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12838/', 'title': 'Sorry, there was a problem'}
+{'id': '12839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12839/', 'title': 'Housemate Finder (Pritchatts Park Village)'}
+{'id': '12852', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12852/', 'title': 'Drag Disco'}
+{'id': '12885', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12885/', 'title': 'Talk to Max - Officer Drop In'}
+{'id': '12897', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12897/', 'title': 'BACAS Run Club Memberships'}
+{'id': '12899', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12899/', 'title': 'Candidate Photo Opportunity'}
+{'id': '12900', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12900/', 'title': 'Candidate Photo Opportunity'}
+{'id': '12901', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12901/', 'title': 'Candidate Photo Opportunity'}
+{'id': '12917', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12917/', 'title': 'Coordinator Catch Up'}
+{'id': '12918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12918/', 'title': 'Coordinator Catch Up'}
+{'id': '12942', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12942/', 'title': 'Sorry, there was a problem'}
+{'id': '12952', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12952/', 'title': 'Becoming an Officer: Guild Elections'}
+{'id': '12953', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12953/', 'title': 'Becoming an Officer: Guild Elections'}
+{'id': '12954', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12954/', 'title': 'Becoming an Officer: Guild Elections'}
+{'id': '12955', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12955/', 'title': 'Community Breakfast - Elections Drop In'}
+{'id': '12956', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12956/', 'title': 'Postgraduate & International Student Forum'}
+{'id': '12957', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12957/', 'title': 'BioSoc Sports Memberships 25-26 Semester 2'}
+{'id': '12958', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12958/', 'title': 'Sorry, there was a problem'}
+{'id': '12959', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12959/', 'title': 'Sorry, there was a problem'}
+{'id': '12960', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12960/', 'title': 'Sorry, there was a problem'}
+{'id': '12961', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12961/', 'title': 'Sorry, there was a problem'}
+{'id': '12962', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12962/', 'title': 'Sorry, there was a problem'}
+{'id': '12963', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12963/', 'title': 'Sorry, there was a problem'}
+{'id': '12964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12964/', 'title': 'Sorry, there was a problem'}
+{'id': '12965', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12965/', 'title': 'Beyond Boys and Girls: How gender Shapes Sexual Behaviour'}
+{'id': '12966', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12966/', 'title': 'Sorry, there was a problem'}
+{'id': '12967', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12967/', 'title': 'Sorry, there was a problem'}
+{'id': '12968', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12968/', 'title': 'Sorry, there was a problem'}
+{'id': '12969', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12969/', 'title': 'Sorry, there was a problem'}
+{'id': '12970', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12970/', 'title': 'Sorry, there was a problem'}
+{'id': '13035', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13035/', 'title': 'Sorry, there was a problem'}
+{'id': '13036', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13036/', 'title': 'Come As You Are: LGBTQ+ Student Social'}
+{'id': '13055', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13055/', 'title': 'Sorry, there was a problem'}
+{'id': '13057', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13057/', 'title': 'Sorry, there was a problem'}
+{'id': '13058', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13058/', 'title': 'Sorry, there was a problem'}
+{'id': '13059', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13059/', 'title': 'Sorry, there was a problem'}
+{'id': '13060', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13060/', 'title': 'Sports Night Costume Swap Shop'}
+{'id': '13061', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13061/', 'title': 'Sorry, there was a problem'}
+{'id': '13064', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13064/', 'title': 'How to Break into Investment Banking - Sameer Merchant'}
+{'id': '13086', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13086/', 'title': 'Sorry, there was a problem'}
+{'id': '13087', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13087/', 'title': 'Sorry, there was a problem'}
+{'id': '13096', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13096/', 'title': 'Community Breakfast'}
+{'id': '13097', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13097/', 'title': 'Community Breakfast'}
+{'id': '13098', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13098/', 'title': 'Community Breakfast'}
+{'id': '13099', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13099/', 'title': 'Community Breakfast'}
+{'id': '13100', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13100/', 'title': 'Community Breakfast'}
+{'id': '13101', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13101/', 'title': 'Community Breakfast'}
+{'id': '13102', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13102/', 'title': 'Community Breakfast'}
+{'id': '13103', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13103/', 'title': 'Sudan, Remember Us Film Screening'}
+{'id': '13105', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13105/', 'title': 'Lego Flowers'}
+{'id': '13114', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13114/', 'title': 'Sorry, there was a problem'}
+{'id': '13118', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13118/', 'title': 'Take Me Out'}
+{'id': '13119', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13119/', 'title': 'Equal In STEM conference'}
+{'id': '13120', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13120/', 'title': 'Sorry, there was a problem'}
+{'id': '13121', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13121/', 'title': 'Sorry, there was a problem'}
 {'event_id': '12593', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12593/', 'title': 'Kickboxing Tuesday session 27/01/2026'}
 {'event_id': '12594', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12594/', 'title': 'Kickboxing Tuesday session 03/02/2026'}
 {'event_id': '12595', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12595/', 'title': 'Kickboxing Tuesday session 10/02/2026'}
@@ -35,8 +92,6 @@
 {'event_id': '12599', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12599/', 'title': 'Kickboxing Tuesday session 10/03/2026'}
 {'event_id': '12600', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12600/', 'title': 'Kickboxing Tuesday session 17/03/2026'}
 {'event_id': '12601', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12601/', 'title': 'Kickboxing Tuesday session 24/03/2026'}
-{'event_id': '12602', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12602/', 'title': 'Kickboxing Thursday session 15/01/2026'}
-{'event_id': '12603', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12603/', 'title': 'Kickboxing Thursday session 22/01/2026'}
 {'event_id': '12604', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12604/', 'title': 'Kickboxing Thursday session 29/01/2026'}
 {'event_id': '12605', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12605/', 'title': 'Kickboxing Thursday session 05/02/2026'}
 {'event_id': '12606', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12606/', 'title': 'Kickboxing Thursday session 12/02/2026'}
@@ -46,8 +101,6 @@
 {'event_id': '12610', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12610/', 'title': 'Kickboxing Thursday session 12/03/2026'}
 {'event_id': '12611', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12611/', 'title': 'Kickboxing Thursday session 19/03/2026'}
 {'event_id': '12612', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12612/', 'title': 'Kickboxing Thursday session 26/03/2026'}
-{'event_id': '12624', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12624/', 'title': 'Kickboxing Friday session 16/01/2026'}
-{'event_id': '12625', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12625/', 'title': 'Kickboxing Friday session 23/01/2026'}
 {'event_id': '12626', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12626/', 'title': 'Kickboxing Friday session 30/01/2026'}
 {'event_id': '12627', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12627/', 'title': 'Kickboxing Friday session 06/02/2026'}
 {'event_id': '12628', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12628/', 'title': 'Kickboxing Friday session 13/02/2026'}
@@ -57,38 +110,91 @@
 {'event_id': '12632', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12632/', 'title': 'Kickboxing Friday session 13/03/2026'}
 {'event_id': '12633', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12633/', 'title': 'Kickboxing Friday session 20/03/2026'}
 {'event_id': '12634', 'organisation_id': '10948', 'organisation': 'Kickboxing', 'url': 'https://www.guildofstudents.com/events/10948/12634/', 'title': 'Kickboxing Friday session 27/03/2026'}
-{'event_id': '12451', 'organisation_id': '11006', 'organisation': 'PPE Society', 'url': 'https://www.guildofstudents.com/events/11006/12451/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12518', 'organisation_id': '11006', 'organisation': 'PPE Society', 'url': 'https://www.guildofstudents.com/events/11006/12518/', 'title': 'Sorry, there was a problem'}
 {'event_id': '12751', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/12751/', 'title': 'LANS Sport Semester 2 Memberships'}
+{'event_id': '13005', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/13005/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13056', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/13056/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13088', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/13088/', 'title': 'Cadbury World Trip'}
+{'event_id': '13122', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/13122/', 'title': 'Chance and Counters'}
+{'event_id': '13123', 'organisation_id': '11302', 'organisation': 'Liberal Arts & Natural Sciences', 'url': 'https://www.guildofstudents.com/events/11302/13123/', 'title': '80s Karaoke Night'}
+{'event_id': '13126', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/13126/', 'title': 'March Yoga Retreat 2026!'}
 {'event_id': '12083', 'organisation_id': '12540', 'organisation': 'Powerlifting', 'url': 'https://www.guildofstudents.com/events/12540/12083/', 'title': 'Pay As You Go'}
+{'event_id': '12809', 'organisation_id': '12540', 'organisation': 'Powerlifting', 'url': 'https://www.guildofstudents.com/events/12540/12809/', 'title': 'Semester Two Bolt-On'}
+{'event_id': '12818', 'organisation_id': '12540', 'organisation': 'Powerlifting', 'url': 'https://www.guildofstudents.com/events/12540/12818/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12769', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/12769/', 'title': 'Topics & Tapas | Women in Politics'}
+{'event_id': '12936', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/12936/', 'title': 'Galentines Brunch | Women in Politics'}
+{'event_id': '12937', 'organisation_id': '13206', 'organisation': 'Women In Politics', 'url': 'https://www.guildofstudents.com/events/13206/12937/', 'title': 'International Women’s Day Ball | Women in Politics'}
 {'event_id': '11991', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/11991/', 'title': 'History Netball Memberships'}
 {'event_id': '12005', 'organisation_id': '20372', 'organisation': 'History', 'url': 'https://www.guildofstudents.com/events/20372/12005/', 'title': 'AFC History Memberships'}
-{'event_id': '12737', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/12737/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12492', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/12492/', 'title': 'Trip to EU commission'}
-{'event_id': '12640', 'organisation_id': '26067', 'organisation': 'RailSoc', 'url': 'https://www.guildofstudents.com/events/26067/12640/', 'title': 'Ffestiniog Railway Volunteering Trip 2026'}
+{'event_id': '12765', 'organisation_id': '20913', 'organisation': 'Sober Socials', 'url': 'https://www.guildofstudents.com/events/20913/12765/', 'title': 'Sober Socials 10 Year Anniversary Event'}
+{'event_id': '12859', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/12859/', 'title': 'HartSoc X ArtSoc: IKON gallery trip'}
+{'event_id': '12860', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/12860/', 'title': 'Digbeth First Friday'}
+{'event_id': '12862', 'organisation_id': '21477', 'organisation': 'History of Art', 'url': 'https://www.guildofstudents.com/events/21477/12862/', 'title': 'Digbeth First Friday'}
+{'event_id': '13067', 'organisation_id': '21693', 'organisation': 'Somali', 'url': 'https://www.guildofstudents.com/events/21693/13067/', 'title': 'Galentines Day'}
+{'event_id': '12991', 'organisation_id': '22106', 'organisation': 'East African', 'url': 'https://www.guildofstudents.com/events/22106/12991/', 'title': 'EASOC Valentines'}
+{'event_id': '13070', 'organisation_id': '22106', 'organisation': 'East African', 'url': 'https://www.guildofstudents.com/events/22106/13070/', 'title': 'Unity Cup'}
+{'event_id': '13023', 'organisation_id': '22470', 'organisation': 'BEDsoc', 'url': 'https://www.guildofstudents.com/events/22470/13023/', 'title': 'bottomless brunch'}
+{'event_id': '12768', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/12768/', 'title': '🏐Campus League Netball 🏐 - Semester 2'}
+{'event_id': '12873', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/12873/', 'title': 'Easter Special'}
+{'event_id': '12924', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/12924/', 'title': 'Bowling'}
+{'event_id': '13048', 'organisation_id': '22575', 'organisation': 'Benchball', 'url': 'https://www.guildofstudents.com/events/22575/13048/', 'title': 'Pottery Painting'}
+{'event_id': '13062', 'organisation_id': '22877', 'organisation': 'Mixed Martial Arts', 'url': 'https://www.guildofstudents.com/events/22877/13062/', 'title': 'UoB MMA Fight Night 2026'}
+{'event_id': '12877', 'organisation_id': '23405', 'organisation': 'Criminology', 'url': 'https://www.guildofstudents.com/events/23405/12877/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12492', 'organisation_id': '23447', 'organisation': 'International Development Society', 'url': 'https://www.guildofstudents.com/events/23447/12492/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13001', 'organisation_id': '23607', 'organisation': 'LARP', 'url': 'https://www.guildofstudents.com/events/23607/13001/', 'title': 'Karaoke Social'}
+{'event_id': '12987', 'organisation_id': '23676', 'organisation': 'Caribbean Union', 'url': 'https://www.guildofstudents.com/events/23676/12987/', 'title': "TCU's Paint and Sip"}
+{'event_id': '12997', 'organisation_id': '25595', 'organisation': 'Ghanaian', 'url': 'https://www.guildofstudents.com/events/25595/12997/', 'title': 'Ghanaian Sip & Paint'}
+{'event_id': '12998', 'organisation_id': '25595', 'organisation': 'Ghanaian', 'url': 'https://www.guildofstudents.com/events/25595/12998/', 'title': 'Girls Night'}
+{'event_id': '12907', 'organisation_id': '26488', 'organisation': 'Marketing', 'url': 'https://www.guildofstudents.com/events/26488/12907/', 'title': 'Sip & Paint'}
+{'event_id': '12867', 'organisation_id': '26553', 'organisation': 'ELSA', 'url': 'https://www.guildofstudents.com/events/26553/12867/', 'title': 'Helga Pedersen Moot Court Competition 14th edition Regional Round Birmingham'}
+{'event_id': '13045', 'organisation_id': '34953', 'organisation': 'African Caribbean Medical Society Birmingham (ACMS)', 'url': 'https://www.guildofstudents.com/events/34953/13045/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12896', 'organisation_id': '35033', 'organisation': 'Birmingham University Cardiovascular Society', 'url': 'https://www.guildofstudents.com/events/35033/12896/', 'title': 'UoB CardioSoc International Conference'}
 {'event_id': '11728', 'organisation_id': '35153', 'organisation': 'Hockey', 'url': 'https://www.guildofstudents.com/events/35153/11728/', 'title': 'Campus League'}
-{'event_id': '11911', 'organisation_id': '35257', 'organisation': 'MedSoc Dance', 'url': 'https://www.guildofstudents.com/events/35257/11911/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13077', 'organisation_id': '35169', 'organisation': 'Internal Medicine Society (BIMS)', 'url': 'https://www.guildofstudents.com/events/35169/13077/', 'title': 'Thinking Internally - A National Internal Medicine Conference'}
+{'event_id': '11391', 'organisation_id': '35273', 'organisation': 'Medsoc Men’s Football', 'url': 'https://www.guildofstudents.com/events/35273/11391/', 'title': "UBMSFC Old Boys' Dinner"}
+{'event_id': '13053', 'organisation_id': '35273', 'organisation': 'Medsoc Men’s Football', 'url': 'https://www.guildofstudents.com/events/35273/13053/', 'title': 'Day Nams'}
 {'event_id': '12186', 'organisation_id': '35289', 'organisation': 'UBMS Netball', 'url': 'https://www.guildofstudents.com/events/35289/12186/', 'title': 'UBMS Netball International Tour'}
-{'event_id': '12531', 'organisation_id': '35321', 'organisation': 'Ophthalmology Society', 'url': 'https://www.guildofstudents.com/events/35321/12531/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12756', 'organisation_id': '35425', 'organisation': 'University of Birmingham Surgical Society', 'url': 'https://www.guildofstudents.com/events/35425/12756/', 'title': 'SurgSoc Anatomy Away Day'}
+{'event_id': '12926', 'organisation_id': '35289', 'organisation': 'UBMS Netball', 'url': 'https://www.guildofstudents.com/events/35289/12926/', 'title': 'NAMs final venue'}
+{'event_id': '12756', 'organisation_id': '35425', 'organisation': 'University of Birmingham Surgical Society', 'url': 'https://www.guildofstudents.com/events/35425/12756/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13017', 'organisation_id': '35425', 'organisation': 'University of Birmingham Surgical Society', 'url': 'https://www.guildofstudents.com/events/35425/13017/', 'title': 'Advanced Surgical Skills Workshop'}
+{'event_id': '13112', 'organisation_id': '35425', 'organisation': 'University of Birmingham Surgical Society', 'url': 'https://www.guildofstudents.com/events/35425/13112/', 'title': 'Advanced Surgical Skills Workshop 1'}
+{'event_id': '13113', 'organisation_id': '35425', 'organisation': 'University of Birmingham Surgical Society', 'url': 'https://www.guildofstudents.com/events/35425/13113/', 'title': 'Advanced Surgical Skills Workshop 2'}
 {'event_id': '12719', 'organisation_id': '35449', 'organisation': 'Teddy Bears Hospital', 'url': 'https://www.guildofstudents.com/events/35449/12719/', 'title': 'TBH Annual Conference'}
-{'event_id': '12130', 'organisation_id': '35779', 'organisation': 'Dental Society (BUDSS)', 'url': 'https://www.guildofstudents.com/events/35779/12130/', 'title': 'Dental Ball 2026'}
+{'event_id': '13000', 'organisation_id': '35465', 'organisation': 'Trauma and Orthopaedics Society', 'url': 'https://www.guildofstudents.com/events/35465/13000/', 'title': 'Trauma & Orthopaedic Society Conference Ticket Sale'}
+{'event_id': '12903', 'organisation_id': '35481', 'organisation': 'Tutti (MedSoc Music Society)', 'url': 'https://www.guildofstudents.com/events/35481/12903/', 'title': 'Big Band Easter Concert'}
+{'event_id': '13004', 'organisation_id': '35481', 'organisation': 'Tutti (MedSoc Music Society)', 'url': 'https://www.guildofstudents.com/events/35481/13004/', 'title': 'Tutti Easter Concert 2026'}
 {'event_id': '12721', 'organisation_id': '36861', 'organisation': 'Final Year Dinner', 'url': 'https://www.guildofstudents.com/events/36861/12721/', 'title': 'Post PSA Party'}
-{'event_id': '12749', 'organisation_id': '36861', 'organisation': 'Final Year Dinner', 'url': 'https://www.guildofstudents.com/events/36861/12749/', 'title': 'MedSoc x FYD End of Exams Party'}
+{'event_id': '13030', 'organisation_id': '36861', 'organisation': 'Final Year Dinner', 'url': 'https://www.guildofstudents.com/events/36861/13030/', 'title': 'FYD Finals Party !'}
+{'event_id': '13022', 'organisation_id': '36917', 'organisation': 'Squash', 'url': 'https://www.guildofstudents.com/events/36917/13022/', 'title': 'Birmingham NAMS tournament'}
 {'event_id': '12673', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/12673/', 'title': 'Galentines Brunch'}
+{'event_id': '12982', 'organisation_id': '39633', 'organisation': 'Hookers and Stitchers', 'url': 'https://www.guildofstudents.com/events/39633/12982/', 'title': 'Sorry, there was a problem'}
 {'event_id': '12254', 'organisation_id': '40505', 'organisation': 'Sorry, there was a problem', 'url': 'https://www.guildofstudents.com/events/40505/12254/', 'title': 'Medsoc Rugby Dinner 2026'}
-{'event_id': '12660', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12660/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12662', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12662/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12663', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12663/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13032', 'organisation_id': '41025', 'organisation': 'LATAM (Latino American)', 'url': 'https://www.guildofstudents.com/events/41025/13032/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13039', 'organisation_id': '41025', 'organisation': 'LATAM (Latino American)', 'url': 'https://www.guildofstudents.com/events/41025/13039/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12795', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12795/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12796', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12796/', 'title': 'Umbrella Sexual Health Services Pop Up'}
+{'event_id': '12797', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12797/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12798', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12798/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12945', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12945/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12946', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12946/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12947', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12947/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12948', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12948/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12949', 'organisation_id': '41190', 'organisation': 'UNKNOWN_ORG_41190', 'url': 'https://www.guildofstudents.com/events/41190/12949/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13071', 'organisation_id': '41472', 'organisation': 'Accounting and Finance', 'url': 'https://www.guildofstudents.com/events/41472/13071/', 'title': 'AnF Meet and Greet'}
+{'event_id': '12865', 'organisation_id': '41482', 'organisation': 'Fintech', 'url': 'https://www.guildofstudents.com/events/41482/12865/', 'title': 'Introduction to Blockchain'}
 {'event_id': '12395', 'organisation_id': '41701', 'organisation': 'DJ', 'url': 'https://www.guildofstudents.com/events/41701/12395/', 'title': 'IWD'}
+{'event_id': '12892', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/12892/', 'title': 'Follow-Along Henna Workshop'}
+{'event_id': '12931', 'organisation_id': '42040', 'organisation': 'Henna Society', 'url': 'https://www.guildofstudents.com/events/42040/12931/', 'title': 'Henna and Hangout'}
+{'event_id': '11233', 'organisation_id': '43309', 'organisation': 'Model United Nations', 'url': 'https://www.guildofstudents.com/events/43309/11233/', 'title': 'BrumMUN 2026'}
 {'event_id': '11596', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/11596/', 'title': 'MechSoc Campus League - Memberships  ⚽️⚙️'}
+{'event_id': '12659', 'organisation_id': '51180', 'organisation': 'Mechanical Engineering', 'url': 'https://www.guildofstudents.com/events/51180/12659/', 'title': 'Engineering Summer Ball 2026'}
+{'event_id': '13107', 'organisation_id': '52018', 'organisation': 'Birmingham University Plastic, Reconstructive and Aesthetics Society (BUPRAS)', 'url': 'https://www.guildofstudents.com/events/52018/13107/', 'title': 'BUPRAS: Be Ready for Surgery Series Workshop 1'}
+{'event_id': '13108', 'organisation_id': '52018', 'organisation': 'Birmingham University Plastic, Reconstructive and Aesthetics Society (BUPRAS)', 'url': 'https://www.guildofstudents.com/events/52018/13108/', 'title': 'BUPRAS: Be Ready for Surgery Series Workshop 2'}
+{'event_id': '13109', 'organisation_id': '52018', 'organisation': 'Birmingham University Plastic, Reconstructive and Aesthetics Society (BUPRAS)', 'url': 'https://www.guildofstudents.com/events/52018/13109/', 'title': 'BUPRAS: Be Ready for Surgery Series Workshop 3'}
+{'event_id': '13002', 'organisation_id': '52306', 'organisation': 'Just Love UoB', 'url': 'https://www.guildofstudents.com/events/52306/13002/', 'title': 'Social Action Fair'}
 {'event_id': '12724', 'organisation_id': '52469', 'organisation': 'MedBall', 'url': 'https://www.guildofstudents.com/events/52469/12724/', 'title': 'MedBall'}
 {'event_id': '12750', 'organisation_id': '52984', 'organisation': 'South Asian Law Society', 'url': 'https://www.guildofstudents.com/events/52984/12750/', 'title': "SALS and BengSoc Paint n' Sip"}
-{'event_id': '12446', 'organisation_id': '53134', 'organisation': 'Mahjong', 'url': 'https://www.guildofstudents.com/events/53134/12446/', 'title': 'mahjong session'}
-{'event_id': '12196', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12196/', 'title': 'Pickleball session'}
-{'event_id': '12197', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12197/', 'title': 'Pickleball session'}
-{'event_id': '12198', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12198/', 'title': 'Pickleball session'}
-{'event_id': '12199', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12199/', 'title': 'Pickleball session'}
+{'event_id': '13066', 'organisation_id': '53055', 'organisation': 'Commercial Law', 'url': 'https://www.guildofstudents.com/events/53055/13066/', 'title': 'Paddle social'}
+{'event_id': '13125', 'organisation_id': '53055', 'organisation': 'Commercial Law', 'url': 'https://www.guildofstudents.com/events/53055/13125/', 'title': 'Paddle Social'}
 {'event_id': '12200', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12200/', 'title': 'Pickleball session'}
 {'event_id': '12201', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12201/', 'title': 'Pickleball session'}
 {'event_id': '12202', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12202/', 'title': 'Pickleball session'}
@@ -97,10 +203,6 @@
 {'event_id': '12205', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12205/', 'title': 'Pickleball session'}
 {'event_id': '12206', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12206/', 'title': 'Pickleball session'}
 {'event_id': '12207', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12207/', 'title': 'Pickleball session'}
-{'event_id': '12216', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12216/', 'title': 'Pickleball session'}
-{'event_id': '12217', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12217/', 'title': 'Pickleball session'}
-{'event_id': '12218', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12218/', 'title': 'Pickleball session'}
-{'event_id': '12219', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12219/', 'title': 'Pickleball session'}
 {'event_id': '12220', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12220/', 'title': 'Pickleball session'}
 {'event_id': '12221', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12221/', 'title': 'Pickleball session'}
 {'event_id': '12222', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12222/', 'title': 'Pickleball session'}
@@ -110,11 +212,6 @@
 {'event_id': '12226', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12226/', 'title': 'Pickleball session'}
 {'event_id': '12227', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12227/', 'title': 'Pickleball session'}
 {'event_id': '12228', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12228/', 'title': 'Pickleball session'}
-{'event_id': '12237', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12237/', 'title': 'Pickleball sessions'}
-{'event_id': '12238', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12238/', 'title': 'Pickleball sessions'}
-{'event_id': '12239', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12239/', 'title': 'Pickleball sessions'}
-{'event_id': '12240', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12240/', 'title': 'Pickleball sessions'}
-{'event_id': '12241', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12241/', 'title': 'Sorry, there was a problem'}
 {'event_id': '12242', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12242/', 'title': 'Pickleball sessions'}
 {'event_id': '12243', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12243/', 'title': 'Pickleball sessions'}
 {'event_id': '12244', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12244/', 'title': 'Pickleball sessions'}
@@ -123,27 +220,86 @@
 {'event_id': '12247', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12247/', 'title': 'Pickleball sessions'}
 {'event_id': '12248', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12248/', 'title': 'Pickleball sessions'}
 {'event_id': '12249', 'organisation_id': '53164', 'organisation': 'Pickleball', 'url': 'https://www.guildofstudents.com/events/53164/12249/', 'title': 'Pickleball sessions'}
-{'event_id': '12739', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/12739/', 'title': 'Vision Board Night'}
+{'event_id': '13015', 'organisation_id': '53572', 'organisation': 'Women In Tech', 'url': 'https://www.guildofstudents.com/events/53572/13015/', 'title': "International Women's Day Panel Event"}
+{'event_id': '13104', 'organisation_id': '53604', 'organisation': 'Sip and Paint', 'url': 'https://www.guildofstudents.com/events/53604/13104/', 'title': 'Valentines Sip and Paint!'}
+{'event_id': '13090', 'organisation_id': '53651', 'organisation': 'Aerospace Engineering', 'url': 'https://www.guildofstudents.com/events/53651/13090/', 'title': 'STAMINA Bar Crawl'}
+{'event_id': '13079', 'organisation_id': '53721', 'organisation': 'Postgraduate Community', 'url': 'https://www.guildofstudents.com/events/53721/13079/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12934', 'organisation_id': '53760', 'organisation': 'Consulting Society', 'url': 'https://www.guildofstudents.com/events/53760/12934/', 'title': 'Games Night'}
+{'event_id': '12916', 'organisation_id': '54070', 'organisation': 'SolidariTee', 'url': 'https://www.guildofstudents.com/events/54070/12916/', 'title': 'Bake Sale and Bread Eating Competition'}
+{'event_id': '12973', 'organisation_id': '54343', 'organisation': 'Black Voices', 'url': 'https://www.guildofstudents.com/events/54343/12973/', 'title': 'Tell It Like It Is'}
+{'event_id': '13076', 'organisation_id': '54408', 'organisation': 'ForBlackBoys', 'url': 'https://www.guildofstudents.com/events/54408/13076/', 'title': 'Reconnect'}
+{'event_id': '12722', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/12722/', 'title': 'ACS Ball'}
 {'event_id': '12740', 'organisation_id': '6059', 'organisation': 'African & Caribbean', 'url': 'https://www.guildofstudents.com/events/6059/12740/', 'title': 'Boys Night'}
 {'event_id': '12744', 'organisation_id': '6115', 'organisation': 'Anime & Manga', 'url': 'https://www.guildofstudents.com/events/6115/12744/', 'title': 'J-Cafe'}
+{'event_id': '12979', 'organisation_id': '6123', 'organisation': 'Arab', 'url': 'https://www.guildofstudents.com/events/6123/12979/', 'title': 'Debate Night'}
+{'event_id': '12789', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/12789/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12790', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/12790/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12866', 'organisation_id': '6187', 'organisation': 'BALADS', 'url': 'https://www.guildofstudents.com/events/6187/12866/', 'title': 'Practice Pass Spring 2026'}
+{'event_id': '12816', 'organisation_id': '6339', 'organisation': 'Brumski & Board', 'url': 'https://www.guildofstudents.com/events/6339/12816/', 'title': 'Extreme Sports Ball'}
+{'event_id': '12988', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/12988/', 'title': 'Winterbourne Walking Meditation'}
 {'event_id': '12394', 'organisation_id': '6395', 'organisation': 'Business', 'url': 'https://www.guildofstudents.com/events/6395/12394/', 'title': 'Business Sport Memberships'}
+{'event_id': '12930', 'organisation_id': '6395', 'organisation': 'Business', 'url': 'https://www.guildofstudents.com/events/6395/12930/', 'title': 'Business Bar Crawl - Jan 2026'}
+{'event_id': '12983', 'organisation_id': '6419', 'organisation': 'Catholic', 'url': 'https://www.guildofstudents.com/events/6419/12983/', 'title': 'Sorry, there was a problem'}
 {'event_id': '12460', 'organisation_id': '6467', 'organisation': 'Civil Engineering', 'url': 'https://www.guildofstudents.com/events/6467/12460/', 'title': 'CivSoc Campus League'}
-{'event_id': '12759', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/12759/', 'title': 'Happy New Cheers! (Late Session)'}
-{'event_id': '12760', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/12760/', 'title': 'Happy New Cheers! (Early Session)'}
+{'event_id': '12971', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/12971/', 'title': 'Single, Taken or Stirred - A Cocktail Society Event (Late Session)'}
+{'event_id': '12972', 'organisation_id': '6475', 'organisation': 'Cocktail', 'url': 'https://www.guildofstudents.com/events/6475/12972/', 'title': 'Single, Taken or Stirred - A Cocktail Society Event (Early Session)'}
+{'event_id': '12815', 'organisation_id': '6499', 'organisation': 'Conservation Volunteers', 'url': 'https://www.guildofstudents.com/events/6499/12815/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12442', 'organisation_id': '6507', 'organisation': 'Conservatives', 'url': 'https://www.guildofstudents.com/events/6507/12442/', 'title': 'Student Login'}
+{'event_id': '13029', 'organisation_id': '6523', 'organisation': 'Craft', 'url': 'https://www.guildofstudents.com/events/6523/13029/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12107', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/12107/', 'title': 'CSS x oSTEM go to Bletchley Park 2026'}
+{'event_id': '12906', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/12906/', 'title': 'CSS Bar Crawl'}
+{'event_id': '12923', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/12923/', 'title': 'CSS Ball 2026'}
+{'event_id': '13072', 'organisation_id': '6531', 'organisation': 'Computer Science Society (CSS)', 'url': 'https://www.guildofstudents.com/events/6531/13072/', 'title': 'CSS Board Games Night'}
+{'event_id': '12096', 'organisation_id': '6547', 'organisation': 'DCL', 'url': 'https://www.guildofstudents.com/events/6547/12096/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12846', 'organisation_id': '6587', 'organisation': 'Economics Society', 'url': 'https://www.guildofstudents.com/events/6587/12846/', 'title': 'Football Membership'}
+{'event_id': '12847', 'organisation_id': '6587', 'organisation': 'Economics Society', 'url': 'https://www.guildofstudents.com/events/6587/12847/', 'title': 'Netball Membership'}
+{'event_id': '12848', 'organisation_id': '6587', 'organisation': 'Economics Society', 'url': 'https://www.guildofstudents.com/events/6587/12848/', 'title': 'Hockey Membersip'}
+{'event_id': '12993', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/12993/', 'title': 'Upstaged Showcase - Thursday'}
+{'event_id': '12994', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/12994/', 'title': 'Upstaged Showcase - Friday'}
+{'event_id': '12995', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/12995/', 'title': 'Upstaged Showcase - Saturday Matinee'}
+{'event_id': '12996', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/12996/', 'title': 'Upstaged Showcase - Saturday Evening'}
+{'event_id': '13009', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/13009/', 'title': 'Jesus Christ Superstar - Wednesday'}
+{'event_id': '13010', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/13010/', 'title': 'Jesus Christ Superstar - Thursday'}
+{'event_id': '13011', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/13011/', 'title': 'Jesus Christ Superstar - Friday'}
+{'event_id': '13012', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/13012/', 'title': 'Jesus Christ Superstar - Saturday Matinee'}
+{'event_id': '13013', 'organisation_id': '6691', 'organisation': 'Guild Musical Theatre Group (GMTG)', 'url': 'https://www.guildofstudents.com/events/6691/13013/', 'title': 'Jesus Christ Superstar - Saturday Evening'}
+{'event_id': '12841', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/12841/', 'title': 'Galentines'}
+{'event_id': '12842', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/12842/', 'title': 'Maha Shivaratri Puja'}
+{'event_id': '12981', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/12981/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13094', 'organisation_id': '6739', 'organisation': 'Hindu', 'url': 'https://www.guildofstudents.com/events/6739/13094/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12938', 'organisation_id': '6843', 'organisation': "International Students' Association", 'url': 'https://www.guildofstudents.com/events/6843/12938/', 'title': 'Sorry, there was a problem'}
 {'event_id': '12713', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/12713/', 'title': 'Holocaust Memorial Day Event'}
-{'event_id': '12116', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/12116/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12813', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/12813/', 'title': 'JEWISH EXPERIENCE WEEK (JEW)'}
+{'event_id': '12814', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/12814/', 'title': 'Challah and Conversation'}
+{'event_id': '13080', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/13080/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13081', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/13081/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13082', 'organisation_id': '6875', 'organisation': 'Jewish', 'url': 'https://www.guildofstudents.com/events/6875/13082/', 'title': 'Conversation of Multiculturalism with Harry Markham and Shaykh Paul Salahuddin Armstrong'}
+{'event_id': '13063', 'organisation_id': '6939', 'organisation': 'LGBTQ', 'url': 'https://www.guildofstudents.com/events/6939/13063/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12883', 'organisation_id': '6995', 'organisation': 'Malaysian', 'url': 'https://www.guildofstudents.com/events/6995/12883/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13065', 'organisation_id': '7051', 'organisation': 'Tolkien Society', 'url': 'https://www.guildofstudents.com/events/7051/13065/', 'title': 'Sorry, there was a problem'}
+{'event_id': '11504', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/11504/', 'title': 'MUCC Round 3'}
 {'event_id': '12173', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/12173/', 'title': 'UoB climbing Team membership'}
-{'event_id': '12658', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/12658/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12702', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/12702/', 'title': 'Annual Dinner'}
-{'event_id': '12407', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12407/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12590', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12590/', 'title': 'First Aid'}
-{'event_id': '12745', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12745/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12746', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12746/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12747', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12747/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12754', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12754/', 'title': 'Refreshers Bowling Social'}
+{'event_id': '12702', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/12702/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12801', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/12801/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12843', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/12843/', 'title': 'Climbing training and injury prevention talk'}
+{'event_id': '13031', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/13031/', 'title': 'LUBE 3'}
+{'event_id': '13034', 'organisation_id': '7179', 'organisation': 'Philosophy', 'url': 'https://www.guildofstudents.com/events/7179/13034/', 'title': 'Campus League'}
+{'event_id': '13016', 'organisation_id': '7195', 'organisation': 'Pole Fitness', 'url': 'https://www.guildofstudents.com/events/7195/13016/', 'title': 'Inter University Pole Varsity Nationals Competition'}
+{'event_id': '12980', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/12980/', 'title': 'Politics Sports Memberships 25-26'}
+{'event_id': '13042', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/13042/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13106', 'organisation_id': '7211', 'organisation': 'Politics', 'url': 'https://www.guildofstudents.com/events/7211/13106/', 'title': 'Coalition of Chaos Bar Crawl'}
+{'event_id': '12950', 'organisation_id': '7299', 'organisation': 'Scouts & Guides', 'url': 'https://www.guildofstudents.com/events/7299/12950/', 'title': 'Big Busag Breakfast'}
+{'event_id': '12986', 'organisation_id': '7331', 'organisation': 'Sikh', 'url': 'https://www.guildofstudents.com/events/7331/12986/', 'title': 'Laser tag'}
+{'event_id': '13019', 'organisation_id': '7427', 'organisation': 'Tea Society', 'url': 'https://www.guildofstudents.com/events/7427/13019/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12748', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12748/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12857', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12857/', 'title': 'Cannock Chase Collab Walk'}
+{'event_id': '12880', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12880/', 'title': 'Laser Quest Social'}
+{'event_id': '12975', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12975/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12976', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/12976/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13049', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/13049/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13050', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/13050/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13051', 'organisation_id': '7523', 'organisation': 'Wayfarers Hiking Society', 'url': 'https://www.guildofstudents.com/events/7523/13051/', 'title': 'Edstone Aqeduct Collab Walk'}
 {'event_id': '11267', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/11267/', 'title': 'Joes Bingo'}
-{'event_id': '12677', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12677/', 'title': 'Joes Bingo'}
-{'event_id': '12678', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12678/', 'title': 'Joes Bingo'}
 {'event_id': '12679', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12679/', 'title': 'Joes Bingo'}
 {'event_id': '12680', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12680/', 'title': 'Joes Bingo'}
 {'event_id': '12682', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12682/', 'title': 'Joes Bingo'}
@@ -152,53 +308,65 @@
 {'event_id': '12685', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12685/', 'title': 'Joes Bingo'}
 {'event_id': '12686', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12686/', 'title': 'Joes Bingo'}
 {'event_id': '12687', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12687/', 'title': 'Joes Bingo'}
-{'event_id': '12691', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12691/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12692', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12692/', 'title': 'Joes Big Quiz'}
 {'event_id': '12693', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12693/', 'title': 'Joes Big Quiz'}
 {'event_id': '12694', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12694/', 'title': 'Joes Big Quiz'}
-{'event_id': '12695', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12695/', 'title': 'Joes Big Quiz'}
+{'event_id': '12695', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12695/', 'title': 'Sorry, there was a problem'}
 {'event_id': '12696', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12696/', 'title': 'Joes Big Quiz'}
-{'event_id': '12697', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12697/', 'title': 'Sorry, there was a problem'}
-{'event_id': '11267', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/11267/', 'title': 'Joes Bingo'}
-{'event_id': '12468', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12468/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12538', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12538/', 'title': 'Guild advice drop in'}
-{'event_id': '12539', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12539/', 'title': 'Guild advice drop in'}
-{'event_id': '12540', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12540/', 'title': 'Guild advice drop in'}
-{'event_id': '12541', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12541/', 'title': 'Guild advice drop in'}
-{'event_id': '12542', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12542/', 'title': 'Guild advice drop in'}
+{'event_id': '12698', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12698/', 'title': 'Joes Big Quiz'}
+{'event_id': '12699', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12699/', 'title': 'Joes Big Quiz'}
+{'event_id': '12700', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12700/', 'title': 'Joes Big Quiz'}
+{'event_id': '12701', 'organisation_id': '7572', 'organisation': 'UNKNOWN_ORG_7572', 'url': 'https://www.guildofstudents.com/events/7572/12701/', 'title': 'Joes Big Quiz'}
+{'event_id': '12834', 'organisation_id': '8468', 'organisation': 'UNKNOWN_ORG_8468', 'url': 'https://www.guildofstudents.com/events/8468/12834/', 'title': "Trans and Non-Binary Students Movie Night - 'The Matrix'"}
+{'event_id': '13037', 'organisation_id': '8649', 'organisation': 'Public Speaking Society', 'url': 'https://www.guildofstudents.com/events/8649/13037/', 'title': 'Public Speaking Internal Competition'}
+{'event_id': '12914', 'organisation_id': '9220', 'organisation': 'Modern Languages', 'url': 'https://www.guildofstudents.com/events/9220/12914/', 'title': 'Selly Oak Bar Crawl'}
+{'event_id': '11483', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/11483/', 'title': 'Sports Night 25th Feb 2026'}
 {'event_id': '12543', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12543/', 'title': 'Guild advice drop in'}
-{'event_id': '12560', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12560/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12645', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12645/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12653', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12653/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12657', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12657/', 'title': 'Student Login'}
-{'event_id': '12660', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12660/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12662', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12662/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12663', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12663/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12664', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12664/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12666', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12666/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12544', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12544/', 'title': 'Guild advice drop in'}
+{'event_id': '12545', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12545/', 'title': 'Guild advice drop in'}
+{'event_id': '12546', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12546/', 'title': 'Guild advice drop in'}
 {'event_id': '12669', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12669/', 'title': 'Guild Awards 2026'}
-{'event_id': '12677', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12677/', 'title': 'Joes Bingo'}
-{'event_id': '12678', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12678/', 'title': 'Joes Bingo'}
-{'event_id': '12679', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12679/', 'title': 'Joes Bingo'}
-{'event_id': '12680', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12680/', 'title': 'Joes Bingo'}
 {'event_id': '12682', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12682/', 'title': 'Joes Bingo'}
 {'event_id': '12683', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12683/', 'title': 'Joes Bingo'}
 {'event_id': '12684', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12684/', 'title': 'Joes Bingo'}
 {'event_id': '12685', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12685/', 'title': 'Joes Bingo'}
-{'event_id': '12686', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12686/', 'title': 'Joes Bingo'}
-{'event_id': '12687', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12687/', 'title': 'Joes Bingo'}
-{'event_id': '12691', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12691/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12692', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12692/', 'title': 'Joes Big Quiz'}
-{'event_id': '12693', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12693/', 'title': 'Joes Big Quiz'}
 {'event_id': '12694', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12694/', 'title': 'Joes Big Quiz'}
-{'event_id': '12695', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12695/', 'title': 'Joes Big Quiz'}
-{'event_id': '12696', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12696/', 'title': 'Joes Big Quiz'}
-{'event_id': '12697', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12697/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12712', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12712/', 'title': 'Welcome Back FAB'}
-{'event_id': '12714', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12714/', 'title': 'Global Board Game Cafe'}
-{'event_id': '12715', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12715/', 'title': 'Global Board Game Cafe'}
-{'event_id': '12716', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12716/', 'title': 'Global Board Game Cafe'}
-{'event_id': '12717', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12717/', 'title': 'Global Board Game Cafe'}
+{'event_id': '12695', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12695/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12698', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12698/', 'title': 'Joes Big Quiz'}
+{'event_id': '12699', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12699/', 'title': 'Joes Big Quiz'}
+{'event_id': '12700', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12700/', 'title': 'Joes Big Quiz'}
 {'event_id': '12718', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12718/', 'title': 'Global Board Game Cafe'}
-{'event_id': '12723', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12723/', 'title': 'Sorry, there was a problem'}
-{'event_id': '12725', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12725/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12720', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12720/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12785', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12785/', 'title': 'Valentines FAB'}
+{'event_id': '12786', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12786/', 'title': 'St Patricks FAB'}
+{'event_id': '12795', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12795/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12797', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12797/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12798', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12798/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12804', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12804/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12832', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12832/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12836', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12836/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12838', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12838/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12945', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12945/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12946', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12946/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12947', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12947/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12956', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12956/', 'title': 'Postgraduate & International Student Forum'}
+{'event_id': '12968', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12968/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12969', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12969/', 'title': 'Sorry, there was a problem'}
+{'event_id': '12970', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/12970/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13035', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13035/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13036', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13036/', 'title': 'Come As You Are: LGBTQ+ Student Social'}
+{'event_id': '13055', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13055/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13057', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13057/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13058', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13058/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13059', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13059/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13061', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13061/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13086', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13086/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13087', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13087/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13097', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13097/', 'title': 'Community Breakfast'}
+{'event_id': '13098', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13098/', 'title': 'Community Breakfast'}
+{'event_id': '13099', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13099/', 'title': 'Community Breakfast'}
+{'event_id': '13100', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13100/', 'title': 'Community Breakfast'}
+{'event_id': '13103', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13103/', 'title': 'Sudan, Remember Us Film Screening'}
+{'event_id': '13105', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13105/', 'title': 'Lego Flowers'}
+{'event_id': '13114', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13114/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13120', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13120/', 'title': 'Sorry, there was a problem'}
+{'event_id': '13121', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13121/', 'title': 'Sorry, there was a problem'}
