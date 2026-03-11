@@ -186,6 +186,7 @@ https://www.guildofstudents.com#pizzaday
 https://www.guildofstudents.com#psf
 https://www.guildofstudents.com#representation
 https://www.guildofstudents.com#roles
+https://www.guildofstudents.com#sainsburys
 https://www.guildofstudents.com#shackletoninfo
 https://www.guildofstudents.com#shs
 https://www.guildofstudents.com#signup
@@ -2958,6 +2959,7 @@ https://www.guildofstudents.com/elections/vote/609/
 https://www.guildofstudents.com/ents/event/10692/
 https://www.guildofstudents.com/ents/event/11483/
 https://www.guildofstudents.com/ents/event/11484/
+https://www.guildofstudents.com/ents/event/11485/
 https://www.guildofstudents.com/ents/event/11486/
 https://www.guildofstudents.com/ents/event/12053/
 https://www.guildofstudents.com/ents/event/12466/
@@ -3050,6 +3052,7 @@ https://www.guildofstudents.com/ents/event/13321/
 https://www.guildofstudents.com/ents/event/13345/
 https://www.guildofstudents.com/ents/event/13350/
 https://www.guildofstudents.com/ents/event/13354/
+https://www.guildofstudents.com/ents/event/13356/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=3&year=2026
 https://www.guildofstudents.com/ents/eventlist/?month=4&year=2026
@@ -3126,7 +3129,6 @@ https://www.guildofstudents.com/events/11302/12751/
 https://www.guildofstudents.com/events/11302/13122/
 https://www.guildofstudents.com/events/11302/13123/
 https://www.guildofstudents.com/events/11302/13167/
-https://www.guildofstudents.com/events/11489/13277/
 https://www.guildofstudents.com/events/11890/13133/
 https://www.guildofstudents.com/events/12492/13126/
 https://www.guildofstudents.com/events/12540/12083/
@@ -3184,7 +3186,6 @@ https://www.guildofstudents.com/events/36117/13188/
 https://www.guildofstudents.com/events/36117/13189/
 https://www.guildofstudents.com/events/36861/13030/
 https://www.guildofstudents.com/events/36917/13022/
-https://www.guildofstudents.com/events/38832/13249/
 https://www.guildofstudents.com/events/40505/12254/
 https://www.guildofstudents.com/events/41190/12796/
 https://www.guildofstudents.com/events/41701/12395/
@@ -3194,7 +3195,6 @@ https://www.guildofstudents.com/events/43138/13351/
 https://www.guildofstudents.com/events/43309/11233/
 https://www.guildofstudents.com/events/51180/11596/
 https://www.guildofstudents.com/events/51180/12659/
-https://www.guildofstudents.com/events/51180/13191/
 https://www.guildofstudents.com/events/52018/13107/
 https://www.guildofstudents.com/events/52018/13108/
 https://www.guildofstudents.com/events/52018/13109/
@@ -3226,6 +3226,7 @@ https://www.guildofstudents.com/events/53651/13090/
 https://www.guildofstudents.com/events/53698/13255/
 https://www.guildofstudents.com/events/53721/13279/
 https://www.guildofstudents.com/events/53760/13332/
+https://www.guildofstudents.com/events/53760/13346/
 https://www.guildofstudents.com/events/53985/13241/
 https://www.guildofstudents.com/events/54343/13343/
 https://www.guildofstudents.com/events/54408/13213/
@@ -3234,7 +3235,6 @@ https://www.guildofstudents.com/events/54445/13198/
 https://www.guildofstudents.com/events/54445/13199/
 https://www.guildofstudents.com/events/6013/13238/
 https://www.guildofstudents.com/events/6059/12722/
-https://www.guildofstudents.com/events/6059/13312/
 https://www.guildofstudents.com/events/6059/13314/
 https://www.guildofstudents.com/events/6099/13219/
 https://www.guildofstudents.com/events/6115/12744/
@@ -3244,7 +3244,6 @@ https://www.guildofstudents.com/events/6155/13211/
 https://www.guildofstudents.com/events/6187/12866/
 https://www.guildofstudents.com/events/6187/13322/
 https://www.guildofstudents.com/events/6251/13326/
-https://www.guildofstudents.com/events/6339/12816/
 https://www.guildofstudents.com/events/6339/13300/
 https://www.guildofstudents.com/events/6347/13205/
 https://www.guildofstudents.com/events/6355/12988/
@@ -3379,7 +3378,6 @@ https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10196160%2f
 https://www.guildofstudents.com/login/?redirect=%2fshop%2fproduct%2f10410350%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fgiveitago%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fbucv%2f
-https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fislamic%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentgroups%2fsocieties%2fsikh%2f
 https://www.guildofstudents.com/login/?redirect=%2fstudentreps%2fbecomearep%2f
 https://www.guildofstudents.com/marksoutoftenancy
@@ -4844,7 +4842,6 @@ https://www.guildofstudents.com/profile/257294/
 https://www.guildofstudents.com/profile/257338/
 https://www.guildofstudents.com/profile/257346/
 https://www.guildofstudents.com/profile/257360/
-https://www.guildofstudents.com/profile/257467/
 https://www.guildofstudents.com/profile/257496/
 https://www.guildofstudents.com/profile/257569/
 https://www.guildofstudents.com/profile/257611/
@@ -5890,8 +5887,8 @@ https://www.guildofstudents.com/welcome/events#filter
 https://www.guildofstudents.com/welcome/events/
 https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/evening
+https://www.guildofstudents.com/welcome/events/event/11485/
 https://www.guildofstudents.com/welcome/events/event/11486/
-https://www.guildofstudents.com/welcome/events/event/12546/
 https://www.guildofstudents.com/welcome/events/event/12547/
 https://www.guildofstudents.com/welcome/events/event/12548/
 https://www.guildofstudents.com/welcome/events/event/12669/
@@ -5903,7 +5900,7 @@ https://www.guildofstudents.com/welcome/events/event/12787/
 https://www.guildofstudents.com/welcome/events/event/12796/
 https://www.guildofstudents.com/welcome/events/event/12839/
 https://www.guildofstudents.com/welcome/events/event/12917/
-https://www.guildofstudents.com/welcome/events/event/13100/
+https://www.guildofstudents.com/welcome/events/event/12918/
 https://www.guildofstudents.com/welcome/events/event/13101/
 https://www.guildofstudents.com/welcome/events/event/13102/
 https://www.guildofstudents.com/welcome/events/event/13105/
@@ -5911,7 +5908,6 @@ https://www.guildofstudents.com/welcome/events/event/13142/
 https://www.guildofstudents.com/welcome/events/event/13146/
 https://www.guildofstudents.com/welcome/events/event/13147/
 https://www.guildofstudents.com/welcome/events/event/13148/
-https://www.guildofstudents.com/welcome/events/event/13155/
 https://www.guildofstudents.com/welcome/events/event/13160/
 https://www.guildofstudents.com/welcome/events/event/13162/
 https://www.guildofstudents.com/welcome/events/event/13163/
@@ -5921,11 +5917,9 @@ https://www.guildofstudents.com/welcome/events/event/13173/
 https://www.guildofstudents.com/welcome/events/event/13174/
 https://www.guildofstudents.com/welcome/events/event/13176/
 https://www.guildofstudents.com/welcome/events/event/13202/
-https://www.guildofstudents.com/welcome/events/event/13230/
 https://www.guildofstudents.com/welcome/events/event/13243/
 https://www.guildofstudents.com/welcome/events/event/13246/
 https://www.guildofstudents.com/welcome/events/event/13271/
-https://www.guildofstudents.com/welcome/events/event/13273/
 https://www.guildofstudents.com/welcome/events/event/13274/
 https://www.guildofstudents.com/welcome/events/event/13275/
 https://www.guildofstudents.com/welcome/events/event/13285/
@@ -5938,6 +5932,8 @@ https://www.guildofstudents.com/welcome/events/event/13321/
 https://www.guildofstudents.com/welcome/events/event/13345/
 https://www.guildofstudents.com/welcome/events/event/13349/
 https://www.guildofstudents.com/welcome/events/event/13350/
+https://www.guildofstudents.com/welcome/events/event/13354/
+https://www.guildofstudents.com/welcome/events/event/13356/
 https://www.guildofstudents.com/welcome/events/nighttime
 https://www.guildofstudents.com/welcome/events/nighttime/
 https://www.guildofstudents.com/welcome/newhome
