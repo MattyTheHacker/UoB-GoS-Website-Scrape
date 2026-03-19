@@ -102,7 +102,7 @@ https://www.guildofstudents.commailto:communitypantry@guild.bham.ac.uk
 https://www.guildofstudents.commailto:commutersociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:complaints@guild.bham.ac.uk
 https://www.guildofstudents.commailto:conservatives@guild.bham.ac.uk
-https://www.guildofstudents.commailto:craft@guild.bham.ac.uk
+https://www.guildofstudents.commailto:craft@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:criminology@guild.bham.ac.uk
 https://www.guildofstudents.commailto:css@guild.bham.ac.uk
 https://www.guildofstudents.commailto:culturalarts@guild.bham.ac.uk
@@ -173,6 +173,7 @@ https://www.guildofstudents.commailto:history@guild.bham.ac.uk
 https://www.guildofstudents.commailto:historyofart@guild.bham.ac.uk
 https://www.guildofstudents.commailto:homeless@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkong@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hongkongcultural@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk
@@ -220,6 +221,7 @@ https://www.guildofstudents.commailto:latinodance@guild.bham.ac.uk
 https://www.guildofstudents.commailto:law4nonlaw@guild.bham.ac.uk
 https://www.guildofstudents.commailto:lgbtq@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:lgbtqofficer@guild.bham.ac.uk
+https://www.guildofstudents.commailto:LiberalDemocrats@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:links@guild.bham.ac.uk
 https://www.guildofstudents.commailto:liveart@guild.bham.ac.uk
 https://www.guildofstudents.commailto:livemusic@guild.bham.ac.uk

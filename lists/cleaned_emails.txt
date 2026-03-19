@@ -102,7 +102,7 @@ communitypantry@guild.bham.ac.uk
 commutersociety@guild.bham.ac.uk
 complaints@guild.bham.ac.uk
 conservatives@guild.bham.ac.uk
-craft@guild.bham.ac.uk
+craft@society.guild.bham.ac.uk
 criminology@guild.bham.ac.uk
 css@guild.bham.ac.uk
 culturalarts@guild.bham.ac.uk
@@ -172,6 +172,7 @@ history@guild.bham.ac.uk
 historyofart@guild.bham.ac.uk
 homeless@guild.bham.ac.uk
 hongkong@guild.bham.ac.uk
+hongkongcultural@guild.bham.ac.uk
 hookersandstitchers@guild.bham.ac.uk
 hrsociety@guild.bham.ac.uk
 hrteam@guild.bham.ac.uk
@@ -217,6 +218,7 @@ latinodance@guild.bham.ac.uk
 law4nonlaw@guild.bham.ac.uk
 lgbtq@society.guild.bham.ac.uk
 lgbtqofficer@guild.bham.ac.uk
+LiberalDemocrats@society.guild.bham.ac.uk
 links@guild.bham.ac.uk
 liveart@guild.bham.ac.uk
 livemusic@guild.bham.ac.uk
