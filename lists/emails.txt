@@ -15,7 +15,7 @@ https://www.guildofstudents.commailto:ahmadiyya@guild.bham.ac.uk
 https://www.guildofstudents.commailto:ahmadiyyamuslimsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:algosoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:americancountryswingdancing@society.guild.bham.ac.uk
-https://www.guildofstudents.commailto:amnestyinternational@society.guild.ac.uk
+https://www.guildofstudents.commailto:amnesty@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:anatomy@guild.bham.ac.uk
 https://www.guildofstudents.commailto:anime@guild.bham.ac.uk
 https://www.guildofstudents.commailto:arabsoc@guild.bham.ac.uk
@@ -126,7 +126,6 @@ https://www.guildofstudents.commailto:education@guild.bham.ac.uk
 https://www.guildofstudents.commailto:educationsoc@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:eeesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:elal@guild.bham.ac.uk
-https://www.guildofstudents.commailto:elections@guild.bham.ac.uk
 https://www.guildofstudents.commailto:emofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:enactus@guild.bham.ac.uk
 https://www.guildofstudents.commailto:endosoc@guild.bham.ac.uk
