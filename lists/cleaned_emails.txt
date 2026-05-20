@@ -15,7 +15,7 @@ ahmadiyya@guild.bham.ac.uk
 ahmadiyyamuslimsoc@guild.bham.ac.uk
 algosoc@guild.bham.ac.uk
 americancountryswingdancing@society.guild.bham.ac.uk
-amnestyinternational@society.guild.ac.uk
+amnesty@society.guild.bham.ac.uk
 anatomy@guild.bham.ac.uk
 anime@guild.bham.ac.uk
 arabsoc@guild.bham.ac.uk
@@ -126,7 +126,6 @@ education@guild.bham.ac.uk
 educationsoc@society.guild.bham.ac.uk
 eeesociety@guild.bham.ac.uk
 elal@guild.bham.ac.uk
-elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
 enactus@guild.bham.ac.uk
 endosoc@guild.bham.ac.uk
