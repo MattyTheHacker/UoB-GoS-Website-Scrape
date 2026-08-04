@@ -28,7 +28,7 @@ autism@guild.bham.ac.uk
 azerbaijanisociety@guild.bham.ac.uk
 bacas@guild.bham.ac.uk
 badfilm@guild.bham.ac.uk
-bahaisociety@guild.bham.ac.uk
+bahaisociety@society.guild.bham.ac.uk
 baking@guild.bham.ac.uk
 balkansociety@guild.bham.ac.uk
 ballroom@guild.bham.ac.uk
@@ -65,7 +65,6 @@ bucv@guild.bham.ac.uk
 buddhist@guild.bham.ac.uk
 buds@guild.bham.ac.uk
 BUPRAS@guild.bham.ac.uk
-burma@guild.bham.ac.uk
 burnarts@guild.bham.ac.uk
 burndeputystationmanager@guild.bham.ac.uk
 burnmarketing@guild.bham.ac.uk
@@ -94,7 +93,6 @@ chinesechristians@guild.bham.ac.uk
 civsoc@guild.bham.ac.uk
 cmf@guild.bham.ac.uk
 cocktail@guild.bham.ac.uk
-commercialawarenesssoc@guild.bham.ac.uk
 commerciallaw@guild.bham.ac.uk
 communications@guild.bham.ac.uk
 community@guild.bham.ac.uk
@@ -122,10 +120,8 @@ eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
 editor@redbrickonline.co.uk
 education@guild.bham.ac.uk
-educationsoc@society.guild.bham.ac.uk
 eeesociety@guild.bham.ac.uk
 elal@guild.bham.ac.uk
-elections@guild.bham.ac.uk
 emofficer@guild.bham.ac.uk
 enactus@guild.bham.ac.uk
 endosoc@guild.bham.ac.uk
@@ -135,6 +131,7 @@ euaffairs@guild.bham.ac.uk
 events.reslife@guild.bham.ac.uk
 ewb@guild.bham.ac.uk
 familylaw@society.guild.bham.ac.uk
+fashion@guild.bham.ac.uk
 fashionandlaw@guild.bham.ac.uk
 feministsociety@guild.bham.ac.uk
 filipino@guild.bham.ac.uk
@@ -155,6 +152,7 @@ gds@guild.bham.ac.uk
 general.bosociety@guild.bham.ac.uk
 german@guild.bham.ac.uk
 ghanaian@guild.bham.ac.uk
+giddha@society.guild.bham.ac.uk
 gift@guild.bham.ac.uk
 giveitago@guild.bham.ac.uk
 gmtg@guild.bham.ac.uk
@@ -163,20 +161,18 @@ GraphicDesign@society.guild.bham.ac.uk
 greenpartysociety@guild.bham.ac.uk
 gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
-headucate@guild.bham.ac.uk
 healthandsafety@guild.bham.ac.uk
 hennasociety@society.guild.bham.ac.uk
+hideandseek@guild.bham.ac.uk
 hindu@guild.bham.ac.uk
 history@guild.bham.ac.uk
 historyofart@guild.bham.ac.uk
 homeless@guild.bham.ac.uk
 hongkong@guild.bham.ac.uk
-hongkongcultural@guild.bham.ac.uk
 hookersandstitchers@guild.bham.ac.uk
 hrteam@guild.bham.ac.uk
 ibmzsociety@guild.bham.ac.uk
 iceskating@guild.bham.ac.uk
-ics@guild.bham.ac.uk
 imedbirmingham@gmail.com
 imsoc.ubms@outlook.com
 indiancultural@guild.bham.ac.uk
@@ -198,7 +194,6 @@ japan@guild.bham.ac.uk
 JazzFunkandSoul-Secretary@society.guild.bham.ac.uk
 jewish@guild.bham.ac.uk
 jigsoc@society.guild.bham.ac.uk
-kazakh@guild.bham.ac.uk
 kcover@guild.bham.ac.uk
 KCover@guild.bham.ac.uk
 kickboxing@guild.bham.ac.uk
@@ -220,7 +215,6 @@ links@guild.bham.ac.uk
 liveart@guild.bham.ac.uk
 livemusic@guild.bham.ac.uk
 mahjongsociety@guild.bham.ac.uk
-malayalee@guild.bham.ac.uk
 malaysia@guild.bham.ac.uk
 marketing.birmingham@uk.elsa.org
 marketingsociety@guild.bham.ac.uk
@@ -274,7 +268,7 @@ Pilates@guild.bham.ac.uk
 planning@guild.bham.ac.uk
 poker@guild.bham.ac.uk
 pokesoc@guild.bham.ac.uk
-polefitness@guild.bham.ac.uk
+polefitness@society.guild.bham.ac.uk
 politics@guild.bham.ac.uk
 postgraduate@guild.bham.ac.uk
 postgraduatecommunity@guild.bham.ac.uk
@@ -293,7 +287,6 @@ realale@guild.bham.ac.uk
 residencelife@guild.bham.ac.uk
 respiratorysociety@guild.bham.ac.uk
 rollerskate@society.guild.bham.ac.uk
-ronak@guild.bham.ac.uk
 roundnetsociety@guild.bham.ac.uk
 rugbybirds.bham@gmail.com
 russianspeaking@guild.bham.ac.uk
@@ -311,7 +304,6 @@ sitcom@guild.bham.ac.uk
 sobersocials@guild.bham.ac.uk
 SocialistStudents@society.guild.bham.ac.uk
 solidaritee@guild.bham.ac.uk
-somali@guild.bham.ac.uk
 SouthAsianLawSociety@guild.bham.ac.uk
 southindian@society.guild.bham.ac.uk
 sports@guild.bham.ac.uk
@@ -322,7 +314,6 @@ staffing@guild.bham.ac.uk
 star1@guild.bham.ac.uk
 startupsociety@guild.bham.ac.uk
 starwarssociety@guild.bham.ac.uk
-studentexchange@guild.bham.ac.uk
 studentgroups@guild.bham.ac.uk
 studentparent@guild.bham.ac.uk
 studentreps@guild.bham.ac.uk
@@ -336,6 +327,7 @@ tabletennis@guild.bham.ac.uk
 tamil@guild.bham.ac.uk
 tcu@guild.bham.ac.uk
 tea@guild.bham.ac.uk
+the93clubsociety@guild.bham.ac.uk
 thrillseekers@guild.bham.ac.uk
 tphsociety@guild.bham.ac.uk
 transofficer@guild.bham.ac.uk
@@ -354,12 +346,12 @@ ubmsmixedhockey@gmail.com
 ubmsrfc.chairman@gmail.com
 ukrainiansociety@guild.bham.ac.uk
 unicef@guild.bham.ac.uk
-uobbengsoc@gmail.com
 uobbloodmatters@gmail.com
 uobbugs@guild.bham.ac.uk
 uobmwfc@guild.bham.ac.uk
 uoborthopaedicssoc@gmail.com
 uobpalliativemed@gmail.com
+uobvalkyriegamers@society.guild.bham.ac.uk
 uptonegirls@guild.bham.ac.uk
 Urdu@society.guild.bham.ac.uk
 uzbeksociety@society.guild.bham.ac.uk
@@ -367,11 +359,6 @@ valefestival@guild.bham.ac.uk
 vegesoc@guild.bham.ac.uk
 vents.reslife@guild.bham.ac.uk
 venuemanagers@guild.bham.ac.uk
-videogames-chair@society.guild.bham.ac.uk
-videogames-pcgamingrep@society.guild.bham.ac.uk
-videogames-secretary@society.guild.bham.ac.uk
-videogames-socialrepresentative@society.guild.bham.ac.uk
-videogames-treasurer@society.guild.bham.ac.uk
 videogamesociety@society.guild.bham.ac.uk
 vietnamese@guild.bham.ac.uk
 vrsoc@guild.bham.ac.uk

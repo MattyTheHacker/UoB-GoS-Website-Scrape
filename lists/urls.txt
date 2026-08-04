@@ -1,5 +1,6 @@
 http://www.guildofstudents.com
 http://www.guildofstudents.com/about/trusteeboard/meetingdatesminutes/
+http://www.guildofstudents.com/about/your-union/workwithus
 http://www.guildofstudents.com/communitywardens
 http://www.guildofstudents.com/events
 http://www.guildofstudents.com/guildadvice
@@ -512,6 +513,7 @@ https://www.guildofstudents.com//instagram.com/uoburdusoc
 https://www.guildofstudents.com//instagram.com/uobuzbeksoc
 https://www.guildofstudents.com//instagram.com/uobvideogames
 https://www.guildofstudents.com//instagram.com/uobwelshsoc
+https://www.guildofstudents.com//instagram.com/uobwim
 https://www.guildofstudents.com//instagram.com/uobwomeninecon
 https://www.guildofstudents.com//instagram.com/uobwomenintech
 https://www.guildofstudents.com//instagram.com/uobwomenofcolour
@@ -543,6 +545,7 @@ https://www.guildofstudents.com/about/trusteeboard/subcommittees/
 https://www.guildofstudents.com/about/trusteeboard/trusteerecruitment/
 https://www.guildofstudents.com/about/trusteeboard/whoarethetrustees/
 https://www.guildofstudents.com/about/who-we-are/
+https://www.guildofstudents.com/about/your-union/workwithus/currentvacancies/
 https://www.guildofstudents.com/academic-hub/43648/
 https://www.guildofstudents.com/academic-hub/43651/
 https://www.guildofstudents.com/academic-hub/43654/
@@ -2916,6 +2919,8 @@ https://www.guildofstudents.com/advertising
 https://www.guildofstudents.com/advertising/
 https://www.guildofstudents.com/allstudentvote
 https://www.guildofstudents.com/allstudentvote/
+https://www.guildofstudents.com/asset/Job/874/Cleaner-Job-Description.pdf
+https://www.guildofstudents.com/asset/Job/874/Cleaning-Supervisor-Job-Description-.pdf
 https://www.guildofstudents.com/asset/Job/874/Guild-Independent-Member-of-Appropriate-Skills-Finance-Committee-Role-Description.pdf
 https://www.guildofstudents.com/asset/Job/874/Guild-of-Students-Bye-Laws-2.pdf
 https://www.guildofstudents.com/asset/Job/875/External-Trustee-Information-Pack-February-2026-1-1.pdf
@@ -2960,6 +2965,13 @@ https://www.guildofstudents.com/ents/event/13915/
 https://www.guildofstudents.com/ents/event/13916/
 https://www.guildofstudents.com/ents/event/13917/
 https://www.guildofstudents.com/ents/event/13918/
+https://www.guildofstudents.com/ents/event/13980/
+https://www.guildofstudents.com/ents/event/13981/
+https://www.guildofstudents.com/ents/event/13982/
+https://www.guildofstudents.com/ents/event/13983/
+https://www.guildofstudents.com/ents/event/13984/
+https://www.guildofstudents.com/ents/event/14002/
+https://www.guildofstudents.com/ents/event/14003/
 https://www.guildofstudents.com/ents/eventlist/
 https://www.guildofstudents.com/ents/eventlist/?month=1&year=2027
 https://www.guildofstudents.com/ents/eventlist/?month=10&year=2026
@@ -2974,11 +2986,15 @@ https://www.guildofstudents.com/ents/eventlist/?month=8&year=2026
 https://www.guildofstudents.com/ents/eventlist/?month=9&year=2026
 https://www.guildofstudents.com/ents/eventlist/alcoholfree/
 https://www.guildofstudents.com/ents/eventlist/campaign/
+https://www.guildofstudents.com/ents/eventlist/commbreakfast/
 https://www.guildofstudents.com/ents/eventlist/communityengagement/
+https://www.guildofstudents.com/ents/eventlist/communitypantry/
 https://www.guildofstudents.com/ents/eventlist/commuter/
+https://www.guildofstudents.com/ents/eventlist/discussion/
 https://www.guildofstudents.com/ents/eventlist/easygoing/
 https://www.guildofstudents.com/ents/eventlist/freeevent/
 https://www.guildofstudents.com/ents/eventlist/giveitago/
+https://www.guildofstudents.com/ents/eventlist/guildadvice/
 https://www.guildofstudents.com/ents/eventlist/international/
 https://www.guildofstudents.com/ents/eventlist/outdoor/
 https://www.guildofstudents.com/ents/eventlist/outgoing/
@@ -2988,8 +3004,13 @@ https://www.guildofstudents.com/ents/eventlist/relaxed/
 https://www.guildofstudents.com/ents/eventlist/social/
 https://www.guildofstudents.com/ents/eventlist/studentactivities/
 https://www.guildofstudents.com/ents/eventlist/stugroup/
+https://www.guildofstudents.com/ents/eventlist/support/
 https://www.guildofstudents.com/ents/eventlist/welcomedaytime/
 https://www.guildofstudents.com/ents/eventlist/welcomepage/
+https://www.guildofstudents.com/ents/eventlist/welcomepageadvice/
+https://www.guildofstudents.com/ents/eventlist/welcomepageint/
+https://www.guildofstudents.com/ents/eventlist/welcomepagepost/
+https://www.guildofstudents.com/ents/eventlist/welcomepageunder/
 https://www.guildofstudents.com/ents/eventlist/welcomesocfairs/
 https://www.guildofstudents.com/ents/rss/0/subtree/
 https://www.guildofstudents.com/events
@@ -3029,6 +3050,8 @@ https://www.guildofstudents.com/jobshub/studentstaff/
 https://www.guildofstudents.com/jobshub/vacancy/2903/
 https://www.guildofstudents.com/jobshub/vacancy/2904/
 https://www.guildofstudents.com/jobshub/vacancy/2927/
+https://www.guildofstudents.com/jobshub/vacancy/2933/
+https://www.guildofstudents.com/jobshub/vacancy/2934/
 https://www.guildofstudents.com/joes
 https://www.guildofstudents.com/joes/
 https://www.guildofstudents.com/junkbusters
@@ -3973,7 +3996,6 @@ https://www.guildofstudents.com/profile/168160/
 https://www.guildofstudents.com/profile/168392/
 https://www.guildofstudents.com/profile/169176/
 https://www.guildofstudents.com/profile/169621/
-https://www.guildofstudents.com/profile/170320/
 https://www.guildofstudents.com/profile/171268/
 https://www.guildofstudents.com/profile/179268/
 https://www.guildofstudents.com/profile/179354/
@@ -3992,7 +4014,6 @@ https://www.guildofstudents.com/profile/207793/
 https://www.guildofstudents.com/profile/209792/
 https://www.guildofstudents.com/profile/210534/
 https://www.guildofstudents.com/profile/212194/
-https://www.guildofstudents.com/profile/218772/
 https://www.guildofstudents.com/profile/221550/
 https://www.guildofstudents.com/profile/222914/
 https://www.guildofstudents.com/profile/223562/
@@ -4004,7 +4025,6 @@ https://www.guildofstudents.com/profile/232058/
 https://www.guildofstudents.com/profile/233274/
 https://www.guildofstudents.com/profile/235737/
 https://www.guildofstudents.com/profile/246167/
-https://www.guildofstudents.com/profile/248576/
 https://www.guildofstudents.com/profile/253721/
 https://www.guildofstudents.com/profile/256572/
 https://www.guildofstudents.com/profile/260388/
@@ -4012,9 +4032,6 @@ https://www.guildofstudents.com/profile/261205/
 https://www.guildofstudents.com/profile/261748/
 https://www.guildofstudents.com/profile/263595/
 https://www.guildofstudents.com/profile/268171/
-https://www.guildofstudents.com/profile/283950/
-https://www.guildofstudents.com/profile/285155/
-https://www.guildofstudents.com/profile/285359/
 https://www.guildofstudents.com/profile/37270/
 https://www.guildofstudents.com/referendum
 https://www.guildofstudents.com/referendum/
@@ -4385,6 +4402,9 @@ https://www.guildofstudents.com/welcome/events
 https://www.guildofstudents.com/welcome/events/
 https://www.guildofstudents.com/welcome/events/daytime
 https://www.guildofstudents.com/welcome/events/evening
+https://www.guildofstudents.com/welcome/events/event/13819/
+https://www.guildofstudents.com/welcome/events/event/13981/
+https://www.guildofstudents.com/welcome/events/event/13983/
 https://www.guildofstudents.com/welcome/events/nighttime
 https://www.guildofstudents.com/welcome/events/nighttime/
 https://www.guildofstudents.com/welcome/newhome
