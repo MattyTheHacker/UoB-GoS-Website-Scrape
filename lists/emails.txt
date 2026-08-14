@@ -37,6 +37,7 @@ https://www.guildofstudents.commailto:batsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:beams@guild.bham.ac.uk
 https://www.guildofstudents.commailto:beat@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bedsoc@guild.bham.ac.uk
+https://www.guildofstudents.commailto:bema@guild.bham.ac.uk
 https://www.guildofstudents.commailto:benchball@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bhammedicsbadders@gmail.com
 https://www.guildofstudents.commailto:bhangra@guild.bham.ac.uk
@@ -67,6 +68,7 @@ https://www.guildofstudents.commailto:buds@guild.bham.ac.uk
 https://www.guildofstudents.commailto:BUPRAS@guild.bham.ac.uk
 https://www.guildofstudents.commailto:burnarts@guild.bham.ac.uk
 https://www.guildofstudents.commailto:burndeputystationmanager@guild.bham.ac.uk
+https://www.guildofstudents.commailto:burnfm@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:burnmarketing@guild.bham.ac.uk
 https://www.guildofstudents.commailto:burnmusic@guild.bham.ac.uk
 https://www.guildofstudents.commailto:burnnews@guild.bham.ac.uk
@@ -85,6 +87,7 @@ https://www.guildofstudents.commailto:campaigns@guild.bham.ac.uk
 https://www.guildofstudents.commailto:canadian@guild.bham.ac.uk
 https://www.guildofstudents.commailto:cardiosocbham@gmail.com
 https://www.guildofstudents.commailto:cathsoc@society.guild.bham.ac.uk
+https://www.guildofstudents.commailto:centralAsian@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:centrestaged@guild.bham.ac.uk
 https://www.guildofstudents.commailto:cheesesociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:chess-club@guild.bham.ac.uk
@@ -114,8 +117,6 @@ https://www.guildofstudents.commailto:dialogueclub@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:disabledofficer@guild.bham.ac.uk
 https://www.guildofstudents.commailto:djs@guild.bham.ac.uk
 https://www.guildofstudents.commailto:doctorwho@guild.bham.ac.uk
-https://www.guildofstudents.commailto:dpo@guild.bham.ac.uk
-https://www.guildofstudents.commailto:e.badger@guild.bham.ac.uk
 https://www.guildofstudents.commailto:eastafrican@guild.bham.ac.uk
 https://www.guildofstudents.commailto:econsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:editor@redbrickonline.co.uk

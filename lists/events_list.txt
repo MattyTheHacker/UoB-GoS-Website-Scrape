@@ -6,13 +6,23 @@
 {'id': '13912', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13912/', 'title': 'Calm and Connect'}
 {'id': '13913', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13913/', 'title': "International Students' Meet & Greet"}
 {'id': '13914', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13914/', 'title': 'Cheese & Wine Social for Postgraduate & Mature Students'}
-{'id': '13915', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13915/', 'title': 'Summer Committee Member Training'}
+{'id': '13915', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13915/', 'title': 'Sorry, there was a problem'}
 {'id': '13916', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13916/', 'title': 'Coffee, Cake and Chat: Mature, Parent and Carer Student Social'}
 {'id': '13917', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13917/', 'title': 'Commuter Students Social'}
 {'id': '13918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13918/', 'title': 'Answer from Anywhere Online Social and Quiz'}
+{'id': '13980', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13980/', 'title': 'Community Wellbeing Cafe'}
+{'id': '13981', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13981/', 'title': 'Consent & Bystander Intervention Workshop'}
+{'id': '13982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13982/', 'title': 'Community Breakfast - Welcome Waffle'}
+{'id': '13983', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13983/', 'title': 'Consent & Bystander Intervention Workshop'}
+{'id': '13984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13984/', 'title': 'Community Eco Shop'}
+{'id': '14002', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14002/', 'title': 'Welcome Fair - Day 2'}
+{'id': '14003', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14003/', 'title': 'Mingle & Make Tees'}
 {'event_id': '13551', 'organisation_id': '35153', 'organisation': 'Hockey', 'url': 'https://www.guildofstudents.com/events/35153/13551/', 'title': 'SILZ 2026'}
 {'event_id': '13899', 'organisation_id': '35265', 'organisation': 'MedSoc Performing Arts Society (ARTE)', 'url': 'https://www.guildofstudents.com/events/35265/13899/', 'title': 'ARTE Band Room Booking'}
 {'event_id': '13819', 'organisation_id': '41186', 'organisation': 'UNKNOWN_ORG_41186', 'url': 'https://www.guildofstudents.com/events/41186/13819/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
 {'event_id': '13820', 'organisation_id': '41186', 'organisation': 'UNKNOWN_ORG_41186', 'url': 'https://www.guildofstudents.com/events/41186/13820/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
 {'event_id': '13681', 'organisation_id': '54445', 'organisation': 'PhD Society', 'url': 'https://www.guildofstudents.com/events/54445/13681/', 'title': 'PhD After Hours'}
 {'event_id': '13533', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/13533/', 'title': 'Summer Trip 2026 - Pembrokeshire'}
+{'event_id': '13819', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13819/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
+{'event_id': '13981', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13981/', 'title': 'Consent & Bystander Intervention Workshop'}
+{'event_id': '13983', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13983/', 'title': 'Consent & Bystander Intervention Workshop'}
