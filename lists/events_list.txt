@@ -2,27 +2,187 @@
 {'id': '12964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12964/', 'title': 'Sorry, there was a problem'}
 {'id': '13779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13779/', 'title': 'Junkbusters 29.06'}
 {'id': '13780', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13780/', 'title': "Postgraduate and Ethnic Minority Students' Summer Social"}
+{'id': '13807', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13807/', 'title': 'Wellbeing Café'}
+{'id': '13821', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13821/', 'title': 'Welcome to Halls Neuro Nights: Mariokart Tournament'}
+{'id': '13824', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13824/', 'title': 'Welcome to Halls Board Games and Crepes'}
+{'id': '13825', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13825/', 'title': 'Mid-Autumn Moon Festival'}
+{'id': '13826', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13826/', 'title': 'Welcome to Halls: Freshers Finale'}
+{'id': '13827', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13827/', 'title': 'Cold Cup Decorating and Cookies'}
+{'id': '13828', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13828/', 'title': 'Suncatchers and Snacks'}
+{'id': '13829', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13829/', 'title': 'Tote Bags and Doughnuts'}
+{'id': '13830', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13830/', 'title': 'Welcome to Halls Pizza Party - Chamberlain'}
+{'id': '13831', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13831/', 'title': 'Welcome to Halls Pizza Party - Shackleton'}
+{'id': '13832', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13832/', 'title': 'Welcome to Halls Pizza Party - Mason'}
+{'id': '13833', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13833/', 'title': 'Welcome to Halls Pizza Party - Tennis Court'}
+{'id': '13834', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13834/', 'title': 'Welcome to Halls Pizza Party - Pritchatts'}
+{'id': '13835', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13835/', 'title': 'Welcome to Halls Pizza Party - Battery Park'}
+{'id': '13836', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13836/', 'title': 'Welcome to Halls Pizza Party - Oak Brook Park'}
+{'id': '13837', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13837/', 'title': 'Welcome to Halls Pizza Party - Metalworks'}
+{'id': '13838', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13838/', 'title': 'Welcome to Halls Pizza Party - Jarratt Hall'}
+{'id': '13839', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13839/', 'title': 'Welcome to Halls Pizza Party - Chamberlain'}
+{'id': '13840', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13840/', 'title': 'Welcome to Halls Pizza Party - Shackleton'}
+{'id': '13841', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13841/', 'title': 'Welcome to Halls Pizza Party - Mason'}
+{'id': '13842', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13842/', 'title': 'Welcome to Halls Pizza Party - Tennis Court'}
+{'id': '13843', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13843/', 'title': 'Welcome to Halls Pizza Party - Pritchatts'}
+{'id': '13844', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13844/', 'title': 'Welcome to Halls Pizza Party - Battery Park'}
+{'id': '13845', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13845/', 'title': 'Welcome to Halls Pizza Party - Oak Brook Park'}
+{'id': '13846', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13846/', 'title': 'Welcome to Halls Pizza Party - Metalworks'}
+{'id': '13847', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13847/', 'title': 'Welcome to Halls Pizza Party - Jarratt Hall'}
+{'id': '13848', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13848/', 'title': 'Umbrella Sexual Health Stall'}
+{'id': '13849', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13849/', 'title': 'Umbrella Sexual Health Stall'}
+{'id': '13850', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13850/', 'title': 'Umbrella Sexual Health Stall'}
+{'id': '13851', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13851/', 'title': 'Umbrella Sexual Health Stall'}
+{'id': '13854', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13854/', 'title': 'Sports Night'}
+{'id': '13897', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13897/', 'title': 'Umbrella Sexual Health Stall'}
+{'id': '13900', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13900/', 'title': 'Umbrella Sexual Health Stall'}
+{'id': '13901', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13901/', 'title': 'Umbrella Sexual Health Stall'}
+{'id': '13902', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13902/', 'title': 'Welcome to Halls: Bubble Tea & Chill'}
 {'id': '13903', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13903/', 'title': 'MedSoc Societies Fair 2026'}
+{'id': '13904', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13904/', 'title': 'Societies Fair Day 1'}
+{'id': '13905', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13905/', 'title': 'Societies Fair Day 2'}
+{'id': '13907', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13907/', 'title': 'Give It A Go Fair'}
+{'id': '13909', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13909/', 'title': "Paint 'n' Sip"}
+{'id': '13910', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13910/', 'title': 'LGBTQ+ Students’ Social'}
+{'id': '13911', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13911/', 'title': 'Crafternoon'}
 {'id': '13912', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13912/', 'title': 'Calm and Connect'}
 {'id': '13913', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13913/', 'title': "International Students' Meet & Greet"}
 {'id': '13914', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13914/', 'title': 'Cheese & Wine Social for Postgraduate & Mature Students'}
-{'id': '13915', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13915/', 'title': 'Sorry, there was a problem'}
 {'id': '13916', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13916/', 'title': 'Coffee, Cake and Chat: Mature, Parent and Carer Student Social'}
 {'id': '13917', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13917/', 'title': 'Commuter Students Social'}
 {'id': '13918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13918/', 'title': 'Answer from Anywhere Online Social and Quiz'}
+{'id': '13942', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13942/', 'title': 'FAB: Opening Night ft Hacker T Dog'}
+{'id': '13943', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13943/', 'title': 'FAB: Moving In Party ft Pitbull Tribute Act'}
+{'id': '13944', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13944/', 'title': 'Bingo Bonanza'}
+{'id': '13945', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13945/', 'title': 'Whatever Oasis'}
+{'id': '13947', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13947/', 'title': 'Indie After Party'}
+{'id': '13948', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13948/', 'title': "Joe's Big Quiz"}
+{'id': '13949', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13949/', 'title': 'Red Rodeo Club'}
+{'id': '13950', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13950/', 'title': 'Fusion Global Music Night'}
+{'id': '13951', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13951/', 'title': 'FAB: Y2K'}
+{'id': '13952', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13952/', 'title': 'Vibes Only RnB Day Party'}
+{'id': '13953', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13953/', 'title': 'Welcome Ball ft Marvin Humes'}
+{'id': '13954', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13954/', 'title': 'Bingo Bonanza'}
+{'id': '13966', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13966/', 'title': "Joe's Big Quiz"}
+{'id': '13978', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13978/', 'title': 'Welcome Pass 2026'}
 {'id': '13980', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13980/', 'title': 'Community Wellbeing Cafe'}
 {'id': '13981', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13981/', 'title': 'Consent & Bystander Intervention Workshop'}
 {'id': '13982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13982/', 'title': 'Community Breakfast - Welcome Waffle'}
 {'id': '13983', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13983/', 'title': 'Consent & Bystander Intervention Workshop'}
 {'id': '13984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13984/', 'title': 'Community Eco Shop'}
+{'id': '13987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13987/', 'title': 'Flat Chats (The Vale)'}
+{'id': '13988', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13988/', 'title': 'Flat Chats (Selly Oak)'}
+{'id': '13989', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13989/', 'title': 'Flat Chats (Pritchatts Park)'}
+{'id': '13990', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13990/', 'title': 'Welcome Flat Chats (The Vale)'}
+{'id': '13991', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13991/', 'title': 'Welcome Flat Chats (Selly Oak)'}
+{'id': '13992', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13992/', 'title': 'Welcome Flat Chats (Pritchatts Park)'}
+{'id': '13993', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13993/', 'title': 'Housemate Finder (Selly Oak)'}
+{'id': '13994', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13994/', 'title': 'Housemate Finder (The Vale)'}
+{'id': '13995', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13995/', 'title': 'Housemate Finder (Pritchatts Park)'}
+{'id': '13996', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13996/', 'title': 'Societies Fair on Tour - Battery Park'}
+{'id': '13997', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13997/', 'title': 'Community Breakfast (The Vale)'}
+{'id': '13998', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13998/', 'title': 'Gaming Café'}
+{'id': '13999', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13999/', 'title': 'Community Breakfast (Selly Oak)'}
+{'id': '14000', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14000/', 'title': 'Community Breakfast (Pritchatts Park)'}
+{'id': '14001', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14001/', 'title': 'Welcome Fair - Day 1'}
 {'id': '14002', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14002/', 'title': 'Welcome Fair - Day 2'}
 {'id': '14003', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14003/', 'title': 'Mingle & Make Tees'}
+{'id': '14004', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14004/', 'title': "Paint 'n' Sip"}
+{'id': '14005', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14005/', 'title': 'Explore Birmingham Fair'}
+{'id': '14006', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14006/', 'title': 'Umbrella Sexual Health Stall'}
+{'id': '14009', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14009/', 'title': 'Community Coffee Morning'}
+{'id': '14010', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14010/', 'title': 'Plant Pots and Pastries'}
+{'id': '14017', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14017/', 'title': 'Community Breakfast'}
+{'id': '14018', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14018/', 'title': 'Community Breakfast'}
+{'id': '14019', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14019/', 'title': 'Community Breakfast'}
+{'id': '14020', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14020/', 'title': 'Community Breakfast'}
+{'id': '14021', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14021/', 'title': 'Community Breakfast'}
+{'id': '14022', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14022/', 'title': 'Community Breakfast'}
+{'id': '14023', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14023/', 'title': 'Community Breakfast'}
+{'id': '14024', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14024/', 'title': 'Community Breakfast'}
+{'id': '14025', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14025/', 'title': 'Community Breakfast'}
+{'id': '14026', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14026/', 'title': 'Community Breakfast'}
+{'id': '14027', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14027/', 'title': 'Community Wellbeing Cafe'}
+{'id': '14028', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14028/', 'title': 'Community Wellbeing Cafe'}
 {'event_id': '13551', 'organisation_id': '35153', 'organisation': 'Hockey', 'url': 'https://www.guildofstudents.com/events/35153/13551/', 'title': 'SILZ 2026'}
 {'event_id': '13899', 'organisation_id': '35265', 'organisation': 'MedSoc Performing Arts Society (ARTE)', 'url': 'https://www.guildofstudents.com/events/35265/13899/', 'title': 'ARTE Band Room Booking'}
-{'event_id': '13819', 'organisation_id': '41186', 'organisation': 'UNKNOWN_ORG_41186', 'url': 'https://www.guildofstudents.com/events/41186/13819/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
+{'event_id': '14012', 'organisation_id': '38763', 'organisation': 'Quiz Society', 'url': 'https://www.guildofstudents.com/events/38763/14012/', 'title': 'Get Into Quizzing - Quiz Society Taster Session'}
+{'event_id': '14013', 'organisation_id': '38763', 'organisation': 'Quiz Society', 'url': 'https://www.guildofstudents.com/events/38763/14013/', 'title': 'Get Into Quizzing - Quiz Society Taster Session'}
+{'event_id': '14014', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/14014/', 'title': 'Legally Blonde Movie Night'}
+{'event_id': '14016', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/14016/', 'title': 'Careers, Connections and Croissants'}
+{'event_id': '13819', 'organisation_id': '41186', 'organisation': 'UNKNOWN_ORG_41186', 'url': 'https://www.guildofstudents.com/events/41186/13819/', 'title': 'Student Login'}
 {'event_id': '13820', 'organisation_id': '41186', 'organisation': 'UNKNOWN_ORG_41186', 'url': 'https://www.guildofstudents.com/events/41186/13820/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
 {'event_id': '13681', 'organisation_id': '54445', 'organisation': 'PhD Society', 'url': 'https://www.guildofstudents.com/events/54445/13681/', 'title': 'PhD After Hours'}
 {'event_id': '13533', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/13533/', 'title': 'Summer Trip 2026 - Pembrokeshire'}
-{'event_id': '13819', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13819/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
+{'event_id': '13779', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13779/', 'title': 'Junkbusters 29.06'}
+{'event_id': '13807', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13807/', 'title': 'Wellbeing Café'}
+{'event_id': '13819', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13819/', 'title': 'Student Login'}
+{'event_id': '13820', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13820/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
+{'event_id': '13821', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13821/', 'title': 'Welcome to Halls Neuro Nights: Mariokart Tournament'}
+{'event_id': '13824', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13824/', 'title': 'Welcome to Halls Board Games and Crepes'}
+{'event_id': '13825', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13825/', 'title': 'Mid-Autumn Moon Festival'}
+{'event_id': '13826', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13826/', 'title': 'Welcome to Halls: Freshers Finale'}
+{'event_id': '13830', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13830/', 'title': 'Welcome to Halls Pizza Party - Chamberlain'}
+{'event_id': '13831', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13831/', 'title': 'Welcome to Halls Pizza Party - Shackleton'}
+{'event_id': '13832', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13832/', 'title': 'Welcome to Halls Pizza Party - Mason'}
+{'event_id': '13833', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13833/', 'title': 'Welcome to Halls Pizza Party - Tennis Court'}
+{'event_id': '13834', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13834/', 'title': 'Welcome to Halls Pizza Party - Pritchatts'}
+{'event_id': '13835', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13835/', 'title': 'Welcome to Halls Pizza Party - Battery Park'}
+{'event_id': '13836', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13836/', 'title': 'Welcome to Halls Pizza Party - Oak Brook Park'}
+{'event_id': '13837', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13837/', 'title': 'Welcome to Halls Pizza Party - Metalworks'}
+{'event_id': '13838', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13838/', 'title': 'Welcome to Halls Pizza Party - Jarratt Hall'}
+{'event_id': '13839', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13839/', 'title': 'Welcome to Halls Pizza Party - Chamberlain'}
+{'event_id': '13840', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13840/', 'title': 'Welcome to Halls Pizza Party - Shackleton'}
+{'event_id': '13841', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13841/', 'title': 'Welcome to Halls Pizza Party - Mason'}
+{'event_id': '13842', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13842/', 'title': 'Welcome to Halls Pizza Party - Tennis Court'}
+{'event_id': '13843', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13843/', 'title': 'Welcome to Halls Pizza Party - Pritchatts'}
+{'event_id': '13844', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13844/', 'title': 'Welcome to Halls Pizza Party - Battery Park'}
+{'event_id': '13845', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13845/', 'title': 'Welcome to Halls Pizza Party - Oak Brook Park'}
+{'event_id': '13846', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13846/', 'title': 'Welcome to Halls Pizza Party - Metalworks'}
+{'event_id': '13847', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13847/', 'title': 'Welcome to Halls Pizza Party - Jarratt Hall'}
+{'event_id': '13848', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13848/', 'title': 'Umbrella Sexual Health Stall'}
+{'event_id': '13849', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13849/', 'title': 'Umbrella Sexual Health Stall'}
+{'event_id': '13854', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13854/', 'title': 'Sports Night'}
+{'event_id': '13900', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13900/', 'title': 'Umbrella Sexual Health Stall'}
+{'event_id': '13902', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13902/', 'title': 'Welcome to Halls: Bubble Tea & Chill'}
+{'event_id': '13903', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13903/', 'title': 'MedSoc Societies Fair 2026'}
+{'event_id': '13904', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13904/', 'title': 'Societies Fair Day 1'}
+{'event_id': '13905', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13905/', 'title': 'Societies Fair Day 2'}
+{'event_id': '13907', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13907/', 'title': 'Give It A Go Fair'}
+{'event_id': '13909', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13909/', 'title': "Paint 'n' Sip"}
+{'event_id': '13910', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13910/', 'title': 'LGBTQ+ Students’ Social'}
+{'event_id': '13911', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13911/', 'title': 'Crafternoon'}
+{'event_id': '13912', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13912/', 'title': 'Calm and Connect'}
+{'event_id': '13913', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13913/', 'title': "International Students' Meet & Greet"}
+{'event_id': '13914', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13914/', 'title': 'Cheese & Wine Social for Postgraduate & Mature Students'}
+{'event_id': '13916', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13916/', 'title': 'Coffee, Cake and Chat: Mature, Parent and Carer Student Social'}
+{'event_id': '13917', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13917/', 'title': 'Commuter Students Social'}
+{'event_id': '13918', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13918/', 'title': 'Answer from Anywhere Online Social and Quiz'}
+{'event_id': '13942', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13942/', 'title': 'FAB: Opening Night ft Hacker T Dog'}
+{'event_id': '13943', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13943/', 'title': 'FAB: Moving In Party ft Pitbull Tribute Act'}
+{'event_id': '13944', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13944/', 'title': 'Bingo Bonanza'}
+{'event_id': '13945', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13945/', 'title': 'Whatever Oasis'}
+{'event_id': '13947', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13947/', 'title': 'Indie After Party'}
+{'event_id': '13948', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13948/', 'title': "Joe's Big Quiz"}
+{'event_id': '13949', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13949/', 'title': 'Red Rodeo Club'}
+{'event_id': '13950', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13950/', 'title': 'Fusion Global Music Night'}
+{'event_id': '13951', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13951/', 'title': 'FAB: Y2K'}
+{'event_id': '13952', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13952/', 'title': 'Vibes Only RnB Day Party'}
+{'event_id': '13953', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13953/', 'title': 'Welcome Ball ft Marvin Humes'}
+{'event_id': '13978', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13978/', 'title': 'Welcome Pass 2026'}
+{'event_id': '13980', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13980/', 'title': 'Community Wellbeing Cafe'}
 {'event_id': '13981', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13981/', 'title': 'Consent & Bystander Intervention Workshop'}
+{'event_id': '13982', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13982/', 'title': 'Community Breakfast - Welcome Waffle'}
 {'event_id': '13983', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13983/', 'title': 'Consent & Bystander Intervention Workshop'}
+{'event_id': '13990', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13990/', 'title': 'Welcome Flat Chats (The Vale)'}
+{'event_id': '13991', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13991/', 'title': 'Welcome Flat Chats (Selly Oak)'}
+{'event_id': '13992', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13992/', 'title': 'Welcome Flat Chats (Pritchatts Park)'}
+{'event_id': '13996', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13996/', 'title': 'Societies Fair on Tour - Battery Park'}
+{'event_id': '13998', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13998/', 'title': 'Gaming Café'}
+{'event_id': '14001', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/14001/', 'title': 'Welcome Fair - Day 1'}
+{'event_id': '14002', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/14002/', 'title': 'Welcome Fair - Day 2'}
+{'event_id': '14003', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/14003/', 'title': 'Mingle & Make Tees'}
+{'event_id': '14004', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/14004/', 'title': "Paint 'n' Sip"}
+{'event_id': '14005', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/14005/', 'title': 'Explore Birmingham Fair'}
+{'event_id': '14006', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/14006/', 'title': 'Umbrella Sexual Health Stall'}
+{'event_id': '14009', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/14009/', 'title': 'Community Coffee Morning'}
+{'event_id': '14010', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/14010/', 'title': 'Plant Pots and Pastries'}

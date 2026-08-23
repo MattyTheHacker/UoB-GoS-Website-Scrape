@@ -307,6 +307,7 @@ https://www.guildofstudents.commailto:singapore-soc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sitcom@guild.bham.ac.uk
 https://www.guildofstudents.commailto:sobersocials@guild.bham.ac.uk
 https://www.guildofstudents.commailto:SocialistStudents@society.guild.bham.ac.uk
+https://www.guildofstudents.commailto:socialvolleyball@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:solidaritee@guild.bham.ac.uk
 https://www.guildofstudents.commailto:SouthAsianLawSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:southindian@society.guild.bham.ac.uk
@@ -376,7 +377,7 @@ https://www.guildofstudents.commailto:wise@guild.bham.ac.uk
 https://www.guildofstudents.commailto:witsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:wocsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womenineconomics@guild.bham.ac.uk
-https://www.guildofstudents.commailto:womeninfinance@guild.bham.ac.uk
+https://www.guildofstudents.commailto:womeninfinance@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninlaw@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninmedicine@guild.bham.ac.uk
 https://www.guildofstudents.commailto:womeninpolitics@guild.bham.ac.uk

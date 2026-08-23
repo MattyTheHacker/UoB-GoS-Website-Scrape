@@ -37,6 +37,7 @@ batsoc@guild.bham.ac.uk
 beams@guild.bham.ac.uk
 beat@guild.bham.ac.uk
 bedsoc@guild.bham.ac.uk
+bema@guild.bham.ac.uk
 benchball@guild.bham.ac.uk
 bhammedicsbadders@gmail.com
 bhangra@guild.bham.ac.uk
@@ -67,6 +68,7 @@ buds@guild.bham.ac.uk
 BUPRAS@guild.bham.ac.uk
 burnarts@guild.bham.ac.uk
 burndeputystationmanager@guild.bham.ac.uk
+burnfm@society.guild.bham.ac.uk
 burnmarketing@guild.bham.ac.uk
 burnmusic@guild.bham.ac.uk
 burnnews@guild.bham.ac.uk
@@ -85,6 +87,7 @@ campaigns@guild.bham.ac.uk
 canadian@guild.bham.ac.uk
 cardiosocbham@gmail.com
 cathsoc@society.guild.bham.ac.uk
+centralAsian@society.guild.bham.ac.uk
 centrestaged@guild.bham.ac.uk
 cheesesociety@guild.bham.ac.uk
 chess-club@guild.bham.ac.uk
@@ -114,8 +117,6 @@ dialogueclub@society.guild.bham.ac.uk
 disabledofficer@guild.bham.ac.uk
 djs@guild.bham.ac.uk
 doctorwho@guild.bham.ac.uk
-dpo@guild.bham.ac.uk
-e.badger@guild.bham.ac.uk
 eastafrican@guild.bham.ac.uk
 econsoc@guild.bham.ac.uk
 editor@redbrickonline.co.uk
