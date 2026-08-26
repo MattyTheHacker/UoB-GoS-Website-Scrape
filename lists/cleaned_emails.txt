@@ -304,6 +304,7 @@ singapore-soc@guild.bham.ac.uk
 sitcom@guild.bham.ac.uk
 sobersocials@guild.bham.ac.uk
 SocialistStudents@society.guild.bham.ac.uk
+socialvolleyball@society.guild.bham.ac.uk
 solidaritee@guild.bham.ac.uk
 SouthAsianLawSociety@guild.bham.ac.uk
 southindian@society.guild.bham.ac.uk
@@ -372,7 +373,7 @@ wise@guild.bham.ac.uk
 witsoc@guild.bham.ac.uk
 wocsoc@guild.bham.ac.uk
 womenineconomics@guild.bham.ac.uk
-womeninfinance@guild.bham.ac.uk
+womeninfinance@society.guild.bham.ac.uk
 womeninlaw@guild.bham.ac.uk
 womeninmedicine@guild.bham.ac.uk
 womeninpolitics@guild.bham.ac.uk

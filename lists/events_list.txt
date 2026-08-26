@@ -47,6 +47,7 @@
 {'id': '13912', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13912/', 'title': 'Calm and Connect'}
 {'id': '13913', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13913/', 'title': "International Students' Meet & Greet"}
 {'id': '13914', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13914/', 'title': 'Cheese & Wine Social for Postgraduate & Mature Students'}
+{'id': '13915', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13915/', 'title': 'September Committee Member Training'}
 {'id': '13916', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13916/', 'title': 'Coffee, Cake and Chat: Mature, Parent and Carer Student Social'}
 {'id': '13917', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13917/', 'title': 'Commuter Students Social'}
 {'id': '13918', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13918/', 'title': 'Answer from Anywhere Online Social and Quiz'}
@@ -103,20 +104,21 @@
 {'id': '14026', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14026/', 'title': 'Community Breakfast'}
 {'id': '14027', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14027/', 'title': 'Community Wellbeing Cafe'}
 {'id': '14028', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14028/', 'title': 'Community Wellbeing Cafe'}
+{'id': '14031', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14031/', 'title': 'LES Community Breakfast'}
 {'event_id': '13551', 'organisation_id': '35153', 'organisation': 'Hockey', 'url': 'https://www.guildofstudents.com/events/35153/13551/', 'title': 'SILZ 2026'}
 {'event_id': '13899', 'organisation_id': '35265', 'organisation': 'MedSoc Performing Arts Society (ARTE)', 'url': 'https://www.guildofstudents.com/events/35265/13899/', 'title': 'ARTE Band Room Booking'}
+{'event_id': '13946', 'organisation_id': '36861', 'organisation': 'Final Year Dinner', 'url': 'https://www.guildofstudents.com/events/36861/13946/', 'title': 'Inflatable Waterpark Trip'}
 {'event_id': '14012', 'organisation_id': '38763', 'organisation': 'Quiz Society', 'url': 'https://www.guildofstudents.com/events/38763/14012/', 'title': 'Get Into Quizzing - Quiz Society Taster Session'}
 {'event_id': '14013', 'organisation_id': '38763', 'organisation': 'Quiz Society', 'url': 'https://www.guildofstudents.com/events/38763/14013/', 'title': 'Get Into Quizzing - Quiz Society Taster Session'}
 {'event_id': '14014', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/14014/', 'title': 'Legally Blonde Movie Night'}
 {'event_id': '14016', 'organisation_id': '38832', 'organisation': 'Women in Law', 'url': 'https://www.guildofstudents.com/events/38832/14016/', 'title': 'Careers, Connections and Croissants'}
-{'event_id': '13819', 'organisation_id': '41186', 'organisation': 'UNKNOWN_ORG_41186', 'url': 'https://www.guildofstudents.com/events/41186/13819/', 'title': 'Student Login'}
 {'event_id': '13820', 'organisation_id': '41186', 'organisation': 'UNKNOWN_ORG_41186', 'url': 'https://www.guildofstudents.com/events/41186/13820/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
 {'event_id': '13681', 'organisation_id': '54445', 'organisation': 'PhD Society', 'url': 'https://www.guildofstudents.com/events/54445/13681/', 'title': 'PhD After Hours'}
+{'event_id': '14029', 'organisation_id': '54445', 'organisation': 'PhD Society', 'url': 'https://www.guildofstudents.com/events/54445/14029/', 'title': 'PhD Society Film Night'}
 {'event_id': '13533', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/13533/', 'title': 'Summer Trip 2026 - Pembrokeshire'}
+{'event_id': '14040', 'organisation_id': '7751', 'organisation': 'Women In Finance', 'url': 'https://www.guildofstudents.com/events/7751/14040/', 'title': 'Introduction to Finance Quiz Night'}
 {'event_id': '13779', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13779/', 'title': 'Junkbusters 29.06'}
 {'event_id': '13807', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13807/', 'title': 'Wellbeing Café'}
-{'event_id': '13819', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13819/', 'title': 'Student Login'}
-{'event_id': '13820', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13820/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
 {'event_id': '13821', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13821/', 'title': 'Welcome to Halls Neuro Nights: Mariokart Tournament'}
 {'event_id': '13824', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13824/', 'title': 'Welcome to Halls Board Games and Crepes'}
 {'event_id': '13825', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13825/', 'title': 'Mid-Autumn Moon Festival'}
@@ -154,6 +156,7 @@
 {'event_id': '13912', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13912/', 'title': 'Calm and Connect'}
 {'event_id': '13913', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13913/', 'title': "International Students' Meet & Greet"}
 {'event_id': '13914', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13914/', 'title': 'Cheese & Wine Social for Postgraduate & Mature Students'}
+{'event_id': '13915', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13915/', 'title': 'September Committee Member Training'}
 {'event_id': '13916', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13916/', 'title': 'Coffee, Cake and Chat: Mature, Parent and Carer Student Social'}
 {'event_id': '13917', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13917/', 'title': 'Commuter Students Social'}
 {'event_id': '13918', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13918/', 'title': 'Answer from Anywhere Online Social and Quiz'}
