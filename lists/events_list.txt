@@ -1,6 +1,6 @@
 {'id': '10692', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/10692/', 'title': 'Valefest 2025'}
 {'id': '12964', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/12964/', 'title': 'Sorry, there was a problem'}
-{'id': '13779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13779/', 'title': 'Junkbusters 29.06'}
+{'id': '13779', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13779/', 'title': 'Sorry, there was a problem'}
 {'id': '13780', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13780/', 'title': "Postgraduate and Ethnic Minority Students' Summer Social"}
 {'id': '13807', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13807/', 'title': 'Wellbeing Café'}
 {'id': '13821', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13821/', 'title': 'Welcome to Halls Neuro Nights: Mariokart Tournament'}
@@ -69,7 +69,8 @@
 {'id': '13981', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13981/', 'title': 'Consent & Bystander Intervention Workshop'}
 {'id': '13982', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13982/', 'title': 'Community Breakfast - Welcome Waffle'}
 {'id': '13983', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13983/', 'title': 'Consent & Bystander Intervention Workshop'}
-{'id': '13984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13984/', 'title': 'Community Eco Shop'}
+{'id': '13984', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13984/', 'title': 'Student Login'}
+{'id': '13985', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13985/', 'title': 'Community Eco Shop'}
 {'id': '13987', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13987/', 'title': 'Flat Chats (The Vale)'}
 {'id': '13988', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13988/', 'title': 'Flat Chats (Selly Oak)'}
 {'id': '13989', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/13989/', 'title': 'Flat Chats (Pritchatts Park)'}
@@ -105,6 +106,14 @@
 {'id': '14027', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14027/', 'title': 'Community Wellbeing Cafe'}
 {'id': '14028', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14028/', 'title': 'Community Wellbeing Cafe'}
 {'id': '14031', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14031/', 'title': 'LES Community Breakfast'}
+{'id': '14165', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14165/', 'title': 'LES Community Breakfast'}
+{'id': '14166', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14166/', 'title': 'LES Community Breakfast'}
+{'id': '14167', 'organisation': 'GUILD', 'url': 'https://www.guildofstudents.com/ents/event/14167/', 'title': 'LES Community Breakfast'}
+{'event_id': '14168', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/14168/', 'title': 'Yoga class'}
+{'event_id': '14169', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/14169/', 'title': 'Yoga class'}
+{'event_id': '14191', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/14191/', 'title': 'Yoga class'}
+{'event_id': '14192', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/14192/', 'title': 'Yoga class'}
+{'event_id': '14202', 'organisation_id': '12492', 'organisation': 'The University of Birmingham Guild of Students Yoga Society', 'url': 'https://www.guildofstudents.com/events/12492/14202/', 'title': 'Yoga class'}
 {'event_id': '13551', 'organisation_id': '35153', 'organisation': 'Hockey', 'url': 'https://www.guildofstudents.com/events/35153/13551/', 'title': 'SILZ 2026'}
 {'event_id': '13899', 'organisation_id': '35265', 'organisation': 'MedSoc Performing Arts Society (ARTE)', 'url': 'https://www.guildofstudents.com/events/35265/13899/', 'title': 'ARTE Band Room Booking'}
 {'event_id': '13946', 'organisation_id': '36861', 'organisation': 'Final Year Dinner', 'url': 'https://www.guildofstudents.com/events/36861/13946/', 'title': 'Inflatable Waterpark Trip'}
@@ -115,9 +124,132 @@
 {'event_id': '13820', 'organisation_id': '41186', 'organisation': 'UNKNOWN_ORG_41186', 'url': 'https://www.guildofstudents.com/events/41186/13820/', 'title': 'Aquarius Pop-Up - Drug and Alcohol Information'}
 {'event_id': '13681', 'organisation_id': '54445', 'organisation': 'PhD Society', 'url': 'https://www.guildofstudents.com/events/54445/13681/', 'title': 'PhD After Hours'}
 {'event_id': '14029', 'organisation_id': '54445', 'organisation': 'PhD Society', 'url': 'https://www.guildofstudents.com/events/54445/14029/', 'title': 'PhD Society Film Night'}
+{'event_id': '13894', 'organisation_id': '54888', 'organisation': 'UNKNOWN_ORG_54888', 'url': 'https://www.guildofstudents.com/events/54888/13894/', 'title': 'Community Pantry - Parcel Collection Slot Booking'}
+{'event_id': '14042', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14042/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14043', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14043/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14044', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14044/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14045', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14045/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14046', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14046/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14047', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14047/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14048', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14048/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14049', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14049/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14050', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14050/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14051', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14051/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14052', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14052/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14053', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14053/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14054', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14054/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14055', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14055/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14056', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14056/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14057', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14057/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14058', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14058/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14059', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14059/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14060', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14060/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14061', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14061/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14062', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14062/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14063', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14063/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14064', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14064/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14065', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14065/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14066', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14066/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14067', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14067/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14068', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14068/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14069', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14069/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14070', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14070/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14071', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14071/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14072', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14072/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14073', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14073/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14074', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14074/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14075', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14075/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14076', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14076/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14077', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14077/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14078', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14078/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14079', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14079/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14080', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14080/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14081', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14081/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14082', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14082/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14083', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14083/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14084', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14084/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14085', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14085/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14086', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14086/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14087', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14087/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14088', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14088/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14089', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14089/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14090', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14090/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14091', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14091/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14092', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14092/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14093', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14093/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14094', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14094/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14095', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14095/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14096', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14096/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14097', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14097/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14098', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14098/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14099', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14099/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14100', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14100/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14101', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14101/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14102', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14102/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14103', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14103/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14104', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14104/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14105', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14105/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14106', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14106/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14107', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14107/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14108', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14108/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14109', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14109/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14110', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14110/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14111', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14111/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14112', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14112/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14113', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14113/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14114', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14114/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14115', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14115/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14116', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14116/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14117', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14117/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14118', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14118/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14119', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14119/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14120', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14120/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14121', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14121/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14122', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14122/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14124', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14124/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14125', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14125/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14126', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14126/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14127', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14127/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14128', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14128/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14129', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14129/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14130', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14130/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14131', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14131/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14132', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14132/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14133', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14133/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14134', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14134/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14135', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14135/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14136', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14136/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14137', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14137/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14138', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14138/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14139', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14139/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14140', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14140/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14141', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14141/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14142', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14142/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14143', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14143/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14144', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14144/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14145', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14145/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14146', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14146/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14147', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14147/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14148', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14148/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14149', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14149/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14150', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14150/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14151', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14151/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14152', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14152/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14153', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14153/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14154', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14154/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14155', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14155/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14156', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14156/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14157', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14157/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14158', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14158/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14159', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14159/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14160', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14160/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14161', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14161/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14162', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14162/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14163', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14163/', 'title': 'Sorry, there was a problem'}
+{'event_id': '14164', 'organisation_id': '6355', 'organisation': 'Buddhist Meditation', 'url': 'https://www.guildofstudents.com/events/6355/14164/', 'title': 'Sorry, there was a problem'}
 {'event_id': '13533', 'organisation_id': '7067', 'organisation': 'Mountaineering and Climbing Club', 'url': 'https://www.guildofstudents.com/events/7067/13533/', 'title': 'Summer Trip 2026 - Pembrokeshire'}
 {'event_id': '14040', 'organisation_id': '7751', 'organisation': 'Women In Finance', 'url': 'https://www.guildofstudents.com/events/7751/14040/', 'title': 'Introduction to Finance Quiz Night'}
-{'event_id': '13779', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13779/', 'title': 'Junkbusters 29.06'}
+{'event_id': '13779', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13779/', 'title': 'Sorry, there was a problem'}
 {'event_id': '13807', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13807/', 'title': 'Wellbeing Café'}
 {'event_id': '13821', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13821/', 'title': 'Welcome to Halls Neuro Nights: Mariokart Tournament'}
 {'event_id': '13824', 'organisation_id': 'event', 'organisation': 'Page not found', 'url': 'https://www.guildofstudents.com/welcome/events/event/13824/', 'title': 'Welcome to Halls Board Games and Crepes'}
