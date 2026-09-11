@@ -38,7 +38,7 @@ https://www.guildofstudents.commailto:beams@guild.bham.ac.uk
 https://www.guildofstudents.commailto:beat@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bedsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:bema@guild.bham.ac.uk
-https://www.guildofstudents.commailto:benchball@guild.bham.ac.uk
+https://www.guildofstudents.commailto:benchball@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:bhammedicsbadders@gmail.com
 https://www.guildofstudents.commailto:bhangra@guild.bham.ac.uk
 https://www.guildofstudents.commailto:Bharatanatyam@guild.bham.ac.uk
@@ -166,7 +166,7 @@ https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk
 https://www.guildofstudents.commailto:guildadvice@guild.bham.ac.uk?subject=GHF%20Application
 https://www.guildofstudents.commailto:healthandsafety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hennasociety@society.guild.bham.ac.uk
-https://www.guildofstudents.commailto:hideandseek@guild.bham.ac.uk
+https://www.guildofstudents.commailto:hideandseek-chair@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:hindu@guild.bham.ac.uk
 https://www.guildofstudents.commailto:history@guild.bham.ac.uk
 https://www.guildofstudents.commailto:historyofart@guild.bham.ac.uk
@@ -174,7 +174,6 @@ https://www.guildofstudents.commailto:homeless@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hongkong@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hookersandstitchers@guild.bham.ac.uk
 https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=Apply%20to%20become%20a%20Trustee
-https://www.guildofstudents.commailto:hrteam@guild.bham.ac.uk?subject=Trustee%20Board%20Minutes%20Query
 https://www.guildofstudents.commailto:ibmzsociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:iceskating@guild.bham.ac.uk
 https://www.guildofstudents.commailto:imedbirmingham@gmail.com
@@ -186,7 +185,7 @@ https://www.guildofstudents.commailto:info@ubisoc.co.uk
 https://www.guildofstudents.commailto:InterGen@guild.bham.ac.uk
 https://www.guildofstudents.commailto:internalmedsocbham@gmail.com
 https://www.guildofstudents.commailto:international@guild.bham.ac.uk
-https://www.guildofstudents.commailto:internationaldevelopment@guild.bham.ac.uk
+https://www.guildofstudents.commailto:InternationalDevelopment@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:investingforwomen@guild.bham.ac.uk
 https://www.guildofstudents.commailto:iranian@guild.bham.ac.uk
 https://www.guildofstudents.commailto:iraqisociety@guild.bham.ac.uk
@@ -229,7 +228,7 @@ https://www.guildofstudents.commailto:mealdeal@guild.bham.ac.uk
 https://www.guildofstudents.commailto:MechEngSociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medahead@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medball@guild.bham.ac.uk
-https://www.guildofstudents.commailto:medcheersociety@guild.bham.ac.uk
+https://www.guildofstudents.commailto:medcheersociety@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsocdance@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsocmmasociety@guild.bham.ac.uk
 https://www.guildofstudents.commailto:medsocnephrology@guild.bham.ac.uk
@@ -373,6 +372,7 @@ https://www.guildofstudents.commailto:vietnamese@guild.bham.ac.uk
 https://www.guildofstudents.commailto:vrsoc@guild.bham.ac.uk
 https://www.guildofstudents.commailto:watchthis@guild.bham.ac.uk
 https://www.guildofstudents.commailto:wayfarers@guild.bham.ac.uk
+https://www.guildofstudents.commailto:wayfarers@society.guild.bham.ac.uk
 https://www.guildofstudents.commailto:website@guild.bham.ac.uk
 https://www.guildofstudents.commailto:welfare@guild.bham.ac.uk
 https://www.guildofstudents.commailto:welsh@guild.bham.ac.uk
