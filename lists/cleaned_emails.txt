@@ -38,7 +38,7 @@ beams@guild.bham.ac.uk
 beat@guild.bham.ac.uk
 bedsoc@guild.bham.ac.uk
 bema@guild.bham.ac.uk
-benchball@guild.bham.ac.uk
+benchball@society.guild.bham.ac.uk
 bhammedicsbadders@gmail.com
 bhangra@guild.bham.ac.uk
 Bharatanatyam@guild.bham.ac.uk
@@ -165,7 +165,7 @@ gtv@guild.bham.ac.uk
 guildadvice@guild.bham.ac.uk
 healthandsafety@guild.bham.ac.uk
 hennasociety@society.guild.bham.ac.uk
-hideandseek@guild.bham.ac.uk
+hideandseek-chair@society.guild.bham.ac.uk
 hindu@guild.bham.ac.uk
 history@guild.bham.ac.uk
 historyofart@guild.bham.ac.uk
@@ -184,7 +184,7 @@ info@ubisoc.co.uk
 InterGen@guild.bham.ac.uk
 internalmedsocbham@gmail.com
 international@guild.bham.ac.uk
-internationaldevelopment@guild.bham.ac.uk
+InternationalDevelopment@society.guild.bham.ac.uk
 investingforwomen@guild.bham.ac.uk
 iranian@guild.bham.ac.uk
 iraqisociety@guild.bham.ac.uk
@@ -227,7 +227,7 @@ mealdeal@guild.bham.ac.uk
 MechEngSociety@guild.bham.ac.uk
 medahead@guild.bham.ac.uk
 medball@guild.bham.ac.uk
-medcheersociety@guild.bham.ac.uk
+medcheersociety@society.guild.bham.ac.uk
 medsocdance@guild.bham.ac.uk
 medsocmmasociety@guild.bham.ac.uk
 medsocnephrology@guild.bham.ac.uk
@@ -370,6 +370,7 @@ vietnamese@guild.bham.ac.uk
 vrsoc@guild.bham.ac.uk
 watchthis@guild.bham.ac.uk
 wayfarers@guild.bham.ac.uk
+wayfarers@society.guild.bham.ac.uk
 website@guild.bham.ac.uk
 welfare@guild.bham.ac.uk
 welsh@guild.bham.ac.uk
